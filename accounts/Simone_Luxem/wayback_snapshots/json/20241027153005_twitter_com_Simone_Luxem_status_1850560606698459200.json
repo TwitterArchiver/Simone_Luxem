@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1850559560315994302",
+    "created_at": "2024-10-27T15:30:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T16:30:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1850560606698459200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1420962557897035781",
+          "start": 0,
+          "username": "shrinkviolet77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850560606698459200",
+    "in_reply_to_user_id": "1420962557897035781",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850560088483995792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shrinkviolet77 但这盒包装上也没有写是双黄蛋呀….就…和自己之前买的一模一样，从一堆蛋里随机拿的一盒…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1850559560315994302",
+        "created_at": "2024-10-27T15:30:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T16:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850560606698459200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1420962557897035781",
+              "start": 0,
+              "username": "shrinkviolet77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850560606698459200",
+        "in_reply_to_user_id": "1420962557897035781",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850560088483995792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shrinkviolet77 但这盒包装上也没有写是双黄蛋呀….就…和自己之前买的一模一样，从一堆蛋里随机拿的一盒…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420962557897035781",
+        "conversation_id": "1850559560315994302",
+        "created_at": "2024-10-27T15:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T16:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1850560088483995792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850560088483995792",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850559560315994302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 似乎可以定向筛选双黄蛋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 224,
+          "like_count": 17747,
+          "listed_count": 9,
+          "tweet_count": 17562
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T04:20:59.000Z",
+        "description": "我是一头能榨油的老母猪～🐖🐖🐖\nShe/Her/They/Them | transgender | Demi Lesbian |",
+        "id": "1420962557897035781",
+        "name": "含羞紫罗兰 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760419597789143040/h-TfEGHj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 119,
+          "like_count": 27349,
+          "listed_count": 1,
+          "tweet_count": 11431
+        },
+        "username": "shrinkviolet77",
+        "verified": false
+      }
+    ]
+  }
+}

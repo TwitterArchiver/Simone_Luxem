@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1982723063696457728",
+    "created_at": "2025-10-27T08:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T09:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982723063696457728"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1982723063696457728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "觉得自己理想的模式是作为幕僚或者参谋，作为进行分析提出建议作出规划的人，作为（广义上）为其它人提供服务的人吧，而不适合作为做出决断，实际上领导其它（大于等于五个）人的人吧…一些自己底层的缺陷或者特质决定了这一点…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1982723063696457728",
+        "created_at": "2025-10-27T08:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T09:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982723063696457728"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982723063696457728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觉得自己理想的模式是作为幕僚或者参谋，作为进行分析提出建议作出规划的人，作为（广义上）为其它人提供服务的人吧，而不适合作为做出决断，实际上领导其它（大于等于五个）人的人吧…一些自己底层的缺陷或者特质决定了这一点…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5594,
+          "following_count": 216,
+          "like_count": 22802,
+          "listed_count": 15,
+          "media_count": 1683,
+          "tweet_count": 20663
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

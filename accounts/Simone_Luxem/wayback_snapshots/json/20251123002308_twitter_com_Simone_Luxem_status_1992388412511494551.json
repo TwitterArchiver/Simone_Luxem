@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1992197304980509034",
+    "created_at": "2025-11-23T00:23:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T01:23:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992388412511494551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1077035952655163392",
+          "start": 0,
+          "username": "sacrificeQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992388412511494551",
+    "in_reply_to_user_id": "1077035952655163392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992385468185661651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sacrificeQAQ 信息不是自然产生的，个人信息是具有私人性的\n“光”本身确实不是个体产生的，但特定的电磁波组合所表达的信息是，而偷拍很明显是没有经当事人同意的，类比一下就是你偷看别人日记或者信件"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1992197304980509034",
+        "created_at": "2025-11-23T00:23:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T01:23:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992388412511494551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1077035952655163392",
+              "start": 0,
+              "username": "sacrificeQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992388412511494551",
+        "in_reply_to_user_id": "1077035952655163392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992385468185661651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sacrificeQAQ 信息不是自然产生的，个人信息是具有私人性的\n“光”本身确实不是个体产生的，但特定的电磁波组合所表达的信息是，而偷拍很明显是没有经当事人同意的，类比一下就是你偷看别人日记或者信件"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1077035952655163392",
+        "conversation_id": "1992197304980509034",
+        "created_at": "2025-11-23T00:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T01:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992385468185661651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sacrificeQAQ/s…",
+              "end": 83,
+              "expanded_url": "https://x.com/sacrificeQAQ/status/1988854973871038492?s=20",
+              "start": 60,
+              "url": "https://t.co/eNhBq9ouVo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992385468185661651",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988854973871038492",
+            "type": "quoted"
+          },
+          {
+            "id": "1992197304980509034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 您这个观点我非常赞同，但它会引出偷拍合理制止偷拍不合理，和你的进步立场矛盾，请问您如何看待\nhttps://t.co/eNhBq9ouVo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5786,
+          "following_count": 215,
+          "like_count": 22966,
+          "listed_count": 18,
+          "media_count": 1700,
+          "tweet_count": 20823
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-24T02:59:16.000Z",
+        "description": "彻底输掉人生后我感到前所未有的自由",
+        "id": "1077035952655163392",
+        "name": "lastwidecat𓃠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572636674668261378/Q2jPPA7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 1604,
+          "like_count": 179713,
+          "listed_count": 1,
+          "media_count": 313,
+          "tweet_count": 6770
+        },
+        "username": "sacrificeQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

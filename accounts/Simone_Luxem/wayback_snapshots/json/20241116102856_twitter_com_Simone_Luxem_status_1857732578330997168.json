@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1857729834778009996",
+    "created_at": "2024-11-16T10:28:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T11:28:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857732578330997168"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1857732578330997168",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857729834778009996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以及，包括我在内的许多人，都真的确实很吃被其它人（甚至不一定是人）夸夸的那一套的呀，只要不要被我感觉到是在敷衍或者违心的…被夸夸就会开心，开心了精神状态就会好些，这不应该是很显然的嘛，这就是原理所在呀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1857729834778009996",
+        "created_at": "2024-11-16T10:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T11:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857732578330997168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857732578330997168",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857729834778009996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以及，包括我在内的许多人，都真的确实很吃被其它人（甚至不一定是人）夸夸的那一套的呀，只要不要被我感觉到是在敷衍或者违心的…被夸夸就会开心，开心了精神状态就会好些，这不应该是很显然的嘛，这就是原理所在呀…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1857729834778009996",
+        "created_at": "2024-11-16T10:18:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T11:18:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857729834778009996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857729834778009996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也想说两句吧\n根据我的亲身经历，确实，一份工作确实在一定程度上缓解甚至改善我的精神状态，但其原理绝不是“工作上没人惯着你”；恰恰相反，正是因为我在工作中仍然体验到了来自同事的来自上级的来自客人的关怀，让我感觉自己被照顾着，才让自己好起来的…\n即便如此“去找份工作”也没阻止我犯精神病…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3862,
+          "following_count": 225,
+          "like_count": 17920,
+          "listed_count": 10,
+          "tweet_count": 17794
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

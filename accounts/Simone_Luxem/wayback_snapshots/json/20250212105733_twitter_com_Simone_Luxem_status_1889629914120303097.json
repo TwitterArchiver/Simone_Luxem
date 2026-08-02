@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1889629914120303097",
+    "created_at": "2025-02-12T10:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T11:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1889629914120303097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/blake_tata/sta…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/blake_tata/status/1889338332985061446",
+          "start": 46,
+          "url": "https://t.co/W2yWvsyFbx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889629914120303097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889338332985061446",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喜欢被叫好孩子\n但反应会在“ 咪咪我会努力的！”和“诶嘿嘿好诶那快趁机杀掉我吧”之间抽签… https://t.co/W2yWvsyFbx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1889629914120303097",
+        "created_at": "2025-02-12T10:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T11:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889629914120303097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/blake_tata/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/blake_tata/status/1889338332985061446",
+              "start": 46,
+              "url": "https://t.co/W2yWvsyFbx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889629914120303097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889338332985061446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喜欢被叫好孩子\n但反应会在“ 咪咪我会努力的！”和“诶嘿嘿好诶那快趁机杀掉我吧”之间抽签… https://t.co/W2yWvsyFbx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1415735898172362759",
+        "conversation_id": "1889338332985061446",
+        "created_at": "2025-02-11T15:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T16:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889338332985061446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889338332985061446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 172173,
+          "like_count": 1274,
+          "quote_count": 64,
+          "reply_count": 86,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "跟朋友聊天\n发现区分狗系和猫系最快的方式就是\n被叫“好孩子”更兴奋还是被叫“坏孩子”更兴奋🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4002,
+          "following_count": 222,
+          "like_count": 19224,
+          "listed_count": 10,
+          "media_count": 1485,
+          "tweet_count": 18561
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-15T18:12:04.000Z",
+        "description": "爱写点涩情脑洞👩🏻‍🍳写女性向SP居多丨个人xp产出 注意看tag别误食丨原创 请勿抄袭或搬运丨⚠️鉴别幻想与现实⚠️丨偶尔掉落纪实丨🫶🏻请多多评论让我了解大家的萌点😋",
+        "id": "1415735898172362759",
+        "location": "上海",
+        "name": "Tata",
+        "pinned_tweet_id": "1884952638296588432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812195518849720320/9nIHKS1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34294,
+          "following_count": 251,
+          "like_count": 776,
+          "listed_count": 45,
+          "media_count": 62,
+          "tweet_count": 548
+        },
+        "username": "Blake_Tata",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1953698411624247301",
+        "3_1953698411661938688",
+        "3_1953698411649413120"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1953698418809029024",
+    "created_at": "2025-08-08T06:02:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-08T07:02:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1953698418809029024"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1URMbQSrAw",
+          "end": 58,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1953698418809029024/photo/1",
+          "media_key": "3_1953698411624247301",
+          "start": 35,
+          "url": "https://t.co/1URMbQSrAw"
+        },
+        {
+          "display_url": "pic.x.com/1URMbQSrAw",
+          "end": 58,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1953698418809029024/photo/1",
+          "media_key": "3_1953698411661938688",
+          "start": 35,
+          "url": "https://t.co/1URMbQSrAw"
+        },
+        {
+          "display_url": "pic.x.com/1URMbQSrAw",
+          "end": 58,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1953698418809029024/photo/1",
+          "media_key": "3_1953698411649413120",
+          "start": 35,
+          "url": "https://t.co/1URMbQSrAw"
+        },
+        {
+          "display_url": "x.com/thekoorei/stat…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/thekoorei/status/1953565353138921547",
+          "start": 59,
+          "url": "https://t.co/pxhZzWRdZ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953698418809029024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953565353138921547",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "首先，你自己自称“男娘”的\n其次，浏览了一下你的过往发言，只能说，该 https://t.co/1URMbQSrAw https://t.co/pxhZzWRdZ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1953698411624247301",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxzuWq8bsAUCd7D.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1953698411661938688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxzuWrFa0AAJNOd.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1953698411649413120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxzuWrCbsAAFE3E.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953698411624247301",
+            "3_1953698411661938688",
+            "3_1953698411649413120"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1953698418809029024",
+        "created_at": "2025-08-08T06:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-08T07:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953698418809029024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1URMbQSrAw",
+              "end": 58,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1953698418809029024/photo/1",
+              "media_key": "3_1953698411624247301",
+              "start": 35,
+              "url": "https://t.co/1URMbQSrAw"
+            },
+            {
+              "display_url": "pic.x.com/1URMbQSrAw",
+              "end": 58,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1953698418809029024/photo/1",
+              "media_key": "3_1953698411661938688",
+              "start": 35,
+              "url": "https://t.co/1URMbQSrAw"
+            },
+            {
+              "display_url": "pic.x.com/1URMbQSrAw",
+              "end": 58,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1953698418809029024/photo/1",
+              "media_key": "3_1953698411649413120",
+              "start": 35,
+              "url": "https://t.co/1URMbQSrAw"
+            },
+            {
+              "display_url": "x.com/thekoorei/stat…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/thekoorei/status/1953565353138921547",
+              "start": 59,
+              "url": "https://t.co/pxhZzWRdZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953698418809029024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953565353138921547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先，你自己自称“男娘”的\n其次，浏览了一下你的过往发言，只能说，该 https://t.co/1URMbQSrAw https://t.co/pxhZzWRdZ4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771807653863563265",
+        "conversation_id": "1953565353138921547",
+        "created_at": "2025-08-07T21:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T22:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953565353138921547"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1953565353138921547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 15699,
+          "like_count": 161,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我考个大学这么嫉妒我把我踢出跨籍？骂我的辍学跨畜你们就自生自灭吧，od欧傻了割手割残了一辈子就那样了，我和你们切割就是因为你们太他妈傻B了，嫉妒心强的要死，女生的优点没学来雌竞到是厉害，我真的不想同情mtf了，讣告发完之后又秽土转生，自杀风气带得什么样了，你们家自生自灭吧傻B东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4531,
+          "following_count": 221,
+          "like_count": 21979,
+          "listed_count": 13,
+          "media_count": 1651,
+          "tweet_count": 20118
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T07:54:07.000Z",
+        "description": "男娘丨05年丨身高172 丨 体重62kg\n丨不卖图包丨泛性恋丨INTJ丨坐标 #广州 丨生物医学工程在读丨🇨🇳🇭🇰🇯🇵🇬🇧ok丨\n负能量：@TheOnlyKoorei 丨\n💕@GeneralStomach",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 40,
+                "tag": "广州"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "TheOnlyKoorei"
+              },
+              {
+                "end": 103,
+                "start": 88,
+                "username": "GeneralStomach"
+              }
+            ]
+          }
+        },
+        "id": "1771807653863563265",
+        "location": "🚪口令红包188",
+        "name": "koorei",
+        "pinned_tweet_id": "1794364082591850630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945525051899461632/Pl7JxIur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86561,
+          "following_count": 619,
+          "like_count": 5681,
+          "listed_count": 377,
+          "media_count": 242,
+          "tweet_count": 2115
+        },
+        "username": "TheKoorei",
+        "verified": false
+      }
+    ]
+  }
+}

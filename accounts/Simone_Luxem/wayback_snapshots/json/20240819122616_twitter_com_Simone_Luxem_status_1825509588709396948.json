@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1825509588709396948",
+    "created_at": "2024-08-19T12:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-19T13:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1825509588709396948"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cutemianye/sta…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/cutemianye/status/1825423361260028316",
+          "start": 76,
+          "url": "https://t.co/vEXsT0OtrT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1825509588709396948",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1825423361260028316",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一个真实的例子\n女同性恋在矫正机构中被强奸怀孕了，其父母知道后，送锦旗给强奸她的人，因为觉得这让它们女儿终于“是正常女人”了…\n可能还不是很少见的例子 https://t.co/vEXsT0OtrT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1825509588709396948",
+        "created_at": "2024-08-19T12:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T13:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825509588709396948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cutemianye/sta…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/cutemianye/status/1825423361260028316",
+              "start": 76,
+              "url": "https://t.co/vEXsT0OtrT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825509588709396948",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1825423361260028316",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个真实的例子\n女同性恋在矫正机构中被强奸怀孕了，其父母知道后，送锦旗给强奸她的人，因为觉得这让它们女儿终于“是正常女人”了…\n可能还不是很少见的例子 https://t.co/vEXsT0OtrT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1825423348412948480",
+            "3_1825423347360100352",
+            "3_1825423347775352833",
+            "3_1825423347364286464"
+          ]
+        },
+        "author_id": "1160164542145429504",
+        "conversation_id": "1825423361260028316",
+        "created_at": "2024-08-19T06:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-19T07:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1825423361260028316"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sozcg01rou",
+              "end": 155,
+              "expanded_url": "https://twitter.com/cutemianye/status/1825423361260028316/photo/1",
+              "media_key": "3_1825423348412948480",
+              "start": 132,
+              "url": "https://t.co/SoZcG01roU"
+            },
+            {
+              "display_url": "pic.x.com/sozcg01rou",
+              "end": 155,
+              "expanded_url": "https://twitter.com/cutemianye/status/1825423361260028316/photo/1",
+              "media_key": "3_1825423347360100352",
+              "start": 132,
+              "url": "https://t.co/SoZcG01roU"
+            },
+            {
+              "display_url": "pic.x.com/sozcg01rou",
+              "end": 155,
+              "expanded_url": "https://twitter.com/cutemianye/status/1825423361260028316/photo/1",
+              "media_key": "3_1825423347775352833",
+              "start": 132,
+              "url": "https://t.co/SoZcG01roU"
+            },
+            {
+              "display_url": "pic.x.com/sozcg01rou",
+              "end": 155,
+              "expanded_url": "https://twitter.com/cutemianye/status/1825423361260028316/photo/1",
+              "media_key": "3_1825423347364286464",
+              "start": 132,
+              "url": "https://t.co/SoZcG01roU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1825423361260028316",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2395,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "真的不要太恶心…\n中国的家长不要再信这些所谓青少年心理/矫正机构了。我弟（gay）的一位女同朋友也差点被送进了摧残亚明的心理学校。\n同性恋不是病！跨性别也不是病！！我真的好气啊…家长宁愿相信这些畜生为了赚钱和掩盖自己对于未成年肮脏行为的说辞，都不愿相信自己小孩吗 https://t.co/SoZcG01roU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3613,
+          "following_count": 221,
+          "like_count": 16099,
+          "listed_count": 8,
+          "tweet_count": 16632
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-10T12:22:36.000Z",
+        "description": "I’m dying…dying for love.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/mianye233",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/mianye233",
+                "start": 0,
+                "url": "https://t.co/ujN9prFY5J"
+              }
+            ]
+          }
+        },
+        "id": "1160164542145429504",
+        "location": "猫窝",
+        "name": "棉耶（Mianye）",
+        "pinned_tweet_id": "1720435698191503709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819596787126255616/mZ7QbnND_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 394,
+          "like_count": 7097,
+          "listed_count": 10,
+          "tweet_count": 2650
+        },
+        "url": "https://t.co/ujN9prFY5J",
+        "username": "cutemianye",
+        "verified": false
+      }
+    ]
+  }
+}

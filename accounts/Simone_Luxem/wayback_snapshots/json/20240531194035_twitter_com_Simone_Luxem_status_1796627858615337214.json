@@ -1,0 +1,156 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1796612608847462411",
+    "created_at": "2024-05-31T19:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T20:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796627858615337214"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1796627858615337214",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796618639660974330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是…我真的要下班了啊…你们倒是快点来人啊…我的加班费反正是总部出钱所以你们也不着急是吧…？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1796612608847462411",
+        "created_at": "2024-05-31T19:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T20:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796627858615337214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796627858615337214",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796618639660974330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是…我真的要下班了啊…你们倒是快点来人啊…我的加班费反正是总部出钱所以你们也不着急是吧…？"
+      },
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1796612608847462411",
+        "created_at": "2024-05-31T19:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T20:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796618639660974330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796618639660974330",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796617765656121818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再拖下去我都要下班了…回不去车库我就没法打卡，没法打卡就一直算工作时间的，你们这得付加班费的…怎么你们的人看起来还没我着急呢…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3208,
+          "following_count": 220,
+          "like_count": 13687,
+          "listed_count": 10,
+          "tweet_count": 15348
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

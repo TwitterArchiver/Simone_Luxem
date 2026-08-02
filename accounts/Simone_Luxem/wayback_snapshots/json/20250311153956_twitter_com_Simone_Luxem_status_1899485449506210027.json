@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1899483619028058282",
+    "created_at": "2025-03-11T15:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T16:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899485449506210027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4752010152",
+          "start": 0,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899485449506210027",
+    "in_reply_to_user_id": "4752010152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899483619028058282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garrulous_abyss 抱抱…辛苦了…\n感觉和我正好相反，我是只要确认对方没有主观恶意，甚至只要不能确认对方的确有主观恶意，受到侵害的只有我自己的情况下，我都很容易就会“没关系的人都可能做的事情不好的嘛…”；如果对方主动道歉或者提出补偿的话，甚至会觉得不好意思怀疑是不是自己表现得太过分了…."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1899483613491507201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlxSSFbWMAEzU-C.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1899483619028058282",
+        "created_at": "2025-03-11T15:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T16:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899485449506210027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899485449506210027",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899483619028058282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 抱抱…辛苦了…\n感觉和我正好相反，我是只要确认对方没有主观恶意，甚至只要不能确认对方的确有主观恶意，受到侵害的只有我自己的情况下，我都很容易就会“没关系的人都可能做的事情不好的嘛…”；如果对方主动道歉或者提出补偿的话，甚至会觉得不好意思怀疑是不是自己表现得太过分了…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899483613491507201"
+          ]
+        },
+        "author_id": "4752010152",
+        "conversation_id": "1899483619028058282",
+        "created_at": "2025-03-11T15:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T16:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899483619028058282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6N4t2oIJGg",
+              "end": 168,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1899483619028058282/photo/1",
+              "media_key": "3_1899483613491507201",
+              "start": 145,
+              "url": "https://t.co/6N4t2oIJGg"
+            },
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1899141312462360747",
+              "start": 169,
+              "url": "https://t.co/n4DY7m4j12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899483619028058282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 263,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899141312462360747",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跟我预想的展开几乎一模一样。\n\n即使我真的是那种，哪怕坐个公交，都要全程摄像摄影的人。。。公交公司也可以回我说：“这个司机他确实说错了。但这不是歧视，不是恶意行为。这纯粹是因为，他前一天有家庭问题，当天状态不好”。\n\n但这都不重要。重要的是，对方做错了事，我不能让对方“做了错事却零成本” https://t.co/6N4t2oIJGg https://t.co/n4DY7m4j12"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4082,
+          "following_count": 222,
+          "like_count": 19563,
+          "listed_count": 11,
+          "media_count": 1505,
+          "tweet_count": 18789
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//可能会ban纯黄推、纯政治推 //见到Incel、terf、小粉红、魔怔人立刻拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27174,
+          "following_count": 3427,
+          "like_count": 137470,
+          "listed_count": 94,
+          "media_count": 3145,
+          "tweet_count": 50634
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

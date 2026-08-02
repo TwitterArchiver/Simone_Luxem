@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1919775614363435149",
+    "created_at": "2025-05-06T15:25:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-06T16:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919775614363435149"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1919775614363435149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被一些事情刺激到了…\n害怕，对自己来自深处的不信任\n是不是自己一遍一遍对自己强化“自己没有做错任何事”的信念的行为本身，就像旧版明日香那一遍遍“我是惣流明日香”一样，反而实际上展现出的是自己的脆弱呢…\n是不是实际上只是“没什么用处的亮铜”“被惯坏的小孩子”，自以为可以凭借的，实则不堪一击…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1919775614363435149",
+        "created_at": "2025-05-06T15:25:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-06T16:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919775614363435149"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1919775614363435149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被一些事情刺激到了…\n害怕，对自己来自深处的不信任\n是不是自己一遍一遍对自己强化“自己没有做错任何事”的信念的行为本身，就像旧版明日香那一遍遍“我是惣流明日香”一样，反而实际上展现出的是自己的脆弱呢…\n是不是实际上只是“没什么用处的亮铜”“被惯坏的小孩子”，自以为可以凭借的，实则不堪一击…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4199,
+          "following_count": 220,
+          "like_count": 20083,
+          "listed_count": 12,
+          "media_count": 1544,
+          "tweet_count": 19253
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

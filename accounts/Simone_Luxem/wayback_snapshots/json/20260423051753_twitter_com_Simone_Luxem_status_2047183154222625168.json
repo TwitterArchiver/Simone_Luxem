@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2047183154222625168",
+    "created_at": "2026-04-23T05:17:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047183154222625168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1424779836938022913",
+          "start": 3,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 77,
+          "id": "1397850509323554817",
+          "start": 64,
+          "username": "noaayoyaoaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047183154222625168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047145196681302433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_toffee: 各位好。为了帮助更多潜在的同类（并缓解经济困难），也由于我们经常在私信里收到类似求助，本人和@noaayoyaoaya正式推出性心理咨询服务。\n\n如果你对自己的性癖/性取向/性别认同感到迷茫疑惑但又羞于开口，希望得到更多性别探索方面的专业指导…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047145193690845184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjrtRmXUAAmvSM.jpg",
+        "width": 1538
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2047183154222625168",
+        "created_at": "2026-04-23T05:17:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047183154222625168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1424779836938022913",
+              "start": 3,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 77,
+              "id": "1397850509323554817",
+              "start": 64,
+              "username": "noaayoyaoaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047183154222625168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047145196681302433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_toffee: 各位好。为了帮助更多潜在的同类（并缓解经济困难），也由于我们经常在私信里收到类似求助，本人和@noaayoyaoaya正式推出性心理咨询服务。\n\n如果你对自己的性癖/性取向/性别认同感到迷茫疑惑但又羞于开口，希望得到更多性别探索方面的专业指导…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047145193690845184"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2047145196681302433",
+        "created_at": "2026-04-23T02:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T03:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047145196681302433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 59,
+              "id": "1397850509323554817",
+              "start": 46,
+              "username": "noaayoyaoaya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCKuaW98zu",
+              "end": 171,
+              "expanded_url": "https://x.com/amber_toffee/status/2047145196681302433/photo/1",
+              "media_key": "3_2047145193690845184",
+              "start": 148,
+              "url": "https://t.co/rCKuaW98zu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047145196681302433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 4353,
+          "like_count": 149,
+          "quote_count": 5,
+          "reply_count": 10,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "各位好。为了帮助更多潜在的同类（并缓解经济困难），也由于我们经常在私信里收到类似求助，本人和@noaayoyaoaya正式推出性心理咨询服务。\n\n如果你对自己的性癖/性取向/性别认同感到迷茫疑惑但又羞于开口，希望得到更多性别探索方面的专业指导，欢迎私信我们预约付费语音咨询；价格需私信具体协商。 https://t.co/rCKuaW98zu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6054,
+          "following_count": 216,
+          "like_count": 24383,
+          "listed_count": 19,
+          "media_count": 1772,
+          "tweet_count": 21568
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "☭ 🏳️‍⚧️ ⚢ / ᴢʜ, ᴇɴ / ❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26077,
+          "following_count": 2801,
+          "like_count": 41508,
+          "listed_count": 14,
+          "media_count": 643,
+          "tweet_count": 22089
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-27T09:42:01.000Z",
+        "description": "你好 我是那由//小号 @noaayoyaoaya1//自己的频道https://t.co/AqilBn0S8E",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "noaayoyaoaya1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Hp2U0Rck9wU5O…",
+                "end": 56,
+                "expanded_url": "https://t.me/+Hp2U0Rck9wU5OGY0//",
+                "start": 33,
+                "url": "https://t.co/AqilBn0S8E"
+              }
+            ]
+          }
+        },
+        "id": "1397850509323554817",
+        "name": "那由",
+        "pinned_tweet_id": "1947921475203436797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1626023028818681860/Tg9u2Z8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20188,
+          "following_count": 789,
+          "like_count": 10589,
+          "listed_count": 29,
+          "media_count": 110,
+          "tweet_count": 5127
+        },
+        "username": "noaayoyaoaya",
+        "verified": true
+      }
+    ]
+  }
+}

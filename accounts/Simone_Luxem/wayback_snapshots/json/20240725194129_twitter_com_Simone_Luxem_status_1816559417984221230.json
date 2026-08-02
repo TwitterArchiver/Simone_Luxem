@@ -1,0 +1,208 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1816543733002723388",
+    "created_at": "2024-07-25T19:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T20:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816559417984221230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1126154089216262145",
+          "start": 0,
+          "username": "ArtsEpiphany1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816559417984221230",
+    "in_reply_to_user_id": "1126154089216262145",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816543733002723388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArtsEpiphany1 抱抱摸摸…\n反正你不听它的它又管不着你的，还是按照自己的体验优先吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1816543733002723388",
+        "created_at": "2024-07-25T19:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T20:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816559417984221230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsEpiphany1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816559417984221230",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816543733002723388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsEpiphany1 抱抱摸摸…\n反正你不听它的它又管不着你的，还是按照自己的体验优先吧…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1126154089216262145",
+        "conversation_id": "1816543733002723388",
+        "created_at": "2024-07-25T18:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T19:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816543733002723388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816543733002723388",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "md晚上被主刀医生秘书电话转告，说我的妇科汇报我没有7x24x365带一个占位器，这是不行的，说了我好一会。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3445,
+          "following_count": 223,
+          "like_count": 15459,
+          "listed_count": 8,
+          "tweet_count": 16232
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. White is light.  Traveller. Computer Architect. HPC/AI Product Architect at @NVIDIA. Negative altitude by birth. Opinions are own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 99,
+                "username": "NVIDIA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimuroslime",
+                "end": 23,
+                "expanded_url": "https://t.me/rimuroslime",
+                "start": 0,
+                "url": "https://t.co/Xo0VOQVwy0"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu 🍡 スライム 史莱姆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812487423055544320/ZKqdlB-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9877,
+          "following_count": 1365,
+          "like_count": 76516,
+          "listed_count": 50,
+          "tweet_count": 18636
+        },
+        "url": "https://t.co/Xo0VOQVwy0",
+        "username": "ArtsEpiphany1",
+        "verified": false
+      }
+    ]
+  }
+}

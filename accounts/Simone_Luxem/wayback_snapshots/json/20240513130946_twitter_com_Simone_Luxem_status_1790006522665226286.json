@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1790006522665226286",
+    "created_at": "2024-05-13T13:09:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-13T14:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1790006522665226286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/spartakist_/st…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/spartakist_/status/1789991887958421718",
+          "start": 80,
+          "url": "https://t.co/Xtboo15ogB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790006522665226286",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789991887958421718",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我日你大坝你脑子是不是长屁眼里了\n是谁在破坏学校？是谁在破坏教学？学校的自主权不在学生和老师手里，反而应该在条子手里？\n你才是侮辱了“学生”这个词的，败类玩意 https://t.co/Xtboo15ogB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1790006522665226286",
+        "created_at": "2024-05-13T13:09:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T14:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1790006522665226286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/spartakist_/st…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/spartakist_/status/1789991887958421718",
+              "start": 80,
+              "url": "https://t.co/Xtboo15ogB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790006522665226286",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789991887958421718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我日你大坝你脑子是不是长屁眼里了\n是谁在破坏学校？是谁在破坏教学？学校的自主权不在学生和老师手里，反而应该在条子手里？\n你才是侮辱了“学生”这个词的，败类玩意 https://t.co/Xtboo15ogB"
+      },
+      {
+        "attachments": {},
+        "author_id": "1588890037474971649",
+        "conversation_id": "1789966650772529587",
+        "created_at": "2024-05-13T12:11:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T13:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1789991887958421718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1778600109154172928",
+              "start": 0,
+              "username": "KMS_PzEUGIN_III"
+            },
+            {
+              "end": 33,
+              "id": "1650034156678836224",
+              "start": 17,
+              "username": "miyuki_oigen822"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1789991887958421718",
+        "in_reply_to_user_id": "1778600109154172928",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789991112762925490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KMS_PzEUGIN_III @miyuki_oigen822 连自家教学楼都打砸占的人，说它不是充币进去的？那可有点侮辱学生俩字了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3134,
+          "following_count": 216,
+          "like_count": 13473,
+          "listed_count": 11,
+          "tweet_count": 15103
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T13:44:48.000Z",
+        "description": "理想随风而逝，徒留你和我在废墟上苟活。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/dekabris…",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/dekabristqaq",
+                "start": 0,
+                "url": "https://t.co/8OQKM9gRt9"
+              }
+            ]
+          }
+        },
+        "id": "1588890037474971649",
+        "location": "Commune of Revachol",
+        "name": "Hibiki🏳‍⚧🍥💊清水版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589948716022046723/T9Y0R1ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4974,
+          "following_count": 3383,
+          "like_count": 53187,
+          "listed_count": 16,
+          "tweet_count": 16714
+        },
+        "url": "https://t.co/8OQKM9gRt9",
+        "username": "Spartakist_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1975474962749342016",
+    "created_at": "2025-10-07T18:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T19:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975631077206331843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1622346900824522752",
+          "start": 0,
+          "username": "Miatta_Leon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975631077206331843",
+    "in_reply_to_user_id": "1622346900824522752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975474962749342016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miatta_Leon 一国方案才是唯一解（破音）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1975474962749342016",
+        "created_at": "2025-10-07T18:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T19:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975631077206331843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1622346900824522752",
+              "start": 0,
+              "username": "Miatta_Leon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975631077206331843",
+        "in_reply_to_user_id": "1622346900824522752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975474962749342016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miatta_Leon 一国方案才是唯一解（破音）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622346900824522752",
+        "conversation_id": "1975474962749342016",
+        "created_at": "2025-10-07T08:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T09:06:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975472693731524823",
+          "1975474962749342016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shaykhsulaiman…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/shaykhsulaiman/status/1975455802740580543",
+              "start": 67,
+              "url": "https://t.co/37tMb847OG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975474962749342016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975455802740580543",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我記得一些左翼的、支持多民族聯邦的錫安主義者好像不排斥把「巴勒斯坦」作為國名。\n\n（不過現在這個情況，想學南非那種解決方式都很難了） https://t.co/37tMb847OG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4623,
+          "following_count": 220,
+          "like_count": 22540,
+          "listed_count": 13,
+          "media_count": 1668,
+          "tweet_count": 20492
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T21:30:30.000Z",
+        "description": "02年MtF-X/筹备hrt中，祝自己come out顺利/留学香港/INFP-T兼谱系障碍兼轻度焦虑性抑郁，负能量警告/不键政，不发黄",
+        "id": "1622346900824522752",
+        "location": "香港",
+        "name": "MiattaLeon🌹🏳️‍⚧️🌳🌺🌊",
+        "pinned_tweet_id": "1666442104552275969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625844243708403713/DHBDCWDo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2343,
+          "following_count": 4647,
+          "like_count": 233414,
+          "listed_count": 10,
+          "media_count": 575,
+          "tweet_count": 37512
+        },
+        "username": "Miatta_Leon",
+        "verified": false
+      }
+    ]
+  }
+}

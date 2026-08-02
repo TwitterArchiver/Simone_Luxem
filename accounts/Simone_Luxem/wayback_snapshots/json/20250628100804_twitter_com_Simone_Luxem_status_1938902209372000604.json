@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1938839566259232953",
+    "created_at": "2025-06-28T10:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T11:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938902209372000604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596473224711151618",
+          "start": 0,
+          "username": "a823149315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938902209372000604",
+    "in_reply_to_user_id": "1596473224711151618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938839566259232953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a823149315 探头"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1938839566259232953",
+        "created_at": "2025-06-28T10:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938902209372000604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596473224711151618",
+              "start": 0,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938902209372000604",
+        "in_reply_to_user_id": "1596473224711151618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938839566259232953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a823149315 探头"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596473224711151618",
+        "conversation_id": "1938839566259232953",
+        "created_at": "2025-06-28T05:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T06:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938839566259232953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938839566259232953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3040,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候大家总说生完孩子性格会像变了一个人，现在观察了自己和小檬老师，我感觉对跨来说，手术和生孩子差不多，至少我性格再也回不去两年前了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4322,
+          "following_count": 220,
+          "like_count": 20780,
+          "listed_count": 12,
+          "media_count": 1607,
+          "tweet_count": 19747
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后三度返厂mtf/12年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/4年机构社工经验/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "name": "王安黛（跨性别危机干预主题小说《社会垃圾收容所历险记》pixiv已完本欢迎点击置顶阅读）",
+        "pinned_tweet_id": "1901570044670132564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900070459242094592/LQCckHRP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35834,
+          "following_count": 167,
+          "like_count": 2583,
+          "listed_count": 97,
+          "media_count": 1697,
+          "tweet_count": 9520
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

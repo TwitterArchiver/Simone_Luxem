@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1979175483570028570",
+    "created_at": "2025-10-17T13:32:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T14:32:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979178700206924151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1784636606659383296",
+          "start": 0,
+          "username": "momoya051115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979178700206924151",
+    "in_reply_to_user_id": "1784636606659383296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979177695922536825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momoya051115 也谢谢你啦，制作这些东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1979175483570028570",
+        "created_at": "2025-10-17T13:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979178700206924151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784636606659383296",
+              "start": 0,
+              "username": "momoya051115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979178700206924151",
+        "in_reply_to_user_id": "1784636606659383296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979177695922536825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoya051115 也谢谢你啦，制作这些东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784636606659383296",
+        "conversation_id": "1979175483570028570",
+        "created_at": "2025-10-17T13:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979177695922536825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979177695922536825",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979177194342531408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 啊啊啊啊啊啊啊好的！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5318,
+          "following_count": 218,
+          "like_count": 22678,
+          "listed_count": 14,
+          "media_count": 1677,
+          "tweet_count": 20579
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T17:31:46.000Z",
+        "description": "这里是沫沫 2005/11/15 19岁 重要的日子2024/6/11 尽力为MTF提供帮助的女孩子",
+        "id": "1784636606659383296",
+        "location": "沫沫的快乐空间",
+        "name": "沫沫酱 winika",
+        "pinned_tweet_id": "1910326887177498710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807084896474836992/7pHwpbgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12295,
+          "following_count": 372,
+          "like_count": 2076,
+          "listed_count": 40,
+          "media_count": 384,
+          "tweet_count": 3090
+        },
+        "username": "momoya051115",
+        "verified": true
+      }
+    ]
+  }
+}

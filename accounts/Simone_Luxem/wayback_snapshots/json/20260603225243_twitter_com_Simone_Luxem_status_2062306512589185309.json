@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2062306512589185309",
+    "created_at": "2026-06-03T22:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T23:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062306512589185309"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/garrulous_abys…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/garrulous_abyss/status/2062189861344342308",
+          "start": 135,
+          "url": "https://t.co/N4K69N02vi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062306512589185309",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062189861344342308",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唔，对自己来说，作为学生，自己喜欢的老师大概是“布置任务+答疑”类型的，即告诉我要在某个时间节点之前完成具体的某事，完成之后下一步又是在另一个节点前完成另外某事，除此之外就是答疑，回答我的问题，具体这个事情怎么完成那就看自己胡逼瞎寻思好了（\n自己大体上也是偏向自学的吧 https://t.co/N4K69N02vi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2062306512589185309",
+        "created_at": "2026-06-03T22:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T23:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062306512589185309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/2062189861344342308",
+              "start": 135,
+              "url": "https://t.co/N4K69N02vi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062306512589185309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062189861344342308",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唔，对自己来说，作为学生，自己喜欢的老师大概是“布置任务+答疑”类型的，即告诉我要在某个时间节点之前完成具体的某事，完成之后下一步又是在另一个节点前完成另外某事，除此之外就是答疑，回答我的问题，具体这个事情怎么完成那就看自己胡逼瞎寻思好了（\n自己大体上也是偏向自学的吧 https://t.co/N4K69N02vi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "2062189861344342308",
+        "created_at": "2026-06-03T15:09:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:09:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062189861344342308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062189861344342308",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1829,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当然逼迫学生，对学生严格，学生能够出成绩。\n\n但是，第一，如果一个大学生，到了大学，还是没法自控，没法对自己人生负责。那你做的是徒劳。\n\n第二，我学生时代就不喜欢严格的老师。而你把我自己丢那儿，我就能茁壮成长，你越高压严格，我就越讨厌你，我学到的也越少（因为我的学习主要靠自学不靠课）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6212,
+          "following_count": 221,
+          "like_count": 24932,
+          "listed_count": 16,
+          "media_count": 1788,
+          "tweet_count": 21752
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuEa4Up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 125,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 102,
+                "url": "https://t.co/KZBQuEa4Up"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31896,
+          "following_count": 3676,
+          "like_count": 189287,
+          "listed_count": 106,
+          "media_count": 3971,
+          "tweet_count": 69302
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

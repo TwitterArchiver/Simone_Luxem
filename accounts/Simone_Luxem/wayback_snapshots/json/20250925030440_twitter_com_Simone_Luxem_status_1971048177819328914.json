@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1971048177819328914",
+    "created_at": "2025-09-25T03:04:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T04:04:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971048177819328914"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1971048177819328914",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己好像陷入了一种矛盾中\n如果把自己父母对自己视为一种牟利的“投资”，那会让自己有一种愧疚感，因为自己觉得自己并不是一个好的投资对象，在自己身上的投资很可能收不回本甚至直接打水漂\n如果视为一种“亲情”类的“情感”，那因为彼此过大的价值观差异，自己注定不可能回应其，同样会让自己愧疚…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1971048177819328914",
+        "created_at": "2025-09-25T03:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T04:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971048177819328914"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971048177819328914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己好像陷入了一种矛盾中\n如果把自己父母对自己视为一种牟利的“投资”，那会让自己有一种愧疚感，因为自己觉得自己并不是一个好的投资对象，在自己身上的投资很可能收不回本甚至直接打水漂\n如果视为一种“亲情”类的“情感”，那因为彼此过大的价值观差异，自己注定不可能回应其，同样会让自己愧疚…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4619,
+          "following_count": 219,
+          "like_count": 22482,
+          "listed_count": 13,
+          "media_count": 1661,
+          "tweet_count": 20400
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

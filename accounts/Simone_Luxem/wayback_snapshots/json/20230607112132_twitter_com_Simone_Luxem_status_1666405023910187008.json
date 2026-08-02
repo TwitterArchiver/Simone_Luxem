@@ -1,0 +1,287 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1666396638405853185",
+    "created_at": "2023-06-07T11:21:32.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-07T12:21:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1666405023910187008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1501100685026336768",
+          "start": 0,
+          "username": "inwi_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1666405023910187008",
+    "in_reply_to_user_id": "1501100685026336768",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1666396638405853185",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inwi_o 但穆罕穆德真的是文盲，至少它自己是这么说的，来证明它说的话真的是神告诉它的不是它自己编的；另一位自称可是清华博士…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1666396638405853185",
+        "created_at": "2023-06-07T11:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-07T12:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1666405023910187008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1501100685026336768",
+              "start": 0,
+              "username": "inwi_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1666405023910187008",
+        "in_reply_to_user_id": "1501100685026336768",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1666396638405853185",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inwi_o 但穆罕穆德真的是文盲，至少它自己是这么说的，来证明它说的话真的是神告诉它的不是它自己编的；另一位自称可是清华博士…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1501100685026336768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1666396638405853185",
+        "created_at": "2023-06-07T10:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-07T11:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1666396638405853185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1666396638405853185",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对 穆罕穆德的文化造诣在我心中真的不亚于习近平 看治国理政和古兰经都让人想对着墙一头撞死 文字是能让人疯狂的东西 去看这种荒诞文学得有心理承受能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；ASD/ADHD;open relationship;bachelor student in Biomedical Science in VU;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 124,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "usagiByTheShore"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638838694768459776/-44D1tSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 208,
+          "listed_count": 12,
+          "tweet_count": 10825
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T07:41:17.000Z",
+        "description": "🇩🇪🎹🎨/ftm preT 男的/养的兔子是一对女同/无所谓 你说得对",
+        "id": "1501100685026336768",
+        "name": "🌛灵魂摆渡bot 月亮沉了底版🌊",
+        "pinned_tweet_id": "1662100988784779266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584943556329979907/QD5rmJib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 798,
+          "listed_count": 8,
+          "tweet_count": 14731
+        },
+        "username": "inwi_o",
+        "verified": false
+      }
+    ]
+  }
+}

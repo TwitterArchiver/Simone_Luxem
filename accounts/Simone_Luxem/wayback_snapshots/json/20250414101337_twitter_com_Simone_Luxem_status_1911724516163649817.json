@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1911724516163649817",
+    "created_at": "2025-04-14T10:13:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T11:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1911724516163649817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/deorctheorigin…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/deorctheorigin/status/1911291540653412606",
+          "start": 53,
+          "url": "https://t.co/zVjJPzIytw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911724516163649817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911291540653412606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点怀疑/分不清自己是bpd还是npd了…反正都…是属于怀疑自己是那个对着量表往里面套都总能套进去的…？ https://t.co/zVjJPzIytw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1911724516163649817",
+        "created_at": "2025-04-14T10:13:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T11:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911724516163649817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deorctheorigin…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/deorctheorigin/status/1911291540653412606",
+              "start": 53,
+              "url": "https://t.co/zVjJPzIytw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911724516163649817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911291540653412606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点怀疑/分不清自己是bpd还是npd了…反正都…是属于怀疑自己是那个对着量表往里面套都总能套进去的…？ https://t.co/zVjJPzIytw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1523552276119711745",
+        "conversation_id": "1911119343447847149",
+        "created_at": "2025-04-13T05:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-13T06:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911291540653412606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424779836938022913",
+              "start": 0,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911291540653412606",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 617,
+          "like_count": 13,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911119343447847149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_toffee 圈子里有边缘倾向的跨跨很多，所以某种意义上我觉得圈子中应当有“怎么识别并安全的与NPD相处”的相关科普。否则这圈子不知道还要作为NPD肆意妄为的狩猎场多久。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4133,
+          "following_count": 219,
+          "like_count": 19961,
+          "listed_count": 11,
+          "media_count": 1521,
+          "tweet_count": 19032
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T06:35:57.000Z",
+        "description": "Dark ambience & Nature's Lover. Medival & Victoria Gothicism. Cure Seeker/Living Dead. Empath/HSP. She/Her🏳️‍⚧️",
+        "id": "1523552276119711745",
+        "name": "{{the Original Star}}",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880614058904416256/rjD4Reyf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 260,
+          "like_count": 61268,
+          "listed_count": 2,
+          "media_count": 580,
+          "tweet_count": 17125
+        },
+        "username": "DeorctheOrigin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1931742975500894401",
+    "created_at": "2025-06-08T17:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T18:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931763372988772786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1411974613509099522",
+          "start": 0,
+          "username": "ray77431028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931763372988772786",
+    "in_reply_to_user_id": "1411974613509099522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 86,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931742975500894401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ray77431028 当然是a\n因为牛顿在英国，英国圣公会关罗马教廷鸟事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1923,
+        "media_key": "3_1931742592628301824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7tpzcaIAAbtvh.jpg",
+        "width": 1149
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1931742975500894401",
+        "created_at": "2025-06-08T17:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T18:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931763372988772786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1411974613509099522",
+              "start": 0,
+              "username": "ray77431028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931763372988772786",
+        "in_reply_to_user_id": "1411974613509099522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931742975500894401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ray77431028 当然是a\n因为牛顿在英国，英国圣公会关罗马教廷鸟事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931742592628301824"
+          ]
+        },
+        "author_id": "1411974613509099522",
+        "conversation_id": "1931742975500894401",
+        "created_at": "2025-06-08T15:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T16:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931742975500894401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KNJ1aUYEdz",
+              "end": 62,
+              "expanded_url": "https://x.com/ray77431028/status/1931742975500894401/photo/1",
+              "media_key": "3_1931742592628301824",
+              "start": 39,
+              "url": "https://t.co/KNJ1aUYEdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931742975500894401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2358,
+          "like_count": 4,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤓平时拷打做题蛆的推油们可以别装了来展示一下自己的做题理解，，，大家都选甚么 https://t.co/KNJ1aUYEdz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4261,
+          "following_count": 220,
+          "like_count": 20496,
+          "listed_count": 12,
+          "media_count": 1578,
+          "tweet_count": 19525
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-05T09:06:04.000Z",
+        "description": "",
+        "id": "1411974613509099522",
+        "name": "何知味",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878432742456893440/dCxTiUJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 108,
+          "like_count": 1990,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 547
+        },
+        "username": "ray77431028",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1925861513526419592",
+    "created_at": "2025-05-23T10:29:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T11:29:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925861513526419592"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/simone_luxem/s…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/simone_luxem/status/1925844762361241973",
+          "start": 56,
+          "url": "https://t.co/zppJeDGz4a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925861513526419592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925844762361241973",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然后给我妈看，结果被说“不够正式”“头发太乱了”…可问题是本来就不是什么正式的照片只是我自己想要拍就拍了的呀… https://t.co/zppJeDGz4a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925844753729351680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grn5mZaWcAAp5N-.jpg",
+        "width": 1538
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1925844753700016128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grn5mZTW0AAsxDk.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925844753716813824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grn5mZXXIAAqTWN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1925861513526419592",
+        "created_at": "2025-05-23T10:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T11:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925861513526419592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/simone_luxem/status/1925844762361241973",
+              "start": 56,
+              "url": "https://t.co/zppJeDGz4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925861513526419592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925844762361241973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后给我妈看，结果被说“不够正式”“头发太乱了”…可问题是本来就不是什么正式的照片只是我自己想要拍就拍了的呀… https://t.co/zppJeDGz4a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925844753729351680",
+            "3_1925844753700016128",
+            "3_1925844753716813824"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1925844762361241973",
+        "created_at": "2025-05-23T09:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T10:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925844762361241973"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mor4Wzvplp",
+              "end": 96,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1925844762361241973/photo/1",
+              "media_key": "3_1925844753729351680",
+              "start": 73,
+              "url": "https://t.co/Mor4Wzvplp"
+            },
+            {
+              "display_url": "pic.x.com/Mor4Wzvplp",
+              "end": 96,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1925844762361241973/photo/1",
+              "media_key": "3_1925844753700016128",
+              "start": 73,
+              "url": "https://t.co/Mor4Wzvplp"
+            },
+            {
+              "display_url": "pic.x.com/Mor4Wzvplp",
+              "end": 96,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1925844762361241973/photo/1",
+              "media_key": "3_1925844753716813824",
+              "start": 73,
+              "url": "https://t.co/Mor4Wzvplp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925844762361241973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 227,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "海报展示自己的项目！\n遇到土耳其妹子，开心！\n自己实验室的同学也来看了，超开心！\n然后自己的展示被认为毫无问题，就是海报本身的设计太丑了xxxx https://t.co/Mor4Wzvplp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4242,
+          "following_count": 219,
+          "like_count": 20344,
+          "listed_count": 12,
+          "media_count": 1558,
+          "tweet_count": 19358
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

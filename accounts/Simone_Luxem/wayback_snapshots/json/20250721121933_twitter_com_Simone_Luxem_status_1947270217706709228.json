@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1947270217706709228",
+    "created_at": "2025-07-21T12:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-21T13:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947270217706709228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1634308321120522240",
+          "start": 3,
+          "username": "FeministChinaJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947270217706709228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946916194680004846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FeministChinaJP: 今年的参议院选举中，极右翼政党针对外国人的仇恨言论愈发嚣张，公然煽动排外主义，散布“外国人被优待”等谣言。对此，多达1143个NGO团体联合签署发布了一份紧急声明进行谴责，批评纵容这些的政府，并呼吁选民理智判断，不要为歧视投票。 htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1946916059694428160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwTV11GW8AAe02G.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1946916059715403777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwTV11LXAAE7HT2.png",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1947270217706709228",
+        "created_at": "2025-07-21T12:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-21T13:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947270217706709228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1634308321120522240",
+              "start": 3,
+              "username": "FeministChinaJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947270217706709228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946916194680004846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FeministChinaJP: 今年的参议院选举中，极右翼政党针对外国人的仇恨言论愈发嚣张，公然煽动排外主义，散布“外国人被优待”等谣言。对此，多达1143个NGO团体联合签署发布了一份紧急声明进行谴责，批评纵容这些的政府，并呼吁选民理智判断，不要为歧视投票。 htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946916059694428160",
+            "3_1946916059715403777"
+          ]
+        },
+        "author_id": "1634308321120522240",
+        "conversation_id": "1946916194680004846",
+        "created_at": "2025-07-20T12:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946916194680004846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vbfNvTbYU",
+              "end": 138,
+              "expanded_url": "https://x.com/FeministChinaJP/status/1946916194680004846/photo/1",
+              "media_key": "3_1946916059694428160",
+              "start": 115,
+              "url": "https://t.co/5vbfNvTbYU"
+            },
+            {
+              "display_url": "pic.x.com/5vbfNvTbYU",
+              "end": 138,
+              "expanded_url": "https://x.com/FeministChinaJP/status/1946916194680004846/photo/1",
+              "media_key": "3_1946916059715403777",
+              "start": 115,
+              "url": "https://t.co/5vbfNvTbYU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946916194680004846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5208,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "今年的参议院选举中，极右翼政党针对外国人的仇恨言论愈发嚣张，公然煽动排外主义，散布“外国人被优待”等谣言。对此，多达1143个NGO团体联合签署发布了一份紧急声明进行谴责，批评纵容这些的政府，并呼吁选民理智判断，不要为歧视投票。 https://t.co/5vbfNvTbYU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4511,
+          "following_count": 219,
+          "like_count": 21525,
+          "listed_count": 13,
+          "media_count": 1637,
+          "tweet_count": 19982
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-10T21:41:03.000Z",
+        "description": "来自日本华人女权•酷儿的自由声音\n欢迎投稿发布文章、活动信息\n只发推不回复不互动，佛系运营，任何辱骂和歧视都会拉黑\n在日中国人のフェミニスト／クィアの情報について発信し、声をあげています🌈\n各地の活動情報はDMから募集中\nhttps://t.co/ZSysApOcFb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.cmx.im/@ChineseFemini…",
+                "end": 134,
+                "expanded_url": "https://m.cmx.im/@ChineseFeminist_JP",
+                "start": 111,
+                "url": "https://t.co/ZSysApOcFb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/feministchina_…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/feministchina_jp/",
+                "start": 0,
+                "url": "https://t.co/68ucgrZRKI"
+              }
+            ]
+          }
+        },
+        "id": "1634308321120522240",
+        "name": "在日女权连带会",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819328386030096384/9LIi_ZHv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1614,
+          "following_count": 130,
+          "like_count": 49,
+          "listed_count": 4,
+          "media_count": 207,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/68ucgrZRKI",
+        "username": "FeministChinaJP",
+        "verified": false
+      }
+    ]
+  }
+}

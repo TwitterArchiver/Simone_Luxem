@@ -1,0 +1,110 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Nov 07 08:02:28 +0000 2022",
+  "display_text_range": [
+    42,
+    61
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1225105862009577472,
+        "id_str": "1225105862009577472",
+        "indices": [
+          0,
+          11
+        ],
+        "name": "papaofpan",
+        "screen_name": "JerryWish2"
+      },
+      {
+        "id": 1427854532424372224,
+        "id_str": "1427854532424372224",
+        "indices": [
+          12,
+          25
+        ],
+        "name": "雯洁🇨🇮🇺🇸🇨🇦",
+        "screen_name": "weslie091101"
+      },
+      {
+        "id": 1373582797248458755,
+        "id_str": "1373582797248458755",
+        "indices": [
+          26,
+          41
+        ],
+        "name": "sakura🇫🇮🇫🇷💙💛",
+        "screen_name": "sakura92582157"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1589528699615219712,
+  "id_str": "1589528699615219712",
+  "in_reply_to_screen_name": "JerryWish2",
+  "in_reply_to_status_id": 1589522327842467842,
+  "in_reply_to_status_id_str": "1589522327842467842",
+  "in_reply_to_user_id": 1225105862009577472,
+  "in_reply_to_user_id_str": "1225105862009577472",
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "@JerryWish2 @weslie091101 @sakura92582157 “包括某些政治人物”的话，应该不是吧…",
+  "timestamp_ms": "1667808148660",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Aug 22 08:49:57 +0000 2021",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "transgender female;pansexual;兔咕猫/bupiat;biomedical science undergraduate in Vrije University Amsterdam;I’ve seen the galaxy, and that’s my destiny ;祝我们死得其所",
+    "favourites_count": 3411,
+    "follow_request_sent": null,
+    "followers_count": 567,
+    "following": null,
+    "friends_count": 165,
+    "geo_enabled": false,
+    "id": 1429365180618706945,
+    "id_str": "1429365180618706945",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 1,
+    "location": "Sol-3",
+    "name": "simone🏳️‍⚧️🏳️‍🌈🔬",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1629622442",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1565203373481238529/JPMvq9nq_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1565203373481238529/JPMvq9nq_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "Simone_Luxem",
+    "statuses_count": 5011,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false,
+    "withheld_in_countries": []
+  }
+}

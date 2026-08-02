@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1936943931419467803",
+    "created_at": "2025-06-23T00:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-23T01:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936944529107481023"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1936944529107481023",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936943931419467803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就你们半夜发出这么大声的奇怪的声音的人能不能考虑一下自己所处的建筑物的隔音性能啊…既然你们知道大声外放音乐是会打扰别人的，那你用嗓子发出的声音一样会很吵人啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1936943931419467803",
+        "created_at": "2025-06-23T00:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T01:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936944529107481023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936944529107481023",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936943931419467803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就你们半夜发出这么大声的奇怪的声音的人能不能考虑一下自己所处的建筑物的隔音性能啊…既然你们知道大声外放音乐是会打扰别人的，那你用嗓子发出的声音一样会很吵人啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1936943931419467803",
+        "created_at": "2025-06-23T00:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T01:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936943931419467803"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936943931419467803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烦死了隔壁的那一对异性恋情侣能不能不要深更半夜大叫啊…\n而且阳台隔音还很差，尤其是那个女生，一直在发出很大的奇怪的声音，真的很烦人啊啊啊…\n自己已经过去吼了一嗓子能不能小点声了，结果稍微安静了一会就又在叫了…\n甚至想要外放音乐对冲下了…但觉得如果自己这样做的话那对其它邻居太缺德了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4312,
+          "following_count": 221,
+          "like_count": 20648,
+          "listed_count": 12,
+          "media_count": 1602,
+          "tweet_count": 19677
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

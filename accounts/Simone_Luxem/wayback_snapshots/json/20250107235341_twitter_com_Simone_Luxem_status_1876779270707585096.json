@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1876779268186714520",
+    "created_at": "2025-01-07T23:53:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T00:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876779270707585096"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1876779270707585096",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876779268186714520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "另一方面就是它们给我讲的日常故事了。它们自己都是有自己亲生的兄弟姐妹的，但不幸的是关系都很差，互相之间的关系即使不是敌对也是冷淡的，所以它们给我讲的故事大多都是自己的哥哥/姐姐当年多么不讲道理多么欺负自己（和其它人），而自己又是被欺负得多么惨…（2/4）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1876779268186714520",
+        "created_at": "2025-01-07T23:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T00:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876779270707585096"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876779270707585096",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876779268186714520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "另一方面就是它们给我讲的日常故事了。它们自己都是有自己亲生的兄弟姐妹的，但不幸的是关系都很差，互相之间的关系即使不是敌对也是冷淡的，所以它们给我讲的故事大多都是自己的哥哥/姐姐当年多么不讲道理多么欺负自己（和其它人），而自己又是被欺负得多么惨…（2/4）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1876779268186714520",
+        "created_at": "2025-01-07T23:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T00:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876779268186714520"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876779268186714520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来很讽刺，教会我应该如何做姐姐，或者说让我有这个概念的很重要的人其实是我父母\n一方面是因为我作为最小的孩子，应该是小时候穿过所有的哥哥姐姐们穿旧了的衣服，过年过节被每一个哥哥姐姐都“带着玩”过，所以虽然不是很亲近的亲戚，但自己大概也或多或少知道该怎么带小孩子一些（1/4）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3945,
+          "following_count": 221,
+          "like_count": 18640,
+          "listed_count": 10,
+          "media_count": 1462,
+          "tweet_count": 18288
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2022232198968172821",
+    "created_at": "2026-02-13T08:51:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T09:51:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022232198968172821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1021317681406869505",
+          "start": 3,
+          "username": "ILoveLittlePigs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022232198968172821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022226588155162752",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ILoveLittlePigs: 哎呦呦呦呦，又有好事者拿“骗婚”的问题说我的事，那我就再澄清一遍我的立场：\n\n“隐藏同性性倾向步入异性婚姻”从影响上看是好事吗？不是。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2022232198968172821",
+        "created_at": "2026-02-13T08:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022232198968172821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1021317681406869505",
+              "start": 3,
+              "username": "ILoveLittlePigs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022232198968172821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022226588155162752",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ILoveLittlePigs: 哎呦呦呦呦，又有好事者拿“骗婚”的问题说我的事，那我就再澄清一遍我的立场：\n\n“隐藏同性性倾向步入异性婚姻”从影响上看是好事吗？不是。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1021317681406869505",
+        "conversation_id": "2022226588155162752",
+        "created_at": "2026-02-13T08:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T09:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022226588155162752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022226588155162752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "哎呦呦呦呦，又有好事者拿“骗婚”的问题说我的事，那我就再澄清一遍我的立场：\n\n“隐藏同性性倾向步入异性婚姻”从影响上看是好事吗？不是。\n\n“同性恋者有责任不要步入异性婚姻吗？”在制度性的同婚得到合法化、文化性的催婚和异性恋霸权文化被摧毁之前，讨论这个问题毫无意义。断然说“没责任”是不尊重同性恋者的异性伴侣一方，断然说“有责任”是不尊重极有可能被迫进入异性婚姻的同性恋者一方。\n\n“骗婚”是恐同、恐性少数狗哨吗？是！没什么好说的。\n\n欢迎好事者围观转发，如果你觉得这可以作为攻击我的弹药的话，那小丑是你自己。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "哎呦呦呦呦，又有好事者拿“骗婚”的问题说我的事，那我就再澄清一遍我的立场：\n\n“隐藏同性性倾向步入异性婚姻”从影响上看是好事吗？不是。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6111,
+          "following_count": 217,
+          "like_count": 23716,
+          "listed_count": 17,
+          "media_count": 1744,
+          "tweet_count": 21233
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-23T08:54:45.000Z",
+        "description": "Asian gay. Trans ally. Proud AuDHDer. Militant mental health advocate. Intersectional feminist. Anti-imperialist. Populist progressivist. 致力于在中文圈推动有人性温度的进步政治。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "share.upscrolled.com/en/user/bae1a9…",
+                "end": 23,
+                "expanded_url": "https://share.upscrolled.com/en/user/bae1a91c-1a09-461f-8881-83a4301816bb/",
+                "start": 0,
+                "url": "https://t.co/Ita8RlHuF6"
+              }
+            ]
+          }
+        },
+        "id": "1021317681406869505",
+        "name": "ProgressivePiggy🌹🏳️‍🌈🏳️‍⚧️🇳🇫🇵🇸🇱🇧🇺🇦🇦🇲",
+        "pinned_tweet_id": "2022229318244741488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551378875095056384/sEa4SUxv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 1652,
+          "like_count": 20748,
+          "listed_count": 6,
+          "media_count": 180,
+          "tweet_count": 7286
+        },
+        "url": "https://t.co/Ita8RlHuF6",
+        "username": "ILoveLittlePigs",
+        "verified": false
+      }
+    ]
+  }
+}

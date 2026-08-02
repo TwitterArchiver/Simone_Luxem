@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1954830251785412848",
+    "created_at": "2025-08-11T12:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T13:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954877996760015052"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1954877996760015052",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954830251785412848",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实自己一直觉得自己头发扎起来不如放下来好看，会显得自己的脸很宽，而且也相对不pass一些；但今天扎着头发出门还是被一声声叫“美女”，还是让自己比较开心的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1954830243342258176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDzv8qbEAAjiGh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1954830243338092544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyDzv8pbgAAWv1u.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1954830251785412848",
+        "created_at": "2025-08-11T12:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T13:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954877996760015052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954877996760015052",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954830251785412848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实自己一直觉得自己头发扎起来不如放下来好看，会显得自己的脸很宽，而且也相对不pass一些；但今天扎着头发出门还是被一声声叫“美女”，还是让自己比较开心的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954830243342258176",
+            "3_1954830243338092544"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1954830251785412848",
+        "created_at": "2025-08-11T09:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T10:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954830251785412848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MtcsNNJphZ",
+              "end": 31,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1954830251785412848/photo/1",
+              "media_key": "3_1954830243342258176",
+              "start": 8,
+              "url": "https://t.co/MtcsNNJphZ"
+            },
+            {
+              "display_url": "pic.x.com/MtcsNNJphZ",
+              "end": 31,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1954830251785412848/photo/1",
+              "media_key": "3_1954830243338092544",
+              "start": 8,
+              "url": "https://t.co/MtcsNNJphZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954830251785412848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好久不拍照了呢 https://t.co/MtcsNNJphZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4529,
+          "following_count": 221,
+          "like_count": 22025,
+          "listed_count": 13,
+          "media_count": 1652,
+          "tweet_count": 20131
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

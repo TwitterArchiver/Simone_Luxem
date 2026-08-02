@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1999341442859434418",
+    "created_at": "2025-12-12T09:30:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T10:30:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999411406710735327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1451001299873325064",
+          "start": 0,
+          "username": "creeperwhite2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999411406710735327",
+    "in_reply_to_user_id": "1451001299873325064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999341442859434418",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@creeperwhite2 不买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1999341442859434418",
+        "created_at": "2025-12-12T09:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T10:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999411406710735327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1451001299873325064",
+              "start": 0,
+              "username": "creeperwhite2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999411406710735327",
+        "in_reply_to_user_id": "1451001299873325064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999341442859434418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@creeperwhite2 不买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1451001299873325064",
+        "conversation_id": "1999341442859434418",
+        "created_at": "2025-12-12T04:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T05:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999341442859434418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xdw2013/status…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/xdw2013/status/1999327024666804498",
+              "start": 18,
+              "url": "https://t.co/gXyywVS4bA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999341442859434418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1221,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999327024666804498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "买女装经常退，买男装懒得点收货（） https://t.co/gXyywVS4bA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5980,
+          "following_count": 216,
+          "like_count": 23180,
+          "listed_count": 18,
+          "media_count": 1716,
+          "tweet_count": 20972
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-21T01:44:23.000Z",
+        "description": "梦里写诗，醒时眼红。\n花眼里看见，花满楼。\n @_9D3CE_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 23,
+                "username": "_9D3CE_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Internet.Overdo.se",
+                "end": 23,
+                "expanded_url": "http://Internet.Overdo.se",
+                "start": 0,
+                "url": "https://t.co/J9PBSEcAuX"
+              }
+            ]
+          }
+        },
+        "id": "1451001299873325064",
+        "location": "距你0.5公里",
+        "name": "蓟野菁菁",
+        "pinned_tweet_id": "1894294576115913060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800584797217058816/8kuPANQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1337,
+          "following_count": 707,
+          "like_count": 7053,
+          "listed_count": 8,
+          "media_count": 639,
+          "tweet_count": 9247
+        },
+        "url": "https://t.co/J9PBSEcAuX",
+        "username": "creeperwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

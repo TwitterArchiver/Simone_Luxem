@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1957719883057360992",
+    "created_at": "2025-08-19T08:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-19T09:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1957719893459235227"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1957719893459235227",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957719888178606400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无利甚至有害的，真的贫困人士，要么把每一分力气都花在尽力生活上，要么花在为未来的不确定未雨绸缪上，谁有闲钱闲精力去虐待动物？真的去虐待动物的，反而是那些有一定的钱和闲，不为生计发愁的人，比如农村和城市中的街溜子，比如各种从事着相对体面的工作的城市白领"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1957719883057360992",
+        "created_at": "2025-08-19T08:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T09:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957719893459235227"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957719893459235227",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957719888178606400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无利甚至有害的，真的贫困人士，要么把每一分力气都花在尽力生活上，要么花在为未来的不确定未雨绸缪上，谁有闲钱闲精力去虐待动物？真的去虐待动物的，反而是那些有一定的钱和闲，不为生计发愁的人，比如农村和城市中的街溜子，比如各种从事着相对体面的工作的城市白领"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1957719883057360992",
+        "created_at": "2025-08-19T08:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T09:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957719888178606400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957719888178606400",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957719883057360992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甚至谁家对自己的猫狗不好，比如不给吃饭一点都不照顾的，也是会被村里人瞧不起的，家里的孩子谁去做虐待动物的事，哪怕是流浪动物，被自己父母知道了，很大概率是会挨打的；即使是肉用牲畜，也不会平日里虐待的，并且宰杀过程也是追求尽可能干净利落的…\n道理很简单，虐待动物这个行为，对于生产是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4529,
+          "following_count": 222,
+          "like_count": 22156,
+          "listed_count": 13,
+          "media_count": 1652,
+          "tweet_count": 20179
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

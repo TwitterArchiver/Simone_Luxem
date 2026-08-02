@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1970048541017178524",
+    "created_at": "2025-09-22T09:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T10:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970058354203742534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4752010152",
+          "start": 0,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970058354203742534",
+    "in_reply_to_user_id": "4752010152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970048541017178524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garrulous_abyss 记得加拿大移民局似乎对asd/adhd非常不友好，甚至有歧视的现象，会因为申请人是双a而不给通过，印象中…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_1970048536432529408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1cEtMRW0AAkZUI.jpg",
+        "width": 749
+      },
+      {
+        "height": 941,
+        "media_key": "3_1970048536428388352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1cEtMQXoAA9EEG.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1970048541017178524",
+        "created_at": "2025-09-22T09:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T10:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970058354203742534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970058354203742534",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970048541017178524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 记得加拿大移民局似乎对asd/adhd非常不友好，甚至有歧视的现象，会因为申请人是双a而不给通过，印象中…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970048536432529408",
+            "3_1970048536428388352"
+          ]
+        },
+        "author_id": "4752010152",
+        "conversation_id": "1970048541017178524",
+        "created_at": "2025-09-22T08:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T09:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970048541017178524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vo4mU083pj",
+              "end": 97,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1970048541017178524/photo/1",
+              "media_key": "3_1970048536432529408",
+              "start": 74,
+              "url": "https://t.co/vo4mU083pj"
+            },
+            {
+              "display_url": "pic.x.com/vo4mU083pj",
+              "end": 97,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1970048541017178524/photo/1",
+              "media_key": "3_1970048536428388352",
+              "start": 74,
+              "url": "https://t.co/vo4mU083pj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970048541017178524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 502,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这位trans+asd的推友，想问我关于润的事。。。\n\n但其实我也只知道法国的情况。有了解瑞典or加拿大的，可以简单评点一下，ta应该是能看到的。 https://t.co/vo4mU083pj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4615,
+          "following_count": 218,
+          "like_count": 22471,
+          "listed_count": 13,
+          "media_count": 1659,
+          "tweet_count": 20390
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 138,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 115,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29749,
+          "following_count": 3621,
+          "like_count": 161393,
+          "listed_count": 102,
+          "media_count": 3567,
+          "tweet_count": 59702
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

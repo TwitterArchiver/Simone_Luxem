@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1824206116768588015",
+    "created_at": "2024-08-15T22:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-15T23:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1824206116768588015"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1824206116768588015",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "相比较于Emma自己真的是又没有能力又没有耐心，既是悲观的又是盲目的，还特别容易被情绪（负面地）影响吧…\n五年多的时间了，自己似乎什么都没学到，没有理论知识，也没有实践经验，只有“一无是处的幸运”…\n…为什么选择自己…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1824206116768588015",
+        "created_at": "2024-08-15T22:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-15T23:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824206116768588015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824206116768588015",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相比较于Emma自己真的是又没有能力又没有耐心，既是悲观的又是盲目的，还特别容易被情绪（负面地）影响吧…\n五年多的时间了，自己似乎什么都没学到，没有理论知识，也没有实践经验，只有“一无是处的幸运”…\n…为什么选择自己…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3532,
+          "following_count": 224,
+          "like_count": 16039,
+          "listed_count": 8,
+          "tweet_count": 16576
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

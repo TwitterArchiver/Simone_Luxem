@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1830720275337375959",
+    "created_at": "2024-09-02T21:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T22:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1830720275337375959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/simone_luxem/s…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/simone_luxem/status/1830677690585878823",
+          "start": 141,
+          "url": "https://t.co/WCDbO1lGkU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1830720275337375959",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830677690585878823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再次感叹，可能因为在寒涟漪那里的一年，或者更早时候的经历吧，自己妹妹真的在好多方面都比自己成熟（？）太多了吧…\n或者可能自己实际上是自然选择的漏网之鱼吧，太多对其他人而言不是问题的事情，对自己来说却是性命攸关的…\n自己早就应该死掉的…\n可能自己早就死了，只有执念凝成的幽灵还在吧… https://t.co/WCDbO1lGkU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1830720275337375959",
+        "created_at": "2024-09-02T21:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T22:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1830720275337375959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/simone_luxem/status/1830677690585878823",
+              "start": 141,
+              "url": "https://t.co/WCDbO1lGkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830720275337375959",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830677690585878823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再次感叹，可能因为在寒涟漪那里的一年，或者更早时候的经历吧，自己妹妹真的在好多方面都比自己成熟（？）太多了吧…\n或者可能自己实际上是自然选择的漏网之鱼吧，太多对其他人而言不是问题的事情，对自己来说却是性命攸关的…\n自己早就应该死掉的…\n可能自己早就死了，只有执念凝成的幽灵还在吧… https://t.co/WCDbO1lGkU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1830677690585878823",
+        "created_at": "2024-09-02T18:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T19:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830677690585878823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830677690585878823",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 119,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越来越发现自己实际上可能比自己预期的更加讨人厌吧…\n客观地说，自己可能没有比各种时不时出现在各个避难所的“问题xyn”更好，甚至可能因为自己莫名其妙的大小姐性子，反而更差一些…\n…\n所以还是“独自航行，独自交战，独自沉没”对自己更加合适吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3659,
+          "following_count": 224,
+          "like_count": 16410,
+          "listed_count": 8,
+          "tweet_count": 16816
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

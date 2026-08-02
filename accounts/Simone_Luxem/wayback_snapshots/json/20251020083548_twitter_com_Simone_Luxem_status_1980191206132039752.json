@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1980119977798828159",
+    "created_at": "2025-10-20T08:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T09:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980191206132039752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1698925020284891136",
+          "start": 0,
+          "username": "Tired_Erika99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980191206132039752",
+    "in_reply_to_user_id": "1698925020284891136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980119977798828159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tired_Erika99 我拒绝与这种人为伍，不是因为其跨性别或是任何其它的身份，而是因为其愚蠢，短视，和残忍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1980119977798828159",
+        "created_at": "2025-10-20T08:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T09:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980191206132039752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1698925020284891136",
+              "start": 0,
+              "username": "Tired_Erika99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980191206132039752",
+        "in_reply_to_user_id": "1698925020284891136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980119977798828159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tired_Erika99 我拒绝与这种人为伍，不是因为其跨性别或是任何其它的身份，而是因为其愚蠢，短视，和残忍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1698925020284891136",
+        "conversation_id": "1980119977798828159",
+        "created_at": "2025-10-20T03:52:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T04:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980119977798828159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980119977798828159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 893,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别也分三九六等了哈\n还是论资排辈要不就以医疗资源的多少为判定标准的\n“我hrt了，可不是什么低等跨性别”\n姆们跨性别也与时俱进！越来越具有incel啊不，后现代风采了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5472,
+          "following_count": 215,
+          "like_count": 22712,
+          "listed_count": 15,
+          "media_count": 1679,
+          "tweet_count": 20598
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-05T05:04:31.000Z",
+        "description": "大龄天残跨性别，鬼迷日眼脾气差 。墨尔本留学混日子之王 ClosedAI或者OpenSM用户 ❌Terf，顺直男，种族主义沙文主义大男子主义请直接屏蔽我",
+        "id": "1698925020284891136",
+        "location": "穷鬼之家",
+        "name": "Erika絵梨花🏳️‍⚧️",
+        "pinned_tweet_id": "1979921798654500988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785621696134926336/4B8W9KX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 189,
+          "like_count": 1676,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 206
+        },
+        "username": "Tired_Erika99",
+        "verified": true
+      }
+    ]
+  }
+}

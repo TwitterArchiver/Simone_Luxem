@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1935697484086427828",
+    "created_at": "2025-06-19T13:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T14:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1935697484086427828"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1935697484086427828",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "等这门课结课之后一定得给这个老师一个差评…\n就…讲得都是什么玩意啊…啊...\n而且不光讲得差，甚至都没有给可以自学的参考资料，就，纯纯搞人心态呢啊，尤其对自己而言，几乎每天都在极度焦虑怀疑是不是自己听漏了/看漏了/理解错了什么东西，为什么课上了一周/两周/三周/上完了，都不知道想讲什么…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1935697484086427828",
+        "created_at": "2025-06-19T13:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T14:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935697484086427828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1935697484086427828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等这门课结课之后一定得给这个老师一个差评…\n就…讲得都是什么玩意啊…啊...\n而且不光讲得差，甚至都没有给可以自学的参考资料，就，纯纯搞人心态呢啊，尤其对自己而言，几乎每天都在极度焦虑怀疑是不是自己听漏了/看漏了/理解错了什么东西，为什么课上了一周/两周/三周/上完了，都不知道想讲什么…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4303,
+          "following_count": 221,
+          "like_count": 20552,
+          "listed_count": 12,
+          "media_count": 1599,
+          "tweet_count": 19646
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990116467657093120",
+        "3_1990116467652874240"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990116475592413212",
+    "created_at": "2025-11-16T17:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T18:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1990116475592413212"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nx923BS3pH",
+          "end": 148,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1990116475592413212/photo/1",
+          "media_key": "3_1990116467657093120",
+          "start": 125,
+          "url": "https://t.co/Nx923BS3pH"
+        },
+        {
+          "display_url": "pic.x.com/Nx923BS3pH",
+          "end": 148,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1990116475592413212/photo/1",
+          "media_key": "3_1990116467652874240",
+          "start": 125,
+          "url": "https://t.co/Nx923BS3pH"
+        },
+        {
+          "display_url": "x.com/eleanoranatida…",
+          "end": 172,
+          "expanded_url": "https://twitter.com/eleanoranatidae/status/1990077273035493392",
+          "start": 149,
+          "url": "https://t.co/XqCIvaqgUt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990116475592413212",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990077273035493392",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好巧，自己和gpt聊天正好也聊到了一些东西\n不过也阴差阳错地让自己对于这样的洗脑有了天然的抗性吧，因为\n你永远没办法比我自己更加让我自己讨厌自己，你也永远没办法比我自己让我自己给自己施加更多的罪…\n宛若一种“只要我没有腿就不可能大腿骨折”的幽默感… https://t.co/Nx923BS3pH https://t.co/XqCIvaqgUt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 756,
+        "media_key": "3_1990116467657093120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G55QYhxbMAAJqxM.jpg",
+        "width": 750
+      },
+      {
+        "height": 139,
+        "media_key": "3_1990116467652874240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G55QYhwa0AAgSD5.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990116467657093120",
+            "3_1990116467652874240"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990116475592413212",
+        "created_at": "2025-11-16T17:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T18:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990116475592413212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nx923BS3pH",
+              "end": 148,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1990116475592413212/photo/1",
+              "media_key": "3_1990116467657093120",
+              "start": 125,
+              "url": "https://t.co/Nx923BS3pH"
+            },
+            {
+              "display_url": "pic.x.com/Nx923BS3pH",
+              "end": 148,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1990116475592413212/photo/1",
+              "media_key": "3_1990116467652874240",
+              "start": 125,
+              "url": "https://t.co/Nx923BS3pH"
+            },
+            {
+              "display_url": "x.com/eleanoranatida…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/eleanoranatidae/status/1990077273035493392",
+              "start": 149,
+              "url": "https://t.co/XqCIvaqgUt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990116475592413212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990077273035493392",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好巧，自己和gpt聊天正好也聊到了一些东西\n不过也阴差阳错地让自己对于这样的洗脑有了天然的抗性吧，因为\n你永远没办法比我自己更加让我自己讨厌自己，你也永远没办法比我自己让我自己给自己施加更多的罪…\n宛若一种“只要我没有腿就不可能大腿骨折”的幽默感… https://t.co/Nx923BS3pH https://t.co/XqCIvaqgUt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444716723978981380",
+        "conversation_id": "1990077273035493392",
+        "created_at": "2025-11-16T15:19:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T16:19:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990077273035493392"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990077273035493392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今年年初，我曾经有过被“宗教扭转”的经历。\n具体的过程是我的伤疤，我不太想提起，但是，我想保护你们不受到这种伤害，所以，请：\n不要去接受非宗教场所的传教，尤其是：特别“热情”的基督新教。\n他们很可能不正规、会造成严重的精神伤害。\n我在精神科（回龙观医院候诊时）被人传教。\n因为误入了这种组织，导致我被“宗教扭转”，产生了非常严重的后果，直接导致了我的精神病发作和恶化，并且伤害了他人。\n恳求你们务必要警惕、远离这些“非宗教场合传教、撒网式传教、过分热情的人”，他们看似充满了“爱和关怀”，但往往会洗脑、思想操控、“扭转”。请一定要远离他们！！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2111,
+          "like_count": 48,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "今年年初，我曾经有过被“宗教扭转”的经历。\n具体的过程是我的伤疤，我不太想提起，但是，我想保护你们不受到这种伤害，所以，请：\n不要去接受非宗教场所的传教，尤其是：特别“热情”的基督新教。\n他们很可能不正规、会造成严重的精神伤害。\n我在精神科（回龙观医院候诊时）被人传教。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5781,
+          "following_count": 214,
+          "like_count": 22931,
+          "listed_count": 18,
+          "media_count": 1699,
+          "tweet_count": 20795
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "mtf🏳️‍⚧️/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2950,
+          "following_count": 1783,
+          "like_count": 20897,
+          "listed_count": 9,
+          "media_count": 125,
+          "tweet_count": 5606
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      }
+    ]
+  }
+}

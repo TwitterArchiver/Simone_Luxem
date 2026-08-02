@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2058640178210816106",
+    "created_at": "2026-05-24T20:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T21:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058640178210816106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/siyu060910/sta…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/siyu060910/status/2058601411701784980",
+          "start": 144,
+          "url": "https://t.co/HmxZ7ZBvUS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058640178210816106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058601411701784980",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "某种巨大的讽刺\n自由的两条原则，其一是人只应对其自由意志所能决定的事物负责，即任何人都不应因其无法决定的事物受不公平对待；其二是行为的客体只有包含另一具体人时行为才与主体之外的人相关，即个人私事不应被干涉\n而不幸的是，在如今的“防御性民主”为主流的情况下，“自由”愈发成为“民主之敌”了 https://t.co/HmxZ7ZBvUS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058601404802154497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJGfEhtaQAERvbc.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2058640178210816106",
+        "created_at": "2026-05-24T20:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T21:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058640178210816106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siyu060910/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/siyu060910/status/2058601411701784980",
+              "start": 144,
+              "url": "https://t.co/HmxZ7ZBvUS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058640178210816106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058601411701784980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某种巨大的讽刺\n自由的两条原则，其一是人只应对其自由意志所能决定的事物负责，即任何人都不应因其无法决定的事物受不公平对待；其二是行为的客体只有包含另一具体人时行为才与主体之外的人相关，即个人私事不应被干涉\n而不幸的是，在如今的“防御性民主”为主流的情况下，“自由”愈发成为“民主之敌”了 https://t.co/HmxZ7ZBvUS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058601404802154497"
+          ]
+        },
+        "author_id": "1824324977379905537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058601411701784980",
+        "created_at": "2026-05-24T17:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T18:26:17.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058600484043436294",
+          "2058601411701784980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/khpRqh4diI",
+              "end": 126,
+              "expanded_url": "https://x.com/siyu060910/status/2058601411701784980/photo/1",
+              "media_key": "3_2058601404802154497",
+              "start": 103,
+              "url": "https://t.co/khpRqh4diI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058601411701784980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 789,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "寒涟漪的推特号好像因为公开聊ltp的话题没了。。。各位推友谨慎聊该话题，x所在的受监管的地区对ltp人群管理的非常严格，基本也是入刑的，说的就是美加，pronhub都禁幼女来着（）建议不要在这讨论类似话题 https://t.co/khpRqh4diI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6211,
+          "following_count": 220,
+          "like_count": 24752,
+          "listed_count": 17,
+          "media_count": 1785,
+          "tweet_count": 21713
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务｜我是中国人、我始终热爱这片土地｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 33,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 10,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 70,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 47,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2058258075287732733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7467,
+          "following_count": 88,
+          "like_count": 542,
+          "listed_count": 11,
+          "media_count": 287,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      }
+    ]
+  }
+}

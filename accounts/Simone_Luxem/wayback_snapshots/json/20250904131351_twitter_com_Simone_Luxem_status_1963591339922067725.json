@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1963591339922067725",
+    "created_at": "2025-09-04T13:13:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T14:13:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963591339922067725"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/godbottlexd/st…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/godbottlexd/status/1963511525194248203",
+          "start": 141,
+          "url": "https://t.co/0AlkO8NaOP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963591339922067725",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963511525194248203",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不行对于这种我一定得换种方式说：\n不是，饭菜里有肉就算你们对孩子好的了？有房间睡就算你们对孩子好的了？你们能拿得出手的所谓“投资”就这？那你们这要是能翻身才见了鬼了呢，赌徒都知道想要有高回报那就得有高投入，你这拿五毛钢镚给巴菲特它也赚不来钱呀…\n这都不是投资了，这是等天上掉馅饼了 https://t.co/0AlkO8NaOP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1852,
+        "media_key": "3_1963511522342449152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz_LU5GbsAAVWpz.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1963591339922067725",
+        "created_at": "2025-09-04T13:13:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T14:13:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963591339922067725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/godbottlexd/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/godbottlexd/status/1963511525194248203",
+              "start": 141,
+              "url": "https://t.co/0AlkO8NaOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963591339922067725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963511525194248203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不行对于这种我一定得换种方式说：\n不是，饭菜里有肉就算你们对孩子好的了？有房间睡就算你们对孩子好的了？你们能拿得出手的所谓“投资”就这？那你们这要是能翻身才见了鬼了呢，赌徒都知道想要有高回报那就得有高投入，你这拿五毛钢镚给巴菲特它也赚不来钱呀…\n这都不是投资了，这是等天上掉馅饼了 https://t.co/0AlkO8NaOP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963511522342449152"
+          ]
+        },
+        "author_id": "1664970844026867713",
+        "conversation_id": "1963511525194248203",
+        "created_at": "2025-09-04T07:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T08:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963511525194248203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AljPmzMieh",
+              "end": 23,
+              "expanded_url": "https://x.com/GodBottleXD/status/1963511525194248203/photo/1",
+              "media_key": "3_1963511522342449152",
+              "start": 0,
+              "url": "https://t.co/AljPmzMieh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963511525194248203",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 102535,
+          "like_count": 552,
+          "quote_count": 17,
+          "reply_count": 108,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AljPmzMieh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4553,
+          "following_count": 218,
+          "like_count": 22347,
+          "listed_count": 13,
+          "media_count": 1655,
+          "tweet_count": 20279
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-03T12:23:12.000Z",
+        "description": "让银河燃烧吧",
+        "id": "1664970844026867713",
+        "name": "GodBottleXD",
+        "pinned_tweet_id": "1950160542544646570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664972571111202817/5c2-gyNy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6375,
+          "following_count": 301,
+          "like_count": 1539,
+          "listed_count": 10,
+          "media_count": 1242,
+          "tweet_count": 3004
+        },
+        "username": "GodBottleXD",
+        "verified": false
+      }
+    ]
+  }
+}

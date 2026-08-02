@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1942246790771937701",
+    "created_at": "2025-07-07T15:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T16:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942246790771937701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942246790771937701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942146571308618213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 网友投稿：戒网瘾学校被虐待7个月的经历，每晚仍会梦见被打\n四川眉山立德素质教育基地打着行为矫正的旗号，17人一个宿舍，6.30起床，内务不合格会被踹、打手板，做体能到凌晨三点才能睡。\n教官心理变态，无聊时就喜欢逼学生闻他的胶鞋，拿丝带捆住…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_1942140037451370496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPeEvxaUAATZHB.jpg",
+        "width": 610
+      },
+      {
+        "height": 681,
+        "media_key": "3_1942140104405102592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPeIpMbMAA9pZ6.jpg",
+        "width": 483
+      },
+      {
+        "height": 246,
+        "media_key": "3_1942140104585158656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvPeIp3WoAAsEcX.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1942246790771937701",
+        "created_at": "2025-07-07T15:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942246790771937701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942246790771937701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942146571308618213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 网友投稿：戒网瘾学校被虐待7个月的经历，每晚仍会梦见被打\n四川眉山立德素质教育基地打着行为矫正的旗号，17人一个宿舍，6.30起床，内务不合格会被踹、打手板，做体能到凌晨三点才能睡。\n教官心理变态，无聊时就喜欢逼学生闻他的胶鞋，拿丝带捆住…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1942140037451370496",
+            "3_1942140104405102592",
+            "3_1942140104585158656"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942146571308618213",
+        "created_at": "2025-07-07T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942146571308618213"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VTE7Oe5lRh",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1942146571308618213/photo/1",
+              "media_key": "3_1942140037451370496",
+              "start": 145,
+              "url": "https://t.co/VTE7Oe5lRh"
+            },
+            {
+              "display_url": "pic.x.com/VTE7Oe5lRh",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1942146571308618213/photo/1",
+              "media_key": "3_1942140104405102592",
+              "start": 145,
+              "url": "https://t.co/VTE7Oe5lRh"
+            },
+            {
+              "display_url": "pic.x.com/VTE7Oe5lRh",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1942146571308618213/photo/1",
+              "media_key": "3_1942140104585158656",
+              "start": 145,
+              "url": "https://t.co/VTE7Oe5lRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942146571308618213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "网友投稿：戒网瘾学校被虐待7个月的经历，每晚仍会梦见被打\n四川眉山立德素质教育基地打着行为矫正的旗号，17人一个宿舍，6.30起床，内务不合格会被踹、打手板，做体能到凌晨三点才能睡。\n教官心理变态，无聊时就喜欢逼学生闻他的胶鞋，拿丝带捆住手，再将塑料袋套头上窒息，或是找理由用扫把打手等。\n有同学待了超过两年"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 82155,
+          "like_count": 273,
+          "quote_count": 6,
+          "reply_count": 36,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "网友投稿：戒网瘾学校被虐待7个月的经历，每晚仍会梦见被打\n四川眉山立德素质教育基地打着行为矫正的旗号，17人一个宿舍，6.30起床，内务不合格会被踹、打手板，做体能到凌晨三点才能睡。\n教官心理变态，无聊时就喜欢逼学生闻他的胶鞋，拿丝带捆住手，再将塑料袋套头上窒息，或是找理由用扫把打手等。 https://t.co/VTE7Oe5lRh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4328,
+          "following_count": 219,
+          "like_count": 21059,
+          "listed_count": 12,
+          "media_count": 1620,
+          "tweet_count": 19856
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 132,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 109,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1941476956916093300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027992,
+          "following_count": 975,
+          "like_count": 7404,
+          "listed_count": 8183,
+          "media_count": 31176,
+          "tweet_count": 37783
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1925554905332281591",
+    "created_at": "2025-05-22T14:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-22T15:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925559356952649998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1798582217536376832",
+          "start": 0,
+          "username": "lucyforzqy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925559356952649998",
+    "in_reply_to_user_id": "1798582217536376832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925559136428884396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lucyforzqy 我知道，但我也知道我真的会打人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1925554905332281591",
+        "created_at": "2025-05-22T14:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T15:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925559356952649998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1798582217536376832",
+              "start": 0,
+              "username": "lucyforzqy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925559356952649998",
+        "in_reply_to_user_id": "1798582217536376832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925559136428884396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lucyforzqy 我知道，但我也知道我真的会打人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798582217536376832",
+        "conversation_id": "1925554905332281591",
+        "created_at": "2025-05-22T14:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T15:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925559136428884396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925559136428884396",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925554905332281591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 那你知不知道在国内当医生是真的会被打？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4242,
+          "following_count": 219,
+          "like_count": 20329,
+          "listed_count": 12,
+          "media_count": 1556,
+          "tweet_count": 19350
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-06T05:06:42.000Z",
+        "description": "学医狗，一直在纠结某些东西\n疑似有点精神问题\n想更好地认识世界，希望遇到更多不同领域的朋友",
+        "id": "1798582217536376832",
+        "location": "这里",
+        "name": "，",
+        "pinned_tweet_id": "1907306302860095675",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907306234820325376/QlVfdQt-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 241,
+          "like_count": 249,
+          "listed_count": 2,
+          "media_count": 234,
+          "tweet_count": 1629
+        },
+        "username": "lucyforzqy",
+        "verified": false
+      }
+    ]
+  }
+}

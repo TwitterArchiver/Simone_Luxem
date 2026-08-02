@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1978833202031575362",
+    "created_at": "2025-10-16T14:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T15:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978833202031575362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1529658600649539584",
+          "start": 3,
+          "username": "DrSunan2022422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978833202031575362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978658453129191564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DrSunan2022422: 原来是在日工作的网友，转发支持一下吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1978833202031575362",
+        "created_at": "2025-10-16T14:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T15:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978833202031575362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1529658600649539584",
+              "start": 3,
+              "username": "DrSunan2022422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978833202031575362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978658453129191564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DrSunan2022422: 原来是在日工作的网友，转发支持一下吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529658600649539584",
+        "conversation_id": "1978658453129191564",
+        "created_at": "2025-10-16T03:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T04:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978658453129191564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/madarame_nzm/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/madarame_nzm/status/1978452724791345364",
+              "start": 19,
+              "url": "https://t.co/WK3yZF0mgW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978658453129191564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1295,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978452724791345364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "原来是在日工作的网友，转发支持一下吧 https://t.co/WK3yZF0mgW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5172,
+          "following_count": 218,
+          "like_count": 22692,
+          "listed_count": 15,
+          "media_count": 1675,
+          "tweet_count": 20562
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T03:00:24.000Z",
+        "description": "一般路过女高 | 要素过多 | 啥都能聊 | | 业余喜欢写小说 |睿智的P社玩家 🏳‍⚧｜2026 SRS 手术准备中",
+        "id": "1529658600649539584",
+        "location": "SCP基金会中国分部34号站点",
+        "name": "🍥MTF....Dr.Sunan🏳‍⚧🍥🐾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530385867826556928/p_rx1WWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2045,
+          "following_count": 342,
+          "like_count": 18664,
+          "listed_count": 8,
+          "media_count": 196,
+          "tweet_count": 3588
+        },
+        "username": "DrSunan2022422",
+        "verified": false
+      }
+    ]
+  }
+}

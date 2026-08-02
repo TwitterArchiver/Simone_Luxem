@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1829520293733519685",
+    "created_at": "2024-08-30T14:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T15:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829520946027257936"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1829520946027257936",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829520293733519685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "…说起来很可笑，因为这一切原本是 你 教我的…\n…所以我这辈子就离不开“背叛”这个主题了是吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1829520293733519685",
+        "created_at": "2024-08-30T14:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T15:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829520946027257936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1829520946027257936",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829520293733519685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "…说起来很可笑，因为这一切原本是 你 教我的…\n…所以我这辈子就离不开“背叛”这个主题了是吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1829520293733519685",
+        "created_at": "2024-08-30T14:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T15:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829520293733519685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/keyemail/statu…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/keyemail/status/1829517345024561638",
+              "start": 132,
+              "url": "https://t.co/pYc3ysq5pZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829520293733519685",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829517345024561638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无论以什么原因，将对方推入中国的国家机器之中，甚至直接于国家机器进行合作，在我看来都是不可接受的\n我在彩霞案上是这个态度，在翕然案上是这个态度，在现在基于相同的原因，仍然是这个态度\n此外，出于实用主义考虑，这样做也是对目前亚明案的干扰与破坏，同样是不可容忍的行为 https://t.co/pYc3ysq5pZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3664,
+          "following_count": 225,
+          "like_count": 16371,
+          "listed_count": 8,
+          "tweet_count": 16796
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

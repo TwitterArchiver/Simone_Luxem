@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1861360726259998759",
+    "created_at": "2024-11-26T10:49:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T11:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861361658276245975"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1861361658276245975",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861360726259998759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "忘了谁说的了，大概就是被自己母亲嫌弃外貌是女儿不可避免的经历…\n那自己可太pass了，毕竟老早之前pretrans的时候就天天被念叨“你要是不摸防晒霜/涂护肤品/bulabula就要跟爸爸似的了”…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1861360726259998759",
+        "created_at": "2024-11-26T10:49:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T11:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861361658276245975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861361658276245975",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861360726259998759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忘了谁说的了，大概就是被自己母亲嫌弃外貌是女儿不可避免的经历…\n那自己可太pass了，毕竟老早之前pretrans的时候就天天被念叨“你要是不摸防晒霜/涂护肤品/bulabula就要跟爸爸似的了”…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1861360726259998759",
+        "created_at": "2024-11-26T10:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T11:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861360726259998759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861360726259998759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎在初期被说好看之后自己终于被自己妈挑剔外貌了…\n觉得头发太长太乱了（她自己是直短发）\n觉得没有自来卷而是没洗头/梳头导致的\n…\n太对味了，要是她还不挑剔外貌的话自己简直都要怀疑是不是在藏着什么大的了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3898,
+          "following_count": 221,
+          "like_count": 18106,
+          "listed_count": 11,
+          "tweet_count": 17902
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

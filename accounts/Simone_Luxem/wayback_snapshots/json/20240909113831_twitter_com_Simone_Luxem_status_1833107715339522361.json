@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1833104522668847439",
+    "created_at": "2024-09-09T11:38:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T12:38:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1833107715339522361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1736364540722589696",
+          "start": 0,
+          "username": "JuneSinary"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833107715339522361",
+    "in_reply_to_user_id": "1736364540722589696",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1833106743272022323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JuneSinary 生物医学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1833104522668847439",
+        "created_at": "2024-09-09T11:38:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T12:38:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833107715339522361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1736364540722589696",
+              "start": 0,
+              "username": "JuneSinary"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833107715339522361",
+        "in_reply_to_user_id": "1736364540722589696",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833106743272022323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JuneSinary 生物医学"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736364540722589696",
+        "conversation_id": "1833104522668847439",
+        "created_at": "2024-09-09T11:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T12:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1833106743272022323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833106743272022323",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1833104522668847439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 话说你是什么专业的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3684,
+          "following_count": 223,
+          "like_count": 16544,
+          "listed_count": 8,
+          "tweet_count": 16911
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T12:35:57.000Z",
+        "description": "苍天给了我一条光秃秃的生路，却并没给我一粒走完这条生路需要的干粮",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/junesinary_gma…",
+                "end": 23,
+                "expanded_url": "https://t.me/junesinary_gmail_com",
+                "start": 0,
+                "url": "https://t.co/MkqyLPKhdB"
+              }
+            ]
+          }
+        },
+        "id": "1736364540722589696",
+        "name": "June Sinary(^v^)🏳️‍⚧️🦊🌈🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1833059756098953427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736364611732111360/Blnt1UmE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 227,
+          "like_count": 585,
+          "listed_count": 0,
+          "tweet_count": 803
+        },
+        "url": "https://t.co/MkqyLPKhdB",
+        "username": "JuneSinary",
+        "verified": false
+      }
+    ]
+  }
+}

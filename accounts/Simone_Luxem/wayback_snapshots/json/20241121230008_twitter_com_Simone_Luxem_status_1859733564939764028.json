@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1859702644039614606",
+    "created_at": "2024-11-21T23:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T00:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859733564939764028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1574491477543206912",
+          "start": 0,
+          "username": "AomameYe"
+        },
+        {
+          "end": 19,
+          "id": "1846477785801330688",
+          "start": 10,
+          "username": "Lisp_Cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859733564939764028",
+    "in_reply_to_user_id": "1574491477543206912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859702644039614606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AomameYe @Lisp_Cat 宝…那玩意是小黄黑，知名troll…你认真瞅它说的一个字都给它脸了的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1859702644039614606",
+        "created_at": "2024-11-21T23:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T00:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859733564939764028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1574491477543206912",
+              "start": 0,
+              "username": "AomameYe"
+            },
+            {
+              "end": 19,
+              "id": "1846477785801330688",
+              "start": 10,
+              "username": "Lisp_Cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859733564939764028",
+        "in_reply_to_user_id": "1574491477543206912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859702644039614606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AomameYe @Lisp_Cat 宝…那玩意是小黄黑，知名troll…你认真瞅它说的一个字都给它脸了的…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1859702642139652096",
+            "3_1859702642324254720",
+            "3_1859702642303172608",
+            "3_1859702642319974400"
+          ]
+        },
+        "author_id": "1574491477543206912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1859702644039614606",
+        "created_at": "2024-11-21T20:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T21:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859702644039614606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 142,
+              "id": "1846477785801330688",
+              "start": 133,
+              "username": "Lisp_Cat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6WlSnU4uP",
+              "end": 166,
+              "expanded_url": "https://x.com/AomameYe/status/1859702644039614606/photo/1",
+              "media_key": "3_1859702642139652096",
+              "start": 143,
+              "url": "https://t.co/a6WlSnU4uP"
+            },
+            {
+              "display_url": "pic.x.com/a6WlSnU4uP",
+              "end": 166,
+              "expanded_url": "https://x.com/AomameYe/status/1859702644039614606/photo/1",
+              "media_key": "3_1859702642324254720",
+              "start": 143,
+              "url": "https://t.co/a6WlSnU4uP"
+            },
+            {
+              "display_url": "pic.x.com/a6WlSnU4uP",
+              "end": 166,
+              "expanded_url": "https://x.com/AomameYe/status/1859702644039614606/photo/1",
+              "media_key": "3_1859702642303172608",
+              "start": 143,
+              "url": "https://t.co/a6WlSnU4uP"
+            },
+            {
+              "display_url": "pic.x.com/a6WlSnU4uP",
+              "end": 166,
+              "expanded_url": "https://x.com/AomameYe/status/1859702644039614606/photo/1",
+              "media_key": "3_1859702642319974400",
+              "start": 143,
+              "url": "https://t.co/a6WlSnU4uP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859702644039614606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加拿大有很多社群和公益组织，有的针对移民，有的针对跨性别群体，加强社会联系可以有效减轻焦虑、抑郁和孤独感。教育产业化以及向国际学生征收的高额学费的确是一种掠夺，目前的就业环境和移民前景也很糟糕，但也没必要因为现政府治下的情况不理想就全盘否定这个国家曾经所代表的一切。@Lisp_Cat https://t.co/a6WlSnU4uP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3873,
+          "following_count": 223,
+          "like_count": 18011,
+          "listed_count": 11,
+          "tweet_count": 17851
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T20:10:07.000Z",
+        "description": "昵称青豆(she/her)🧘‍♀️\n\n南无阿弥陀佛📿\n\n健康第一 家内安全 その次あいみょん🦭\n\n2SLGBTQIA+ 🏳️‍🌈\n\nTransgender people are valid 🏳️‍⚧️",
+        "id": "1574491477543206912",
+        "location": "Montréal, Québec",
+        "name": "ポストの中🦭☁︎ モントリオールAIM☁︎",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846130252558327808/I7k9ICCq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 224,
+          "like_count": 20150,
+          "listed_count": 3,
+          "tweet_count": 1882
+        },
+        "username": "AomameYe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-16T09:06:36.000Z",
+        "description": "",
+        "id": "1846477785801330688",
+        "name": "Lisp猫🇨🇦🟡⚫️🍥",
+        "pinned_tweet_id": "1850127447443825060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1846480123186302977/qsRaTwM__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 58,
+          "like_count": 1255,
+          "listed_count": 0,
+          "tweet_count": 466
+        },
+        "username": "Lisp_Cat",
+        "verified": false
+      }
+    ]
+  }
+}

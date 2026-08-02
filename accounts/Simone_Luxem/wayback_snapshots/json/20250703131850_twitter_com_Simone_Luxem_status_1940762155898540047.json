@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1940761526325202947",
+    "created_at": "2025-07-03T13:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T14:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940762155898540047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1211879989995421696",
+          "start": 0,
+          "username": "medicagoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940762155898540047",
+    "in_reply_to_user_id": "1211879989995421696",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940761526325202947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@medicagoo pat pat"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1940761526325202947",
+        "created_at": "2025-07-03T13:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T14:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940762155898540047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1211879989995421696",
+              "start": 0,
+              "username": "medicagoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940762155898540047",
+        "in_reply_to_user_id": "1211879989995421696",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940761526325202947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@medicagoo pat pat"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1211879989995421696",
+        "conversation_id": "1940761526325202947",
+        "created_at": "2025-07-03T13:16:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T14:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940761526325202947"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1940761526325202947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好像农村的可怜小土狗\n缺爱又无助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339,
+          "following_count": 219,
+          "like_count": 20942,
+          "listed_count": 12,
+          "media_count": 1614,
+          "tweet_count": 19810
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T05:21:31.000Z",
+        "description": "she/her，无需回fo。\n人生多是徒劳。\n空闲可接论文单子。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medicago.top",
+                "end": 23,
+                "expanded_url": "https://medicago.top/",
+                "start": 0,
+                "url": "https://t.co/yXqadddKGh"
+              }
+            ]
+          }
+        },
+        "id": "1211879989995421696",
+        "name": "🎀楠沐雪🌰🍫",
+        "pinned_tweet_id": "1916183218711367742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925255405225267200/Xt-IHs-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582,
+          "following_count": 669,
+          "like_count": 9420,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 2549
+        },
+        "url": "https://t.co/yXqadddKGh",
+        "username": "medicagoo",
+        "verified": false
+      }
+    ]
+  }
+}

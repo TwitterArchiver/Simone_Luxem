@@ -1,0 +1,272 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1796641331034587463",
+    "created_at": "2024-06-01T22:41:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T23:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1797035827207213411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1361856317703393282",
+          "start": 0,
+          "username": "ThrumboABBBAA"
+        },
+        {
+          "end": 28,
+          "id": "1502654786453204994",
+          "start": 15,
+          "username": "uranus_chaos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797035827207213411",
+    "in_reply_to_user_id": "1361856317703393282",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797035386272886821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThrumboABBBAA @uranus_chaos 可是这堆引号让我以为它在引用什么东西…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1796641331034587463",
+        "created_at": "2024-06-01T22:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T23:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797035827207213411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1361856317703393282",
+              "start": 0,
+              "username": "ThrumboABBBAA"
+            },
+            {
+              "end": 28,
+              "id": "1502654786453204994",
+              "start": 15,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797035827207213411",
+        "in_reply_to_user_id": "1361856317703393282",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797035386272886821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThrumboABBBAA @uranus_chaos 可是这堆引号让我以为它在引用什么东西…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1361856317703393282",
+        "conversation_id": "1796641331034587463",
+        "created_at": "2024-06-01T22:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T23:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1797035386272886821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            },
+            {
+              "end": 27,
+              "id": "1502654786453204994",
+              "start": 14,
+              "username": "uranus_chaos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797035386272886821",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796914959768531123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem @uranus_chaos 意思就是你投胎的时候检定没过，给你机会你不中用，因此下达敕令“这一切都是你自己的选择，不得有任何抱怨、不满、愤恨、自暴自弃”。一般的神棍尚且会说“上帝爱你”、“无论经历了多少轮回，佛永远等着你回头”，而这邪神的信徒已经开始赤裸裸的审判了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3213,
+          "following_count": 220,
+          "like_count": 13726,
+          "listed_count": 10,
+          "tweet_count": 15370
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-17T01:54:59.000Z",
+        "description": "使用暗属性魔法和破墙斧的萝莉控大叔",
+        "id": "1361856317703393282",
+        "location": "Cepheus",
+        "name": "猫目敲子",
+        "pinned_tweet_id": "1717596341365613014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1619609079063916544/d_XCoklC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 1712,
+          "like_count": 23967,
+          "listed_count": 8,
+          "tweet_count": 6766
+        },
+        "username": "ThrumboABBBAA",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-12T14:36:45.000Z",
+        "description": "拯救，陪伴，热爱，绝不抛弃。弟弟：@glassflowers13 ‖ 伴星：@usaginekome ‖药学毕业/医学生/护理学毕业/心理学二专‖单恋@gozZoazYckXOXcW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 17,
+                "username": "glassflowers13"
+              },
+              {
+                "end": 50,
+                "start": 38,
+                "username": "usaginekome"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "gozZoazYckXOXcW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mtf_great",
+                "end": 23,
+                "expanded_url": "https://t.me/mtf_great",
+                "start": 0,
+                "url": "https://t.co/ResOORYIIS"
+              }
+            ]
+          }
+        },
+        "id": "1502654786453204994",
+        "location": "是一个无条件接受倾诉的树洞，休息时间是a.m 01：00。",
+        "name": "小诺喵🍥🏴🏳️‍🌈【学术推】【南河三】【cn夢見猫】",
+        "pinned_tweet_id": "1738293074215026803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770688626776752128/wJvCr3Mc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 235,
+          "like_count": 17399,
+          "listed_count": 0,
+          "tweet_count": 4995
+        },
+        "url": "https://t.co/ResOORYIIS",
+        "username": "uranus_chaos",
+        "verified": false
+      }
+    ]
+  }
+}

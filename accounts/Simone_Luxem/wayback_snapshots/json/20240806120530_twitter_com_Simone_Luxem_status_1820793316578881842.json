@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1820792109936382104",
+    "created_at": "2024-08-06T12:05:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T13:05:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820793316578881842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1126154089216262145",
+          "start": 0,
+          "username": "ArtsEpiphany1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820793316578881842",
+    "in_reply_to_user_id": "1126154089216262145",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820792109936382104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArtsEpiphany1 威悉河？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1820792109936382104",
+        "created_at": "2024-08-06T12:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T13:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820793316578881842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsEpiphany1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820793316578881842",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820792109936382104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsEpiphany1 威悉河？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1126154089216262145",
+        "conversation_id": "1820792109936382104",
+        "created_at": "2024-08-06T12:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T13:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820792109936382104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820792109936382104",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天小组讨论新的超算叫什么名字~\n\n本来想叫Suraimu或者 Rimuru 或者 Yuki之类的，但是现在还是更喜欢地名（山，河流，等等）\n\nhmmm 第一次有权利参与命名~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3457,
+          "following_count": 224,
+          "like_count": 15783,
+          "listed_count": 8,
+          "tweet_count": 16371
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. White is light.  Traveller. Computer Architect. HPC/AI Product Architect at @NVIDIA. Negative altitude by birth. Opinions are own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 99,
+                "username": "NVIDIA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimuroslime",
+                "end": 23,
+                "expanded_url": "https://t.me/rimuroslime",
+                "start": 0,
+                "url": "https://t.co/Xo0VOQVwy0"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu 🍡 スライム 史莱姆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812487423055544320/ZKqdlB-3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9927,
+          "following_count": 1379,
+          "like_count": 77278,
+          "listed_count": 52,
+          "tweet_count": 18962
+        },
+        "url": "https://t.co/Xo0VOQVwy0",
+        "username": "ArtsEpiphany1",
+        "verified": true
+      }
+    ]
+  }
+}

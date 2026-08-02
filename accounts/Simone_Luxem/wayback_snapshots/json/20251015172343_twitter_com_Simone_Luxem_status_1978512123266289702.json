@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1978496486506655744"
+      ],
+      "media_source_tweet_id": [
+        "1978496513031467258"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1978512123266289702",
+    "created_at": "2025-10-15T17:23:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T18:23:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978512123266289702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4752010152",
+          "start": 3,
+          "username": "garrulous_abyss"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/S8v9ga5f9b",
+          "end": 100,
+          "expanded_url": "https://x.com/garrulous_abyss/status/1978496513031467258/photo/1",
+          "media_key": "3_1978496486506655744",
+          "start": 77,
+          "url": "https://t.co/S8v9ga5f9b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978512123266289702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978496513031467258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @garrulous_abyss: 有一位跨性别mtf的推友，她将去德国留学。现在想要请问各位推友，有谁知道德国的hrt相关详细的吗？（详情见图） https://t.co/S8v9ga5f9b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1026,
+        "media_key": "3_1978496486506655744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3UIEmuWcAAc3nQ.jpg",
+        "width": 1368
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978496486506655744"
+          ],
+          "media_source_tweet_id": [
+            "1978496513031467258"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1978512123266289702",
+        "created_at": "2025-10-15T17:23:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T18:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978512123266289702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4752010152",
+              "start": 3,
+              "username": "garrulous_abyss"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8v9ga5f9b",
+              "end": 100,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1978496513031467258/photo/1",
+              "media_key": "3_1978496486506655744",
+              "start": 77,
+              "url": "https://t.co/S8v9ga5f9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978512123266289702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978496513031467258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @garrulous_abyss: 有一位跨性别mtf的推友，她将去德国留学。现在想要请问各位推友，有谁知道德国的hrt相关详细的吗？（详情见图） https://t.co/S8v9ga5f9b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978496486506655744"
+          ]
+        },
+        "author_id": "4752010152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1978496513031467258",
+        "created_at": "2025-10-15T16:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T17:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978496513031467258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S8v9ga5f9b",
+              "end": 79,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1978496513031467258/photo/1",
+              "media_key": "3_1978496486506655744",
+              "start": 56,
+              "url": "https://t.co/S8v9ga5f9b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978496513031467258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 570,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有一位跨性别mtf的推友，她将去德国留学。现在想要请问各位推友，有谁知道德国的hrt相关详细的吗？（详情见图） https://t.co/S8v9ga5f9b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4788,
+          "following_count": 218,
+          "like_count": 22685,
+          "listed_count": 13,
+          "media_count": 1675,
+          "tweet_count": 20555
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 138,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 115,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29936,
+          "following_count": 3622,
+          "like_count": 163989,
+          "listed_count": 102,
+          "media_count": 3613,
+          "tweet_count": 60565
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

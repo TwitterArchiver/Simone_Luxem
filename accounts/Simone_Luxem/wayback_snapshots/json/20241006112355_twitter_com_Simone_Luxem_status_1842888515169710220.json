@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1842729099858420008",
+    "created_at": "2024-10-06T11:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T12:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842888515169710220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1765085755251269632",
+          "start": 0,
+          "username": "fakezhaozhao"
+        },
+        {
+          "end": 28,
+          "id": "1126154089216262145",
+          "start": 14,
+          "username": "ArtsEpiphany1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842888515169710220",
+    "in_reply_to_user_id": "1765085755251269632",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842834379849994578",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fakezhaozhao @ArtsEpiphany1 啊我的给cover呀…你用的是哪家的？AoN嘛？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1842729099858420008",
+        "created_at": "2024-10-06T11:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T12:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842888515169710220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1765085755251269632",
+              "start": 0,
+              "username": "fakezhaozhao"
+            },
+            {
+              "end": 28,
+              "id": "1126154089216262145",
+              "start": 14,
+              "username": "ArtsEpiphany1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842888515169710220",
+        "in_reply_to_user_id": "1765085755251269632",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842834379849994578",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fakezhaozhao @ArtsEpiphany1 啊我的给cover呀…你用的是哪家的？AoN嘛？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765085755251269632",
+        "conversation_id": "1842729099858420008",
+        "created_at": "2024-10-06T07:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T08:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842834379849994578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsEpiphany1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842834379849994578",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842758288557175262",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsEpiphany1 學生保險都不給cover"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3772,
+          "following_count": 223,
+          "like_count": 17354,
+          "listed_count": 9,
+          "tweet_count": 17313
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T18:44:26.000Z",
+        "description": "MTF🏳️‍⚧️｜在荷蘭唸大學部｜NTU肄業｜資工｜想成為電神｜也是文學少女｜喜歡音樂區｜我病著與生俱來的反骨｜同類貼貼",
+        "id": "1765085755251269632",
+        "name": "昭昭🏳️‍⚧️",
+        "pinned_tweet_id": "1765099090805928002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765086177147965440/6PJGa-dL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 293,
+          "like_count": 1061,
+          "listed_count": 0,
+          "tweet_count": 341
+        },
+        "username": "fakezhaozhao",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. White is light.  ISTJ?. Traveller. Computer Architect. HPC/AI Product Architect at @NVIDIA. Negative altitude by birth. Opinions are own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 106,
+                "username": "NVIDIA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimuroslime",
+                "end": 23,
+                "expanded_url": "https://t.me/rimuroslime",
+                "start": 0,
+                "url": "https://t.co/Xo0VOQVwy0"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu 🍡 スライム 史莱姆",
+        "pinned_tweet_id": "1824357556019495152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821092124789452800/4mIEouA4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10282,
+          "following_count": 1417,
+          "like_count": 80850,
+          "listed_count": 51,
+          "tweet_count": 20767
+        },
+        "url": "https://t.co/Xo0VOQVwy0",
+        "username": "ArtsEpiphany1",
+        "verified": true
+      }
+    ]
+  }
+}

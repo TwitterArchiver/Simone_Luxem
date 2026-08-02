@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2082045262953054219",
+    "created_at": "2026-07-28T10:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T11:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082045262953054219"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yifu0753/statu…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/yifu0753/status/2082019894640709685",
+          "start": 27,
+          "url": "https://t.co/kqxTggrsW7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082045262953054219",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082019894640709685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个陈述与事实不符，请大家不要相信其与它人相关的陈述 https://t.co/kqxTggrsW7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2082019876236091392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOTSC-Ja4AAMNyM.jpg",
+        "width": 2252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2082045262953054219",
+        "created_at": "2026-07-28T10:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T11:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082045262953054219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yifu0753/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/yifu0753/status/2082019894640709685",
+              "start": 27,
+              "url": "https://t.co/kqxTggrsW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082045262953054219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082019894640709685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个陈述与事实不符，请大家不要相信其与它人相关的陈述 https://t.co/kqxTggrsW7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082019876236091392"
+          ]
+        },
+        "author_id": "1668693781791784961",
+        "conversation_id": "2082019894640709685",
+        "created_at": "2026-07-28T08:26:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T09:26:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082019894640709685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XhPnBm4La",
+              "end": 103,
+              "expanded_url": "https://x.com/yifu0753/status/2082019894640709685/photo/1",
+              "media_key": "3_2082019876236091392",
+              "start": 80,
+              "url": "https://t.co/5XhPnBm4La"
+            },
+            {
+              "display_url": "x.com/yifu0753/statu…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/yifu0753/status/2077144443153711247",
+              "start": 104,
+              "url": "https://t.co/rDlcqARIVO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082019894640709685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 410,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077144443153711247",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事发之后，bys让我不要追究。受到了多位人员的威胁。并且说帮我的人是有政治目的。让我删帖\n在明觉，晨曦，以及牧鸢等人的帮助和支持下。违法行为人已经被关进去三天 https://t.co/5XhPnBm4La https://t.co/rDlcqARIVO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6245,
+          "following_count": 219,
+          "like_count": 25036,
+          "listed_count": 16,
+          "media_count": 1796,
+          "tweet_count": 21816
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-13T18:56:31.000Z",
+        "description": "姐姐 持证含糖 友顺跨女🏳‍⚧ 刚才抢救室出来。背负债务离家出走中…… 好咸好苦 正在寻找人生的意义……",
+        "id": "1668693781791784961",
+        "location": "广州市",
+        "name": "伊芙🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080706334484500480/jz4mL1lO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1438,
+          "following_count": 1397,
+          "like_count": 8980,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 2282
+        },
+        "url": "",
+        "username": "yifu0753",
+        "verified": false
+      }
+    ]
+  }
+}

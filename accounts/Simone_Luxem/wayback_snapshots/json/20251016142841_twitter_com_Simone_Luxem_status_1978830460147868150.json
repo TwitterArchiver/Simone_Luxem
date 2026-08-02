@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1978586835707203978",
+    "created_at": "2025-10-16T14:28:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T15:28:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978830460147868150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1060842677464252416",
+          "start": 0,
+          "username": "maho_citrus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978830460147868150",
+    "in_reply_to_user_id": "1060842677464252416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978713770449838519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maho_citrus 其实大概是自己一直都有一点…潜藏的吧…只不过最近接触的医疗场景比较多可能被比较频繁地刺激然后展现出来了吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1978586835707203978",
+        "created_at": "2025-10-16T14:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T15:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978830460147868150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1060842677464252416",
+              "start": 0,
+              "username": "maho_citrus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978830460147868150",
+        "in_reply_to_user_id": "1060842677464252416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978713770449838519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maho_citrus 其实大概是自己一直都有一点…潜藏的吧…只不过最近接触的医疗场景比较多可能被比较频繁地刺激然后展现出来了吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1060842677464252416",
+        "conversation_id": "1978586835707203978",
+        "created_at": "2025-10-16T06:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T07:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978713770449838519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978713770449838519",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978586835707203978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem srs导致的（？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5171,
+          "following_count": 218,
+          "like_count": 22692,
+          "listed_count": 15,
+          "media_count": 1675,
+          "tweet_count": 20558
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-09T10:32:58.000Z",
+        "description": "mtf，但男相男性穿搭不rle且bmi超重。请不要对我有任何幻想，魔法少女只是一种精神状态。",
+        "id": "1060842677464252416",
+        "location": "The Earth",
+        "name": "魔法少女橙昔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1267972340001828864/MX-QXiT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 48,
+          "like_count": 108,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 43
+        },
+        "username": "maho_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

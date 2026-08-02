@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1909884548407579133",
+    "created_at": "2025-04-09T08:22:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-09T09:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909884548407579133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kirarettosei/s…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/kirarettosei/status/1909730361137135739",
+          "start": 58,
+          "url": "https://t.co/CtfWnnGVoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909884548407579133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909730361137135739",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "反对\n在任何情况下，学校作为教育和学术机构都不应该（理应），因为除学术不端之类的违背基础学术伦理的理由开除任何学生 https://t.co/CtfWnnGVoe"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1909730361137135739].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1909730361137135739",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1909730361137135739"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1909884548407579133",
+        "created_at": "2025-04-09T08:22:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T09:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909884548407579133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kirarettosei/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/kirarettosei/status/1909730361137135739",
+              "start": 58,
+              "url": "https://t.co/CtfWnnGVoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909884548407579133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909730361137135739",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "反对\n在任何情况下，学校作为教育和学术机构都不应该（理应），因为除学术不端之类的违背基础学术伦理的理由开除任何学生 https://t.co/CtfWnnGVoe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4111,
+          "following_count": 219,
+          "like_count": 19948,
+          "listed_count": 11,
+          "media_count": 1518,
+          "tweet_count": 18996
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

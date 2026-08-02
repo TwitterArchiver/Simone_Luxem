@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1938209205183193147",
+    "created_at": "2025-06-26T14:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T15:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938239072012497272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1401039168046723073",
+          "start": 0,
+          "username": "Hougetsu410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938239072012497272",
+    "in_reply_to_user_id": "1401039168046723073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938237309239148699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hougetsu410 唔从绝对数量上来说似乎也没有那么多吧，至少我遇上的我有那么多，这么多年也就遇到个位数的…\n但考虑到我自己对外界非常不敏感的属性，基本上除非跳脸不然完全察觉不到，实际上的数量应该比这个多…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1938209205183193147",
+        "created_at": "2025-06-26T14:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938239072012497272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1401039168046723073",
+              "start": 0,
+              "username": "Hougetsu410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938239072012497272",
+        "in_reply_to_user_id": "1401039168046723073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938237309239148699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hougetsu410 唔从绝对数量上来说似乎也没有那么多吧，至少我遇上的我有那么多，这么多年也就遇到个位数的…\n但考虑到我自己对外界非常不敏感的属性，基本上除非跳脸不然完全察觉不到，实际上的数量应该比这个多…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401039168046723073",
+        "conversation_id": "1938209205183193147",
+        "created_at": "2025-06-26T14:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T15:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938237309239148699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938237309239148699",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938209205183193147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 听说似乎那边白男种族歧视别人还有点多？是真的莫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4309,
+          "following_count": 220,
+          "like_count": 20733,
+          "listed_count": 12,
+          "media_count": 1605,
+          "tweet_count": 19723
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-05T04:52:35.000Z",
+        "description": "百合厨，喜欢看动物风景啥的\nA Chinese yuri fan. (and lgbtq+ friendly as well)\nI like sceneries (especially ones with snow!!) and pets(〃'▽'〃)",
+        "id": "1401039168046723073",
+        "name": "思梦乐しまむら🌹",
+        "pinned_tweet_id": "1664306113859432450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874981827737530368/mScKHfaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 291,
+          "like_count": 58653,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 1199
+        },
+        "username": "Hougetsu410",
+        "verified": false
+      }
+    ]
+  }
+}

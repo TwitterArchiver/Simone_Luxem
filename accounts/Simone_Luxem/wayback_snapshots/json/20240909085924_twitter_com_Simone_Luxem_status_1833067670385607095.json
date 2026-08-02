@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1833067670385607095",
+    "created_at": "2024-09-09T08:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-09T09:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1833067670385607095"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lostlanding/st…",
+          "end": 127,
+          "expanded_url": "https://twitter.com/lostlanding/status/1832771753833296006",
+          "start": 104,
+          "url": "https://t.co/HZ4ZKqTYMb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1833067670385607095",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832771753833296006",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "退一万步讲，中国的“军训”和“军事训练”有个毛球关系啊…都不说枪械载具了，哪怕你教点实用的徒手格斗呢…\n而且你要说贵族精神的话，那你可是有义务要保护其它人免受暴君和僭主的奴役，有义务要亲自反抗暴君和僭主的… https://t.co/HZ4ZKqTYMb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1833067670385607095",
+        "created_at": "2024-09-09T08:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-09T09:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1833067670385607095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lostlanding/st…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/lostlanding/status/1832771753833296006",
+              "start": 104,
+              "url": "https://t.co/HZ4ZKqTYMb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1833067670385607095",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832771753833296006",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "退一万步讲，中国的“军训”和“军事训练”有个毛球关系啊…都不说枪械载具了，哪怕你教点实用的徒手格斗呢…\n而且你要说贵族精神的话，那你可是有义务要保护其它人免受暴君和僭主的奴役，有义务要亲自反抗暴君和僭主的… https://t.co/HZ4ZKqTYMb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "792351789718708224",
+        "conversation_id": "1832771753833296006",
+        "created_at": "2024-09-08T13:23:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-08T14:23:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832771753833296006"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/luckin030/stat…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/luckin030/status/1832384137615044786",
+              "start": 24,
+              "url": "https://t.co/9dee6uEzlN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832771753833296006",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 22844,
+          "like_count": 70,
+          "quote_count": 17,
+          "reply_count": 66,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832384137615044786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "缺乏贵族精神的人永远不会懂军事训练的真正意义。 https://t.co/9dee6uEzlN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3684,
+          "following_count": 223,
+          "like_count": 16537,
+          "listed_count": 8,
+          "tweet_count": 16905
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-29T13:06:02.000Z",
+        "description": "gone with the wind。",
+        "id": "792351789718708224",
+        "location": "Minato-ku, Tokyo",
+        "name": "Leonardo的城堡",
+        "pinned_tweet_id": "1780789020110495808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810886507940696064/CFCNY7QJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9384,
+          "following_count": 770,
+          "like_count": 10624,
+          "listed_count": 120,
+          "tweet_count": 27150
+        },
+        "username": "Lostlanding",
+        "verified": false
+      }
+    ]
+  }
+}

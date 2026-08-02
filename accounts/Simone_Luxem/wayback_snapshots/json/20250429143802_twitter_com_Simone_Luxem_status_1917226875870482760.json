@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1917137827982196880",
+    "created_at": "2025-04-29T14:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T15:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917226875870482760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1021317681406869505",
+          "start": 0,
+          "username": "ILoveLittlePigs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917226875870482760",
+    "in_reply_to_user_id": "1021317681406869505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917137827982196880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ILoveLittlePigs 能，看情况，能（即答）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1917137827982196880",
+        "created_at": "2025-04-29T14:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T15:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917226875870482760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1021317681406869505",
+              "start": 0,
+              "username": "ILoveLittlePigs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917226875870482760",
+        "in_reply_to_user_id": "1021317681406869505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917137827982196880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ILoveLittlePigs 能，看情况，能（即答）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1021317681406869505",
+        "conversation_id": "1917137827982196880",
+        "created_at": "2025-04-29T08:44:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T09:44:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917137827982196880"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917137827982196880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 272,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "穷人偷东西能被原谅吗？\n外卖员骂打差评的顾客能被宽容吗？\n同志隐瞒性向进入异性婚姻能被理解吗？\n……\n\n总有好事者喜欢钻研弱势者的这些道德困境，但这恰恰最没意义：道德又如何，这些难道是好事吗？不道德又如何，难道ta们能轻松做别的选择吗？\n\n真正有意义的问题是：是什么让ta们陷入了这种困境？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4173,
+          "following_count": 220,
+          "like_count": 20013,
+          "listed_count": 12,
+          "media_count": 1536,
+          "tweet_count": 19181
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-23T08:54:45.000Z",
+        "description": "Asian gay. Trans ally. Proud AuDHDer. Militant mental health advocate. Intersectional feminist. Anti-imperialist. Populist progressivist. 致力于在中文圈推动有人性温度的进步政治。",
+        "id": "1021317681406869505",
+        "name": "ProgressivePiggy🌹🏳️‍🌈🏳️‍⚧️🇳🇫🇵🇸🇱🇧🇺🇦🇦🇲",
+        "pinned_tweet_id": "1914212677976547359",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1551378875095056384/sEa4SUxv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 1569,
+          "like_count": 16488,
+          "listed_count": 4,
+          "media_count": 124,
+          "tweet_count": 6577
+        },
+        "username": "ILoveLittlePigs",
+        "verified": false
+      }
+    ]
+  }
+}

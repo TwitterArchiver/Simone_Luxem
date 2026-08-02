@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1999587791127347620",
+    "created_at": "2025-12-12T21:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T22:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999587791127347620"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/3c3ahuangyou/s…",
+          "end": 142,
+          "expanded_url": "https://twitter.com/3c3ahuangyou/status/1999069578874458215",
+          "start": 119,
+          "url": "https://t.co/8k0PLOIGrf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999587791127347620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999069578874458215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶别的搞得我有点想这么搞一出，不过我与其头套更喜欢面具，然后再找一个人在暗处录像，不是录我，而是录我面前路过的人的百态\n然后第二天两个人交换，牌子上改成“我没有艾滋病，可你愿意给艾滋病人一个拥抱吗”，然后我再在暗处录其面前经过的人的百态 https://t.co/8k0PLOIGrf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999069562965463040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74fLQ3aEAA2a0Y.jpg",
+        "width": 1123
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999069563116515328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74fLRba8AAvMCP.jpg",
+        "width": 1183
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1999069570083213312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74fLrYaUAAAKAT.jpg",
+        "width": 1172
+      },
+      {
+        "height": 2141,
+        "media_key": "3_1999069575946874880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74fMBOasAASuNO.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1999587791127347620",
+        "created_at": "2025-12-12T21:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T22:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999587791127347620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/3c3ahuangyou/s…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/3c3ahuangyou/status/1999069578874458215",
+              "start": 119,
+              "url": "https://t.co/8k0PLOIGrf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999587791127347620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999069578874458215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶别的搞得我有点想这么搞一出，不过我与其头套更喜欢面具，然后再找一个人在暗处录像，不是录我，而是录我面前路过的人的百态\n然后第二天两个人交换，牌子上改成“我没有艾滋病，可你愿意给艾滋病人一个拥抱吗”，然后我再在暗处录其面前经过的人的百态 https://t.co/8k0PLOIGrf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999069562965463040",
+            "3_1999069563116515328",
+            "3_1999069570083213312",
+            "3_1999069575946874880"
+          ]
+        },
+        "author_id": "1555961306913689600",
+        "conversation_id": "1999069578874458215",
+        "created_at": "2025-12-11T10:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T11:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999069578874458215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aOq5uPBKAn",
+              "end": 82,
+              "expanded_url": "https://x.com/3C3AHuangYou/status/1999069578874458215/photo/1",
+              "media_key": "3_1999069562965463040",
+              "start": 59,
+              "url": "https://t.co/aOq5uPBKAn"
+            },
+            {
+              "display_url": "pic.x.com/aOq5uPBKAn",
+              "end": 82,
+              "expanded_url": "https://x.com/3C3AHuangYou/status/1999069578874458215/photo/1",
+              "media_key": "3_1999069563116515328",
+              "start": 59,
+              "url": "https://t.co/aOq5uPBKAn"
+            },
+            {
+              "display_url": "pic.x.com/aOq5uPBKAn",
+              "end": 82,
+              "expanded_url": "https://x.com/3C3AHuangYou/status/1999069578874458215/photo/1",
+              "media_key": "3_1999069570083213312",
+              "start": 59,
+              "url": "https://t.co/aOq5uPBKAn"
+            },
+            {
+              "display_url": "pic.x.com/aOq5uPBKAn",
+              "end": 82,
+              "expanded_url": "https://x.com/3C3AHuangYou/status/1999069578874458215/photo/1",
+              "media_key": "3_1999069575946874880",
+              "start": 59,
+              "url": "https://t.co/aOq5uPBKAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999069578874458215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 20249,
+          "like_count": 254,
+          "quote_count": 5,
+          "reply_count": 40,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "这就是简中，永远恶意猜想少数人群，觉得全世界“不正常”的人类个体都是“咎由自取”，觉得自己永远不会成为那个“少数者” https://t.co/aOq5uPBKAn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5972,
+          "following_count": 216,
+          "like_count": 23182,
+          "listed_count": 18,
+          "media_count": 1716,
+          "tweet_count": 20973
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-06T16:57:47.000Z",
+        "description": "我常怀悲缅 而苦难绵延大地  如风吹过林间  赓继如缕 累续无绝                                                                                                我燃尽的灰  @ButterInnerSide",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 135,
+                "username": "ButterInnerSide"
+              }
+            ]
+          }
+        },
+        "id": "1555961306913689600",
+        "location": "微笑的尸山",
+        "name": "人造黄油➡️no where",
+        "pinned_tweet_id": "1923079056955687153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921217447677644800/MuCe2H0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6878,
+          "following_count": 2717,
+          "like_count": 143376,
+          "listed_count": 11,
+          "media_count": 1710,
+          "tweet_count": 25845
+        },
+        "username": "3C3AHuangYou",
+        "verified": false
+      }
+    ]
+  }
+}

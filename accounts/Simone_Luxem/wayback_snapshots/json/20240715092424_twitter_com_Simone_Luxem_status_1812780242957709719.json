@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1812779890107711845",
+    "created_at": "2024-07-15T09:24:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T10:24:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812780242957709719"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1812780242957709719",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812779890107711845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以也算某种程度上的自作自受了..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1812779890107711845",
+        "created_at": "2024-07-15T09:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T10:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812780242957709719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1812780242957709719",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812779890107711845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以也算某种程度上的自作自受了..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1812779890107711845",
+        "created_at": "2024-07-15T09:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T10:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812779890107711845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Simone_Luxem/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1812773280467533838",
+              "start": 141,
+              "url": "https://t.co/F2APj3epG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812779890107711845",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812773280467533838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来自己很多时候很占大头的抑郁的来源,大概就是自己对很多事情都是“早已预见”,甚至一步步看着它按照自己预见地发展,却无力去干涉的无力感吧...甚至有时候会想这种预见能力会不会是对自己的某种诅咒什么的...不过大概让自己选的话,自己也宁愿选可以预见却无力干涉也不愿意选无知吧... https://t.co/F2APj3epG7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3382,
+          "following_count": 221,
+          "like_count": 15223,
+          "listed_count": 8,
+          "tweet_count": 16034
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

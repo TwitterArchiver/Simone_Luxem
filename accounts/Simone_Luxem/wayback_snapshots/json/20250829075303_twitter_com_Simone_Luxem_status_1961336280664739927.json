@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1961330943945330938",
+    "created_at": "2025-08-29T07:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T08:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961336280664739927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1429405137198452736",
+          "start": 0,
+          "username": "Oriyuki2022"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961336280664739927",
+    "in_reply_to_user_id": "1429405137198452736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961335472065843377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oriyuki2022 我还真不记得，寒有几个前任我觉得我还是有数的。还真没听说过它把哪个前任开了\n至于第一条，评价是信这个不如信我是朱三太子，用所谓的黑市老板聊天记录还是没头没尾就一句话的，你咋不去清蒸取证呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_1961335463438069760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgQNl-aMAAAMrY.jpg",
+        "width": 750
+      },
+      {
+        "height": 752,
+        "media_key": "3_1961335463417188354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzgQNl5bkAITMXt.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1961330943945330938",
+        "created_at": "2025-08-29T07:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T08:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961336280664739927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1429405137198452736",
+              "start": 0,
+              "username": "Oriyuki2022"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961336280664739927",
+        "in_reply_to_user_id": "1429405137198452736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961335472065843377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oriyuki2022 我还真不记得，寒有几个前任我觉得我还是有数的。还真没听说过它把哪个前任开了\n至于第一条，评价是信这个不如信我是朱三太子，用所谓的黑市老板聊天记录还是没头没尾就一句话的，你咋不去清蒸取证呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961335463438069760",
+            "3_1961335463417188354"
+          ]
+        },
+        "author_id": "1429405137198452736",
+        "conversation_id": "1961330943945330938",
+        "created_at": "2025-08-29T07:49:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T08:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961335472065843377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cj8QhkCfD5",
+              "end": 76,
+              "expanded_url": "https://x.com/Oriyuki2022/status/1961335472065843377/photo/1",
+              "media_key": "3_1961335463438069760",
+              "start": 53,
+              "url": "https://t.co/cj8QhkCfD5"
+            },
+            {
+              "display_url": "pic.x.com/cj8QhkCfD5",
+              "end": 76,
+              "expanded_url": "https://x.com/Oriyuki2022/status/1961335472065843377/photo/1",
+              "media_key": "3_1961335463417188354",
+              "start": 53,
+              "url": "https://t.co/cj8QhkCfD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961335472065843377",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961334119851524535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 我找某個著名黑市老闆要到了這家伙的交易詳情…至於寒，你還記得前幾年她開前任嗎 https://t.co/cj8QhkCfD5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4548,
+          "following_count": 221,
+          "like_count": 22270,
+          "listed_count": 13,
+          "media_count": 1653,
+          "tweet_count": 20238
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-22T11:28:44.000Z",
+        "description": "MtF🏳️‍⚧️/🍥/Trans-les/ΟΣΙΝΤ當下手🔎/15嵗/Terminally ill patient🩹/Savant syndrome🥹/📔OIer/学生是 @tankua629 /有效载荷21克/「アリスはほんとうに. 白ウサギを殺していない？」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 86,
+                "username": "tankua629"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/MaiMaiHdd_Hub",
+                "end": 23,
+                "expanded_url": "https://t.me/MaiMaiHdd_Hub",
+                "start": 0,
+                "url": "https://t.co/6lsHDhV7wo"
+              }
+            ]
+          }
+        },
+        "id": "1429405137198452736",
+        "location": "Central Region, Singapore",
+        "name": "Οριγιούκι Σουζουμίγια",
+        "pinned_tweet_id": "1960801689574801673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956272549048016905/n-jvfymc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8749,
+          "following_count": 108,
+          "like_count": 122172,
+          "listed_count": 37,
+          "media_count": 3254,
+          "tweet_count": 19064
+        },
+        "url": "https://t.co/6lsHDhV7wo",
+        "username": "Oriyuki2022",
+        "verified": true
+      }
+    ]
+  }
+}

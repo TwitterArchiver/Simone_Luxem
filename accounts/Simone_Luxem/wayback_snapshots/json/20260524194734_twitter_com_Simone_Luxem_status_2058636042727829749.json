@@ -1,0 +1,512 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2058636042727829749",
+    "created_at": "2026-05-24T19:47:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T20:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058636042727829749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824324977379905537",
+          "start": 3,
+          "username": "siyu060910"
+        },
+        {
+          "end": 63,
+          "id": "1399766153053061121",
+          "start": 55,
+          "username": "premium"
+        },
+        {
+          "end": 66,
+          "id": "783214",
+          "start": 64,
+          "username": "X"
+        },
+        {
+          "end": 74,
+          "id": "95731075",
+          "start": 67,
+          "username": "Safety"
+        },
+        {
+          "end": 100,
+          "id": "1300828282061877249",
+          "start": 87,
+          "username": "HANLIANYI331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058636042727829749",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058609966492360856",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siyu060910: As a Premium user I request escalation @premium @X @Safety \n\nMy friend @hanlianyi331 has been permanently suspended with NO…"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [HANLIANYI331].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "HANLIANYI331",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "HANLIANYI331"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2058636042727829749",
+        "created_at": "2026-05-24T19:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T20:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058636042727829749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824324977379905537",
+              "start": 3,
+              "username": "siyu060910"
+            },
+            {
+              "end": 63,
+              "id": "1399766153053061121",
+              "start": 55,
+              "username": "premium"
+            },
+            {
+              "end": 66,
+              "id": "783214",
+              "start": 64,
+              "username": "X"
+            },
+            {
+              "end": 74,
+              "id": "95731075",
+              "start": 67,
+              "username": "Safety"
+            },
+            {
+              "end": 100,
+              "id": "1300828282061877249",
+              "start": 87,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058636042727829749",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058609966492360856",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siyu060910: As a Premium user I request escalation @premium @X @Safety \n\nMy friend @hanlianyi331 has been permanently suspended with NO…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824324977379905537",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2058609966492360856",
+        "created_at": "2026-05-24T18:03:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T19:03:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058609966492360856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 47,
+              "id": "1399766153053061121",
+              "start": 39,
+              "username": "premium"
+            },
+            {
+              "end": 50,
+              "id": "783214",
+              "start": 48,
+              "username": "X"
+            },
+            {
+              "end": 58,
+              "id": "95731075",
+              "start": 51,
+              "username": "Safety"
+            },
+            {
+              "end": 84,
+              "id": "1300828282061877249",
+              "start": 71,
+              "username": "HANLIANYI331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058609966492360856",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 702,
+                "start": 694,
+                "tag": "XAppeal"
+              },
+              {
+                "end": 719,
+                "start": 703,
+                "tag": "FalseSuspension"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "id": "1399766153053061121",
+                "start": 39,
+                "username": "premium"
+              },
+              {
+                "end": 50,
+                "id": "783214",
+                "start": 48,
+                "username": "X"
+              },
+              {
+                "end": 58,
+                "id": "95731075",
+                "start": 51,
+                "username": "Safety"
+              },
+              {
+                "end": 84,
+                "id": "1300828282061877249",
+                "start": 71,
+                "username": "hanlianyi331"
+              },
+              {
+                "end": 632,
+                "id": "1300828282061877249",
+                "start": 619,
+                "username": "hanlianyi331"
+              }
+            ]
+          },
+          "text": "As a Premium user I request escalation @premium @X @Safety \n\nMy friend @hanlianyi331 has been permanently suspended with NO reason given. \n\nThe two latest posts were purely academic discussions on:\n• Pedophilia in psychiatric medicine (mental health context)\n• Global laws for preventing child sexual abuse\n\nThese posts were educational and focused on CHILD PROTECTION and prevention — they did NOT promote or encourage any harm. \n\nThis appears to be an AI false positive. The account owner has filed multiple appeals requesting human review but received no response.\n\nPlease escalate and conduct a **human review** of @hanlianyi331. This is important academic/educational content. Thank you!\n\n#XAppeal #FalseSuspension"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 180,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "As a Premium user I request escalation @premium @X @Safety \n\nMy friend @hanlianyi331 has been permanently suspended with NO reason given. \n\nThe two latest posts were purely academic discussions on:\n• Pedophilia in psychiatric medicine (mental health context)\n• Global laws for"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6211,
+          "following_count": 220,
+          "like_count": 24752,
+          "listed_count": 17,
+          "media_count": 1785,
+          "tweet_count": 21711
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务｜我是中国人、我始终热爱这片土地｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 33,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 10,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 70,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 47,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2058258075287732733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7467,
+          "following_count": 88,
+          "like_count": 542,
+          "listed_count": 11,
+          "media_count": 287,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-01T16:34:27.000Z",
+        "description": "Subscribe for the best X experience: ad-free, post edits, content monetization, Grok AI with higher limits, video downloads, long posts, X Pro, and more.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/premium_sign…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/premium_sign_up",
+                "start": 0,
+                "url": "https://t.co/zJi0ZdXW63"
+              }
+            ]
+          }
+        },
+        "id": "1399766153053061121",
+        "name": "Premium",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683366300054069248/67v23AEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251637,
+          "following_count": 3,
+          "like_count": 670,
+          "listed_count": 1836,
+          "media_count": 65,
+          "tweet_count": 1302
+        },
+        "url": "https://t.co/zJi0ZdXW63",
+        "username": "premium",
+        "verified": true
+      },
+      {
+        "created_at": "2007-02-20T14:35:54.000Z",
+        "description": "what's happening?!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/Xp0xJlcROt"
+              }
+            ]
+          }
+        },
+        "id": "783214",
+        "location": "everywhere",
+        "name": "X",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60911410,
+          "following_count": 1,
+          "like_count": 5988,
+          "listed_count": 85227,
+          "media_count": 2487,
+          "tweet_count": 15696
+        },
+        "url": "https://t.co/Xp0xJlcROt",
+        "username": "X",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-09T21:00:57.000Z",
+        "description": "Providing the latest safety tools, resources, and updates from X.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 23,
+                "expanded_url": "http://help.x.com",
+                "start": 0,
+                "url": "https://t.co/YQ0rgq2Q9t"
+              }
+            ]
+          }
+        },
+        "id": "95731075",
+        "location": "X HQ",
+        "name": "Safety",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683507906891718658/ZS9jJfar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3163262,
+          "following_count": 134,
+          "like_count": 177,
+          "listed_count": 8015,
+          "media_count": 165,
+          "tweet_count": 1653
+        },
+        "url": "https://t.co/YQ0rgq2Q9t",
+        "username": "Safety",
+        "verified": true
+      }
+    ]
+  }
+}

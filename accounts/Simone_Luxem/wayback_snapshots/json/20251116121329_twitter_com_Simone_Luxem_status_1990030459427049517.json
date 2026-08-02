@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1990011128953577939",
+    "created_at": "2025-11-16T12:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T13:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990030459427049517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1315706812935487489",
+          "start": 0,
+          "username": "maigo_wakatake"
+        },
+        {
+          "end": 27,
+          "id": "1618800860",
+          "start": 16,
+          "username": "Artoria2e5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990030459427049517",
+    "in_reply_to_user_id": "1315706812935487489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990030229969248316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigo_wakatake @Artoria2e5 这样…那我以后也注意一下，热的时候尽量摊开…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1990011128953577939",
+        "created_at": "2025-11-16T12:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990030459427049517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315706812935487489",
+              "start": 0,
+              "username": "maigo_wakatake"
+            },
+            {
+              "end": 27,
+              "id": "1618800860",
+              "start": 16,
+              "username": "Artoria2e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990030459427049517",
+        "in_reply_to_user_id": "1315706812935487489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990030229969248316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigo_wakatake @Artoria2e5 这样…那我以后也注意一下，热的时候尽量摊开…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1315706812935487489",
+        "conversation_id": "1990011128953577939",
+        "created_at": "2025-11-16T12:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990030229969248316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            },
+            {
+              "end": 25,
+              "id": "1618800860",
+              "start": 14,
+              "username": "Artoria2e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990030229969248316",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990018833848082928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem @Artoria2e5 微波能量随穿透食物块的深度而衰减。\n因此某些事物足够深的区域一咬依然是凉的的可能性是存在的，meanwhile外层都快焦了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5772,
+          "following_count": 214,
+          "like_count": 22927,
+          "listed_count": 18,
+          "media_count": 1698,
+          "tweet_count": 20792
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "多意识体-桔梗系统。北雁ふみんです。被剪掉垂耳的传染性兔（部分时候不是）。持久而长久的睡眠障碍者。🚪128，是的、我们需要钱。she/her/they/them, if it matters",
+        "id": "1315706812935487489",
+        "location": "太陽系の常識を　覆して触れたい",
+        "name": "卡尼太芬",
+        "pinned_tweet_id": "1968144116866593084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870529941026267136/vJ_l7ugO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2082,
+          "following_count": 204,
+          "like_count": 2989,
+          "listed_count": 9,
+          "media_count": 2286,
+          "tweet_count": 20473
+        },
+        "username": "maigo_wakatake",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-24T22:52:36.000Z",
+        "description": "💖 @Tsumikiiss | 小号 @Arthur2e5 | Fully-Stuck Cross-Platform User. she/her || im on https://t.co/jazkZAUxEL 请给我钱 会发奶子有敏感标",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Tsumikiiss"
+              },
+              {
+                "end": 29,
+                "start": 19,
+                "username": "Arthur2e5"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "enwp.org",
+                "end": 105,
+                "expanded_url": "http://enwp.org",
+                "start": 82,
+                "url": "https://t.co/jazkZAUxEL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/Arthur2e5",
+                "end": 23,
+                "expanded_url": "http://about.me/Arthur2e5",
+                "start": 0,
+                "url": "https://t.co/qOu0umlEG6"
+              }
+            ]
+          }
+        },
+        "id": "1618800860",
+        "location": "Shanghai",
+        "name": "Mingye Wang 4.0.1（已九价）🏳️‍⚧️🌻",
+        "pinned_tweet_id": "1782256531150680464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835643449141567488/GSCV91th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2138,
+          "following_count": 2441,
+          "like_count": 75820,
+          "listed_count": 26,
+          "media_count": 509,
+          "tweet_count": 48253
+        },
+        "url": "https://t.co/qOu0umlEG6",
+        "username": "Artoria2e5",
+        "verified": false
+      }
+    ]
+  }
+}

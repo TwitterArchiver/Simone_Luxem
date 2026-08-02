@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1908144844406399208",
+    "created_at": "2025-04-04T13:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-04T14:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908146587777319240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1589676541558263808",
+          "start": 0,
+          "username": "SamuyukiTakenoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908146587777319240",
+    "in_reply_to_user_id": "1589676541558263808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908146252098732057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamuyukiTakenoe 是呀…自己应该开心的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1908144844406399208",
+        "created_at": "2025-04-04T13:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T14:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908146587777319240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1589676541558263808",
+              "start": 0,
+              "username": "SamuyukiTakenoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908146587777319240",
+        "in_reply_to_user_id": "1589676541558263808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908146252098732057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamuyukiTakenoe 是呀…自己应该开心的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1589676541558263808",
+        "conversation_id": "1908144844406399208",
+        "created_at": "2025-04-04T13:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T14:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908146252098732057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908146252098732057",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908144844406399208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 恭喜呀.....至少结局不坏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4105,
+          "following_count": 219,
+          "like_count": 19880,
+          "listed_count": 11,
+          "media_count": 1512,
+          "tweet_count": 18976
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-07T17:50:05.000Z",
+        "description": "「前人曾照我 我照后来者」｜私信已关有事请发评论或tg↓｜別アカ @Frimaire23",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "Frimaire23"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/SamuyukiTakenoe",
+                "end": 23,
+                "expanded_url": "http://t.me/SamuyukiTakenoe",
+                "start": 0,
+                "url": "https://t.co/I6l8ID33L7"
+              }
+            ]
+          }
+        },
+        "id": "1589676541558263808",
+        "location": "電子の海",
+        "name": "竹ノ江❄️寒雪",
+        "pinned_tweet_id": "1817966169355337909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891777802669858816/J56EbDc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2474,
+          "following_count": 164,
+          "like_count": 75580,
+          "listed_count": 4,
+          "media_count": 529,
+          "tweet_count": 6340
+        },
+        "url": "https://t.co/I6l8ID33L7",
+        "username": "SamuyukiTakenoe",
+        "verified": false
+      }
+    ]
+  }
+}

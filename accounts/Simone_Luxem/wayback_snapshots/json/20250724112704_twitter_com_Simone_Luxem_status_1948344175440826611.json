@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1948344175440826611",
+    "created_at": "2025-07-24T11:27:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T12:27:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948344175440826611"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1948344175440826611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "事实证明这次来北京待一周完全就是个错误，我应该直接落地武汉的\n其实自己的理智无比清晰应该怎样做，即“主动疏远”，对谁都好；但自己又在感性上无比强烈地有一个“想要所有人之间都可以好”的愿景，强烈到自己的理智有时会控制不住，这才一次次地…徒劳…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1948344175440826611",
+        "created_at": "2025-07-24T11:27:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T12:27:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948344175440826611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948344175440826611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事实证明这次来北京待一周完全就是个错误，我应该直接落地武汉的\n其实自己的理智无比清晰应该怎样做，即“主动疏远”，对谁都好；但自己又在感性上无比强烈地有一个“想要所有人之间都可以好”的愿景，强烈到自己的理智有时会控制不住，这才一次次地…徒劳…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4517,
+          "following_count": 220,
+          "like_count": 21607,
+          "listed_count": 13,
+          "media_count": 1645,
+          "tweet_count": 20019
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

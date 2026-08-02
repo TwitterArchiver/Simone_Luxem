@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2055490695499321692",
+    "created_at": "2026-05-17T08:55:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T09:55:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055935333091754003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1479550299815645185",
+          "start": 0,
+          "username": "Stanleysobest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055935333091754003",
+    "in_reply_to_user_id": "1479550299815645185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055490695499321692",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stanleysobest 从喝了豆汁来看，似乎实际上攻略并没有做足…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2055490685579735040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIaR41kasAAyMBZ.jpg",
+        "width": 1282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2055490695499321692",
+        "created_at": "2026-05-17T08:55:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T09:55:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055935333091754003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1479550299815645185",
+              "start": 0,
+              "username": "Stanleysobest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055935333091754003",
+        "in_reply_to_user_id": "1479550299815645185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055490695499321692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stanleysobest 从喝了豆汁来看，似乎实际上攻略并没有做足…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055490685579735040"
+          ]
+        },
+        "author_id": "1479550299815645185",
+        "conversation_id": "2055490695499321692",
+        "created_at": "2026-05-16T03:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T04:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055490695499321692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mKua8gxwFt",
+              "end": 55,
+              "expanded_url": "https://x.com/Stanleysobest/status/2055490695499321692/photo/1",
+              "media_key": "3_2055490685579735040",
+              "start": 32,
+              "url": "https://t.co/mKua8gxwFt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055490695499321692",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 150,
+          "impression_count": 138736,
+          "like_count": 1890,
+          "quote_count": 14,
+          "reply_count": 173,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "黄仁勋，来的最晚，攻略却做的最足……\n\n一定没少看小红书🤣🤣🤣 https://t.co/mKua8gxwFt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6211,
+          "following_count": 220,
+          "like_count": 24660,
+          "listed_count": 18,
+          "media_count": 1782,
+          "tweet_count": 21680
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-07T20:27:57.000Z",
+        "description": "头部私域职业玩家，互联网风口项目推手",
+        "id": "1479550299815645185",
+        "name": "Stanley",
+        "pinned_tweet_id": "2055191605959934264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730639637599883265/KDOrRfwl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47015,
+          "following_count": 1685,
+          "like_count": 26027,
+          "listed_count": 189,
+          "media_count": 5893,
+          "tweet_count": 35759
+        },
+        "username": "Stanleysobest",
+        "verified": true
+      }
+    ]
+  }
+}

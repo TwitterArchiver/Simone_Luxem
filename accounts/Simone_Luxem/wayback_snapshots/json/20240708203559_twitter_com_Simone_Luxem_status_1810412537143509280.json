@@ -1,0 +1,225 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1810407685575286927",
+    "created_at": "2024-07-08T20:35:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T21:35:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810412537143509280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1354545024046821376",
+          "start": 0,
+          "username": "KURANAGA3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810412537143509280",
+    "in_reply_to_user_id": "1354545024046821376",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810411749486874787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KURANAGA3 所以这就是我感觉到不明白的地方吧,就是,为什么要“不共情它们”,或者怎么做到“不共情它们”的呢..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1810407685575286927",
+        "created_at": "2024-07-08T20:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T21:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810412537143509280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1354545024046821376",
+              "start": 0,
+              "username": "KURANAGA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810412537143509280",
+        "in_reply_to_user_id": "1354545024046821376",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810411749486874787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KURANAGA3 所以这就是我感觉到不明白的地方吧,就是,为什么要“不共情它们”,或者怎么做到“不共情它们”的呢..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1354545024046821376",
+        "conversation_id": "1810407685575286927",
+        "created_at": "2024-07-08T20:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T21:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810411749486874787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810411749486874787",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810410245639807451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 他们并非要负责 因为只有上城人能让底层人负责 从来没有底层人让上城负责的 最多就只能嘴两句 我没办法让他们真正为他们享受过而别人没有的东西付出代价 但我们仍然可以保有未被他们同情 我们也不会共情他们的权利"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3363,
+          "following_count": 221,
+          "like_count": 14938,
+          "listed_count": 9,
+          "tweet_count": 15901
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-27T21:41:25.000Z",
+        "description": "好想当清纯小家碧玉美少女~2005.9.9诞/很少发色色/无证但含糖🍥/无恋人/四字母是I N/S存疑TP/虽然我总说节奏大尸但我真玩/无门槛（但也别骚扰我）那就让自己永远可爱浪漫~\n里号@LianLianZiNya\n天生条件好的上城人，享受着优渥的条件哭自己惨，凭啥啊？无家可归的人，穷人，乞丐，谁来替他们讨回公道？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 94,
+                "username": "LianLianZiNya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/353089531",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/353089531",
+                "start": 0,
+                "url": "https://t.co/FVCcX4aUiJ"
+              }
+            ]
+          }
+        },
+        "id": "1354545024046821376",
+        "location": "距离你 1150 米",
+        "name": "甜甜怜怜子🍥🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "1806199763114561894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810407651722801153/26ZgX3_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 147,
+          "like_count": 322,
+          "listed_count": 2,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/FVCcX4aUiJ",
+        "username": "KURANAGA3",
+        "verified": false
+      }
+    ]
+  }
+}

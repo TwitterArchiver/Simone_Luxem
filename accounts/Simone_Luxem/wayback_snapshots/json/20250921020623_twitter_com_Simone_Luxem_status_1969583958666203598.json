@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1969583958666203598",
+    "created_at": "2025-09-21T02:06:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T03:06:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969583958666203598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1431776320019517445",
+          "start": 3,
+          "username": "KiraRettosei"
+        },
+        {
+          "end": 81,
+          "id": "1783434487277531136",
+          "start": 70,
+          "username": "eptazocine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969583958666203598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969480336129343693",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KiraRettosei: 一则清蒸投稿：\n\nQQ号为2398843761的K Y供稿\nQQ号为3029661612的依他佐辛审核 @eptazocine \n\n两人作为跨儿 以在反跨频道工作为乐 大群里毫不避讳 那我也就把你们上上电视 二位堪称贱种。 https://t…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1969583958666203598].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1969583958666203598",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1969583958666203598"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1969479390544478211",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1T_EinbQAMsqxE.jpg",
+        "width": 774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969479390544478211"
+          ]
+        },
+        "author_id": "1431776320019517445",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969480336129343693",
+        "created_at": "2025-09-20T19:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T20:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969480336129343693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 63,
+              "id": "1783434487277531136",
+              "start": 52,
+              "username": "eptazocine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IGUI1O1sA9",
+              "end": 135,
+              "expanded_url": "https://x.com/KiraRettosei/status/1969480336129343693/photo/1",
+              "media_key": "3_1969479390544478211",
+              "start": 112,
+              "url": "https://t.co/IGUI1O1sA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969480336129343693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一则清蒸投稿：\n\nQQ号为2398843761的K Y供稿\nQQ号为3029661612的依他佐辛审核 @eptazocine \n\n两人作为跨儿 以在反跨频道工作为乐 大群里毫不避讳 那我也就把你们上上电视 二位堪称贱种。 https://t.co/IGUI1O1sA9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4615,
+          "following_count": 219,
+          "like_count": 22466,
+          "listed_count": 13,
+          "media_count": 1659,
+          "tweet_count": 20388
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-29T00:32:03.000Z",
+        "description": "打扮漂亮/十八岁是天堂/我们的生活甜得像糖\n在电影学院里绽放青春吧！",
+        "id": "1431776320019517445",
+        "location": "🌏地球村！Haidian,Beijing",
+        "name": "🏳️‍⚧️🇺🇦 🎉神采奕奕的劣等生🧐『女高岁月～』",
+        "pinned_tweet_id": "1965938386826572050",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1710687931382501376/7zaBFCz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2047,
+          "following_count": 2764,
+          "like_count": 40538,
+          "listed_count": 7,
+          "media_count": 964,
+          "tweet_count": 17921
+        },
+        "username": "KiraRettosei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-25T09:55:22.000Z",
+        "description": "Record daily life | I will respond kindly to people who are kind-hearted | Have complex hobbies | No mental&psychological disorders | Wuhanese",
+        "id": "1783434487277531136",
+        "location": "中国医学科学院",
+        "name": "依他佐辛",
+        "pinned_tweet_id": "1942535926611358087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967472348883484672/nxpeyAs1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 324,
+          "like_count": 1430,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 328
+        },
+        "username": "eptazocine",
+        "verified": false
+      }
+    ]
+  }
+}

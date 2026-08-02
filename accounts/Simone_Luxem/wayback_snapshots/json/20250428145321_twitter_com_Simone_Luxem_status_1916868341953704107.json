@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1916868341953704107",
+    "created_at": "2025-04-28T14:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T15:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916868341953704107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1587093229131792384",
+          "start": 3,
+          "username": "MisakaMou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916868341953704107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916866457973280845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MisakaMou: 为纯科学而呼吁\nAAAS的独立宣言\n每年都会拿出来读一遍，给新入组的发一遍\n但是我发现，我离纯科学越来越远\n为了一些目的，明天都在灌水，更像是工作\n没有办法的事情，我也不喜欢\n只是希望，新入组的，如果不想混文凭，还是能往纯科学迈进一点点的\n而我，给…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1410,
+        "media_key": "3_1916866454785572864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpoT4ndbQAAcwYA.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1916868341953704107",
+        "created_at": "2025-04-28T14:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T15:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916868341953704107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1587093229131792384",
+              "start": 3,
+              "username": "MisakaMou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916868341953704107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916866457973280845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MisakaMou: 为纯科学而呼吁\nAAAS的独立宣言\n每年都会拿出来读一遍，给新入组的发一遍\n但是我发现，我离纯科学越来越远\n为了一些目的，明天都在灌水，更像是工作\n没有办法的事情，我也不喜欢\n只是希望，新入组的，如果不想混文凭，还是能往纯科学迈进一点点的\n而我，给…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916866454785572864"
+          ]
+        },
+        "author_id": "1587093229131792384",
+        "conversation_id": "1916866457973280845",
+        "created_at": "2025-04-28T14:45:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T15:45:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916866457973280845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GPAa3ntOCl",
+              "end": 157,
+              "expanded_url": "https://x.com/MisakaMou/status/1916866457973280845/photo/1",
+              "media_key": "3_1916866454785572864",
+              "start": 134,
+              "url": "https://t.co/GPAa3ntOCl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916866457973280845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 25,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "为纯科学而呼吁\nAAAS的独立宣言\n每年都会拿出来读一遍，给新入组的发一遍\n但是我发现，我离纯科学越来越远\n为了一些目的，明天都在灌水，更像是工作\n没有办法的事情，我也不喜欢\n只是希望，新入组的，如果不想混文凭，还是能往纯科学迈进一点点的\n而我，给大家做好后勤就好了 https://t.co/GPAa3ntOCl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4168,
+          "following_count": 220,
+          "like_count": 20013,
+          "listed_count": 12,
+          "media_count": 1535,
+          "tweet_count": 19177
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T14:44:57.000Z",
+        "description": "无聊日常唠嗑推，某课题组的Associate Manager，希望我们都能好运",
+        "id": "1587093229131792384",
+        "location": "Harbin and Tientsin, China",
+        "name": "Kagurazaka Sora",
+        "pinned_tweet_id": "1904190256905146798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806335392389431296/d55LIhiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 259,
+          "like_count": 4841,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 742
+        },
+        "username": "MisakaMou",
+        "verified": false
+      }
+    ]
+  }
+}

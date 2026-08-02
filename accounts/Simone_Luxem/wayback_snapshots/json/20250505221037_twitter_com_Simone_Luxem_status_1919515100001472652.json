@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1919277861711888794",
+    "created_at": "2025-05-05T22:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T23:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919515100001472652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1879808970162053120",
+          "start": 0,
+          "username": "isabella_mumu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919515100001472652",
+    "in_reply_to_user_id": "1879808970162053120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919277861711888794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isabella_mumu 啊，我对着羊叫了好久，结果一只羊都没理我，没有一只过来让我摸的…\n还是牛好，看到人站在栅栏口就会自己过来给人摸…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1919277799829061632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKk_XwawAAlSEe.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1919277799791292416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKk_XnacAA42qL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1919277799850049536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKk_X1bAAAi6bD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1919277799778750464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqKk_XkbEAAI3MU.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1919277861711888794",
+        "created_at": "2025-05-05T22:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T23:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919515100001472652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1879808970162053120",
+              "start": 0,
+              "username": "isabella_mumu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919515100001472652",
+        "in_reply_to_user_id": "1879808970162053120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919277861711888794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isabella_mumu 啊，我对着羊叫了好久，结果一只羊都没理我，没有一只过来让我摸的…\n还是牛好，看到人站在栅栏口就会自己过来给人摸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1919277799829061632",
+            "3_1919277799791292416",
+            "3_1919277799850049536",
+            "3_1919277799778750464"
+          ]
+        },
+        "author_id": "1879808970162053120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1563854962383171585",
+              "name": "Credit Cards"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1563854962383171585",
+              "name": "Credit Cards"
+            }
+          }
+        ],
+        "conversation_id": "1919277861711888794",
+        "created_at": "2025-05-05T06:27:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T07:27:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919277861711888794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/doFb5F466t",
+              "end": 149,
+              "expanded_url": "https://x.com/isabella_mumu/status/1919277861711888794/photo/1",
+              "media_key": "3_1919277799829061632",
+              "start": 126,
+              "url": "https://t.co/doFb5F466t"
+            },
+            {
+              "display_url": "pic.x.com/doFb5F466t",
+              "end": 149,
+              "expanded_url": "https://x.com/isabella_mumu/status/1919277861711888794/photo/1",
+              "media_key": "3_1919277799791292416",
+              "start": 126,
+              "url": "https://t.co/doFb5F466t"
+            },
+            {
+              "display_url": "pic.x.com/doFb5F466t",
+              "end": 149,
+              "expanded_url": "https://x.com/isabella_mumu/status/1919277861711888794/photo/1",
+              "media_key": "3_1919277799850049536",
+              "start": 126,
+              "url": "https://t.co/doFb5F466t"
+            },
+            {
+              "display_url": "pic.x.com/doFb5F466t",
+              "end": 149,
+              "expanded_url": "https://x.com/isabella_mumu/status/1919277861711888794/photo/1",
+              "media_key": "3_1919277799778750464",
+              "start": 126,
+              "url": "https://t.co/doFb5F466t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919277861711888794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我对荷兰的印象其实不错的，我在荷兰发现很多公园里面有动物，不收费，可以自己把门打开进去玩，但是记住要关门。\n有英文说明。\n荷兰的这些羊，对我也挺友好的。\n\n因为这个公园比较偏僻，我的credit card刷不动，我也没有零钱，荷兰小姑娘还给我买饮料。\n还带我跟这些动物互动，她说这些动物不伤人，别怕。\n\n我是无法想象，这地方要是出现一个日本铁头，那我会多恶心？\n哈哈😁"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2225,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对荷兰的印象其实不错的，我在荷兰发现很多公园里面有动物，不收费，可以自己把门打开进去玩，但是记住要关门。\n有英文说明。\n荷兰的这些羊，对我也挺友好的。\n\n因为这个公园比较偏僻，我的credit card刷不动，我也没有零钱，荷兰小姑娘还给我买饮料。 https://t.co/doFb5F466t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4198,
+          "following_count": 220,
+          "like_count": 20075,
+          "listed_count": 12,
+          "media_count": 1544,
+          "tweet_count": 19248
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T08:32:58.000Z",
+        "description": "帰化一世。国民党の末裔 。19歳からSNSで記事やコメントを発信（主に政治テーマが多い）。 2025年正式成为自由职业者，在写作的道路上努力。我内心深处那个渴望光明的小孩，他还没有死。",
+        "id": "1879808970162053120",
+        "name": "Isabella",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914692034339987456/x2CLRkpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4018,
+          "following_count": 183,
+          "like_count": 1595,
+          "listed_count": 14,
+          "media_count": 185,
+          "tweet_count": 1319
+        },
+        "username": "isabella_mumu",
+        "verified": true
+      }
+    ]
+  }
+}

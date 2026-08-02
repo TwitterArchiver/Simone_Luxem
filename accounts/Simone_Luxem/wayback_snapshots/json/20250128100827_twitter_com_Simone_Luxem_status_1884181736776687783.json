@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1884175517420761428",
+    "created_at": "2025-01-28T10:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T11:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884181736776687783"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1305476147426160640",
+          "start": 0,
+          "username": "muyue_cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884181736776687783",
+    "in_reply_to_user_id": "1305476147426160640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884181500373131403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@muyue_cat 搞笑，我还能有500欧现金，我自己有几块钱心里还是清楚的（（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1884175517420761428",
+        "created_at": "2025-01-28T10:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T11:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884181736776687783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1305476147426160640",
+              "start": 0,
+              "username": "muyue_cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884181736776687783",
+        "in_reply_to_user_id": "1305476147426160640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884181500373131403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@muyue_cat 搞笑，我还能有500欧现金，我自己有几块钱心里还是清楚的（（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305476147426160640",
+        "conversation_id": "1884175517420761428",
+        "created_at": "2025-01-28T10:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T11:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884181500373131403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884181500373131403",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884181423776837720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 草wwwwwwwwww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3978,
+          "following_count": 222,
+          "like_count": 18969,
+          "listed_count": 11,
+          "media_count": 1476,
+          "tweet_count": 18455
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-14T11:59:08.000Z",
+        "description": "不喜欢贴标签但如果给自己贴的话是：queer，无糖，程序员，国际主义者，自闭，民主社会主义者，反对种族仇恨、专制",
+        "id": "1305476147426160640",
+        "name": "神楽坂牧月 Ailuroluna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585805295263289345/benvEIh3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 190,
+          "like_count": 56453,
+          "listed_count": 2,
+          "media_count": 94,
+          "tweet_count": 12154
+        },
+        "username": "muyue_cat",
+        "verified": false
+      }
+    ]
+  }
+}

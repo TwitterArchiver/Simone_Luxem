@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1999006828244644011",
+    "created_at": "2025-12-11T14:12:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T15:12:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999120146372407621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1628357323944239105",
+          "start": 0,
+          "username": "AkumaKusane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999120146372407621",
+    "in_reply_to_user_id": "1628357323944239105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999110181737935260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkumaKusane 说得好，我也觉得不需要有，但觉得直接说取消性别标记可能太跨度大了不容易被接受，于是就稍微表达的保守了一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1999006828244644011",
+        "created_at": "2025-12-11T14:12:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:12:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999120146372407621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1628357323944239105",
+              "start": 0,
+              "username": "AkumaKusane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999120146372407621",
+        "in_reply_to_user_id": "1628357323944239105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999110181737935260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkumaKusane 说得好，我也觉得不需要有，但觉得直接说取消性别标记可能太跨度大了不容易被接受，于是就稍微表达的保守了一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1628357323944239105",
+        "conversation_id": "1999006828244644011",
+        "created_at": "2025-12-11T13:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T14:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999110181737935260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999110181737935260",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999006828244644011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 那还要性别这个标记干啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5983,
+          "following_count": 216,
+          "like_count": 23166,
+          "listed_count": 18,
+          "media_count": 1716,
+          "tweet_count": 20955
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-22T11:33:52.000Z",
+        "description": "@AkemiKusane 的华语账号 主要用来发癫 HRT 2010.11.11 该账号不用回关并可随意拉黑因为基本不说人话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 0,
+                "username": "AkemiKusane"
+              }
+            ]
+          }
+        },
+        "id": "1628357323944239105",
+        "name": "恶魔草",
+        "pinned_tweet_id": "1771290516493345087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668650823369334784/ru16sD0Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 219,
+          "like_count": 817,
+          "listed_count": 2,
+          "media_count": 102,
+          "tweet_count": 2886
+        },
+        "username": "AkumaKusane",
+        "verified": false
+      }
+    ]
+  }
+}

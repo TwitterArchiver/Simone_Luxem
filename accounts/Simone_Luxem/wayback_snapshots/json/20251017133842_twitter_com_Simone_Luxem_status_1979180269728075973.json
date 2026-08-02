@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1979125852701921499",
+    "created_at": "2025-10-17T13:38:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T14:38:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979180269728075973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1913946244764098560",
+          "start": 0,
+          "username": "Tibmal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979180269728075973",
+    "in_reply_to_user_id": "1913946244764098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979125852701921499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tibmal 原推写的真的是汉字吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1979125852701921499",
+        "created_at": "2025-10-17T13:38:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:38:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979180269728075973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1913946244764098560",
+              "start": 0,
+              "username": "Tibmal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979180269728075973",
+        "in_reply_to_user_id": "1913946244764098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979125852701921499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tibmal 原推写的真的是汉字吗…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913946244764098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "1979125852701921499",
+        "created_at": "2025-10-17T10:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T11:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979125852701921499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HuiYing72067/s…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/HuiYing72067/status/1979003910871306749",
+              "start": 160,
+              "url": "https://t.co/Ng6G9kUlFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979125852701921499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1063,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979003910871306749",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个中国radfem平常的一天：\n上班看到跨性别心想XY畜怎么这么坏抢女人位置，于是偷偷串联给人穿小鞋却无人在意\n\n吃午饭看到身边les情侣坐在一起，出离愤怒一秒想出十个辱女词上推发布shitposting\n\n晚上下班坐地铁google搜索女性政治人物得到：“梅洛尼 魏德尔 勒庞 高市早苗”，截图发推：大女人太蒂了！ https://t.co/Ng6G9kUlFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5318,
+          "following_count": 218,
+          "like_count": 22678,
+          "listed_count": 14,
+          "media_count": 1677,
+          "tweet_count": 20580
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T13:22:05.000Z",
+        "description": "solo el socialismo",
+        "id": "1913946244764098560",
+        "name": "Tibmal",
+        "pinned_tweet_id": "1913949199156330527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970775817480474624/iSQcUbY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 52,
+          "like_count": 660,
+          "listed_count": 4,
+          "media_count": 166,
+          "tweet_count": 1735
+        },
+        "username": "Tibmal",
+        "verified": false
+      }
+    ]
+  }
+}

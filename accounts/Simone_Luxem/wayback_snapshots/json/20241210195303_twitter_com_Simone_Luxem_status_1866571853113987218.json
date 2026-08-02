@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1866571853113987218",
+    "created_at": "2024-12-10T19:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-10T20:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1866571853113987218"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1866571853113987218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在想，如果人从出生起就知道自己的死期，以及死法，那么它是会终生惶惶不安，还是无所畏惧呢…\n高中的时候有一个同学，因为抑郁症休学了一年，于是变成学妹了\n某日在天台聊天，聊到未来可能死于什么，她好淡定地说，“我知道呀，我肯定是自杀的”\n就像在说晚饭要吃什么一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1866571853113987218",
+        "created_at": "2024-12-10T19:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-10T20:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1866571853113987218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1866571853113987218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在想，如果人从出生起就知道自己的死期，以及死法，那么它是会终生惶惶不安，还是无所畏惧呢…\n高中的时候有一个同学，因为抑郁症休学了一年，于是变成学妹了\n某日在天台聊天，聊到未来可能死于什么，她好淡定地说，“我知道呀，我肯定是自杀的”\n就像在说晚饭要吃什么一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3901,
+          "following_count": 221,
+          "like_count": 18403,
+          "listed_count": 10,
+          "media_count": 1441,
+          "tweet_count": 18066
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

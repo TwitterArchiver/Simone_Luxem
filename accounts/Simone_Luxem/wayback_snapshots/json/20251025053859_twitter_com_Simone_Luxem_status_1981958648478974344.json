@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1981944576819761302",
+    "created_at": "2025-10-25T05:38:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T06:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981958648478974344"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1981958648478974344",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981944576819761302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "而且说真的这种葡萄我在荷兰都吃到了，荷兰本地产的，价格也没那么离谱，就普通水果价，还算便宜的\n日本要是真的价格那么贵，那大概得问自家农协了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1981944576819761302",
+        "created_at": "2025-10-25T05:38:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T06:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981958648478974344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981958648478974344",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981944576819761302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且说真的这种葡萄我在荷兰都吃到了，荷兰本地产的，价格也没那么离谱，就普通水果价，还算便宜的\n日本要是真的价格那么贵，那大概得问自家农协了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1981944576819761302",
+        "created_at": "2025-10-25T04:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T05:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981944576819761302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zonghengjp/sta…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/zonghengjp/status/1981611724945182825",
+              "start": 136,
+              "url": "https://t.co/wqLpbATgEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981944576819761302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 195,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981611724945182825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "直接说，降低成本扩大生产本身就是一种创新，把原本只有少数人才能享受到的奢侈品变成普通人都能买得起的日常用品，本就是功德一件，因为科学技术的意义，除了其本身就是在满足探索未知的好奇心以外，就是造福人类，造福更多的人类\n人工气胸和阿尔卑斯山的疗养院不算战胜肺结核，异烟肼才算 https://t.co/wqLpbATgEI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5578,
+          "following_count": 215,
+          "like_count": 22785,
+          "listed_count": 15,
+          "media_count": 1682,
+          "tweet_count": 20652
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

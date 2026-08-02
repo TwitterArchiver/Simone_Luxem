@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1989614156715053310",
+    "created_at": "2025-11-15T08:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-15T09:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1989614156715053310"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h4lf_l13_f8964…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/h4lf_l13_f8964/status/1989529380922753141",
+          "start": 141,
+          "url": "https://t.co/QX6Bzf0BBN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989614156715053310",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989529380922753141",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也算让顺性别小尝一口对性少数的扭转治疗？\n所以说，性少数又何必真的是性少数，在资本主义社会，效率低就是罪过，况且可能是ADHD/ASD，可能是骨折一次，可能是丢次手机可能是吃饺子不蘸醋，任何事情都可能让任何曾经为多数的个体瞬间沦为少数，而这时其就要体验一个社会对少数群体的包容度了 https://t.co/QX6Bzf0BBN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989529376275243008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5w6bT8XIAAOjNf.jpg",
+        "width": 448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1989614156715053310",
+        "created_at": "2025-11-15T08:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T09:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989614156715053310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h4lf_l13_f8964…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/h4lf_l13_f8964/status/1989529380922753141",
+              "start": 141,
+              "url": "https://t.co/QX6Bzf0BBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989614156715053310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989529380922753141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也算让顺性别小尝一口对性少数的扭转治疗？\n所以说，性少数又何必真的是性少数，在资本主义社会，效率低就是罪过，况且可能是ADHD/ASD，可能是骨折一次，可能是丢次手机可能是吃饺子不蘸醋，任何事情都可能让任何曾经为多数的个体瞬间沦为少数，而这时其就要体验一个社会对少数群体的包容度了 https://t.co/QX6Bzf0BBN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989529376275243008"
+          ]
+        },
+        "author_id": "1790275346899554304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1989529380922753141",
+        "created_at": "2025-11-15T03:02:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-15T04:02:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989529380922753141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nc3r8gOpfh",
+              "end": 99,
+              "expanded_url": "https://x.com/H4lf_L13_F8964/status/1989529380922753141/photo/1",
+              "media_key": "3_1989529376275243008",
+              "start": 76,
+              "url": "https://t.co/nc3r8gOpfh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989529380922753141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 551,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《电击手环》\n\n没见过谁家驴一边抽自己一边干活的，鞭子还得自己花钱买。哦对了，电击动物强迫其工作在部分国家是违反动物保护法的。\n\n快进到切除前额叶算了 https://t.co/nc3r8gOpfh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5755,
+          "following_count": 214,
+          "like_count": 22919,
+          "listed_count": 18,
+          "media_count": 1696,
+          "tweet_count": 20774
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T06:58:07.000Z",
+        "description": "赛博黄皮子。                                 我们做的都是你不敢做的，我们说的都是你不敢说的，我们想的都是你不敢想的。 我们都是睚眦必报的，我们出手都是要见血的 ////////////商务三陪。🚪89单次图包64 非顺直男酌情降价////////////// ! 现接受定制服务",
+        "id": "1790275346899554304",
+        "location": "The pathway of no return",
+        "name": "asuka 🏳️‍⚧️🍥🏳️‍🌈🏴",
+        "pinned_tweet_id": "1926955766629474549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953772921652228097/ZqPFazZE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 1284,
+          "like_count": 7661,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 4958
+        },
+        "username": "H4lf_L13_F8964",
+        "verified": false
+      }
+    ]
+  }
+}

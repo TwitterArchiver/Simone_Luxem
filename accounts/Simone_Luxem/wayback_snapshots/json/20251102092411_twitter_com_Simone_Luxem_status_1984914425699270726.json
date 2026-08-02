@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1984914425699270726",
+    "created_at": "2025-11-02T09:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T10:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984914425699270726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 107,
+          "expanded_url": "https://twitter.com/amber_toffee/status/1984659029625344419",
+          "start": 84,
+          "url": "https://t.co/5pHInyhpy3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984914425699270726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984659029625344419",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那可能我实在太幸运了吧，无论是自己家从医的人，还是自己去见过的医生，和自己学临床医学的同学，医术确实是千姿百态，精神状态更是百花齐放，但医德这方面还真没见到有什么缺陷 https://t.co/5pHInyhpy3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1984914425699270726",
+        "created_at": "2025-11-02T09:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T10:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984914425699270726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1984659029625344419",
+              "start": 84,
+              "url": "https://t.co/5pHInyhpy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984914425699270726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984659029625344419",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那可能我实在太幸运了吧，无论是自己家从医的人，还是自己去见过的医生，和自己学临床医学的同学，医术确实是千姿百态，精神状态更是百花齐放，但医德这方面还真没见到有什么缺陷 https://t.co/5pHInyhpy3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424779836938022913",
+        "conversation_id": "1984658547876282392",
+        "created_at": "2025-11-01T16:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T17:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984659029625344419"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984659029625344419",
+        "in_reply_to_user_id": "1424779836938022913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2457,
+          "like_count": 13,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984658547876282392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "考虑到国内医培系统的恐怖程度，我支持医生用无论是发牢骚还是逆天言论的方式改善自身的精神状况和专业水平"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5651,
+          "following_count": 215,
+          "like_count": 22859,
+          "listed_count": 18,
+          "media_count": 1685,
+          "tweet_count": 20716
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "❤︎ @noaayoyaoaya / ☭ / mtf / intp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber🪼",
+        "pinned_tweet_id": "1947128022173409401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897152328362233856/uJFVlByt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18569,
+          "following_count": 2381,
+          "like_count": 34206,
+          "listed_count": 55,
+          "media_count": 723,
+          "tweet_count": 17132
+        },
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

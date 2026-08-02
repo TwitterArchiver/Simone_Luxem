@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2050273385343857127",
+    "created_at": "2026-05-01T17:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T18:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050273385343857127"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/siyu060910/sta…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/siyu060910/status/2049167214830559716",
+          "start": 152,
+          "url": "https://t.co/sipzfbUblD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050273385343857127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049167214830559716",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "⚠️ 注意 ⚠️\nSeele 紧急解散和退出了所有墙内群聊，并已和我们失联超过10小时，期间有不明人员登录其微信号向我发送消息。请所有人不要与其任何账号联系，不要捐款，在我们线下确认是本人恢复使用前不要相信其发布的任何消息。\n\n据我们所致，昨日，seele受到了包含武汉市公安局在内的条子的骚扰，恐相关 https://t.co/sipzfbUblD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2050273385343857127",
+        "created_at": "2026-05-01T17:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T18:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050273385343857127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/siyu060910/sta…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/siyu060910/status/2049167214830559716",
+              "start": 152,
+              "url": "https://t.co/sipzfbUblD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050273385343857127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049167214830559716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "⚠️ 注意 ⚠️\nSeele 紧急解散和退出了所有墙内群聊，并已和我们失联超过10小时，期间有不明人员登录其微信号向我发送消息。请所有人不要与其任何账号联系，不要捐款，在我们线下确认是本人恢复使用前不要相信其发布的任何消息。\n\n据我们所致，昨日，seele受到了包含武汉市公安局在内的条子的骚扰，恐相关 https://t.co/sipzfbUblD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824324977379905537",
+        "conversation_id": "2049167214830559716",
+        "created_at": "2026-04-28T16:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049167214830559716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 127,
+              "id": "873489613934927872",
+              "start": 116,
+              "username": "taro_puree"
+            }
+          ],
+          "urls": [
+            {
+              "description": "这是一个导航站，收录着小雨平常出没的地方～",
+              "display_url": "t.me/seele_2345",
+              "end": 165,
+              "expanded_url": "https://t.me/seele_2345",
+              "images": [
+                {
+                  "height": 320,
+                  "url": "https://pbs.twimg.com/news_img/2049167217728925696/guucM2pI?format=jpg&name=orig",
+                  "width": 320
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049167217728925696/guucM2pI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 142,
+              "status": 200,
+              "title": "小雨的导航站喵",
+              "unwound_url": "https://t.me/seele_2345",
+              "url": "https://t.co/iaRX7kXXjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049167214830559716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 127,
+                "id": "873489613934927872",
+                "start": 116,
+                "username": "taro_puree"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 165,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 142,
+                "url": "https://t.co/np7tbdIbrP"
+              },
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 199,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 176,
+                "url": "https://t.co/0hXlAGwWRx"
+              }
+            ]
+          },
+          "text": "Inthesunshine（中点）是一个由志愿者们和我及捐赠人们全资运营的公益小组，我们将尽可能的为国内的性少数及其它弱势群体提供危机干预、紧急庇护、紧急资金求助、反家暴、反扭转等公益服务。\n可以在推特联系到的主要志愿者（讲明诉求）@taro_puree \n联系我们及捐赠的tg频道：https://t.co/np7tbdIbrP\n联系方式及项目公示：https://t.co/0hXlAGwWRx"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8577,
+          "like_count": 59,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Inthesunshine（中点）是一个由志愿者们和我及捐赠人们全资运营的公益小组，我们将尽可能的为国内的性少数及其它弱势群体提供危机干预、紧急庇护、紧急资金求助、反家暴、反扭转等公益服务。\n可以在推特联系到的主要志愿者（讲明诉求）@taro_puree \n联系我们及捐赠的tg频道：https://t.co/iaRX7kXXjZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6160,
+          "following_count": 219,
+          "like_count": 24466,
+          "listed_count": 19,
+          "media_count": 1775,
+          "tweet_count": 21620
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "Freedom is not free🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务｜我是中国人、我始终热爱这片土地",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 52,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 29,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 89,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 66,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2049167214830559716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7520,
+          "following_count": 80,
+          "like_count": 522,
+          "listed_count": 11,
+          "media_count": 294,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      }
+    ]
+  }
+}

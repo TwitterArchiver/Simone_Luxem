@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1911022347882053971",
+    "created_at": "2025-04-12T14:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T15:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911070857587237053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2962119486",
+          "start": 0,
+          "username": "hoshinoyumemi11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911070857587237053",
+    "in_reply_to_user_id": "2962119486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911070329130172444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinoyumemi11 嗯，谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1911022347882053971",
+        "created_at": "2025-04-12T14:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T15:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911070857587237053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2962119486",
+              "start": 0,
+              "username": "hoshinoyumemi11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911070857587237053",
+        "in_reply_to_user_id": "2962119486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911070329130172444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinoyumemi11 嗯，谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2962119486",
+        "conversation_id": "1911022347882053971",
+        "created_at": "2025-04-12T14:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T15:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911070329130172444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911070329130172444",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911067579566653674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 你的所见所感本来就是有限的 并不代表别人的感受 既然你没有办法完全判断这个人 那我觉得你这样随便拿自己的名誉起誓并不值得\n你是我的朋友 我不会怼你也不会一直干预你的选择 我所说的这些只是作为朋友希望你再考虑一下这个事情 就这"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4132,
+          "following_count": 219,
+          "like_count": 19971,
+          "listed_count": 11,
+          "media_count": 1521,
+          "tweet_count": 19025
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-07T04:55:43.000Z",
+        "description": "She/her|Proud to be Trans🏳️‍⚧️骄傲的跨性别者|les🌈被@yucandyyyy爱着|请不要使用「生理性别」|Althusserian Marxism|UK trains and buses enthusiast|Elle as in 'Michelle' @Michelle_Z2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "yucandyyyy"
+              },
+              {
+                "end": 158,
+                "start": 143,
+                "username": "Michelle_Z2023"
+              }
+            ]
+          }
+        },
+        "id": "2962119486",
+        "location": "Tkaronto",
+        "name": "Elle🏳️‍⚧️🇵🇸Solidarity Now!",
+        "pinned_tweet_id": "1853780122475626968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872325210705219584/8MDDIacT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 1408,
+          "like_count": 35159,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 4398
+        },
+        "username": "hoshinoyumemi11",
+        "verified": false
+      }
+    ]
+  }
+}

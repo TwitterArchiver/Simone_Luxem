@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2072269384106774690",
+    "created_at": "2026-07-01T10:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T11:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072269384106774690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/natsumejuri/st…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/natsumejuri/status/2072163053626634266",
+          "start": 127,
+          "url": "https://t.co/DfD6bv8nVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072269384106774690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072163053626634266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或许这样做有其实用性，但就自己而言其是自己所不耻的行为吧；即除非有足够有诱惑力的好处可以弥补，或是足够不可替代的必要性且事情本身又足够重要，让自己可以捏着鼻子做脏活，否则其在自己看来无疑是背叛行径…\n就像种族隔离下的黑人把自己漂白以试图“融入白人”一样 https://t.co/DfD6bv8nVl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2072269384106774690",
+        "created_at": "2026-07-01T10:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T11:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072269384106774690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/natsumejuri/st…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/natsumejuri/status/2072163053626634266",
+              "start": 127,
+              "url": "https://t.co/DfD6bv8nVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072269384106774690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072163053626634266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许这样做有其实用性，但就自己而言其是自己所不耻的行为吧；即除非有足够有诱惑力的好处可以弥补，或是足够不可替代的必要性且事情本身又足够重要，让自己可以捏着鼻子做脏活，否则其在自己看来无疑是背叛行径…\n就像种族隔离下的黑人把自己漂白以试图“融入白人”一样 https://t.co/DfD6bv8nVl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1526965927748571136",
+        "conversation_id": "2072163053626634266",
+        "created_at": "2026-07-01T03:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072163053626634266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/escanlon95354/…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/escanlon95354/status/2072131606643724376",
+              "start": 133,
+              "url": "https://t.co/W2NuqowLl4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072163053626634266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4884,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072131606643724376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "因为务实的人都在stealth，跟我差不多大（20-25岁区间）的务实的跨早就解决完自己issues后美美隐身去了，ta们不会在公网上发哪怕一句话。\n\n我内环朋友圈都是这样的人，我社交圈里喜欢玩网的就我一个。以至于我有个猜想stealth的跨可能比网上的跨还要多。 https://t.co/W2NuqowLl4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6226,
+          "following_count": 220,
+          "like_count": 24992,
+          "listed_count": 16,
+          "media_count": 1793,
+          "tweet_count": 21790
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T16:41:01.000Z",
+        "description": "MtF | Computer Science",
+        "id": "1526965927748571136",
+        "location": "亚空间",
+        "name": "夏子",
+        "pinned_tweet_id": "2032355055467446683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996966756427218944/EWv7GHnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5644,
+          "following_count": 581,
+          "like_count": 28635,
+          "listed_count": 8,
+          "media_count": 674,
+          "tweet_count": 4460
+        },
+        "url": "",
+        "username": "Natsumejuri",
+        "verified": true
+      }
+    ]
+  }
+}

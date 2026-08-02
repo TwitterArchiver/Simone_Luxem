@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1897325520884531340",
+    "created_at": "2025-03-05T16:37:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T17:37:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897325523526988246"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1897325523526988246",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897325520884531340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "差点让我刚落地就被困死在机场，幸好机场里一家餐厅的好心阿姨用她的手机号帮我完成了验证，我才和前来接应的人成功汇合\n第二是和自己在国内的某只亲密关系成功面基，诶嘿嘿她真的好可爱，然后一起像小动物一样互相啃啃啃啃…去酒店开房，自己成功人证不符到让前台小姐姐怀疑人生，两次出发“诶黑衣服那"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1897325520884531340",
+        "created_at": "2025-03-05T16:37:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T17:37:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897325523526988246"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897325523526988246",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897325520884531340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "差点让我刚落地就被困死在机场，幸好机场里一家餐厅的好心阿姨用她的手机号帮我完成了验证，我才和前来接应的人成功汇合\n第二是和自己在国内的某只亲密关系成功面基，诶嘿嘿她真的好可爱，然后一起像小动物一样互相啃啃啃啃…去酒店开房，自己成功人证不符到让前台小姐姐怀疑人生，两次出发“诶黑衣服那"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1148689566112477184",
+              "name": "Wi-Fi"
+            }
+          }
+        ],
+        "conversation_id": "1897325520884531340",
+        "created_at": "2025-03-05T16:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T17:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897325520884531340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897325520884531340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要写一个长（？）串记录一下自己这几天回国窜访的经历（感受？）\n第一点就是自己差点被阔别已久的祖国的基建系统坑死。真的很想知道到底是哪个大天才设计出来的必须用手机号验证才能使用的公共wifi？还把这玩意应用在国际机场？而且还只能接受中国手机号码的验证？再配合每个城市都互不共通的交通码"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4064,
+          "following_count": 222,
+          "like_count": 19476,
+          "listed_count": 12,
+          "media_count": 1497,
+          "tweet_count": 18724
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

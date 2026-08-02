@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Dogs",
+          "id": "853980498816679937",
+          "name": "Dogs"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Puppies",
+          "id": "908752469164826625",
+          "name": "Puppies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Baby Animals",
+          "id": "908779324391571456",
+          "name": "Baby animals"
+        }
+      },
+      {
+        "domain": {
+          "description": ", for animals and types of animals, e.g., cats, birds, marine life, Labrador Retriever",
+          "id": "167",
+          "name": "Animals"
+        },
+        "entity": {
+          "description": "Puppies",
+          "id": "908752469164826625",
+          "name": "Puppies"
+        }
+      }
+    ],
+    "conversation_id": "1837425874892714159",
+    "created_at": "2024-09-21T09:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-21T10:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1837425874892714159"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1837425874892714159",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "似乎自己染上了rua别人家狗子的习惯，无论主人在不在场…\n其实原本自己是怕狗的，因为小时候我妈骑车载我被狗追着咬，还把车胎咬爆了…\n但是后来养过一段时间被遗弃的狗，以及给别人做过一段时间dog sitter之后，感觉狗也没那么可怕，更多只是对自身体型和力量没有b数以为自己还是小puppy又太过热情…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Dogs",
+              "id": "853980498816679937",
+              "name": "Dogs"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Puppies",
+              "id": "908752469164826625",
+              "name": "Puppies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Baby Animals",
+              "id": "908779324391571456",
+              "name": "Baby animals"
+            }
+          },
+          {
+            "domain": {
+              "description": ", for animals and types of animals, e.g., cats, birds, marine life, Labrador Retriever",
+              "id": "167",
+              "name": "Animals"
+            },
+            "entity": {
+              "description": "Puppies",
+              "id": "908752469164826625",
+              "name": "Puppies"
+            }
+          }
+        ],
+        "conversation_id": "1837425874892714159",
+        "created_at": "2024-09-21T09:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-21T10:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1837425874892714159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837425874892714159",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "似乎自己染上了rua别人家狗子的习惯，无论主人在不在场…\n其实原本自己是怕狗的，因为小时候我妈骑车载我被狗追着咬，还把车胎咬爆了…\n但是后来养过一段时间被遗弃的狗，以及给别人做过一段时间dog sitter之后，感觉狗也没那么可怕，更多只是对自身体型和力量没有b数以为自己还是小puppy又太过热情…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3723,
+          "following_count": 223,
+          "like_count": 16852,
+          "listed_count": 8,
+          "tweet_count": 17090
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

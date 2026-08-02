@@ -1,0 +1,267 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1800143854378569729",
+        "3_1800143854441537536"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1800143049621971146",
+    "created_at": "2024-06-10T12:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-10T13:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800143859193958632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/L3Y4YJ9LaV",
+          "end": 102,
+          "expanded_url": "https://twitter.com/Simone_Luxem/status/1800143859193958632/photo/1",
+          "media_key": "3_1800143854378569729",
+          "start": 79,
+          "url": "https://t.co/L3Y4YJ9LaV"
+        },
+        {
+          "display_url": "pic.twitter.com/L3Y4YJ9LaV",
+          "end": 102,
+          "expanded_url": "https://twitter.com/Simone_Luxem/status/1800143859193958632/photo/1",
+          "media_key": "3_1800143854441537536",
+          "start": 79,
+          "url": "https://t.co/L3Y4YJ9LaV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800143859193958632",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800143049621971146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学校方对此次事件的声明\n另土耳其妹子又帮我了大忙，她打扮得非常“职业化”，一眼看上去像是学校工作人员，然后就骗过了保安把我带进去了，这样子我才成功赶上上课… https://t.co/L3Y4YJ9LaV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1800143854378569729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPtlTEjWUAEEv2V.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1800143854441537536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GPtlTEyXIAAz_An.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1800143854378569729",
+            "3_1800143854441537536"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1800143049621971146",
+        "created_at": "2024-06-10T12:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T13:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800143859193958632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/L3Y4YJ9LaV",
+              "end": 102,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1800143859193958632/photo/1",
+              "media_key": "3_1800143854378569729",
+              "start": 79,
+              "url": "https://t.co/L3Y4YJ9LaV"
+            },
+            {
+              "display_url": "pic.twitter.com/L3Y4YJ9LaV",
+              "end": 102,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1800143859193958632/photo/1",
+              "media_key": "3_1800143854441537536",
+              "start": 79,
+              "url": "https://t.co/L3Y4YJ9LaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800143859193958632",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800143049621971146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学校方对此次事件的声明\n另土耳其妹子又帮我了大忙，她打扮得非常“职业化”，一眼看上去像是学校工作人员，然后就骗过了保安把我带进去了，这样子我才成功赶上上课… https://t.co/L3Y4YJ9LaV"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1800142962241708032"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1800143049621971146",
+        "created_at": "2024-06-10T12:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-10T13:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800143049621971146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/HOZKZOWz1t",
+              "end": 162,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1800143049621971146/video/1",
+              "media_key": "7_1800142962241708032",
+              "start": 139,
+              "url": "https://t.co/HOZKZOWz1t"
+            },
+            {
+              "display_url": "pic.twitter.com/HOZKZOWz1t",
+              "end": 162,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1800143049621971146/video/1",
+              "media_key": "7_1800142962250149888",
+              "start": 139,
+              "url": "https://t.co/HOZKZOWz1t"
+            },
+            {
+              "display_url": "pic.twitter.com/HOZKZOWz1t",
+              "end": 162,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1800143049621971146/video/1",
+              "media_key": "7_1800142962262671360",
+              "start": 139,
+              "url": "https://t.co/HOZKZOWz1t"
+            },
+            {
+              "display_url": "pic.twitter.com/HOZKZOWz1t",
+              "end": 162,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1800143049621971146/video/1",
+              "media_key": "3_1800142962246000640",
+              "start": 139,
+              "url": "https://t.co/HOZKZOWz1t"
+            },
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/simone_luxem/status/1799058126534213939",
+              "start": 163,
+              "url": "https://t.co/YcKsya8fsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800143049621971146",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799058126534213939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抗议仍在继续\n今天在vu主楼前发生了声势浩大的示威，即使下着雨，仍然有很多人，并且也有路过的汽车鸣笛致意\n到目前为止没有发生暴力行为，但有防暴警察曾出现在校友附近过，学校方封闭了整栋主楼，只留下了一个非常偏僻的小门，没有任何其它作用，却对包括我在内的要上课的人造成了极大的不便 https://t.co/HOZKZOWz1t https://t.co/YcKsya8fsG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3191,
+          "following_count": 221,
+          "like_count": 13865,
+          "listed_count": 10,
+          "tweet_count": 15484
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

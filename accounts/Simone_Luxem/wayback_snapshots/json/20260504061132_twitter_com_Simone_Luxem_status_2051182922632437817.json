@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2051182922632437817",
+    "created_at": "2026-05-04T06:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T07:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051182922632437817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "44186175",
+          "start": 3,
+          "username": "xiaojingcanxue"
+        }
+      ],
+      "urls": [
+        {
+          "description": "engineer in sf. nmurthy@shortmail.com",
+          "display_url": "x.com/nsm",
+          "end": 139,
+          "expanded_url": "https://x.com/nsm",
+          "images": [
+            {
+              "height": 200,
+              "url": "https://pbs.twimg.com/news_img/2035994950874382336/I3SXmF6i?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2035994950874382336/I3SXmF6i?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 125,
+          "status": 200,
+          "title": "Nikhil Murthy (@nsm) on X",
+          "unwound_url": "https://twitter.com/nsm",
+          "url": "https://t.co/n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051182922632437817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051087053421744341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaojingcanxue: 前几天那个女人用饮料浇灭在公交站台上抽烟的男人手中的烟，双方到深圳某警局，警察和稀泥，并裸检女人用于压服对方，造成女人脱内裤时当场尿失禁的事情。\n\n原本材料已经删除佚失，但这几天我找回来了。留存在本系列。/1 https://t.co/n…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2051086543759306752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbsWCxbcAA6HnG.jpg",
+        "width": 962
+      },
+      {
+        "height": 948,
+        "media_key": "3_2051086973641920512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbsvENbkAARUFM.jpg",
+        "width": 1272
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2051086994785382401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbswS-bMAElqVe.jpg",
+        "width": 948
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2051087046710878208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHbszUabYAAxIMz.jpg",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2051182922632437817",
+        "created_at": "2026-05-04T06:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051182922632437817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "44186175",
+              "start": 3,
+              "username": "xiaojingcanxue"
+            }
+          ],
+          "urls": [
+            {
+              "description": "engineer in sf. nmurthy@shortmail.com",
+              "display_url": "x.com/nsm",
+              "end": 139,
+              "expanded_url": "https://x.com/nsm",
+              "images": [
+                {
+                  "height": 200,
+                  "url": "https://pbs.twimg.com/news_img/2035994950874382336/I3SXmF6i?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2035994950874382336/I3SXmF6i?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 125,
+              "status": 200,
+              "title": "Nikhil Murthy (@nsm) on X",
+              "unwound_url": "https://twitter.com/nsm",
+              "url": "https://t.co/n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051182922632437817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051087053421744341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaojingcanxue: 前几天那个女人用饮料浇灭在公交站台上抽烟的男人手中的烟，双方到深圳某警局，警察和稀泥，并裸检女人用于压服对方，造成女人脱内裤时当场尿失禁的事情。\n\n原本材料已经删除佚失，但这几天我找回来了。留存在本系列。/1 https://t.co/n…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051086543759306752",
+            "3_2051086973641920512",
+            "3_2051086994785382401",
+            "3_2051087046710878208"
+          ]
+        },
+        "author_id": "44186175",
+        "conversation_id": "2051087053421744341",
+        "created_at": "2026-05-03T23:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T00:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051087053421744341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/neNCfGKYpd",
+              "end": 128,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2051087053421744341/photo/1",
+              "media_key": "3_2051086543759306752",
+              "start": 105,
+              "url": "https://t.co/neNCfGKYpd"
+            },
+            {
+              "display_url": "pic.x.com/neNCfGKYpd",
+              "end": 128,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2051087053421744341/photo/1",
+              "media_key": "3_2051086973641920512",
+              "start": 105,
+              "url": "https://t.co/neNCfGKYpd"
+            },
+            {
+              "display_url": "pic.x.com/neNCfGKYpd",
+              "end": 128,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2051087053421744341/photo/1",
+              "media_key": "3_2051086994785382401",
+              "start": 105,
+              "url": "https://t.co/neNCfGKYpd"
+            },
+            {
+              "display_url": "pic.x.com/neNCfGKYpd",
+              "end": 128,
+              "expanded_url": "https://x.com/xiaojingcanxue/status/2051087053421744341/photo/1",
+              "media_key": "3_2051087046710878208",
+              "start": 105,
+              "url": "https://t.co/neNCfGKYpd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051087053421744341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 29164,
+          "like_count": 198,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "前几天那个女人用饮料浇灭在公交站台上抽烟的男人手中的烟，双方到深圳某警局，警察和稀泥，并裸检女人用于压服对方，造成女人脱内裤时当场尿失禁的事情。\n\n原本材料已经删除佚失，但这几天我找回来了。留存在本系列。/1 https://t.co/neNCfGKYpd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6182,
+          "following_count": 219,
+          "like_count": 24507,
+          "listed_count": 19,
+          "media_count": 1776,
+          "tweet_count": 21631
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236763,
+          "following_count": 1848,
+          "like_count": 190,
+          "listed_count": 1270,
+          "media_count": 28630,
+          "tweet_count": 36586
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934485203604705280",
+        "3_1934485207673114624",
+        "3_1934485211770982400",
+        "3_1934485217722720258"
+      ],
+      "media_source_tweet_id": [
+        "1934485224056086934",
+        "1934485224056086934",
+        "1934485224056086934",
+        "1934485224056086934"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1934566987755376921",
+    "created_at": "2025-06-16T11:01:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T12:01:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934566987755376921"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1440574779015122950",
+          "start": 3,
+          "username": "Lanperouge1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1zVmbZTP1S",
+          "end": 120,
+          "expanded_url": "https://x.com/Lanperouge1/status/1934485224056086934/photo/1",
+          "media_key": "3_1934485203604705280",
+          "start": 97,
+          "url": "https://t.co/1zVmbZTP1S"
+        },
+        {
+          "display_url": "pic.x.com/1zVmbZTP1S",
+          "end": 120,
+          "expanded_url": "https://x.com/Lanperouge1/status/1934485224056086934/photo/1",
+          "media_key": "3_1934485207673114624",
+          "start": 97,
+          "url": "https://t.co/1zVmbZTP1S"
+        },
+        {
+          "display_url": "pic.x.com/1zVmbZTP1S",
+          "end": 120,
+          "expanded_url": "https://x.com/Lanperouge1/status/1934485224056086934/photo/1",
+          "media_key": "3_1934485211770982400",
+          "start": 97,
+          "url": "https://t.co/1zVmbZTP1S"
+        },
+        {
+          "display_url": "pic.x.com/1zVmbZTP1S",
+          "end": 120,
+          "expanded_url": "https://x.com/Lanperouge1/status/1934485224056086934/photo/1",
+          "media_key": "3_1934485217722720258",
+          "start": 97,
+          "url": "https://t.co/1zVmbZTP1S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934566987755376921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934485224056086934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lanperouge1: 大家好我本来是一名外卖骑手因为这起车祸我失去了工作同时需要卧床休息很长时间qwq准备专心在家里工作但是电脑主板又烧掉了大家能帮助我一下吗\n（求助求助求助求助） https://t.co/1zVmbZTP1S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 202,
+        "media_key": "3_1934485203604705280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtisCxgbkAAcz6W.jpg",
+        "width": 781
+      },
+      {
+        "height": 443,
+        "media_key": "3_1934485207673114624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtisDAqakAA08op.jpg",
+        "width": 664
+      },
+      {
+        "height": 1029,
+        "media_key": "3_1934485211770982400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtisDP7bEAAxcgQ.jpg",
+        "width": 819
+      },
+      {
+        "height": 1037,
+        "media_key": "3_1934485217722720258",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtisDmGbYAIunUF.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934485203604705280",
+            "3_1934485207673114624",
+            "3_1934485211770982400",
+            "3_1934485217722720258"
+          ],
+          "media_source_tweet_id": [
+            "1934485224056086934",
+            "1934485224056086934",
+            "1934485224056086934",
+            "1934485224056086934"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934566987755376921",
+        "created_at": "2025-06-16T11:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T12:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934566987755376921"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1440574779015122950",
+              "start": 3,
+              "username": "Lanperouge1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zVmbZTP1S",
+              "end": 120,
+              "expanded_url": "https://x.com/Lanperouge1/status/1934485224056086934/photo/1",
+              "media_key": "3_1934485203604705280",
+              "start": 97,
+              "url": "https://t.co/1zVmbZTP1S"
+            },
+            {
+              "display_url": "pic.x.com/1zVmbZTP1S",
+              "end": 120,
+              "expanded_url": "https://x.com/Lanperouge1/status/1934485224056086934/photo/1",
+              "media_key": "3_1934485207673114624",
+              "start": 97,
+              "url": "https://t.co/1zVmbZTP1S"
+            },
+            {
+              "display_url": "pic.x.com/1zVmbZTP1S",
+              "end": 120,
+              "expanded_url": "https://x.com/Lanperouge1/status/1934485224056086934/photo/1",
+              "media_key": "3_1934485211770982400",
+              "start": 97,
+              "url": "https://t.co/1zVmbZTP1S"
+            },
+            {
+              "display_url": "pic.x.com/1zVmbZTP1S",
+              "end": 120,
+              "expanded_url": "https://x.com/Lanperouge1/status/1934485224056086934/photo/1",
+              "media_key": "3_1934485217722720258",
+              "start": 97,
+              "url": "https://t.co/1zVmbZTP1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934566987755376921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934485224056086934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lanperouge1: 大家好我本来是一名外卖骑手因为这起车祸我失去了工作同时需要卧床休息很长时间qwq准备专心在家里工作但是电脑主板又烧掉了大家能帮助我一下吗\n（求助求助求助求助） https://t.co/1zVmbZTP1S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934485203604705280",
+            "3_1934485207673114624",
+            "3_1934485211770982400",
+            "3_1934485217722720258"
+          ]
+        },
+        "author_id": "1440574779015122950",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1934485224056086934",
+        "created_at": "2025-06-16T05:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T06:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934485224056086934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1zVmbZTP1S",
+              "end": 103,
+              "expanded_url": "https://x.com/Lanperouge1/status/1934485224056086934/photo/1",
+              "media_key": "3_1934485203604705280",
+              "start": 80,
+              "url": "https://t.co/1zVmbZTP1S"
+            },
+            {
+              "display_url": "pic.x.com/1zVmbZTP1S",
+              "end": 103,
+              "expanded_url": "https://x.com/Lanperouge1/status/1934485224056086934/photo/1",
+              "media_key": "3_1934485207673114624",
+              "start": 80,
+              "url": "https://t.co/1zVmbZTP1S"
+            },
+            {
+              "display_url": "pic.x.com/1zVmbZTP1S",
+              "end": 103,
+              "expanded_url": "https://x.com/Lanperouge1/status/1934485224056086934/photo/1",
+              "media_key": "3_1934485211770982400",
+              "start": 80,
+              "url": "https://t.co/1zVmbZTP1S"
+            },
+            {
+              "display_url": "pic.x.com/1zVmbZTP1S",
+              "end": 103,
+              "expanded_url": "https://x.com/Lanperouge1/status/1934485224056086934/photo/1",
+              "media_key": "3_1934485217722720258",
+              "start": 80,
+              "url": "https://t.co/1zVmbZTP1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934485224056086934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 542,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "大家好我本来是一名外卖骑手因为这起车祸我失去了工作同时需要卧床休息很长时间qwq准备专心在家里工作但是电脑主板又烧掉了大家能帮助我一下吗\n（求助求助求助求助） https://t.co/1zVmbZTP1S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4270,
+          "following_count": 221,
+          "like_count": 20545,
+          "listed_count": 12,
+          "media_count": 1593,
+          "tweet_count": 19601
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-22T07:12:58.000Z",
+        "description": "向人们分发善意的人。树洞推。双相一型（重抑）/含糖mtx/养了鹦鹉 。互fo请私信。 妻 @Sakuranokisezi / 妹  @himeka123yuan /弟@saiko7940181406 #世界治愈计划 #自伤\n#自残 #od\n我永远，爱你们所有人。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 100,
+                "tag": "世界治愈计划"
+              },
+              {
+                "end": 111,
+                "start": 108,
+                "tag": "自伤"
+              },
+              {
+                "end": 115,
+                "start": 112,
+                "tag": "自残"
+              },
+              {
+                "end": 119,
+                "start": 116,
+                "tag": "od"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "Sakuranokisezi"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "himeka123yuan"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "saiko7940181406"
+              }
+            ]
+          }
+        },
+        "id": "1440574779015122950",
+        "location": "世界治愈计划",
+        "name": "超高校级的治愈系",
+        "pinned_tweet_id": "1822522477790298112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795769523095924736/h8VDqj8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2246,
+          "following_count": 1301,
+          "like_count": 242,
+          "listed_count": 2,
+          "media_count": 337,
+          "tweet_count": 2837
+        },
+        "username": "Lanperouge1",
+        "verified": false
+      }
+    ]
+  }
+}

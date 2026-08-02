@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025843185797492737",
+        "3_2025843185839411200",
+        "3_2025843185847853056",
+        "3_2025843185801641984"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "2025843193095610431",
+    "created_at": "2026-02-23T08:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T09:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025843193095610431"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "8values.cc/leftvalues/res…",
+          "end": 55,
+          "expanded_url": "https://8values.cc/leftvalues/result?a=53&b=58&c=32&d=77&e=40&f=32&g=21",
+          "start": 32,
+          "status": 200,
+          "unwound_url": "https://8values.cc/leftvalues/result/?a=53&b=58&c=32&d=77&e=40&f=32&g=21",
+          "url": "https://t.co/8rgVVT9Um9"
+        },
+        {
+          "display_url": "pic.x.com/Lj8duBNNvq",
+          "end": 79,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2025843193095610431/photo/1",
+          "media_key": "3_2025843185797492737",
+          "start": 56,
+          "url": "https://t.co/Lj8duBNNvq"
+        },
+        {
+          "display_url": "pic.x.com/Lj8duBNNvq",
+          "end": 79,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2025843193095610431/photo/1",
+          "media_key": "3_2025843185839411200",
+          "start": 56,
+          "url": "https://t.co/Lj8duBNNvq"
+        },
+        {
+          "display_url": "pic.x.com/Lj8duBNNvq",
+          "end": 79,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2025843193095610431/photo/1",
+          "media_key": "3_2025843185847853056",
+          "start": 56,
+          "url": "https://t.co/Lj8duBNNvq"
+        },
+        {
+          "display_url": "pic.x.com/Lj8duBNNvq",
+          "end": 79,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2025843193095610431/photo/1",
+          "media_key": "3_2025843185801641984",
+          "start": 56,
+          "url": "https://t.co/Lj8duBNNvq"
+        },
+        {
+          "display_url": "x.com/shigure07288/s…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/shigure07288/status/2025804346223636967",
+          "start": 80,
+          "url": "https://t.co/svrtFkoaNR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025843193095610431",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025804346223636967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "比较好奇这个匹配度是怎么拟合出来的…自己肉眼看着差异挺大的呀\n\nhttps://t.co/8rgVVT9Um9 https://t.co/Lj8duBNNvq https://t.co/svrtFkoaNR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2025843185797492737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB09pOQa8AEUDqv.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2025843185839411200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB09pOaakAAkcCb.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2025843185847853056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB09pOcbYAAIUbe.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2025843185801641984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB09pORaQAA8oMY.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025843185797492737",
+            "3_2025843185839411200",
+            "3_2025843185847853056",
+            "3_2025843185801641984"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "2025843193095610431",
+        "created_at": "2026-02-23T08:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025843193095610431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "8values.cc/leftvalues/res…",
+              "end": 55,
+              "expanded_url": "https://8values.cc/leftvalues/result?a=53&b=58&c=32&d=77&e=40&f=32&g=21",
+              "start": 32,
+              "status": 200,
+              "unwound_url": "https://8values.cc/leftvalues/result/?a=53&b=58&c=32&d=77&e=40&f=32&g=21",
+              "url": "https://t.co/8rgVVT9Um9"
+            },
+            {
+              "display_url": "pic.x.com/Lj8duBNNvq",
+              "end": 79,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2025843193095610431/photo/1",
+              "media_key": "3_2025843185797492737",
+              "start": 56,
+              "url": "https://t.co/Lj8duBNNvq"
+            },
+            {
+              "display_url": "pic.x.com/Lj8duBNNvq",
+              "end": 79,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2025843193095610431/photo/1",
+              "media_key": "3_2025843185839411200",
+              "start": 56,
+              "url": "https://t.co/Lj8duBNNvq"
+            },
+            {
+              "display_url": "pic.x.com/Lj8duBNNvq",
+              "end": 79,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2025843193095610431/photo/1",
+              "media_key": "3_2025843185847853056",
+              "start": 56,
+              "url": "https://t.co/Lj8duBNNvq"
+            },
+            {
+              "display_url": "pic.x.com/Lj8duBNNvq",
+              "end": 79,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2025843193095610431/photo/1",
+              "media_key": "3_2025843185801641984",
+              "start": 56,
+              "url": "https://t.co/Lj8duBNNvq"
+            },
+            {
+              "display_url": "x.com/shigure07288/s…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/shigure07288/status/2025804346223636967",
+              "start": 80,
+              "url": "https://t.co/svrtFkoaNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025843193095610431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025804346223636967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "比较好奇这个匹配度是怎么拟合出来的…自己肉眼看着差异挺大的呀\n\nhttps://t.co/8rgVVT9Um9 https://t.co/Lj8duBNNvq https://t.co/svrtFkoaNR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986828541930119168",
+        "conversation_id": "2025804346223636967",
+        "created_at": "2026-02-23T05:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025804346223636967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SuXiNewleft/st…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/SuXiNewleft/status/2025526197699203337",
+              "start": 48,
+              "url": "https://t.co/Mwe7QNlb01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025804346223636967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 318,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025526197699203337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个测试有点问题，完全是按照数字决定倾向，我都支持无产阶级专政了，他给我定义为无政府共产主义😂 https://t.co/Mwe7QNlb01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6180,
+          "following_count": 219,
+          "like_count": 23859,
+          "listed_count": 18,
+          "media_count": 1747,
+          "tweet_count": 21333
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T16:10:17.000Z",
+        "description": "“于是我们高呼道：革命死了，革命万岁！”\n📕🌈|INTP-A|毛主义|左翼共产主义|民主社会主义|左翼民粹主义|反资本主义|平权主义|反激进女权|友跨",
+        "id": "1986828541930119168",
+        "name": "時雨☭🚩🏴‍☠️🇵🇸🇺🇦🇻🇪🏳️‍🌈",
+        "pinned_tweet_id": "2004470065887117362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008872933650059266/LBQYDyhU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 519,
+          "like_count": 1953,
+          "listed_count": 6,
+          "media_count": 231,
+          "tweet_count": 2790
+        },
+        "username": "shigure07288",
+        "verified": false
+      }
+    ]
+  }
+}

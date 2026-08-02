@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1935428536443031552",
+        "3_1935428536396857344"
+      ],
+      "media_source_tweet_id": [
+        "1935428665031991485",
+        "1935428665031991485"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1935434805799526794",
+    "created_at": "2025-06-18T20:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-18T21:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935434805799526794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1459453832",
+          "start": 3,
+          "username": "sauricat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5mRRBSQGgN",
+          "end": 97,
+          "expanded_url": "https://x.com/sauricat/status/1935428665031991485/photo/1",
+          "media_key": "3_1935428536443031552",
+          "start": 74,
+          "url": "https://t.co/5mRRBSQGgN"
+        },
+        {
+          "display_url": "pic.x.com/5mRRBSQGgN",
+          "end": 97,
+          "expanded_url": "https://x.com/sauricat/status/1935428665031991485/photo/1",
+          "media_key": "3_1935428536396857344",
+          "start": 74,
+          "url": "https://t.co/5mRRBSQGgN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935434805799526794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935428665031991485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sauricat: 有一位我认识的，在日本某避难所生活的跨女尝试寻求经济帮助。下面是她的自述：她目前失业但在尝试改善精神状态并在 2-3… https://t.co/5mRRBSQGgN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1935428536443031552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtwF_-LXUAAdnpp.jpg",
+        "width": 1280
+      },
+      {
+        "height": 692,
+        "media_key": "3_1935428536396857344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtwF_-AWwAATQtR.jpg",
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935428536443031552",
+            "3_1935428536396857344"
+          ],
+          "media_source_tweet_id": [
+            "1935428665031991485",
+            "1935428665031991485"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1935434805799526794",
+        "created_at": "2025-06-18T20:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T21:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935434805799526794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1459453832",
+              "start": 3,
+              "username": "sauricat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mRRBSQGgN",
+              "end": 97,
+              "expanded_url": "https://x.com/sauricat/status/1935428665031991485/photo/1",
+              "media_key": "3_1935428536443031552",
+              "start": 74,
+              "url": "https://t.co/5mRRBSQGgN"
+            },
+            {
+              "display_url": "pic.x.com/5mRRBSQGgN",
+              "end": 97,
+              "expanded_url": "https://x.com/sauricat/status/1935428665031991485/photo/1",
+              "media_key": "3_1935428536396857344",
+              "start": 74,
+              "url": "https://t.co/5mRRBSQGgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935434805799526794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935428665031991485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sauricat: 有一位我认识的，在日本某避难所生活的跨女尝试寻求经济帮助。下面是她的自述：她目前失业但在尝试改善精神状态并在 2-3… https://t.co/5mRRBSQGgN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1935428536443031552",
+            "3_1935428536396857344"
+          ]
+        },
+        "author_id": "1459453832",
+        "conversation_id": "1935428665031991485",
+        "created_at": "2025-06-18T20:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-18T21:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935428665031991485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mRRBSQGgN",
+              "end": 82,
+              "expanded_url": "https://x.com/sauricat/status/1935428665031991485/photo/1",
+              "media_key": "3_1935428536443031552",
+              "start": 59,
+              "url": "https://t.co/5mRRBSQGgN"
+            },
+            {
+              "display_url": "pic.x.com/5mRRBSQGgN",
+              "end": 82,
+              "expanded_url": "https://x.com/sauricat/status/1935428665031991485/photo/1",
+              "media_key": "3_1935428536396857344",
+              "start": 59,
+              "url": "https://t.co/5mRRBSQGgN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935428665031991485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 224,
+                "id": "2571881973",
+                "start": 218,
+                "username": "quqwq"
+              },
+              {
+                "end": 291,
+                "id": "269023255",
+                "start": 285,
+                "username": "qwqaq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "matrix.org",
+                "end": 315,
+                "expanded_url": "http://matrix.org",
+                "start": 292,
+                "url": "https://t.co/O9hjwa93tF"
+              }
+            ]
+          },
+          "text": "有一位我认识的，在日本某避难所生活的跨女尝试寻求经济帮助。下面是她的自述：她目前失业但在尝试改善精神状态并在 2-3 个月内找到工作。之前她和避难所运营者共同负担了避难所的运营/无法工作的居住者的生活费，现在两个人都无存款且避难所运营者收入不高/最近要搬家经济压力很大。避难所运营者不同意现阶段募捐，但这位跨女现在面临没钱吃饭的困难，因此她以个人名义尝试请求经济帮助。\n\n本人代发消息，请大家联系她了解详细情况：\n1. Bluesky @quqwq.bsky.social\n2. Fedi/Mastodon @shizukucat@kazv.moe\n3. matrix @qwqaq:https://t.co/O9hjwa93tF\n\n收款方式：\n1. Alipay/WX 见图\n2. Swift\n3. BTC: bc1pudg2akwcwr83yyp7tcew9gl2sk3zjatjrnly9r7mydjp6pz87yhsrwc0l6\n4. ETH/USDT(ERC20): 0x44e45A4Cf4b6bC067CF997c3003D4649cFF65E51\n5. TON: UQChIUMn2aaPkZw-2ATk3GEkypLsEEq8GrS5XathVXBzhb1U\n6. USDT(TRC20): TC71NfR6sNHAGV8Yni6G1obfKoAVvRPRAo"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有一位我认识的，在日本某避难所生活的跨女尝试寻求经济帮助。下面是她的自述：她目前失业但在尝试改善精神状态并在 2-3 https://t.co/5mRRBSQGgN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4296,
+          "following_count": 221,
+          "like_count": 20542,
+          "listed_count": 12,
+          "media_count": 1596,
+          "tweet_count": 19641
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) bluesky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "北雁书 Shu",
+        "pinned_tweet_id": "1879406089600704784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11147,
+          "following_count": 915,
+          "like_count": 34083,
+          "listed_count": 35,
+          "media_count": 580,
+          "tweet_count": 11582
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

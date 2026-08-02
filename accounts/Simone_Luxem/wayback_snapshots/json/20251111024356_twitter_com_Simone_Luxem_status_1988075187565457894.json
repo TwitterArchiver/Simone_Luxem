@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988075180594524165",
+        "3_1988075180728750080"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1988075187565457894",
+    "created_at": "2025-11-11T02:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T03:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1988075187565457894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D0e2VXTgcZ",
+          "end": 126,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1988075187565457894/photo/1",
+          "media_key": "3_1988075180594524165",
+          "start": 103,
+          "url": "https://t.co/D0e2VXTgcZ"
+        },
+        {
+          "display_url": "pic.x.com/D0e2VXTgcZ",
+          "end": 126,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1988075187565457894/photo/1",
+          "media_key": "3_1988075180728750080",
+          "start": 103,
+          "url": "https://t.co/D0e2VXTgcZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988075187565457894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于为什么自己会自我价值感极低，以及为什么自己就是没办法停止把自己视为“被投资的商品”想赶快“偿还”它们…\n就，要么感觉自己是用来观赏炫耀的金丝雀，要么感觉自己是炫耀完发现不好看于是想赶快脱手的赔钱货吧… https://t.co/D0e2VXTgcZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1129,
+        "media_key": "3_1988075180594524165",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cP1-4bcAUpHWY.jpg",
+        "width": 527
+      },
+      {
+        "height": 982,
+        "media_key": "3_1988075180728750080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5cP1_YbkAAZ610.jpg",
+        "width": 517
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988075180594524165",
+            "3_1988075180728750080"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1988075187565457894",
+        "created_at": "2025-11-11T02:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T03:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988075187565457894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D0e2VXTgcZ",
+              "end": 126,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1988075187565457894/photo/1",
+              "media_key": "3_1988075180594524165",
+              "start": 103,
+              "url": "https://t.co/D0e2VXTgcZ"
+            },
+            {
+              "display_url": "pic.x.com/D0e2VXTgcZ",
+              "end": 126,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1988075187565457894/photo/1",
+              "media_key": "3_1988075180728750080",
+              "start": 103,
+              "url": "https://t.co/D0e2VXTgcZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988075187565457894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于为什么自己会自我价值感极低，以及为什么自己就是没办法停止把自己视为“被投资的商品”想赶快“偿还”它们…\n就，要么感觉自己是用来观赏炫耀的金丝雀，要么感觉自己是炫耀完发现不好看于是想赶快脱手的赔钱货吧… https://t.co/D0e2VXTgcZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5744,
+          "following_count": 214,
+          "like_count": 22892,
+          "listed_count": 18,
+          "media_count": 1692,
+          "tweet_count": 20757
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

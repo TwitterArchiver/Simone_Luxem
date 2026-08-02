@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1932077902557749726",
+    "created_at": "2025-06-09T16:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T17:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932110258031538304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1609468124566519810",
+          "start": 0,
+          "username": "KarlFra84965457"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932110258031538304",
+    "in_reply_to_user_id": "1609468124566519810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 28,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932080337720574111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KarlFra84965457 那就算自己庄园里的农奴被其它骑士给掠夺了，骑士姥爷出于维护自己的利益考虑也应该打回去至少试图给自己农奴主持下公道吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1932077902557749726",
+        "created_at": "2025-06-09T16:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T17:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932110258031538304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1609468124566519810",
+              "start": 0,
+              "username": "KarlFra84965457"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932110258031538304",
+        "in_reply_to_user_id": "1609468124566519810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932080337720574111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KarlFra84965457 那就算自己庄园里的农奴被其它骑士给掠夺了，骑士姥爷出于维护自己的利益考虑也应该打回去至少试图给自己农奴主持下公道吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1609468124566519810",
+        "conversation_id": "1932077902557749726",
+        "created_at": "2025-06-09T14:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T15:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932080337720574111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932080337720574111",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932077902557749726",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 民主党放不下自己建制派精英的脸面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4267,
+          "following_count": 220,
+          "like_count": 20503,
+          "listed_count": 12,
+          "media_count": 1579,
+          "tweet_count": 19538
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-01T08:35:38.000Z",
+        "description": "Nobody cares",
+        "id": "1609468124566519810",
+        "location": "海尼森纪念广场",
+        "name": "杨威利的红茶🇫🇮🇺🇦🇪🇪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894952278857048064/fnqlljW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 82,
+          "like_count": 2669,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1091
+        },
+        "username": "KarlFra84965457",
+        "verified": false
+      }
+    ]
+  }
+}

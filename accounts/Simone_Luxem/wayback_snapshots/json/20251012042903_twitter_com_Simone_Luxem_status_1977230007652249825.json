@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1977227744116437333",
+    "created_at": "2025-10-12T04:29:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T05:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977230007652249825"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1977230007652249825",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977227744116437333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就，越来越感觉自己的一部分已经在被转化为一颗炸弹了，它想要的事情就是爆炸，并与此同时毁灭自身，可即使是为了达到这个目的，它目前所需要做的却是活下去…真是…讽刺呢…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1118,
+        "media_key": "3_1977227738793885696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3CGJxLbwAAZRMD.jpg",
+        "width": 562
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1977227744116437333",
+        "created_at": "2025-10-12T04:29:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T05:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977230007652249825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977230007652249825",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977227744116437333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就，越来越感觉自己的一部分已经在被转化为一颗炸弹了，它想要的事情就是爆炸，并与此同时毁灭自身，可即使是为了达到这个目的，它目前所需要做的却是活下去…真是…讽刺呢…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977227738793885696"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1977227744116437333",
+        "created_at": "2025-10-12T04:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T05:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977227744116437333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ptminaVEcm",
+              "end": 66,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1977227744116437333/photo/1",
+              "media_key": "3_1977227738793885696",
+              "start": 43,
+              "url": "https://t.co/ptminaVEcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977227744116437333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉….\n大概自己目前在很多人看来都算是无病呻吟，或者自作自受的吧….\n真是讽刺呢…… https://t.co/ptminaVEcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4665,
+          "following_count": 218,
+          "like_count": 22610,
+          "listed_count": 13,
+          "media_count": 1673,
+          "tweet_count": 20524
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

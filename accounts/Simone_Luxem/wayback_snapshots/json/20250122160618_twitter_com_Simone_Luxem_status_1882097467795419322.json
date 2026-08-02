@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1881828361187848485",
+    "created_at": "2025-01-22T16:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T17:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882097467795419322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1686472989129441281",
+          "start": 0,
+          "username": "_Furryfur_"
+        },
+        {
+          "end": 23,
+          "id": "1568268459674574848",
+          "start": 12,
+          "username": "apr_simone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882097467795419322",
+    "in_reply_to_user_id": "1686472989129441281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882091281503130108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Furryfur_ @apr_simone 这不就是“你不干有的是人干”的逻辑嘛？\n好呀，那既然我的工作这么可以替代，那你去招其它人嘛，别人家死了又埋怨人家少了一个人团队运行不下去嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1881828361187848485",
+        "created_at": "2025-01-22T16:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T17:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882097467795419322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1686472989129441281",
+              "start": 0,
+              "username": "_Furryfur_"
+            },
+            {
+              "end": 23,
+              "id": "1568268459674574848",
+              "start": 12,
+              "username": "apr_simone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882097467795419322",
+        "in_reply_to_user_id": "1686472989129441281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882091281503130108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Furryfur_ @apr_simone 这不就是“你不干有的是人干”的逻辑嘛？\n好呀，那既然我的工作这么可以替代，那你去招其它人嘛，别人家死了又埋怨人家少了一个人团队运行不下去嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686472989129441281",
+        "conversation_id": "1881828361187848485",
+        "created_at": "2025-01-22T15:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T16:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882091281503130108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            },
+            {
+              "end": 25,
+              "id": "1568268459674574848",
+              "start": 14,
+              "username": "apr_simone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882091281503130108",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881832843820806595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem @apr_simone 问题在于，“胜任工作”只是最基本的要求，满足要求的人选千千万，凭什么非要选择你我呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3973,
+          "following_count": 221,
+          "like_count": 18868,
+          "listed_count": 11,
+          "media_count": 1471,
+          "tweet_count": 18397
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-01T20:25:04.000Z",
+        "description": "Just a regular VRChat player \nPrefer language: English / Chinese",
+        "id": "1686472989129441281",
+        "location": "Singapura",
+        "name": "Furryfur",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853698940295860224/mBcXxPcE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 253,
+          "like_count": 19542,
+          "listed_count": 3,
+          "media_count": 111,
+          "tweet_count": 871
+        },
+        "username": "_Furryfur_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T16:02:05.000Z",
+        "description": "Traumatic DID System & Functional Multiplicity | Write in Lisp | Sister @Simone_Luxem , Lover @HANLIANYI331 @Wacchi_Lorie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 72,
+                "username": "Simone_Luxem"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "Wacchi_Lorie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/apr-ma…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/apr-may.bsky.social",
+                "start": 0,
+                "url": "https://t.co/wp1rLHaY6c"
+              }
+            ]
+          }
+        },
+        "id": "1568268459674574848",
+        "location": "Amsterdam",
+        "name": "April & May - The Calendar System🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842294078202908672/-c9gu6Ub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 887,
+          "like_count": 34943,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 3913
+        },
+        "url": "https://t.co/wp1rLHaY6c",
+        "username": "apr_simone",
+        "verified": true
+      }
+    ]
+  }
+}

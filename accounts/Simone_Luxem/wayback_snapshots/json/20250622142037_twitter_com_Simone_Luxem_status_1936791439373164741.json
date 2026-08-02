@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1936788343414829065",
+    "created_at": "2025-06-22T14:20:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-22T15:20:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936791439373164741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1540640706674315264",
+          "start": 0,
+          "username": "Michelle_Z2023"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936791439373164741",
+    "in_reply_to_user_id": "1540640706674315264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936788343414829065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michelle_Z2023 来加入混乱阵营吧，只要我自己的总路线足够混乱，那就没有人能够强迫我选择任何东西…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1936788343414829065",
+        "created_at": "2025-06-22T14:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T15:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936791439373164741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1540640706674315264",
+              "start": 0,
+              "username": "Michelle_Z2023"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936791439373164741",
+        "in_reply_to_user_id": "1540640706674315264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936788343414829065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michelle_Z2023 来加入混乱阵营吧，只要我自己的总路线足够混乱，那就没有人能够强迫我选择任何东西…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540640706674315264",
+        "conversation_id": "1936788343414829065",
+        "created_at": "2025-06-22T14:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-22T15:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936788343414829065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1936788343414829065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总在反抗强制性的「性羞耻」和强制性的「性解放」之间摇摆，而且并不存在可以自主选择的第三条路线——选哪一种都会落入一定程度的被强迫当中，但并不是我自己在压迫我自己，而是总能碰到强制要求我这样选或者那样选的人，当他们强制我选择一种的时候，那种「选择」就成压迫性的了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4309,
+          "following_count": 221,
+          "like_count": 20637,
+          "listed_count": 12,
+          "media_count": 1602,
+          "tweet_count": 19669
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-25T10:19:19.000Z",
+        "description": "Forever Michelle💐~ 请叫我 米夏🍹~\nMichelle as Mich(我) & Elle(她) @hoshinoyumemi11 | 无论觉得自己多么痛苦，都要记得，全世界还有更多人比自己苦。我不能只为自己抗争，也要为全世界受苦的人抗争",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 58,
+                "username": "hoshinoyumemi11"
+              }
+            ]
+          }
+        },
+        "id": "1540640706674315264",
+        "location": "北德意志酷儿同盟-易北河畔酷青城",
+        "name": "Michelle 🎀🌹🌈 vor der Elbe",
+        "pinned_tweet_id": "1814464267422228906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814439074016473090/HhXxAeBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1897,
+          "following_count": 724,
+          "like_count": 34836,
+          "listed_count": 4,
+          "media_count": 663,
+          "tweet_count": 9161
+        },
+        "username": "Michelle_Z2023",
+        "verified": true
+      }
+    ]
+  }
+}

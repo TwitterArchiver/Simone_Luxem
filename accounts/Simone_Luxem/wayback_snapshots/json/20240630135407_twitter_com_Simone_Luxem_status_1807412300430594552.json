@@ -1,0 +1,214 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1807381507922882640",
+    "created_at": "2024-06-30T13:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-30T14:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807412300430594552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1703206056514428928",
+          "start": 0,
+          "username": "MuDipusRex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1807412300430594552",
+    "in_reply_to_user_id": "1703206056514428928",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807381507922882640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MuDipusRex 但我真的是北京人,而我强烈反对所谓“低端人口”的划分,即使仅考虑身为北京人自身的利益,这种行为也是玷污自身荣誉的行为..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1807381507922882640",
+        "created_at": "2024-06-30T13:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T14:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807412300430594552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1703206056514428928",
+              "start": 0,
+              "username": "MuDipusRex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807412300430594552",
+        "in_reply_to_user_id": "1703206056514428928",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807381507922882640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MuDipusRex 但我真的是北京人,而我强烈反对所谓“低端人口”的划分,即使仅考虑身为北京人自身的利益,这种行为也是玷污自身荣誉的行为..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1703206056514428928",
+        "conversation_id": "1807381507922882640",
+        "created_at": "2024-06-30T11:51:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-30T12:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807381507922882640"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1807335597796639141",
+              "start": 138,
+              "url": "https://t.co/iEzd6Lcohl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807381507922882640",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 290,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807335597796639141",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讲真我要是京爷也不让低端人口进京；你不需要和我争论我反对的理由什么，反正我就是想维持现状，即我可以正当地踢走那些让我感到害怕的外地人，无论这个人是什么东西，起码不会增加不确定性和风险。你在试图限制的是我 police 北京户口的权力，而这种权力是唯一我认为能保障我安全的东西 https://t.co/iEzd6Lcohl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3344,
+          "following_count": 223,
+          "like_count": 14625,
+          "listed_count": 10,
+          "tweet_count": 15733
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T00:36:02.000Z",
+        "description": "Tochter aus Elysium.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+oktQgZnDiiE2N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+oktQgZnDiiE2NjY1",
+                "start": 0,
+                "url": "https://t.co/ONBwUhAEbF"
+              }
+            ]
+          }
+        },
+        "id": "1703206056514428928",
+        "name": "μ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802631277570662400/J0xhDVoB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 159,
+          "like_count": 1205,
+          "listed_count": 0,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/ONBwUhAEbF",
+        "username": "MuDipusRex",
+        "verified": false
+      }
+    ]
+  }
+}

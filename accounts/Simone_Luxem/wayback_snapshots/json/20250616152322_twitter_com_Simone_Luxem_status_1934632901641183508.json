@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1934580041108623383",
+    "created_at": "2025-06-16T15:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T16:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934632901641183508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "861573835333578752",
+          "start": 0,
+          "username": "eileen_raccoon"
+        },
+        {
+          "end": 32,
+          "id": "4752010152",
+          "start": 16,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934632901641183508",
+    "in_reply_to_user_id": "861573835333578752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934622798493966472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eileen_raccoon @garrulous_abyss 这就是欧姆尼塞亚神仙！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1934580041108623383",
+        "created_at": "2025-06-16T15:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T16:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934632901641183508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "861573835333578752",
+              "start": 0,
+              "username": "eileen_raccoon"
+            },
+            {
+              "end": 32,
+              "id": "4752010152",
+              "start": 16,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934632901641183508",
+        "in_reply_to_user_id": "861573835333578752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934622798493966472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eileen_raccoon @garrulous_abyss 这就是欧姆尼塞亚神仙！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "861573835333578752",
+        "conversation_id": "1934580041108623383",
+        "created_at": "2025-06-16T14:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T15:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934622798493966472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934622798493966472",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934580041108623383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 我刚毕业的博士师兄, 每周五会把威士忌灌到东方树叶的瓶子里带去实验室; 院足球队训练一次不差; 相信宇宙是计算机模拟的(虽然我也是); 偶尔在实验室通宵....玩三国杀. 他好像确实是我见过毕业最轻松的博士了🌿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4270,
+          "following_count": 222,
+          "like_count": 20549,
+          "listed_count": 12,
+          "media_count": 1594,
+          "tweet_count": 19616
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-08T13:29:44.000Z",
+        "description": "你不能只在自己是弱势群体的时候才振臂高呼帮帮弱者",
+        "id": "861573835333578752",
+        "location": "沪国",
+        "name": "被填满的帕尼尼",
+        "pinned_tweet_id": "1734524026993938495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781648124605542400/OWvJ4Vro_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 279,
+          "like_count": 2275,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 323
+        },
+        "username": "eileen_raccoon",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 138,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 115,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28805,
+          "following_count": 3564,
+          "like_count": 149327,
+          "listed_count": 98,
+          "media_count": 3389,
+          "tweet_count": 55198
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1929839546205639150",
+    "created_at": "2025-06-03T14:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T15:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929902755944001940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164688189673463808",
+          "start": 0,
+          "username": "Hina_Tokugawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929902755944001940",
+    "in_reply_to_user_id": "1164688189673463808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929902364234002635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hina_Tokugawa 那这就更不是jm的问题了啊，是举报它的人的问题啊，你应该反对这种举报行为才对吧？为什么来反驳我？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1929839546205639150",
+        "created_at": "2025-06-03T14:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929902755944001940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164688189673463808",
+              "start": 0,
+              "username": "Hina_Tokugawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929902755944001940",
+        "in_reply_to_user_id": "1164688189673463808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929902364234002635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hina_Tokugawa 那这就更不是jm的问题了啊，是举报它的人的问题啊，你应该反对这种举报行为才对吧？为什么来反驳我？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164688189673463808",
+        "conversation_id": "1929839546205639150",
+        "created_at": "2025-06-03T14:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T15:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929902364234002635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929902364234002635",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929901870438359518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 问题是这么一讲jm不就和普通画纯爱黄漫的站一起了么，这样还不显眼啊。要不是当年有人举报他，妈的我都不用知道有这瞎眼玩意儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4259,
+          "following_count": 219,
+          "like_count": 20466,
+          "listed_count": 12,
+          "media_count": 1573,
+          "tweet_count": 19485
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T23:58:06.000Z",
+        "description": "Transgender Female. HRT now, already looks like femboy (kinda)\n跨性别女性。MTF（激素治疗中），人生目标就是成为女仆。",
+        "id": "1164688189673463808",
+        "location": "China",
+        "name": "苏Nya Supports BLM",
+        "pinned_tweet_id": "1497177131566047232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1164688280375316481/aIKqjv9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 640,
+          "like_count": 33609,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 12187
+        },
+        "username": "Hina_Tokugawa",
+        "verified": false
+      }
+    ]
+  }
+}

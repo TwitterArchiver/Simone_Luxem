@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1947440463616892928"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1947342772547293422",
+    "created_at": "2025-07-21T23:36:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-22T00:36:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947440473884528673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1126154089216262145",
+          "start": 0,
+          "username": "ArtsSuraimu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m9dOdYugq5",
+          "end": 79,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1947440473884528673/photo/1",
+          "media_key": "3_1947440463616892928",
+          "start": 56,
+          "url": "https://t.co/m9dOdYugq5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947440473884528673",
+    "in_reply_to_user_id": "1126154089216262145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947439938821132335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArtsSuraimu 哦你不提我还没看到这一段\n那现在我改变对这位的态度了：\n大鹅怎么叫，该哦，纯纯活该哦 https://t.co/m9dOdYugq5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 211,
+        "media_key": "3_1947440463616892928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwayyJ8bYAAGaOx.jpg",
+        "width": 749
+      },
+      {
+        "height": 2556,
+        "media_key": "3_1947439931661398016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwayTMQWsAAGq23.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947440463616892928"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1947342772547293422",
+        "created_at": "2025-07-21T23:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T00:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947440473884528673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsSuraimu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m9dOdYugq5",
+              "end": 79,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1947440473884528673/photo/1",
+              "media_key": "3_1947440463616892928",
+              "start": 56,
+              "url": "https://t.co/m9dOdYugq5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947440473884528673",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947439938821132335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsSuraimu 哦你不提我还没看到这一段\n那现在我改变对这位的态度了：\n大鹅怎么叫，该哦，纯纯活该哦 https://t.co/m9dOdYugq5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1947439931661398016"
+          ]
+        },
+        "author_id": "1126154089216262145",
+        "conversation_id": "1947342772547293422",
+        "created_at": "2025-07-21T23:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-22T00:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947439938821132335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2MILTfeyZp",
+              "end": 53,
+              "expanded_url": "https://x.com/ArtsSuraimu/status/1947439938821132335/photo/1",
+              "media_key": "3_1947439931661398016",
+              "start": 30,
+              "url": "https://t.co/2MILTfeyZp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947439938821132335",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947437019376062611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 整篇文提到的人名除了亚明就是我 https://t.co/2MILTfeyZp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4509,
+          "following_count": 219,
+          "like_count": 21541,
+          "listed_count": 0,
+          "media_count": 1643,
+          "tweet_count": 20000
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. Traveller. Opinions are own. 属性鼠鹿，性别男，找不到对象，政治属性不明，喜欢鹿乃子、史莱姆（利姆露）、小埋、@ddvd233 日本語を少しい話せます Deutsch kann ich auch ein bissl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 92,
+                "username": "ddvd233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimuroslime",
+                "end": 23,
+                "expanded_url": "https://t.me/rimuroslime",
+                "start": 0,
+                "url": "https://t.co/Xo0VOQVwy0"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu Pro Max Ultra Plus スライム 鼠莱姆",
+        "pinned_tweet_id": "1920399419259736374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915766741453647872/s1uhIg95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10824,
+          "following_count": 2391,
+          "like_count": 90527,
+          "listed_count": 47,
+          "media_count": 365,
+          "tweet_count": 3973
+        },
+        "url": "https://t.co/Xo0VOQVwy0",
+        "username": "ArtsSuraimu",
+        "verified": true
+      }
+    ]
+  }
+}

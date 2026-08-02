@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1996885793097580664",
+    "created_at": "2025-12-06T13:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T14:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997291206674690151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967563670910894081",
+          "start": 0,
+          "username": "baiyuewww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997291206674690151",
+    "in_reply_to_user_id": "1967563670910894081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997204879715053704",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiyuewww 你不比其中任何人强，你才是最劣等，最下贱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1996885793097580664",
+        "created_at": "2025-12-06T13:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T14:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997291206674690151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967563670910894081",
+              "start": 0,
+              "username": "baiyuewww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997291206674690151",
+        "in_reply_to_user_id": "1967563670910894081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997204879715053704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiyuewww 你不比其中任何人强，你才是最劣等，最下贱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967563670910894081",
+        "conversation_id": "1996885793097580664",
+        "created_at": "2025-12-06T07:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997204879715053704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997204879715053704",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996885793097580664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 首先感谢你的善心，然后你这是你在害了他们，你应该明白，他们这种都是属于被社会淘汰的劣质品，消失也挺好，可以节约社会资源，你帮了他们便浪费了你自己的钱，以及社会资源"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5962,
+          "following_count": 216,
+          "like_count": 23114,
+          "listed_count": 18,
+          "media_count": 1711,
+          "tweet_count": 20915
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T12:19:34.000Z",
+        "description": "孤鹤游天外，凡禽莫近身.",
+        "id": "1967563670910894081",
+        "location": "中国 江西",
+        "name": "B站任成轩🇨🇳",
+        "pinned_tweet_id": "1996690589715485024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996468605395898368/p6I8omNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 4,
+          "like_count": 893,
+          "listed_count": 3,
+          "media_count": 8,
+          "tweet_count": 933
+        },
+        "username": "baiyuewww",
+        "verified": false
+      }
+    ]
+  }
+}

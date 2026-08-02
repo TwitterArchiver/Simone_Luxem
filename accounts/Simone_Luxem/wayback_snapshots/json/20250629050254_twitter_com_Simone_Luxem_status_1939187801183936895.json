@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1939187801183936895",
+    "created_at": "2025-06-29T05:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T06:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939187801183936895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alexia47633456…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/alexia476334561/status/1939186183822524707",
+          "start": 148,
+          "url": "https://t.co/EOvFEFUEp5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939187801183936895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 445,
+      "like_count": 12,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939186183822524707",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就是有没有一种可能，你确实可以大致通过染色体把人类分为“xx”和“xy”，但是这套分类系统并不能对应出“生物性别”这个名词呢？\n显然地，可以有无数多种人为界定的划分法把所有人分成两类人，可是那么凭什么你就要把这一种分法叫做“生物性别”呢？为什么我们不用是否成年后表达乳糖酶来区分“生物性别”呢？ https://t.co/EOvFEFUEp5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1939187801183936895",
+        "created_at": "2025-06-29T05:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T06:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939187801183936895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexia47633456…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/alexia476334561/status/1939186183822524707",
+              "start": 148,
+              "url": "https://t.co/EOvFEFUEp5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939187801183936895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 445,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939186183822524707",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就是有没有一种可能，你确实可以大致通过染色体把人类分为“xx”和“xy”，但是这套分类系统并不能对应出“生物性别”这个名词呢？\n显然地，可以有无数多种人为界定的划分法把所有人分成两类人，可是那么凭什么你就要把这一种分法叫做“生物性别”呢？为什么我们不用是否成年后表达乳糖酶来区分“生物性别”呢？ https://t.co/EOvFEFUEp5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1392108827760287745",
+        "conversation_id": "1939186183822524707",
+        "created_at": "2025-06-29T04:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T05:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939186183822524707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/simone_luxem/status/1939178917404811753",
+              "start": 166,
+              "url": "https://t.co/CPSZdJ6SHx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939186183822524707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1461,
+          "like_count": 4,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939178917404811753",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "生物性别，至少人类性别，可以轻易地使用遗传学决定，也就是XY sex-determination system。\n当然存在染色体异常的情况，但从统计学上使用y染色体决定的准确度达到3-4个sigma。\n\n顺便一提，即使准确度如此之高，我仍然设置了一个严谨的fallback，即“从X的含义中删除性同一性障碍，保留先天染色体异常”。 https://t.co/CPSZdJ6SHx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4326,
+          "following_count": 220,
+          "like_count": 20815,
+          "listed_count": 12,
+          "media_count": 1608,
+          "tweet_count": 19761
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-11T13:27:58.000Z",
+        "description": "アニメ ゲーム VTuber ｜ CG・VFXクリエイター",
+        "id": "1392108827760287745",
+        "name": "みなみ アレクシア",
+        "pinned_tweet_id": "1392493620058476545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654143957239238656/9ABOKI8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 149,
+          "like_count": 36447,
+          "listed_count": 9,
+          "media_count": 202,
+          "tweet_count": 23323
+        },
+        "username": "Alexia476334561",
+        "verified": false
+      }
+    ]
+  }
+}

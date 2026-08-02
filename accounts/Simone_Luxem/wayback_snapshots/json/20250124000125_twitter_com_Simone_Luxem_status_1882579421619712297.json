@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1882578504698802374",
+    "created_at": "2025-01-24T00:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T01:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882579421619712297"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1882579421619712297",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882578504698802374",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "忘了是谁曾经说过，“即使是家长党难道你们会觉得会想要自己会像是小女孩和父母相处那样和你们父母相处吗？还不也是成年人之间的关系？”大概类似意思的话\n是啊…不应该啊…特别是自己更不应该啊…\n…所以大概只是一些错位的欲望投射罢了吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1882578504698802374",
+        "created_at": "2025-01-24T00:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T01:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882579421619712297"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882579421619712297",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882578504698802374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忘了是谁曾经说过，“即使是家长党难道你们会觉得会想要自己会像是小女孩和父母相处那样和你们父母相处吗？还不也是成年人之间的关系？”大概类似意思的话\n是啊…不应该啊…特别是自己更不应该啊…\n…所以大概只是一些错位的欲望投射罢了吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1882578504698802374",
+        "created_at": "2025-01-23T23:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T00:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882578504698802374"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882578504698802374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我妈发了我穿新捡的裙子的照片，得到了很冷淡的反应，有点失落\n其实在预期什么呢？不知道，从理性上讲想要得到的也都已经得到了，对方也没有更做错什么，之前设置的各种“验证”，对方也都通过了…\n可能还是自己那种“小孩子”的残留吧，从来没长大过的自己，想被当作小孩子的自己…\n可是这是不该有的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3978,
+          "following_count": 221,
+          "like_count": 18894,
+          "listed_count": 11,
+          "media_count": 1471,
+          "tweet_count": 18412
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

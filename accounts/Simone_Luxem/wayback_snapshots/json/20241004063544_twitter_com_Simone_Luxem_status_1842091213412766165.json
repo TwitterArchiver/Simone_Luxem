@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1842089653752459650",
+    "created_at": "2024-10-04T06:35:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T07:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842091213412766165"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1842091213412766165",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842089653752459650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "更进一步说性工作还真不是是个人就能做的：比如像我这样的，完全对自己“值多少钱”没有概念，甚至根本做不到开口要钱的，就肯定不行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1842089653752459650",
+        "created_at": "2024-10-04T06:35:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T07:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842091213412766165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842091213412766165",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842089653752459650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更进一步说性工作还真不是是个人就能做的：比如像我这样的，完全对自己“值多少钱”没有概念，甚至根本做不到开口要钱的，就肯定不行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1842089653752459650",
+        "created_at": "2024-10-04T06:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T07:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842089653752459650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/b_cat38324/status/1842064154066354270",
+              "start": 143,
+              "url": "https://t.co/b5Tb3uQnmS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842089653752459650",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842064154066354270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不明白\n如果是按照自由意志的角度来说，那“卖淫”只不过是和“卖体力”一样性质，性工作和学术研究没什么不同，那谁凭啥有资格看不起性工作者，甚至以此来羞辱其它人？\n如果不那么自由意志，那更是几十年前的人都能想明白的：沦为性工作者是人的不幸，是社会压迫和不平等…那么哪有羞辱受害者的道理？ https://t.co/b5Tb3uQnmS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3750,
+          "following_count": 223,
+          "like_count": 17278,
+          "listed_count": 9,
+          "tweet_count": 17278
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

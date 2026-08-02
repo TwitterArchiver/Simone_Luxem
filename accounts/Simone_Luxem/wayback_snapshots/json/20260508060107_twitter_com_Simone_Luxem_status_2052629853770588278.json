@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2052629853770588278",
+    "created_at": "2026-05-08T06:01:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T07:01:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052629853770588278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824324977379905537",
+          "start": 3,
+          "username": "siyu060910"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "kdocs.cn/l/ct4Gq7Gtn9g9",
+          "end": 92,
+          "expanded_url": "https://www.kdocs.cn/l/ct4Gq7Gtn9g9",
+          "start": 69,
+          "unwound_url": "https://www.kdocs.cn/l/ct4Gq7Gtn9g9",
+          "url": "https://t.co/ndME5Ucl9w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052629853770588278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052604064475800023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siyu060910: 近期做的一份采访的文字记录，希望可以帮大家认识到矫正机构、扭转机构内的真实情况\n采访记录20260505\nhttps://t.co/ndME5Ucl9w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2052629853770588278",
+        "created_at": "2026-05-08T06:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T07:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052629853770588278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824324977379905537",
+              "start": 3,
+              "username": "siyu060910"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "kdocs.cn/l/ct4Gq7Gtn9g9",
+              "end": 92,
+              "expanded_url": "https://www.kdocs.cn/l/ct4Gq7Gtn9g9",
+              "start": 69,
+              "unwound_url": "https://www.kdocs.cn/l/ct4Gq7Gtn9g9",
+              "url": "https://t.co/ndME5Ucl9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052629853770588278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052604064475800023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siyu060910: 近期做的一份采访的文字记录，希望可以帮大家认识到矫正机构、扭转机构内的真实情况\n采访记录20260505\nhttps://t.co/ndME5Ucl9w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824324977379905537",
+        "conversation_id": "2052604064475800023",
+        "created_at": "2026-05-08T04:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T05:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052604064475800023"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "kdocs.cn/l/ct4Gq7Gtn9g9",
+              "end": 76,
+              "expanded_url": "https://www.kdocs.cn/l/ct4Gq7Gtn9g9",
+              "start": 53,
+              "unwound_url": "https://www.kdocs.cn/l/ct4Gq7Gtn9g9",
+              "url": "https://t.co/ndME5Ucl9w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052604064475800023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 371,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "近期做的一份采访的文字记录，希望可以帮大家认识到矫正机构、扭转机构内的真实情况\n采访记录20260505\nhttps://t.co/ndME5Ucl9w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6187,
+          "following_count": 220,
+          "like_count": 24566,
+          "listed_count": 19,
+          "media_count": 1778,
+          "tweet_count": 21646
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务｜我是中国人、我始终热爱这片土地",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 33,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 10,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 70,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 47,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2049167214830559716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7500,
+          "following_count": 82,
+          "like_count": 520,
+          "listed_count": 11,
+          "media_count": 276,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      }
+    ]
+  }
+}

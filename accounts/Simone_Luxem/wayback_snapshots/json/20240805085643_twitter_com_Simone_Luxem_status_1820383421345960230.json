@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1820383421345960230",
+    "created_at": "2024-08-05T08:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-05T09:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1820383421345960230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Bone Research - Estradiol increases cortical and trabecular bone accrual and bone strength in an adolescent male-to-female mouse model of gender-affirming hormone therapy",
+          "display_url": "doi.org/10.1038/s41413…",
+          "end": 23,
+          "expanded_url": "http://doi.org/10.1038/s41413-023-00308-2",
+          "images": [
+            {
+              "height": 589,
+              "url": "https://pbs.twimg.com/news_img/1820383428262449152/13mwjpli?format=jpg&name=orig",
+              "width": 2037
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1820383428262449152/13mwjpli?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Estradiol increases cortical and trabecular bone accrual and bone strength in an adolescent male-to-female mouse model of gender-affirming hormone therapy",
+          "unwound_url": "https://www.nature.com/articles/s41413-023-00308-2?error=cookies_not_supported&code=e4caec24-d41b-4b4d-aef2-5124ac390c5e",
+          "url": "https://t.co/zW04HVI1MJ"
+        },
+        {
+          "display_url": "doi.org/10.1016/j.bone…",
+          "end": 47,
+          "expanded_url": "http://doi.org/10.1016/j.bone.2024.117143",
+          "start": 24,
+          "unwound_url": "https://www.sciencedirect.com/science/article/pii/S8756328224001327",
+          "url": "https://t.co/78TpiKZ0Qx"
+        },
+        {
+          "display_url": "x.com/simone_luxem/s…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/simone_luxem/status/1820377230058377723",
+          "start": 148,
+          "url": "https://t.co/coppEG97g9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820383421345960230",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820377230058377723",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/zW04HVI1MJ\nhttps://t.co/78TpiKZ0Qx\n没有找到我想要的东西，但是找到另外两个挺有意思的研究，结论大概可以得出在fHRT的时候提高雌激素浓度是有利于骨骼发育，避免骨质疏松等问题的…所以流传的xyn骨骼会有问题的说法大概是雌没吃够的原因…？ https://t.co/coppEG97g9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1820383421345960230",
+        "created_at": "2024-08-05T08:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T09:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820383421345960230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Bone Research - Estradiol increases cortical and trabecular bone accrual and bone strength in an adolescent male-to-female mouse model of gender-affirming hormone therapy",
+              "display_url": "doi.org/10.1038/s41413…",
+              "end": 23,
+              "expanded_url": "http://doi.org/10.1038/s41413-023-00308-2",
+              "images": [
+                {
+                  "height": 589,
+                  "url": "https://pbs.twimg.com/news_img/1820383428262449152/13mwjpli?format=jpg&name=orig",
+                  "width": 2037
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1820383428262449152/13mwjpli?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Estradiol increases cortical and trabecular bone accrual and bone strength in an adolescent male-to-female mouse model of gender-affirming hormone therapy",
+              "unwound_url": "https://www.nature.com/articles/s41413-023-00308-2?error=cookies_not_supported&code=e4caec24-d41b-4b4d-aef2-5124ac390c5e",
+              "url": "https://t.co/zW04HVI1MJ"
+            },
+            {
+              "display_url": "doi.org/10.1016/j.bone…",
+              "end": 47,
+              "expanded_url": "http://doi.org/10.1016/j.bone.2024.117143",
+              "start": 24,
+              "unwound_url": "https://www.sciencedirect.com/science/article/pii/S8756328224001327",
+              "url": "https://t.co/78TpiKZ0Qx"
+            },
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/simone_luxem/status/1820377230058377723",
+              "start": 148,
+              "url": "https://t.co/coppEG97g9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820383421345960230",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820377230058377723",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/zW04HVI1MJ\nhttps://t.co/78TpiKZ0Qx\n没有找到我想要的东西，但是找到另外两个挺有意思的研究，结论大概可以得出在fHRT的时候提高雌激素浓度是有利于骨骼发育，避免骨质疏松等问题的…所以流传的xyn骨骼会有问题的说法大概是雌没吃够的原因…？ https://t.co/coppEG97g9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1820377230058377723",
+        "created_at": "2024-08-05T08:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T09:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820377230058377723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820377230058377723",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "越来越好奇到底fhrt对已经发育完成的骨骼会有怎样的什么作用了…\n因为发现自己好多地方都“小了一圈”：身高变矮了一些，脚码也变小了一些…但是自己似乎也没有骨质疏松什么的…\n感觉想不太明白…即使骨垢板还没有闭合（我觉得不大可能，考虑到我的年龄），也没听说过倒着长的呀，已经长的还能缩回去..？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3455,
+          "following_count": 225,
+          "like_count": 15759,
+          "listed_count": 8,
+          "tweet_count": 16358
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

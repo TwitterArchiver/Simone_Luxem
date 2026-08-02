@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1879547023420252186",
+    "created_at": "2025-01-15T21:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T22:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879646740636401813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "60042536",
+          "start": 0,
+          "username": "keyemail"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879646740636401813",
+    "in_reply_to_user_id": "60042536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879547023420252186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keyemail 不怎么样，要找Emma你自己去找，别我放不放的，说的跟我限制Emma行动自由了一样\n此外合作已经结束了，并且也没有继续的打算，你的认知和观念实在让我难以忍受，所以就这样了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1879547023420252186",
+        "created_at": "2025-01-15T21:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T22:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879646740636401813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "60042536",
+              "start": 0,
+              "username": "keyemail"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879646740636401813",
+        "in_reply_to_user_id": "60042536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879547023420252186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keyemail 不怎么样，要找Emma你自己去找，别我放不放的，说的跟我限制Emma行动自由了一样\n此外合作已经结束了，并且也没有继续的打算，你的认知和观念实在让我难以忍受，所以就这样了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "60042536",
+        "conversation_id": "1879547023420252186",
+        "created_at": "2025-01-15T15:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T16:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879547023420252186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Simone_Luxem/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1879525157649416399",
+              "start": 43,
+              "url": "https://t.co/5BMUO85sSj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879547023420252186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879525157649416399",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有本事你放emma过来看一看紫嫣案件的证据怎么样？\n\n用生殖器做自杀干预也是牛逼了。 https://t.co/5BMUO85sSj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3955,
+          "following_count": 221,
+          "like_count": 18741,
+          "listed_count": 10,
+          "media_count": 1468,
+          "tweet_count": 18344
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-25T11:57:06.000Z",
+        "description": "人权工作者。 （如果你只相信法轮功媒体） 中华人民共和国国安部长打击法轮功专项行动特别小组成员。被宇宙主佛托梦参与到了神韵案件当中，以清君侧。🐶 🐶 🐶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "liuxiaoer.substack.com/publish/settin…",
+                "end": 23,
+                "expanded_url": "https://liuxiaoer.substack.com/publish/settings",
+                "start": 0,
+                "url": "https://t.co/O0HC56xCzM"
+              }
+            ]
+          }
+        },
+        "id": "60042536",
+        "location": "China",
+        "name": "小二",
+        "pinned_tweet_id": "1870112134396555648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811242230545580032/kCg5TIGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3778,
+          "following_count": 452,
+          "like_count": 468,
+          "listed_count": 21,
+          "media_count": 228,
+          "tweet_count": 3951
+        },
+        "url": "https://t.co/O0HC56xCzM",
+        "username": "keyemail",
+        "verified": false
+      }
+    ]
+  }
+}

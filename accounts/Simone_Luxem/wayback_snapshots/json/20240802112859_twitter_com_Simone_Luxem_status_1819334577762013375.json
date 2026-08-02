@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1819252051538256307",
+    "created_at": "2024-08-02T11:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T12:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819334577762013375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1684284842769539073",
+          "start": 0,
+          "username": "Shuliaosugar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819334577762013375",
+    "in_reply_to_user_id": "1684284842769539073",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819305919853027682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shuliaosugar 我仍然不了解具体细节，并且也没有了解的兴趣，所以大概仍然没有看法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1819252051538256307",
+        "created_at": "2024-08-02T11:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T12:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819334577762013375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1684284842769539073",
+              "start": 0,
+              "username": "Shuliaosugar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819334577762013375",
+        "in_reply_to_user_id": "1684284842769539073",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819305919853027682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shuliaosugar 我仍然不了解具体细节，并且也没有了解的兴趣，所以大概仍然没有看法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684284842769539073",
+        "conversation_id": "1819252051538256307",
+        "created_at": "2024-08-02T09:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T10:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819305919853027682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819305919853027682",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819252051538256307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 在之前我和你的私聊中，你声称自己和任何人都没有从属关系，因此对于我隐私被泄露的事件你不会对他们做些什么。\n那么现在泄露我隐私的人成了你的下属，我想了解下你的看法有没有变化。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3467,
+          "following_count": 224,
+          "like_count": 15670,
+          "listed_count": 8,
+          "tweet_count": 16345
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T19:29:52.000Z",
+        "description": "#可国际快递 #药贩 #自制 #PPY\n                               无证含🍬✟ 牢盐 ✟ 人格解离 ✟ 本体盐与砂糖 ✟ 无🍬无💰免费领自制凝胶 ✟ 麻麻:@misakiyugan",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "可国际快递"
+              },
+              {
+                "end": 10,
+                "start": 7,
+                "tag": "药贩"
+              },
+              {
+                "end": 14,
+                "start": 11,
+                "tag": "自制"
+              },
+              {
+                "end": 19,
+                "start": 15,
+                "tag": "PPY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 95,
+                "username": "misakiyugan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me",
+                "end": 23,
+                "expanded_url": "http://t.me/",
+                "start": 0,
+                "url": "https://t.co/vROZmx2nV6"
+              }
+            ]
+          }
+        },
+        "id": "1684284842769539073",
+        "location": "Q: ",
+        "name": "✟ 神户✟ 🍥 盐/糖💊🍚",
+        "pinned_tweet_id": "1814668191291089298",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786172729059860480/rW-zSnDE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 1596,
+          "like_count": 1622,
+          "listed_count": 5,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/vROZmx2nV6",
+        "username": "Shuliaosugar",
+        "verified": false
+      }
+    ]
+  }
+}

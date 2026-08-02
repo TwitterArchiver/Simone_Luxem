@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1972611787343450339",
+    "created_at": "2025-09-29T10:53:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T11:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972615771282186751"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1972615771282186751",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972614787801731400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就，很难说自己是不是“自愿”的，因为经常是自己意识到了这一点然后拼命阻止自己进一步滑下去但又与此同时不愿意“亏欠”对方因而了阻止自己激烈的真的会挣脱的挣扎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1972611787343450339",
+        "created_at": "2025-09-29T10:53:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T11:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972615771282186751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972615771282186751",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972614787801731400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就，很难说自己是不是“自愿”的，因为经常是自己意识到了这一点然后拼命阻止自己进一步滑下去但又与此同时不愿意“亏欠”对方因而了阻止自己激烈的真的会挣脱的挣扎…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1972611787343450339",
+        "created_at": "2025-09-29T10:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T11:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972614787801731400"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972614787801731400",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972611787343450339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就好像某种底层代码一样，在自己存在某种缺陷，或是做错事情了的时候，会本能性地服从于给自己提供了帮助，或为自己做错的事情擦屁股的人，是那种会变很乖很听话的那种，即使这个人与自己在很多问题上有巨大的分歧和矛盾..\n而且这个代码的优先级还很高，自己意识到都不一定能阻止运行的那种…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622,
+          "following_count": 220,
+          "like_count": 22497,
+          "listed_count": 12,
+          "media_count": 1663,
+          "tweet_count": 20442
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

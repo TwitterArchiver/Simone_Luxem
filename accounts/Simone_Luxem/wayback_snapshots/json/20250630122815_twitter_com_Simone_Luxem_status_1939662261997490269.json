@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1939662261997490269",
+    "created_at": "2025-06-30T12:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T13:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939662261997490269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shuo_zi27516/s…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/shuo_zi27516/status/1939276859428249971",
+          "start": 28,
+          "url": "https://t.co/ffnuxW7rMF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939662261997490269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939276859428249971",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈的给我一起床就整黑怒了…\n觉得高低得给它们整点什么… https://t.co/ffnuxW7rMF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1939662261997490269",
+        "created_at": "2025-06-30T12:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T13:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939662261997490269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuo_zi27516/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/shuo_zi27516/status/1939276859428249971",
+              "start": 28,
+              "url": "https://t.co/ffnuxW7rMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939662261997490269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939276859428249971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈的给我一起床就整黑怒了…\n觉得高低得给它们整点什么… https://t.co/ffnuxW7rMF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863821756932472832",
+        "conversation_id": "1939276859428249971",
+        "created_at": "2025-06-29T10:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T11:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939276859428249971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939276859428249971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3600,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没死成的确被.....骂了\n家里不养我了www\n他们骂我为什么没死...."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4323,
+          "following_count": 220,
+          "like_count": 20849,
+          "listed_count": 12,
+          "media_count": 1610,
+          "tweet_count": 19775
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-03T05:45:42.000Z",
+        "description": "晚安.........\n谢谢你们",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wcenpkgoAzFkM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wcenpkgoAzFkMDQ1",
+                "start": 0,
+                "url": "https://t.co/Av9bAZd3dg"
+              }
+            ]
+          }
+        },
+        "id": "1863821756932472832",
+        "location": "cat",
+        "name": "宫笙 🏳‍⚧️🍥",
+        "pinned_tweet_id": "1939228889043316916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909494365900488705/svO7GLQd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 468,
+          "like_count": 95,
+          "listed_count": 4,
+          "media_count": 116,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/Av9bAZd3dg",
+        "username": "shuo_zi27516",
+        "verified": false
+      }
+    ]
+  }
+}

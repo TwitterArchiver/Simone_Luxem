@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1926809674621362188",
+    "created_at": "2025-05-26T01:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T02:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926811543766807016"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1926811543766807016",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926809674621362188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "仍然是熟悉的幻觉，自己被一只巨大的手掐住脖子整个人拎了起来，被砸向砖墙/石头/盾牌/木桩/杂物堆，一下又一下，脊椎被折断，肋骨刺进胸腔，气管不知道多久没有空气进入\n只是幻觉罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1926809674621362188",
+        "created_at": "2025-05-26T01:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T02:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926811543766807016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926811543766807016",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926809674621362188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仍然是熟悉的幻觉，自己被一只巨大的手掐住脖子整个人拎了起来，被砸向砖墙/石头/盾牌/木桩/杂物堆，一下又一下，脊椎被折断，肋骨刺进胸腔，气管不知道多久没有空气进入\n只是幻觉罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1926809674621362188",
+        "created_at": "2025-05-26T01:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T02:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926809674621362188"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926809674621362188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然在想我妈\n不知道对她而言我是不是就是典型的“出去读书结果把人读成了罪犯精神病还变性了”\n明明自己最早意图自杀的经历是在初中，只是她不知道也想不到罢了；真正付诸实施的高中，也只是“不知道怎么的”突然一下就自杀了，反正自己之后又回学校后就像什么都没发生过一样…\n或者其实只是自己在投射…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4244,
+          "following_count": 219,
+          "like_count": 20358,
+          "listed_count": 12,
+          "media_count": 1559,
+          "tweet_count": 19376
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

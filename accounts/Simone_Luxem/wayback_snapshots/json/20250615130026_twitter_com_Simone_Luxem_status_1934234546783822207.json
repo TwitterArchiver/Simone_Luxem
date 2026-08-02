@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1934074688260718773",
+    "created_at": "2025-06-15T13:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T14:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934234546783822207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934234546783822207",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934074688260718773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orisam123 不是，有不少女生就是天生就会有唇毛的啊，甚至能挺重的…\n我自己，如果你凑近看，就是按照定义来说“有胡子”的，就是能看到那一个个小黑点的，也甚至不影响我任何stealth吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1934074688260718773",
+        "created_at": "2025-06-15T13:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T14:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934234546783822207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934234546783822207",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934074688260718773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orisam123 不是，有不少女生就是天生就会有唇毛的啊，甚至能挺重的…\n我自己，如果你凑近看，就是按照定义来说“有胡子”的，就是能看到那一个个小黑点的，也甚至不影响我任何stealth吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "1934074688260718773",
+        "created_at": "2025-06-15T02:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T03:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934074688260718773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TrLynxNya/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/TrLynxNya/status/1934065496779039168",
+              "start": 32,
+              "url": "https://t.co/Qo2TD7ddU4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934074688260718773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5389,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934065496779039168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想象不出来两三天抽不出来五分钟对着镜子处理一下胡子是什么大忙人 https://t.co/Qo2TD7ddU4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4272,
+          "following_count": 220,
+          "like_count": 20540,
+          "listed_count": 12,
+          "media_count": 1592,
+          "tweet_count": 19594
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "从2024年七月初开始的饭桶（减肥中）٩(˃̶͈̀௰˂̶͈́)و\n已有男友，是正经人\ntg群组https://t.co/kvz722N3ba\n\n未婚夫:  @nideniuzi186074\n\n闺蜜&姐姐&引路人:  @zihou1968025650",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "nideniuzi186074"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+s-NP42sLYX43M…",
+                "end": 70,
+                "expanded_url": "https://t.me/+s-NP42sLYX43M2I1",
+                "start": 47,
+                "url": "https://t.co/kvz722N3ba"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "name": "折筱orisam🏳️‍⚧️🍛🍚🍲🍙🍱🍣",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926184509931749376/bHjkjFoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1741,
+          "following_count": 1000,
+          "like_count": 35271,
+          "listed_count": 2,
+          "media_count": 397,
+          "tweet_count": 7544
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

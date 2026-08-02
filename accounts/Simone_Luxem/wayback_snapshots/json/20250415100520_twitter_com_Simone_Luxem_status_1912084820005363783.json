@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1912084820005363783",
+    "created_at": "2025-04-15T10:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T11:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1912084820005363783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sxshuishuimao/…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/sxshuishuimao/status/1911995517653127556",
+          "start": 105,
+          "url": "https://t.co/pA9MKEmUSC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912084820005363783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911995517653127556",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在明确知道对方对自己不构成威胁（信任对方，隔着老远，八竿子打不着etc）的情况下，自己确实会一定程度上将之视为自身魅力的体现…（超小声），虽然这种魅力自认为有什么价值就是另一回事了…\n嗯…可能不是很好…检讨… https://t.co/pA9MKEmUSC"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1912084820005363783",
+        "created_at": "2025-04-15T10:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T11:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912084820005363783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sxshuishuimao/…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/sxshuishuimao/status/1911995517653127556",
+              "start": 105,
+              "url": "https://t.co/pA9MKEmUSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912084820005363783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911995517653127556",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在明确知道对方对自己不构成威胁（信任对方，隔着老远，八竿子打不着etc）的情况下，自己确实会一定程度上将之视为自身魅力的体现…（超小声），虽然这种魅力自认为有什么价值就是另一回事了…\n嗯…可能不是很好…检讨… https://t.co/pA9MKEmUSC"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1911995517653127556",
+        "created_at": "2025-04-15T04:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T05:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911995517653127556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911995517653127556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4052,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现：\n顺女由于从小的教育，如果你一上来就说要透她草她，那么她肯定会觉得你很下头\n但是xyn就不一样了，因为从小当男孩子养，即便你一上来说要透她，虽然她也不会觉得怎么样，但是这其实也是很不尊重人的行为啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4132,
+          "following_count": 219,
+          "like_count": 19958,
+          "listed_count": 11,
+          "media_count": 1521,
+          "tweet_count": 19044
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "07 ｜一只笨蛋xyn｜同类回关",
+        "id": "1748763011140169729",
+        "location": "距离你3km",
+        "name": "神仙水水猫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911651993254236160/G6anvnBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 594,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1699
+        },
+        "username": "sxshuishuimao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1905650084374614175",
+    "created_at": "2025-03-28T15:56:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T16:56:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905650084374614175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1657175394267848704",
+          "start": 3,
+          "username": "Zh40Le1ZOOB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905650084374614175",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905585578520817907",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zh40Le1ZOOB: 那些因为雪雁“背叛跨性别神教”而攻击雪雁的人，看起来就像：因为自己的士兵叛变了而急得跳脚发布抹黑新闻的“爹味大国”\n但我奉劝某些人不要因为这件事就开始对“进步派”开地图炮，如果你们认为所有进步派都是身份政治大手子并以偏概全地攻击所有进步派，那你…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1905650084374614175",
+        "created_at": "2025-03-28T15:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T16:56:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905650084374614175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1657175394267848704",
+              "start": 3,
+              "username": "Zh40Le1ZOOB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905650084374614175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905585578520817907",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zh40Le1ZOOB: 那些因为雪雁“背叛跨性别神教”而攻击雪雁的人，看起来就像：因为自己的士兵叛变了而急得跳脚发布抹黑新闻的“爹味大国”\n但我奉劝某些人不要因为这件事就开始对“进步派”开地图炮，如果你们认为所有进步派都是身份政治大手子并以偏概全地攻击所有进步派，那你…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657175394267848704",
+        "conversation_id": "1905585578520817907",
+        "created_at": "2025-03-28T11:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T12:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905585578520817907"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905585578520817907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "那些因为雪雁“背叛跨性别神教”而攻击雪雁的人，看起来就像：因为自己的士兵叛变了而急得跳脚发布抹黑新闻的“爹味大国”\n但我奉劝某些人不要因为这件事就开始对“进步派”开地图炮，如果你们认为所有进步派都是身份政治大手子并以偏概全地攻击所有进步派，那你与那些攻击雪雁的身份政治大手子无异"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4106,
+          "following_count": 220,
+          "like_count": 19821,
+          "listed_count": 11,
+          "media_count": 1510,
+          "tweet_count": 18943
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-13T00:10:35.000Z",
+        "description": "`gh repo fork NixOS/nixpkgs --clone`",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Zh40Le1ZOOB",
+                "end": 23,
+                "expanded_url": "https://github.com/Zh40Le1ZOOB",
+                "start": 0,
+                "url": "https://t.co/yxR4GeW1hm"
+              }
+            ]
+          }
+        },
+        "id": "1657175394267848704",
+        "name": "nixpkgs#command_block",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832140593918570497/E8NOkWid_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 236,
+          "like_count": 4249,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 3471
+        },
+        "url": "https://t.co/yxR4GeW1hm",
+        "username": "Zh40Le1ZOOB",
+        "verified": false
+      }
+    ]
+  }
+}

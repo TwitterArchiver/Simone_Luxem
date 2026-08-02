@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2000955424485638427",
+    "created_at": "2025-12-17T07:37:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T08:37:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001194940244672612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1211879989995421696",
+          "start": 0,
+          "username": "medicagoo"
+        },
+        {
+          "end": 22,
+          "id": "1757616332240224256",
+          "start": 11,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001194940244672612",
+    "in_reply_to_user_id": "1211879989995421696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001083462506438779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@medicagoo @B_cat38324 我这种算吗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2000955424485638427",
+        "created_at": "2025-12-17T07:37:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T08:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001194940244672612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1211879989995421696",
+              "start": 0,
+              "username": "medicagoo"
+            },
+            {
+              "end": 22,
+              "id": "1757616332240224256",
+              "start": 11,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001194940244672612",
+        "in_reply_to_user_id": "1211879989995421696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001083462506438779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@medicagoo @B_cat38324 我这种算吗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1211879989995421696",
+        "conversation_id": "2000955424485638427",
+        "created_at": "2025-12-17T00:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T01:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001083462506438779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001083462506438779",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 272,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000955424485638427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 虽然我没有这么听话，也没有学习多好，但看到那些逍遥法外、灰色地带的xyn我好羡慕。\n高中的时候看到一本网络小说前部分写的女主出去流浪做各种黑工都让我向往了几个月。\n（看到碰到法律的xyn都会让我有自毁的快感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5983,
+          "following_count": 216,
+          "like_count": 23262,
+          "listed_count": 18,
+          "media_count": 1719,
+          "tweet_count": 20995
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T05:21:31.000Z",
+        "description": "BPD Algorithm engineer for OR; Borderline Personality Disorder - BPD, sleep disorder; trans BPD woman 🏳️‍⚧️.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medicago.top",
+                "end": 23,
+                "expanded_url": "https://medicago.top/",
+                "start": 0,
+                "url": "https://t.co/yXqadddKGh"
+              }
+            ]
+          }
+        },
+        "id": "1211879989995421696",
+        "name": "🍉沐雪小猪🌰",
+        "pinned_tweet_id": "1996172640135115218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990723871683837952/qN5-3xFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 309,
+          "like_count": 10082,
+          "listed_count": 3,
+          "media_count": 172,
+          "tweet_count": 4371
+        },
+        "url": "https://t.co/yXqadddKGh",
+        "username": "medicagoo",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "猫黑黑",
+        "pinned_tweet_id": "1975138457707266379",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22065,
+          "following_count": 198,
+          "like_count": 689,
+          "listed_count": 72,
+          "media_count": 96,
+          "tweet_count": 21730
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1868120858746818648",
+    "created_at": "2024-12-15T02:28:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-15T03:28:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1868120858746818648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nankyuseiichi/…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/nankyuseiichi/status/1868103229520720293",
+          "start": 54,
+          "url": "https://t.co/1iSWIJnC9x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868120858746818648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868103229520720293",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就是怪物…生来就是怪物，也选择成为怪物…在我们之中的最后一员彻底安全之前，我们之中没有任何一员是安全的… https://t.co/1iSWIJnC9x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1868120858746818648",
+        "created_at": "2024-12-15T02:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T03:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868120858746818648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nankyuseiichi/…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/nankyuseiichi/status/1868103229520720293",
+              "start": 54,
+              "url": "https://t.co/1iSWIJnC9x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868120858746818648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868103229520720293",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就是怪物…生来就是怪物，也选择成为怪物…在我们之中的最后一员彻底安全之前，我们之中没有任何一员是安全的… https://t.co/1iSWIJnC9x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815649539057201152",
+        "conversation_id": "1868101946491474402",
+        "created_at": "2024-12-15T01:18:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T02:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868103229520720293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868103229520720293",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 801,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868101946491474402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 我有时候一直在提醒自己，对某些“妖魔鬼怪”要保持包容的态度，因为迟早有一天我也会被划入其中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3912,
+          "following_count": 220,
+          "like_count": 18469,
+          "listed_count": 10,
+          "media_count": 1444,
+          "tweet_count": 18097
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T07:26:43.000Z",
+        "description": "加速南墙/历史进程/沼泽浮木/为时不晚/立场站稳/自然边界",
+        "id": "1815649539057201152",
+        "name": "南宫清一",
+        "pinned_tweet_id": "1863574456205213709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815652365674160128/rokkTcsc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 692,
+          "like_count": 7375,
+          "listed_count": 2,
+          "media_count": 344,
+          "tweet_count": 4012
+        },
+        "username": "NankyuSeiichi",
+        "verified": false
+      }
+    ]
+  }
+}

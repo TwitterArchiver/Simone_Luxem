@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1951210174171193569",
+    "created_at": "2025-08-01T09:38:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-01T10:38:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951215915753775450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362678086211301384",
+          "start": 0,
+          "username": "Amagalan_B1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951215915753775450",
+    "in_reply_to_user_id": "1362678086211301384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951214571584106679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amagalan_B1 我也不能确定\n如果可以的话，我更希望能有某个恰当的高度，对于所有身高的人都属于“可接受”的范围内\n或者把灶台设计成阶梯形，有多个不同高度的平台，这样至少做关键的工作时每个身高都可以有合适的高度"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1951210174171193569",
+        "created_at": "2025-08-01T09:38:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T10:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951215915753775450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362678086211301384",
+              "start": 0,
+              "username": "Amagalan_B1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951215915753775450",
+        "in_reply_to_user_id": "1362678086211301384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951214571584106679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amagalan_B1 我也不能确定\n如果可以的话，我更希望能有某个恰当的高度，对于所有身高的人都属于“可接受”的范围内\n或者把灶台设计成阶梯形，有多个不同高度的平台，这样至少做关键的工作时每个身高都可以有合适的高度"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362678086211301384",
+        "conversation_id": "1951210174171193569",
+        "created_at": "2025-08-01T09:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T10:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951214571584106679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951214571584106679",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951210174171193569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 那么问题出现了。有人说很多东西都没有为女性设计，所以把灶台高度按照女性平均身高设计是尊重女性。但是又有人说这代表强化女性负责家务，是刻板印象的加强，是不尊重女性。你更接受哪种观点？\n我感觉还是前者更合理。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4535,
+          "following_count": 221,
+          "like_count": 21784,
+          "listed_count": 13,
+          "media_count": 1648,
+          "tweet_count": 20084
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T08:19:32.000Z",
+        "description": "A heavy tank made by Renault. 🇩🇪🇨🇳🇬🇧🇺🇸 A fan of trains, tanks，F1 & battleships. #Renault #Alpine💙💛",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 80,
+                "tag": "Renault"
+              },
+              {
+                "end": 96,
+                "start": 89,
+                "tag": "Alpine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "defense.gouv.fr",
+                "end": 23,
+                "expanded_url": "https://www.defense.gouv.fr/",
+                "start": 0,
+                "url": "https://t.co/hXf8XteU8w"
+              }
+            ]
+          }
+        },
+        "id": "1362678086211301384",
+        "location": "Boulogne-Billancourt, France",
+        "name": "☢️Char B1 bis",
+        "pinned_tweet_id": "1931855593704497267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888752159979696128/1MaSeRRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 736,
+          "like_count": 48643,
+          "listed_count": 1,
+          "media_count": 380,
+          "tweet_count": 12927
+        },
+        "url": "https://t.co/hXf8XteU8w",
+        "username": "Amagalan_B1",
+        "verified": false
+      }
+    ]
+  }
+}

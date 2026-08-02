@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1895443606674210966",
+    "created_at": "2025-02-28T11:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T12:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1895443606674210966"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amazlngnature/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/amazlngnature/status/1895217632393019536",
+          "start": 8,
+          "url": "https://t.co/vMSOscWs1V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895443606674210966",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895217632393019536",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "洗洗屁.gif https://t.co/vMSOscWs1V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12666,
+        "height": 1024,
+        "media_key": "7_1895217615032741888",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1895217615032741888/pu/img/TwlhW7uqxt9cMVE3.jpg",
+        "public_metrics": {
+          "view_count": 73492
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895217615032741888/pu/vid/avc1/320x568/pMpvjs_pyGo2De_A.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895217615032741888/pu/vid/avc1/480x852/nqdntgVADEZH9buJ.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1895217615032741888/pu/vid/avc1/576x1024/tInDFtTJmZt_xnS5.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1895217615032741888/pu/pl/9v8qpsTpMIzqyNT6.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1895443606674210966",
+        "created_at": "2025-02-28T11:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T12:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895443606674210966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amazlngnature/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/amazlngnature/status/1895217632393019536",
+              "start": 8,
+              "url": "https://t.co/vMSOscWs1V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895443606674210966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895217632393019536",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "洗洗屁.gif https://t.co/vMSOscWs1V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1895217615032741888"
+          ]
+        },
+        "author_id": "2828212668",
+        "conversation_id": "1895217632393019536",
+        "created_at": "2025-02-27T21:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T22:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895217632393019536"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FWqxlaxOvb",
+              "end": 57,
+              "expanded_url": "https://x.com/AMAZlNGNATURE/status/1895217632393019536/video/1",
+              "media_key": "7_1895217615032741888",
+              "start": 34,
+              "url": "https://t.co/FWqxlaxOvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895217632393019536",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 244,
+          "impression_count": 200406,
+          "like_count": 3913,
+          "quote_count": 47,
+          "reply_count": 143,
+          "retweet_count": 393
+        },
+        "reply_settings": "everyone",
+        "text": "The smile &amp; stare to camera 🤣 https://t.co/FWqxlaxOvb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4059,
+          "following_count": 222,
+          "like_count": 19435,
+          "listed_count": 12,
+          "media_count": 1494,
+          "tweet_count": 18688
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-23T15:27:26.000Z",
+        "description": "Animals 🐿️ Nature 🦋 Discovery 🦖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/amazlng.nature",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/amazlng.nature",
+                "start": 0,
+                "url": "https://t.co/eLQP37nHde"
+              }
+            ]
+          }
+        },
+        "id": "2828212668",
+        "location": "🌍",
+        "name": "Nature is Amazing ☘️",
+        "pinned_tweet_id": "1881764089019646229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4939255,
+          "following_count": 47,
+          "like_count": 1265,
+          "listed_count": 10750,
+          "media_count": 18355,
+          "tweet_count": 19792
+        },
+        "url": "https://t.co/eLQP37nHde",
+        "username": "AMAZlNGNATURE",
+        "verified": true
+      }
+    ]
+  }
+}

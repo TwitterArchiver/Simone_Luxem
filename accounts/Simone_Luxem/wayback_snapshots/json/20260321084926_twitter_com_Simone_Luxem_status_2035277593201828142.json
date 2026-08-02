@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2035277593201828142",
+    "created_at": "2026-03-21T08:49:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T09:49:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035277593201828142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "994208371040337921",
+          "start": 3,
+          "username": "litztsong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035277593201828142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035262639975150080",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @litztsong: 病房超员得好过分\n一小间房间里挤了7个人\n而且两个床两个床是完全贴在一起放的\n睡在隔壁的大姐是个基督徒\n一开始进来的时候骂得很难听，各种说我和护士是被魔鬼附身了，要遭天谴了，阿门\n护士：我们这边曾经是天主教医院，是好人\n做了几次电休克治疗以后马上好…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2035277593201828142",
+        "created_at": "2026-03-21T08:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T09:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035277593201828142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "994208371040337921",
+              "start": 3,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035277593201828142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035262639975150080",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @litztsong: 病房超员得好过分\n一小间房间里挤了7个人\n而且两个床两个床是完全贴在一起放的\n睡在隔壁的大姐是个基督徒\n一开始进来的时候骂得很难听，各种说我和护士是被魔鬼附身了，要遭天谴了，阿门\n护士：我们这边曾经是天主教医院，是好人\n做了几次电休克治疗以后马上好…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994208371040337921",
+        "conversation_id": "2035262639975150080",
+        "created_at": "2026-03-21T07:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T08:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035262639975150080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/litztsong/stat…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/litztsong/status/2029038805274227158",
+              "start": 137,
+              "url": "https://t.co/iYZGrufS43"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035262639975150080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "病房超员得好过分\n一小间房间里挤了7个人\n而且两个床两个床是完全贴在一起放的\n睡在隔壁的大姐是个基督徒\n一开始进来的时候骂得很难听，各种说我和护士是被魔鬼附身了，要遭天谴了，阿门\n护士：我们这边曾经是天主教医院，是好人\n做了几次电休克治疗以后马上好很多了，对我反而异常友好\n把我当小妹妹的说\n我踢被子了还会帮我盖被子\n让人不由得怀疑极端transphobia是不是也是一种精神病，极端反跨的宗教劳保是不是也应该这样一下就不会反跨了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 500,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029038805274227158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "病房超员得好过分\n一小间房间里挤了7个人\n而且两个床两个床是完全贴在一起放的\n睡在隔壁的大姐是个基督徒\n一开始进来的时候骂得很难听，各种说我和护士是被魔鬼附身了，要遭天谴了，阿门\n护士：我们这边曾经是天主教医院，是好人\n做了几次电休克治疗以后马上好很多了，对我反而异常友好 https://t.co/iYZGrufS43"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6147,
+          "following_count": 218,
+          "like_count": 24171,
+          "listed_count": 19,
+          "media_count": 1758,
+          "tweet_count": 21451
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtF(post surgery)/psychopath(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/leftoid/@misncandy/个人群 https://t.co/16lZFMylhh",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 113,
+                "username": "misncandy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 151,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 128,
+                "url": "https://t.co/16lZFMylhh"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "location": "Shanghai, china",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "2026076790071107861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3181,
+          "following_count": 2058,
+          "like_count": 3599,
+          "listed_count": 16,
+          "media_count": 1609,
+          "tweet_count": 13981
+        },
+        "username": "litztsong",
+        "verified": false
+      }
+    ]
+  }
+}

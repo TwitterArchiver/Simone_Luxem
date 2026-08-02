@@ -1,0 +1,627 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981000803360845824",
+        "3_1981000803369304065"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1981000811191927153",
+    "created_at": "2025-10-22T14:12:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T15:12:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981000811191927153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j2ZFqVLY6f",
+          "end": 106,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1981000811191927153/photo/1",
+          "media_key": "3_1981000803360845824",
+          "start": 83,
+          "url": "https://t.co/j2ZFqVLY6f"
+        },
+        {
+          "display_url": "pic.x.com/j2ZFqVLY6f",
+          "end": 106,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1981000811191927153/photo/1",
+          "media_key": "3_1981000803369304065",
+          "start": 83,
+          "url": "https://t.co/j2ZFqVLY6f"
+        },
+        {
+          "display_url": "x.com/ayanami_rin0/s…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/ayanami_rin0/status/1980871048754262022",
+          "start": 107,
+          "url": "https://t.co/EF7BL0Ywcz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981000811191927153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980871048754262022",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实..给自己造成最大痛苦的应该是“主观情感极其强烈与此同时客观理性及其坚定但两者强烈的不一致”…而这个大概是测试没有考虑的吧…\njust…自己就是糟糕的坏孩子吧… https://t.co/j2ZFqVLY6f https://t.co/EF7BL0Ywcz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1981000803360845824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33tvCAWMAAQTxj.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1981000803369304065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G33tvCCXQAEjhT_.jpg",
+        "width": 750
+      },
+      {
+        "height": 1297,
+        "media_key": "3_1980871025291145216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G313s9BXsAAttMY.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1452,
+        "media_key": "3_1980871025249161216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G313s83XEAAqi-h.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981000803360845824",
+            "3_1981000803369304065"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1981000811191927153",
+        "created_at": "2025-10-22T14:12:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T15:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981000811191927153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j2ZFqVLY6f",
+              "end": 106,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1981000811191927153/photo/1",
+              "media_key": "3_1981000803360845824",
+              "start": 83,
+              "url": "https://t.co/j2ZFqVLY6f"
+            },
+            {
+              "display_url": "pic.x.com/j2ZFqVLY6f",
+              "end": 106,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1981000811191927153/photo/1",
+              "media_key": "3_1981000803369304065",
+              "start": 83,
+              "url": "https://t.co/j2ZFqVLY6f"
+            },
+            {
+              "display_url": "x.com/ayanami_rin0/s…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/ayanami_rin0/status/1980871048754262022",
+              "start": 107,
+              "url": "https://t.co/EF7BL0Ywcz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981000811191927153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980871048754262022",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实..给自己造成最大痛苦的应该是“主观情感极其强烈与此同时客观理性及其坚定但两者强烈的不一致”…而这个大概是测试没有考虑的吧…\njust…自己就是糟糕的坏孩子吧… https://t.co/j2ZFqVLY6f https://t.co/EF7BL0Ywcz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980871025291145216",
+            "3_1980871025249161216"
+          ]
+        },
+        "author_id": "1597605170502062080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1980871048754262022",
+        "created_at": "2025-10-22T05:37:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T06:37:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980871048754262022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2IJi3W203d",
+              "end": 163,
+              "expanded_url": "https://x.com/Ayanami_rin0/status/1980871048754262022/photo/1",
+              "media_key": "3_1980871025291145216",
+              "start": 140,
+              "url": "https://t.co/2IJi3W203d"
+            },
+            {
+              "display_url": "pic.x.com/2IJi3W203d",
+              "end": 163,
+              "expanded_url": "https://x.com/Ayanami_rin0/status/1980871048754262022/photo/1",
+              "media_key": "3_1980871025249161216",
+              "start": 140,
+              "url": "https://t.co/2IJi3W203d"
+            },
+            {
+              "display_url": "x.com/shirumesu/stat…",
+              "end": 187,
+              "expanded_url": "https://twitter.com/shirumesu/status/1980852969601130547",
+              "start": 164,
+              "url": "https://t.co/8aaVUjoxto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980871048754262022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7798,
+          "like_count": 43,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980852969601130547",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "阿巴阿巴…\n自从那件事发生后，老妈已经和我已经坦诚了，她一直在学习如何成为不扫兴的大人，我一直在学习成为她骄傲的女儿，母女之外，也能处成某种意义的朋友了。\n\n但是有一些东西还是改变不了，比如她至今认为麦当劳kfc完全不健康，认为国企央企铁饭碗稳定的生活比较好，想买房子，诸如此类 https://t.co/2IJi3W203d https://t.co/8aaVUjoxto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5529,
+          "following_count": 215,
+          "like_count": 22743,
+          "listed_count": 15,
+          "media_count": 1680,
+          "tweet_count": 20612
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "只管开心,无需正常,#祝自由 ，#啊呀纳米相册 水中寒月如雪， 指尖轻点融解， 断桥是否下过雪🫖#小绫的诗歌日记本 糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 #小绫饭店 世界上最幸福的人",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 10,
+                "tag": "祝自由"
+              },
+              {
+                "end": 23,
+                "start": 16,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 96,
+                "start": 91,
+                "tag": "小绫饭店"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ayanami_rin0eat",
+                "end": 23,
+                "expanded_url": "https://t.me/Ayanami_rin0eat",
+                "start": 0,
+                "url": "https://t.co/yZdZaQl6hE"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm💨♿️🍼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3946,
+          "following_count": 590,
+          "like_count": 9700,
+          "listed_count": 10,
+          "media_count": 1115,
+          "tweet_count": 6910
+        },
+        "url": "https://t.co/yZdZaQl6hE",
+        "username": "Ayanami_rin0",
+        "verified": false
+      }
+    ]
+  }
+}

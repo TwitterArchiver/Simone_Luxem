@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2034492426606555385",
+    "created_at": "2026-03-19T04:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034493688949494066"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034493688949494066",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034492426606555385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "甚至可能可以说，于自己会享受“被照顾”的感受同源的，如果自己没有因此被欺负，自己并不在意自己到底是不是所谓的多数族裔，在自己哭的时候给自己拥抱的同学也不在乎，给自己帮助的老师也不在乎，自己是“属于”它们的，而不是某个虚无缥缈的群体划分吧…\n当然要是有人因此欺负自己，那就另当别论了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2034492426606555385",
+        "created_at": "2026-03-19T04:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034493688949494066"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034493688949494066",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034492426606555385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甚至可能可以说，于自己会享受“被照顾”的感受同源的，如果自己没有因此被欺负，自己并不在意自己到底是不是所谓的多数族裔，在自己哭的时候给自己拥抱的同学也不在乎，给自己帮助的老师也不在乎，自己是“属于”它们的，而不是某个虚无缥缈的群体划分吧…\n当然要是有人因此欺负自己，那就另当别论了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2034492426606555385",
+        "created_at": "2026-03-19T04:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034492426606555385"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034492426606555385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近和一只国外的跨女聊，它的祖国也是那种很糟糕的类型，但是它仍然表示“如果政府换了那我就回去”，因为在其它国家，它“总能感觉到自己被当作外国人对待，感觉自己不属于那里”\n似乎是和自己很不同的感受的吧，或者说在意的点完全不一样，自己在荷兰或许也是一眼外国人的样子，但自己在意的不是这个…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6156,
+          "following_count": 218,
+          "like_count": 24150,
+          "listed_count": 19,
+          "media_count": 1758,
+          "tweet_count": 21444
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2054381034951909721",
+    "created_at": "2026-05-13T07:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054464508496908313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1668917712851181568",
+          "start": 0,
+          "username": "Astdeitee"
+        },
+        {
+          "end": 24,
+          "id": "535028358",
+          "start": 11,
+          "username": "Beiyan_Yunyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054464508496908313",
+    "in_reply_to_user_id": "1668917712851181568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054460735426809894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Astdeitee @Beiyan_Yunyi 对我来说的情况比较特殊吧，就是他们在事实上确实给予了并且在给予自己一切物质层面的支持，因此自己也算很privilege的事实层面的家长党…但是也正是因此，自己总会觉得如果是他们不情不愿的话，自己就对他们有所亏欠，因此自己又总想要让他们发自真心的明白过来，这样自己就不再是强迫他们什么的了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2054381034951909721",
+        "created_at": "2026-05-13T07:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054464508496908313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1668917712851181568",
+              "start": 0,
+              "username": "Astdeitee"
+            },
+            {
+              "end": 24,
+              "id": "535028358",
+              "start": 11,
+              "username": "Beiyan_Yunyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054464508496908313",
+        "in_reply_to_user_id": "1668917712851181568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054460735426809894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Astdeitee @Beiyan_Yunyi 对我来说的情况比较特殊吧，就是他们在事实上确实给予了并且在给予自己一切物质层面的支持，因此自己也算很privilege的事实层面的家长党…但是也正是因此，自己总会觉得如果是他们不情不愿的话，自己就对他们有所亏欠，因此自己又总想要让他们发自真心的明白过来，这样自己就不再是强迫他们什么的了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668917712851181568",
+        "conversation_id": "2054381034951909721",
+        "created_at": "2026-05-13T07:16:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:16:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054460735426809894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            },
+            {
+              "end": 27,
+              "id": "535028358",
+              "start": 14,
+              "username": "Beiyan_Yunyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054460735426809894",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054459492579020882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem @Beiyan_Yunyi 人教人教不会，事教人一遍会。什么情况下他们会理解，至少表现出理解呢，比如他们的亲戚因为虐待小孩，失去了工作，吃上了牢饭，之类的，他们才会恐惧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6191,
+          "following_count": 220,
+          "like_count": 24622,
+          "listed_count": 19,
+          "media_count": 1779,
+          "tweet_count": 21660
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-14T09:46:25.000Z",
+        "description": "",
+        "id": "1668917712851181568",
+        "name": "sepimax zen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683496572682747905/q4TRAlDL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1993,
+          "following_count": 499,
+          "like_count": 45606,
+          "listed_count": 0,
+          "media_count": 1007,
+          "tweet_count": 28133
+        },
+        "username": "Astdeitee",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-24T03:02:07.000Z",
+        "description": "MtRF，吃雌二醇的网左，杯水主义仙人\nMothers: @artefaritaUsagi & @sauricat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "sauricat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yunyi.beiyan.us",
+                "end": 23,
+                "expanded_url": "https://blog.yunyi.beiyan.us",
+                "start": 0,
+                "url": "https://t.co/0dCxoXrhgJ"
+              }
+            ]
+          }
+        },
+        "id": "535028358",
+        "name": "北雁云依 - 21018365482@o3o.ca",
+        "pinned_tweet_id": "1848540476166885623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984845724023181312/BiHKeo6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3751,
+          "following_count": 216,
+          "like_count": 7529,
+          "listed_count": 19,
+          "media_count": 207,
+          "tweet_count": 2034
+        },
+        "url": "https://t.co/0dCxoXrhgJ",
+        "username": "Beiyan_Yunyi",
+        "verified": false
+      }
+    ]
+  }
+}

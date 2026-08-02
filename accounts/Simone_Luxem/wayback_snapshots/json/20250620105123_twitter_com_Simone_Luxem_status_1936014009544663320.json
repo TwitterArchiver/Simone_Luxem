@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1935919549385245115",
+    "created_at": "2025-06-20T10:51:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T11:51:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936014009544663320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1564251283984650241",
+          "start": 0,
+          "username": "Citricat_miaow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936014009544663320",
+    "in_reply_to_user_id": "1564251283984650241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935919549385245115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citricat_miaow 我算什么（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1935919549385245115",
+        "created_at": "2025-06-20T10:51:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T11:51:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936014009544663320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1564251283984650241",
+              "start": 0,
+              "username": "Citricat_miaow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936014009544663320",
+        "in_reply_to_user_id": "1564251283984650241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935919549385245115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citricat_miaow 我算什么（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564251283984650241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1534290336670883840",
+              "name": "4chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534290336670883840",
+              "name": "4chan"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1935919549385245115",
+        "created_at": "2025-06-20T04:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T05:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1935919549385245115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/mukdengise/status/1935539063156851171",
+              "start": 171,
+              "url": "https://t.co/FadYgUQwwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935919549385245115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2010,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935539063156851171",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我心中的男娘性张力排名：韩系男娘&gt;拉丁裔可爱风男娘&gt;东亚一般通过可爱男娘&gt;印度活泼可爱小男娘&gt;非裔男娘&gt;俄罗斯/东欧自恨男娘（以及其他4chan自恨二次元男娘）=五颜六色头发的pride美国男娘&gt;欧洲可爱男娘&gt;东欧男娘&gt;西欧男娘&gt;Blair white类型的 pick me美式审美男娘 https://t.co/FadYgUQwwH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4306,
+          "following_count": 221,
+          "like_count": 20563,
+          "listed_count": 12,
+          "media_count": 1601,
+          "tweet_count": 19655
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T13:59:12.000Z",
+        "description": "Language: Chinese, English Neurondiverse",
+        "id": "1564251283984650241",
+        "location": "Mitochondria ",
+        "name": "Citric acid",
+        "pinned_tweet_id": "1884071171819462787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663411578467938305/ypoACmu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 483,
+          "like_count": 10051,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 4611
+        },
+        "username": "Citricat_miaow",
+        "verified": false
+      }
+    ]
+  }
+}

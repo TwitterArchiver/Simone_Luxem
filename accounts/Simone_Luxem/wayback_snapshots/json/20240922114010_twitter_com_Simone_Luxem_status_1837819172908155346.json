@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1837819172908155346",
+    "created_at": "2024-09-22T11:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-22T12:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1837819172908155346"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1837819172908155346",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在想，自己长期以来对清蒸的封锁策略是不是在执行层面有什么问题…\n因为虽然这是从根源上解决问题的方法，但它也是一个相当被动的策略，成效很慢，也给人一种自己在“躺平挨打”的错觉…\n所以综合考虑，我觉得应该在不违背封锁策略的前提下加大对封锁策略的宣传，毕竟多一个人参与封锁就快一分解决速度…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1837819172908155346",
+        "created_at": "2024-09-22T11:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-22T12:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1837819172908155346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1837819172908155346",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在想，自己长期以来对清蒸的封锁策略是不是在执行层面有什么问题…\n因为虽然这是从根源上解决问题的方法，但它也是一个相当被动的策略，成效很慢，也给人一种自己在“躺平挨打”的错觉…\n所以综合考虑，我觉得应该在不违背封锁策略的前提下加大对封锁策略的宣传，毕竟多一个人参与封锁就快一分解决速度…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3734,
+          "following_count": 224,
+          "like_count": 16884,
+          "listed_count": 8,
+          "tweet_count": 17111
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

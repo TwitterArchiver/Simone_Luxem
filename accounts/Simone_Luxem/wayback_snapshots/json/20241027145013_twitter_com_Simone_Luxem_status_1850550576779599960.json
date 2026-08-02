@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1850550576779599960",
+    "created_at": "2024-10-27T14:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-27T15:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1850550576779599960"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lvtgw666/statu…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/lvtgw666/status/1850175360899670448",
+          "start": 106,
+          "url": "https://t.co/Z6mvD1X6k2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1850550576779599960",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1850175360899670448",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是可笑的，钱本就是手段而非目的\n如果把钱当作目的，期望上讲，人本身就不该出生\n重点是是否达到了想要达成的目的，而非是否“回本”；对我个人而言，仅从钱上讲，我死的时候能够留下的是正遗产而非债务，就是老天眼瘸了（ https://t.co/Z6mvD1X6k2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1850550576779599960",
+        "created_at": "2024-10-27T14:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-27T15:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850550576779599960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lvtgw666/statu…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/lvtgw666/status/1850175360899670448",
+              "start": 106,
+              "url": "https://t.co/Z6mvD1X6k2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850550576779599960",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1850175360899670448",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是可笑的，钱本就是手段而非目的\n如果把钱当作目的，期望上讲，人本身就不该出生\n重点是是否达到了想要达成的目的，而非是否“回本”；对我个人而言，仅从钱上讲，我死的时候能够留下的是正遗产而非债务，就是老天眼瘸了（ https://t.co/Z6mvD1X6k2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1850175350858452993"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "conversation_id": "1850175360899670448",
+        "created_at": "2024-10-26T13:59:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-26T14:59:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1850175360899670448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0VFMsUvPpe",
+              "end": 38,
+              "expanded_url": "https://x.com/LVTGW666/status/1850175360899670448/photo/1",
+              "media_key": "3_1850175350858452993",
+              "start": 15,
+              "url": "https://t.co/0VFMsUvPpe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1850175360899670448",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 163754,
+          "like_count": 606,
+          "quote_count": 10,
+          "reply_count": 69,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "盲猜专业，文化多元与性别研究 https://t.co/0VFMsUvPpe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3816,
+          "following_count": 224,
+          "like_count": 17747,
+          "listed_count": 9,
+          "tweet_count": 17559
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊\n\n分析哲学倒数第6324人\n\n重铸正统施特劳斯荣光，我辈义不容辞\n\n想投稿直接私信\n\n求求腊畜别来恶心我\n\n备用小号@lvtgw8964\n\ntelegram：利维坦冲浪里（https://t.co/IT3H2YwUW3）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 68,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/LVTGW123",
+                "end": 119,
+                "expanded_url": "http://t.me/LVTGW123",
+                "start": 96,
+                "url": "https://t.co/IT3H2YwUW3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "medium.com/@LVTGW666",
+                "end": 23,
+                "expanded_url": "https://medium.com/@LVTGW666",
+                "start": 0,
+                "url": "https://t.co/kXtyXx4llj"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "1569163147994624001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59656,
+          "following_count": 880,
+          "like_count": 12925,
+          "listed_count": 252,
+          "tweet_count": 9341
+        },
+        "url": "https://t.co/kXtyXx4llj",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

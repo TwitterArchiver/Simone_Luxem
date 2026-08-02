@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1977432326121623693",
+    "created_at": "2025-10-12T17:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T18:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1977432326121623693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/felicitycwells…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/felicitycwells/status/1977390000879591571",
+          "start": 141,
+          "url": "https://t.co/mzj7rEV8qK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977432326121623693",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977390000879591571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶别说我的一面还真的有这种冲动，而且还很强，还是持续性的，大致可能可以被归类进某种自毁倾向中，因为不喜欢自己或者说讨厌自己？\n但与此同时自己的同一面还构建了一套同样有毒的，却与之截然相反的冲动，使得自己所有可能是自毁的行为都对自己而言是被禁止了的，然后两相结合下就现在这拧巴样了… https://t.co/mzj7rEV8qK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 653,
+        "media_key": "3_1977389997448929280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3EZudxaoAA2_13.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1977432326121623693",
+        "created_at": "2025-10-12T17:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T18:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977432326121623693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/felicitycwells…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/felicitycwells/status/1977390000879591571",
+              "start": 141,
+              "url": "https://t.co/mzj7rEV8qK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977432326121623693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977390000879591571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶别说我的一面还真的有这种冲动，而且还很强，还是持续性的，大致可能可以被归类进某种自毁倾向中，因为不喜欢自己或者说讨厌自己？\n但与此同时自己的同一面还构建了一套同样有毒的，却与之截然相反的冲动，使得自己所有可能是自毁的行为都对自己而言是被禁止了的，然后两相结合下就现在这拧巴样了… https://t.co/mzj7rEV8qK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977389997448929280"
+          ]
+        },
+        "author_id": "13605432",
+        "conversation_id": "1977390000879591571",
+        "created_at": "2025-10-12T15:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T16:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977390000879591571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbBBbLfu01",
+              "end": 53,
+              "expanded_url": "https://x.com/FelicityCWells/status/1977390000879591571/photo/1",
+              "media_key": "3_1977389997448929280",
+              "start": 30,
+              "url": "https://t.co/hbBBbLfu01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977390000879591571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1063,
+          "like_count": 10,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我也一直这样 至今还是这样 然后因为低配得感还一直是免费的 https://t.co/hbBBbLfu01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4674,
+          "following_count": 218,
+          "like_count": 22620,
+          "listed_count": 13,
+          "media_count": 1673,
+          "tweet_count": 20534
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2008-02-18T02:27:47.000Z",
+        "description": "🌠🌠🌠wire fox terriers are forever ever\n💍new👗girl🎀and🖖still🧬stem🌌scifi🚀space🤖nerd🌈arc\nထasd🌈🦋adhd🥀mdd❤️‍🩹cptsd💄🪞✨agp🌸sapphic\n🏳️‍⚧️she/her/slut",
+        "id": "13605432",
+        "location": "RLE/Terra-Sol",
+        "name": "✨Felicity💋✨🏳️‍⚧️🏳️‍🌈🇺🇦",
+        "pinned_tweet_id": "1867237376982155681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907960408633393152/KZfb5BOj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2605,
+          "following_count": 3942,
+          "like_count": 14773,
+          "listed_count": 39,
+          "media_count": 771,
+          "tweet_count": 31426
+        },
+        "username": "FelicityCWells",
+        "verified": false
+      }
+    ]
+  }
+}

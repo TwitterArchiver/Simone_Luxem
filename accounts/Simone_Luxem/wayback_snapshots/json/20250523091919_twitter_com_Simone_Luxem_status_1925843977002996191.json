@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925843968207589376",
+        "3_1925843967305777153",
+        "3_1925843967305748480"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1925843977002996191",
+    "created_at": "2025-05-23T09:19:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T10:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1925843977002996191"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t7N2nrPmqm",
+          "end": 104,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1925843977002996191/photo/1",
+          "media_key": "3_1925843968207589376",
+          "start": 81,
+          "url": "https://t.co/t7N2nrPmqm"
+        },
+        {
+          "display_url": "pic.x.com/t7N2nrPmqm",
+          "end": 104,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1925843977002996191/photo/1",
+          "media_key": "3_1925843967305777153",
+          "start": 81,
+          "url": "https://t.co/t7N2nrPmqm"
+        },
+        {
+          "display_url": "pic.x.com/t7N2nrPmqm",
+          "end": 104,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1925843977002996191/photo/1",
+          "media_key": "3_1925843967305748480",
+          "start": 81,
+          "url": "https://t.co/t7N2nrPmqm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925843977002996191",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "海报展示自己的项目！\n又遇到了土耳其妹子，开心！\n以及自己实验室的同学也来看了，超开心！\n然后对自己的展示完全没有意见，唯一的意见就是海报本身做的太丑了xxxx https://t.co/t7N2nrPmqm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1925843968207589376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grn44rHXkAACQZ0.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1925843967305777153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grn44nwXAAEZIYS.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1538,
+        "media_key": "3_1925843967305748480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Grn44nwWkAAZvuB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925843968207589376",
+            "3_1925843967305777153",
+            "3_1925843967305748480"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1925843977002996191",
+        "created_at": "2025-05-23T09:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T10:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925843977002996191"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7N2nrPmqm",
+              "end": 104,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1925843977002996191/photo/1",
+              "media_key": "3_1925843968207589376",
+              "start": 81,
+              "url": "https://t.co/t7N2nrPmqm"
+            },
+            {
+              "display_url": "pic.x.com/t7N2nrPmqm",
+              "end": 104,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1925843977002996191/photo/1",
+              "media_key": "3_1925843967305777153",
+              "start": 81,
+              "url": "https://t.co/t7N2nrPmqm"
+            },
+            {
+              "display_url": "pic.x.com/t7N2nrPmqm",
+              "end": 104,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1925843977002996191/photo/1",
+              "media_key": "3_1925843967305748480",
+              "start": 81,
+              "url": "https://t.co/t7N2nrPmqm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925843977002996191",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "海报展示自己的项目！\n又遇到了土耳其妹子，开心！\n以及自己实验室的同学也来看了，超开心！\n然后对自己的展示完全没有意见，唯一的意见就是海报本身做的太丑了xxxx https://t.co/t7N2nrPmqm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4242,
+          "following_count": 219,
+          "like_count": 20343,
+          "listed_count": 12,
+          "media_count": 1558,
+          "tweet_count": 19357
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

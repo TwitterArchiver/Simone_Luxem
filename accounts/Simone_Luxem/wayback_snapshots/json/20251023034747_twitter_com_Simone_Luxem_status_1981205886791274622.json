@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1981201077778469103",
+    "created_at": "2025-10-23T03:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T04:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981205886791274622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "yumeng0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981205886791274622",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981202934743650393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumeng0721 嗯，但这个精度，对于要到“药到病除”的程度而言，实在是太低了\n不客气地说，一定程度上就是在试，在赌“这次刺激的是对的”的概率"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1981201077778469103",
+        "created_at": "2025-10-23T03:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T04:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981205886791274622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "yumeng0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981205886791274622",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981202934743650393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumeng0721 嗯，但这个精度，对于要到“药到病除”的程度而言，实在是太低了\n不客气地说，一定程度上就是在试，在赌“这次刺激的是对的”的概率"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847712034361659392",
+        "conversation_id": "1981201077778469103",
+        "created_at": "2025-10-23T03:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T04:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981202934743650393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981202934743650393",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981201077778469103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 先红外检查看脑图，比如左脑偏上强度大右脑偏下强度小。左脑部位于睡眠有关，右脑部位与情绪有关(我就在做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5533,
+          "following_count": 215,
+          "like_count": 22753,
+          "listed_count": 15,
+          "media_count": 1681,
+          "tweet_count": 20619
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "玩乐、性爱与嗑药。提问箱https://t.co/8eHnljlDL5\n个人频道https://t.co/mGkj2AA7yO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yumeng_0721",
+                "end": 35,
+                "expanded_url": "https://ngl.link/yumeng_0721",
+                "start": 12,
+                "url": "https://t.co/8eHnljlDL5"
+              },
+              {
+                "display_url": "t.me/Guisland",
+                "end": 63,
+                "expanded_url": "http://t.me/Guisland",
+                "start": 40,
+                "url": "https://t.co/mGkj2AA7yO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.day",
+                "end": 23,
+                "expanded_url": "http://overdose.day",
+                "start": 0,
+                "url": "https://t.co/g7Qcxnn3Rl"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "location": "Xanax",
+        "name": "Meng",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939203974260768768/sFFZD2jj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 746,
+          "like_count": 21097,
+          "listed_count": 2,
+          "media_count": 110,
+          "tweet_count": 2279
+        },
+        "url": "https://t.co/g7Qcxnn3Rl",
+        "username": "yumeng0721",
+        "verified": false
+      }
+    ]
+  }
+}

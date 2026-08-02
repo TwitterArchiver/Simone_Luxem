@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1970743647898607797",
+    "created_at": "2025-09-24T15:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T16:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970872761439691080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1383940842239381510",
+          "start": 0,
+          "username": "Teufel_Tigrov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970872761439691080",
+    "in_reply_to_user_id": "1383940842239381510",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970743647898607797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Teufel_Tigrov 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1970743647898607797",
+        "created_at": "2025-09-24T15:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970872761439691080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1383940842239381510",
+              "start": 0,
+              "username": "Teufel_Tigrov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970872761439691080",
+        "in_reply_to_user_id": "1383940842239381510",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970743647898607797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Teufel_Tigrov 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383940842239381510",
+        "conversation_id": "1970743647898607797",
+        "created_at": "2025-09-24T06:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970743647898607797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970743647898607797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "提问，南航是不是非常腊鸡(x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4620,
+          "following_count": 219,
+          "like_count": 22480,
+          "listed_count": 13,
+          "media_count": 1661,
+          "tweet_count": 20398
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T00:30:40.000Z",
+        "description": "赛博极乐ing/静候天机/烟鬼/电脑配件零售商（好友特价日常）/亞空間生物/物质位面存在裂解中/超凡智能大列巴/厌恶键政仔，跳脸会B/tl大清洗中..../🚪=15x LEDX/15x Defib/100x 闪耀世界医药",
+        "id": "1383940842239381510",
+        "location": "Warp",
+        "name": "狐店長🍖「肥硕狐」",
+        "pinned_tweet_id": "1910998726098690411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962806276758585344/TwPWhjn9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2832,
+          "following_count": 856,
+          "like_count": 109142,
+          "listed_count": 24,
+          "media_count": 12025,
+          "tweet_count": 90622
+        },
+        "username": "Teufel_Tigrov",
+        "verified": false
+      }
+    ]
+  }
+}

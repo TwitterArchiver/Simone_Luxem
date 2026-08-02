@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2013639878563549350",
+    "created_at": "2026-01-22T01:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T02:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014155266820808782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1301191625666736131",
+          "start": 0,
+          "username": "Mixian_Learning"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014155266820808782",
+    "in_reply_to_user_id": "1301191625666736131",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013639878563549350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mixian_Learning 摸摸摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2013639878563549350",
+        "created_at": "2026-01-22T01:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T02:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014155266820808782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1301191625666736131",
+              "start": 0,
+              "username": "Mixian_Learning"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014155266820808782",
+        "in_reply_to_user_id": "1301191625666736131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013639878563549350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mixian_Learning 摸摸摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1301191625666736131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041116541",
+              "name": "LinkedIn"
+            }
+          }
+        ],
+        "conversation_id": "2013639878563549350",
+        "created_at": "2026-01-20T15:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013639878563549350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mixian_learnin…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/mixian_learning/status/2013218136141521088",
+              "start": 155,
+              "url": "https://t.co/SutyToUS26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013639878563549350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我感觉自己焦虑疯了 是真的非常想退圈\n崩溃了可谓是\n近几天和大家交换了linkedin和connect\n看到大家的背景可以说一个比一个强\n（全是头部AI强校）行业内核心研究人员\n我看到了三位 我们课上讲过的人的paper（自认为吾校AI也ok 结果酷似shit）\n然后我自己学术跟垃圾一样 \n还有时间约实践？\n这种事情半夜我都要哭着抽自己几个耳光吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14885,
+          "like_count": 55,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013218136141521088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉自己焦虑疯了 是真的非常想退圈\n崩溃了可谓是\n近几天和大家交换了linkedin和connect\n看到大家的背景可以说一个比一个强\n（全是头部AI强校）行业内核心研究人员\n我看到了三位 我们课上讲过的人的paper（自认为吾校AI也ok 结果酷似shit）\n然后我自己学术跟垃圾一样 \n还有时间约实践？ https://t.co/SutyToUS26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6063,
+          "following_count": 215,
+          "like_count": 23526,
+          "listed_count": 18,
+          "media_count": 1735,
+          "tweet_count": 21145
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-02T16:14:07.000Z",
+        "description": "是易遇的比格小狗 · 03 · intj-A · 女被（退圈） · 无性 · 情绪垃圾桶 · 荷兰 · 每天都在碎碎念 商务推广和宣传请私信 ❤️ 请备注品名 （提供转换率和支持多品类）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mixian_learning",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mixian_learning",
+                "start": 0,
+                "url": "https://t.co/nE0SMEoVJk"
+              }
+            ]
+          }
+        },
+        "id": "1301191625666736131",
+        "location": "Denhagg",
+        "name": "米线l",
+        "pinned_tweet_id": "2011839580568195520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959241856908226560/z5_cI48D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1436,
+          "following_count": 154,
+          "like_count": 212,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 560
+        },
+        "url": "https://t.co/nE0SMEoVJk",
+        "username": "Mixian_Learning",
+        "verified": true
+      }
+    ]
+  }
+}

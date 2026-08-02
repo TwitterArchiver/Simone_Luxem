@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1959846859649986760",
+    "created_at": "2025-08-25T05:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T06:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959847653929562217"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1959847653929562217",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959846859649986760",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结果才知道原来这些所有的都会让孩子被社会歧视遭受不公平的待遇被嚼舌根…真的是…感觉不可理喻吧…哪来的那么多舌根嚼啊…怪不得同一批人对于地狱的想象中专门有一个“拔舌地狱”…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1959846859649986760",
+        "created_at": "2025-08-25T05:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T06:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959847653929562217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959847653929562217",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959846859649986760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结果才知道原来这些所有的都会让孩子被社会歧视遭受不公平的待遇被嚼舌根…真的是…感觉不可理喻吧…哪来的那么多舌根嚼啊…怪不得同一批人对于地狱的想象中专门有一个“拔舌地狱”…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1959846859649986760",
+        "created_at": "2025-08-25T05:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T06:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959846859649986760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959846859649986760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和月聊天才知道原来中国社会把所有的非婚生子女都视为“私生子”，即使是单亲妈妈，先生下孩子再与同一人结婚，或者遗腹子的情形\n在自己理解里“私生子”应该仅指在婚姻关系中与非伴侣的另一人之间所生的子女的，因为就算按照保守的道德观念来看，前面那些也完全没有违背“从一而终”之类的，毫无道德瑕疵呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4544,
+          "following_count": 221,
+          "like_count": 22212,
+          "listed_count": 14,
+          "media_count": 1653,
+          "tweet_count": 20204
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

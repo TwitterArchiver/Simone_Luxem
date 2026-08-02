@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2077394812937056377",
+    "created_at": "2026-07-15T14:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077394812937056377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/calsys456/stat…",
+          "end": 123,
+          "expanded_url": "https://twitter.com/calsys456/status/2077106392486523371",
+          "start": 100,
+          "url": "https://t.co/AFuYrcEIlZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077394812937056377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077106392486523371",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我会认为“在完全对自由意志所决定下的自杀决定”确实是一个人的自由，但在现实中，大量的案例本身并不处于完全的自由意志所决定下，因此其自杀行为并不应该被视为在行使这一自由，这也是自杀干预行为的合理性来源 https://t.co/AFuYrcEIlZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2077394812937056377",
+        "created_at": "2026-07-15T14:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077394812937056377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/calsys456/stat…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/calsys456/status/2077106392486523371",
+              "start": 100,
+              "url": "https://t.co/AFuYrcEIlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077394812937056377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077106392486523371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会认为“在完全对自由意志所决定下的自杀决定”确实是一个人的自由，但在现实中，大量的案例本身并不处于完全的自由意志所决定下，因此其自杀行为并不应该被视为在行使这一自由，这也是自杀干预行为的合理性来源 https://t.co/AFuYrcEIlZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568268459674574848",
+        "conversation_id": "2077106392486523371",
+        "created_at": "2026-07-14T19:02:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T20:02:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077106392486523371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 105,
+              "id": "1680247071608303616",
+              "start": 92,
+              "username": "AsdQWD358224"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/2077099169412743376",
+              "start": 106,
+              "url": "https://t.co/qkQAxbh71K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077106392486523371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 105,
+                "id": "1680247071608303616",
+                "start": 92,
+                "username": "AsdQWD358224"
+              }
+            ]
+          },
+          "text": "关于“自杀的自由”，我有些想说的。我是支持自杀的自由的，但是我仍旧在做自杀干预，是因为大多数时候自杀并非自杀者的本意。倘若给予良好的支撑，许多自杀者会（甚至是迅速地）重拾生活的希望。 @AsdQWD358224 就是其中之一，我陪着她从两次吞盐抢救到手上的疤痕逐渐淡化。她自杀的尝试从来到避难所就停止了。\n\n举她的例子只是因为她授权我这么做。事实上，那些真的不想留下来的人，我是不去留她们的（避难所有过这样的住户）。但是，在我亲自经手的个案里，尚且没有一例这样的人。\n\n所以我尊重自杀的自由，但自杀干预我还是会继续做。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3197,
+          "like_count": 33,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077099169412743376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于“自杀的自由”，我有些想说的。我是支持自杀的自由的，但是我仍旧在做自杀干预，是因为大多数时候自杀并非自杀者的本意。倘若给予良好的支撑，许多自杀者会（甚至是迅速地）重拾生活的希望。 @AsdQWD358224 https://t.co/qkQAxbh71K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6240,
+          "following_count": 220,
+          "like_count": 25048,
+          "listed_count": 16,
+          "media_count": 1794,
+          "tweet_count": 21835
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T16:02:05.000Z",
+        "description": "ADHD & BPD & C-PTSD & DID & MDD & Schizophrenia | Write in Lisp | Sister @Simone_Luxem @AsdQWD358224, Lover @HANLIANYI331 @wired_hero @Caroline_9870 @miruku2937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Simone_Luxem"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "wired_hero"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "miruku2937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "calsys.org",
+                "end": 23,
+                "expanded_url": "https://calsys.org",
+                "start": 0,
+                "url": "https://t.co/MUWDEAOVp9"
+              }
+            ]
+          }
+        },
+        "id": "1568268459674574848",
+        "location": "Wuhan",
+        "name": "北雁月月「月历系统」🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010619340497043456/kc6DVAN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 1135,
+          "like_count": 49865,
+          "listed_count": 9,
+          "media_count": 276,
+          "tweet_count": 5035
+        },
+        "url": "https://t.co/MUWDEAOVp9",
+        "username": "calsys456",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1978261917970928004",
+    "created_at": "2025-10-15T00:49:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-15T01:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1978261917970928004"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/oblivionsnows/…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/oblivionsnows/status/1977765346598896025",
+          "start": 101,
+          "url": "https://t.co/oX9EQ0yUu6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978261917970928004",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977765346598896025",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是这样的..\n以及什么时候人们才能意识到国家暴力机关给人带来的并不是安全感，而是额外的不安感..\n尤其是在各种机场，穿着军装（？）的巡逻人员…全世界都是…无论是中国的还是荷兰的还是印度的还是泰国的.. https://t.co/oX9EQ0yUu6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977765341465022464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JvGXMaEAAYArL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1977765342660423680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JvGbpacAApQpg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1977765343226712064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JvGdwbUAAUsaJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1977765343327346689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JvGeIa4AEwQm1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1978261917970928004",
+        "created_at": "2025-10-15T00:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-15T01:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978261917970928004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/oblivionsnows/…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/oblivionsnows/status/1977765346598896025",
+              "start": 101,
+              "url": "https://t.co/oX9EQ0yUu6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978261917970928004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977765346598896025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是这样的..\n以及什么时候人们才能意识到国家暴力机关给人带来的并不是安全感，而是额外的不安感..\n尤其是在各种机场，穿着军装（？）的巡逻人员…全世界都是…无论是中国的还是荷兰的还是印度的还是泰国的.. https://t.co/oX9EQ0yUu6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977765341465022464",
+            "3_1977765342660423680",
+            "3_1977765343226712064",
+            "3_1977765343327346689"
+          ]
+        },
+        "author_id": "1580634879213318144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1977765346598896025",
+        "created_at": "2025-10-13T15:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T16:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977765346598896025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wUzgehHX3D",
+              "end": 169,
+              "expanded_url": "https://x.com/OblivionSnows/status/1977765346598896025/photo/1",
+              "media_key": "3_1977765341465022464",
+              "start": 146,
+              "url": "https://t.co/wUzgehHX3D"
+            },
+            {
+              "display_url": "pic.x.com/wUzgehHX3D",
+              "end": 169,
+              "expanded_url": "https://x.com/OblivionSnows/status/1977765346598896025/photo/1",
+              "media_key": "3_1977765342660423680",
+              "start": 146,
+              "url": "https://t.co/wUzgehHX3D"
+            },
+            {
+              "display_url": "pic.x.com/wUzgehHX3D",
+              "end": 169,
+              "expanded_url": "https://x.com/OblivionSnows/status/1977765346598896025/photo/1",
+              "media_key": "3_1977765343226712064",
+              "start": 146,
+              "url": "https://t.co/wUzgehHX3D"
+            },
+            {
+              "display_url": "pic.x.com/wUzgehHX3D",
+              "end": 169,
+              "expanded_url": "https://x.com/OblivionSnows/status/1977765346598896025/photo/1",
+              "media_key": "3_1977765343327346689",
+              "start": 146,
+              "url": "https://t.co/wUzgehHX3D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977765346598896025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 107,
+          "impression_count": 167537,
+          "like_count": 924,
+          "quote_count": 14,
+          "reply_count": 168,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "每次到北京都会微妙的感到不适\n\n从公交车都有安全员，再到地铁门口有随机查身份证的警察，再到地铁过安检都手持一个停的牌子横在你面前等等...\n\n这座城市到处都有着种以安全为名义的公开化的暴力。此外还有一种粉饰与区隔，这一点在信访办的门口尤为明显，地铁过站不停，街道铁皮围墙，门口禁拍禁入... https://t.co/wUzgehHX3D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4685,
+          "following_count": 218,
+          "like_count": 22684,
+          "listed_count": 13,
+          "media_count": 1673,
+          "tweet_count": 20548
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T19:02:28.000Z",
+        "description": "琼枝玉骨一朵开，孤月无声照影单。\n故梦无凭何处觅，一庭疏影共清寒。 \n\nLégère est la blancheur, sur la mer de neige",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oblivionsnows1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oblivionsnows1",
+                "start": 0,
+                "url": "https://t.co/VWeFTlN7Zq"
+              }
+            ]
+          }
+        },
+        "id": "1580634879213318144",
+        "location": "Abyss",
+        "name": "Oliver",
+        "pinned_tweet_id": "1937720563264635257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903517770580684800/rdEF1jFI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2201,
+          "following_count": 445,
+          "like_count": 24750,
+          "listed_count": 17,
+          "media_count": 381,
+          "tweet_count": 7559
+        },
+        "url": "https://t.co/VWeFTlN7Zq",
+        "username": "OblivionSnows",
+        "verified": false
+      }
+    ]
+  }
+}

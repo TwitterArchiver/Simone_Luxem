@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1837851380511371522",
+    "created_at": "2024-09-24T10:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-24T11:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1838532404174102941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1454848929019797523",
+          "start": 0,
+          "username": "Mashiro_RinNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1838532404174102941",
+    "in_reply_to_user_id": "1454848929019797523",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1838411760971452425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mashiro_RinNeko 我也没有在哀悼，我只是觉得它不应该死，尤其是因为那样的事情而死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1837851380511371522",
+        "created_at": "2024-09-24T10:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T11:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838532404174102941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1454848929019797523",
+              "start": 0,
+              "username": "Mashiro_RinNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838532404174102941",
+        "in_reply_to_user_id": "1454848929019797523",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1838411760971452425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mashiro_RinNeko 我也没有在哀悼，我只是觉得它不应该死，尤其是因为那样的事情而死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454848929019797523",
+        "conversation_id": "1837851380511371522",
+        "created_at": "2024-09-24T02:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-24T03:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1838411760971452425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1838411760971452425",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1837851380511371522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 說句不太好聽的另一個觀點，論跡這人還多次發表逆天言論傷害他人，雖然和她做的好事比起來究竟哪邊影響更大，她是好人還是壞人尚可商榷，但我絕不會哀悼這個人，我並沒有被她幫助但我確實被她的言論傷害到。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3733,
+          "following_count": 224,
+          "like_count": 16939,
+          "listed_count": 8,
+          "tweet_count": 17140
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-31T16:34:36.000Z",
+        "description": "我也會死的，但你不是嗎？能和@evomoarte姐姐死在一起就是我最大的願望啦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "evomoarte"
+              }
+            ]
+          }
+        },
+        "id": "1454848929019797523",
+        "location": "柯伊伯带 小行星9979",
+        "name": "苓☆Einz",
+        "pinned_tweet_id": "1661077483607977984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583477614290694144/xjGmztpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 900,
+          "following_count": 407,
+          "like_count": 2960,
+          "listed_count": 4,
+          "tweet_count": 6288
+        },
+        "username": "Mashiro_RinNeko",
+        "verified": false
+      }
+    ]
+  }
+}

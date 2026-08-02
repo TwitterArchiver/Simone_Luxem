@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1802360658429624758",
+    "created_at": "2024-06-16T15:24:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-16T16:24:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802361504315924691"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1802361504315924691",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802360658429624758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唯一的问题就是我不会解,因为我真没想明白这么一群看起来没啥相互争夺的稀缺资源的人在这组团玩霸凌图个啥..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1802360658429624758",
+        "created_at": "2024-06-16T15:24:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T16:24:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802361504315924691"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1802361504315924691",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802360658429624758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唯一的问题就是我不会解,因为我真没想明白这么一群看起来没啥相互争夺的稀缺资源的人在这组团玩霸凌图个啥..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1802360658429624758",
+        "created_at": "2024-06-16T15:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-16T16:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802360658429624758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ServalCandle/s…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/ServalCandle/status/1802350322246914382",
+              "start": 145,
+              "url": "https://t.co/CCB9iOH7d3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802360658429624758",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802350322246914382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有我一个人看大猫的前前后后有一种很眼熟的感觉吗？\n这不是教科书式的被霸凌者为了摆脱霸凌,去腆着脸凑上霸凌群体里,然后甚至不惜反过来自己成为霸凌者对同样遭受霸凌的人更加恶劣地出手来突显自己是多么彻底地摆脱了被霸凌者的身份...？\n大猫，什么“滑铁卢帮”,灰灰等其它神经非典型发育的人... https://t.co/CCB9iOH7d3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3286,
+          "following_count": 220,
+          "like_count": 13898,
+          "listed_count": 10,
+          "tweet_count": 15526
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

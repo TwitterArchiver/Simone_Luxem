@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1793191058928517630",
+    "created_at": "2024-05-22T08:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T09:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793192712008532211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1315706812935487489",
+          "start": 0,
+          "username": "maigo_wakatake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793192712008532211",
+    "in_reply_to_user_id": "1315706812935487489",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793192357703106908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigo_wakatake 那我就把之前对荷兰警察的话对它们再说一遍吧：\nseriously，find a job…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1793191058928517630",
+        "created_at": "2024-05-22T08:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T09:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793192712008532211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1315706812935487489",
+              "start": 0,
+              "username": "maigo_wakatake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793192712008532211",
+        "in_reply_to_user_id": "1315706812935487489",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793192357703106908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigo_wakatake 那我就把之前对荷兰警察的话对它们再说一遍吧：\nseriously，find a job…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1315706812935487489",
+        "conversation_id": "1793191058928517630",
+        "created_at": "2024-05-22T08:09:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T09:09:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793192357703106908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793192357703106908",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793191058928517630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 似乎辅导员在以前本来就叫做「政治辅导员」或者「思政辅导员」来着……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3188,
+          "following_count": 217,
+          "like_count": 13580,
+          "listed_count": 11,
+          "tweet_count": 15211
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-12T17:32:11.000Z",
+        "description": "被剪掉垂耳的兔。精神病性症状探索垢。高频率自厌裂口女。",
+        "id": "1315706812935487489",
+        "location": "exile, Ikoria",
+        "name": "若竹@温顺腐尾兔",
+        "pinned_tweet_id": "1789054856734667141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735751539338469376/Psg5H7No_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1680,
+          "following_count": 176,
+          "like_count": 2315,
+          "listed_count": 5,
+          "tweet_count": 12498
+        },
+        "username": "maigo_wakatake",
+        "verified": false
+      }
+    ]
+  }
+}

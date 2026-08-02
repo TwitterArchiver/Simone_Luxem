@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1857335917515509993",
+    "created_at": "2024-11-15T08:12:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T09:12:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1857335917515509993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cyanvtb/status…",
+          "end": 169,
+          "expanded_url": "https://twitter.com/cyanvtb/status/1857061858814918935",
+          "start": 146,
+          "url": "https://t.co/atZlom99wI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857335917515509993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857061858814918935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己大概倒向了另一个极端\n接受自身“工具”的属性，并且尽可能地，把自己就视为工具\n因为工具的价值在于其是否能够完成目的，而不在于它人的评价：一把铲子的好坏在于其能不能挖土，挖土快不快，而不是其它人说它“是好铲子”\n甚至更进一步，自己是某个存在为了实现某个目的而生的工具…\n也…确实不会了.. https://t.co/atZlom99wI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1857335917515509993",
+        "created_at": "2024-11-15T08:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T09:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857335917515509993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyanvtb/status…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/cyanvtb/status/1857061858814918935",
+              "start": 146,
+              "url": "https://t.co/atZlom99wI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857335917515509993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857061858814918935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己大概倒向了另一个极端\n接受自身“工具”的属性，并且尽可能地，把自己就视为工具\n因为工具的价值在于其是否能够完成目的，而不在于它人的评价：一把铲子的好坏在于其能不能挖土，挖土快不快，而不是其它人说它“是好铲子”\n甚至更进一步，自己是某个存在为了实现某个目的而生的工具…\n也…确实不会了.. https://t.co/atZlom99wI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857061852234027009"
+          ]
+        },
+        "author_id": "1466141467274010633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1857061858814918935",
+        "created_at": "2024-11-14T14:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T15:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857061858814918935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l9wjPFnI0J",
+              "end": 163,
+              "expanded_url": "https://x.com/cyanvtb/status/1857061858814918935/photo/1",
+              "media_key": "3_1857061852234027009",
+              "start": 140,
+              "url": "https://t.co/l9wjPFnI0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857061858814918935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3376,
+          "like_count": 99,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我曾经也缺乏自我价值感。如果别人向我要一个苹果，我会把我所有的苹果都给他们。那时，我的价值感完全依赖于他人和外在的事物。\n\n后来我明白，自我价值源于无法量化的品质：比如真诚、善良、勇气和执着。我学会了设立健康的界限，与爱我的人交往，坚持表达自己应得的需求。\n\n这是快乐的第一步。 https://t.co/l9wjPFnI0J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3863,
+          "following_count": 224,
+          "like_count": 17909,
+          "listed_count": 10,
+          "tweet_count": 17771
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T20:25:55.000Z",
+        "description": "✧ YouTube简中三大VTuber\n✧ 日常推，热爱自由和世界的百合编程少女\n✧ 🇺🇸 10 yrs + 🇯🇵 6 mon 🫶 with @linaasahi\n✧ xGoogler ➡️ 偽畫師/VTuber @cyannyan6\n ʚ 答應你，永遠不畢業 ɞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "linaasahi"
+              },
+              {
+                "end": 117,
+                "start": 107,
+                "username": "cyannyan6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyan.yt/magic",
+                "end": 23,
+                "expanded_url": "http://cyan.yt/magic",
+                "start": 0,
+                "url": "https://t.co/KZ2gCJbjrg"
+              }
+            ]
+          }
+        },
+        "id": "1466141467274010633",
+        "location": "距離你418m",
+        "name": "Cyan是小鹽🧂✨",
+        "pinned_tweet_id": "1851371044046619084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828870958406414336/1uExc45K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5163,
+          "following_count": 759,
+          "like_count": 9418,
+          "listed_count": 20,
+          "tweet_count": 4443
+        },
+        "url": "https://t.co/KZ2gCJbjrg",
+        "username": "cyanvtb",
+        "verified": true
+      }
+    ]
+  }
+}

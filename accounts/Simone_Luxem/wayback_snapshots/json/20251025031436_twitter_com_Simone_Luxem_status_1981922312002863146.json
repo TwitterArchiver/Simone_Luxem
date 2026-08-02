@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1981905145052180641",
+    "created_at": "2025-10-25T03:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T04:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981922312002863146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "881154222472912896",
+          "start": 0,
+          "username": "SeluneMoonbow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981922312002863146",
+    "in_reply_to_user_id": "881154222472912896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981905145052180641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeluneMoonbow 左倾错误？什么左倾错误？左倾在哪了…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1981905145052180641].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1981905145052180641",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1981905145052180641"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1981905145052180641",
+        "created_at": "2025-10-25T03:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T04:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981922312002863146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "881154222472912896",
+              "start": 0,
+              "username": "SeluneMoonbow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981922312002863146",
+        "in_reply_to_user_id": "881154222472912896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981905145052180641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeluneMoonbow 左倾错误？什么左倾错误？左倾在哪了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5579,
+          "following_count": 215,
+          "like_count": 22779,
+          "listed_count": 15,
+          "media_count": 1682,
+          "tweet_count": 20645
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-01T14:15:12.000Z",
+        "description": "成分是一只后现代萌萌人 || 随便挂点：🏳️‍🌈🏳️‍⚧️🏴❤️🧡💛💚💙💜🤎🖤🩵🩷🤍💛💜🤍💚♀️⚧️ || 老婆 @QiuNing_ 超级超级可爱~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 57,
+                "username": "QiuNing_"
+              }
+            ]
+          }
+        },
+        "id": "881154222472912896",
+        "name": "昕月🏳️‍⚧️",
+        "pinned_tweet_id": "1761742159081087247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949756229179559936/GwoY2tNE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 708,
+          "like_count": 73065,
+          "listed_count": 2,
+          "media_count": 1173,
+          "tweet_count": 29010
+        },
+        "username": "SeluneMoonbow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1932077902557749726",
+    "created_at": "2025-06-09T14:10:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-09T15:10:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1932077902557749726"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hoshikawa_ran/…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/hoshikawa_ran/status/1932065490371010594",
+          "start": 132,
+          "url": "https://t.co/Jg1fo3BF1v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1932077902557749726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 214,
+      "like_count": 3,
+      "quote_count": 0,
+      "reply_count": 2,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932065490371010594",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不是，但问题是这里是加州啊，是民主党的大本营和基本盘吧，选举的时候也是给民主党的票的吧？\n如果自己的大本营都任人践踏，都保护不了的话，那这个政党也太软弱了吧？那你的选民还凭什么投给你——我投了你，别人没投你，结果你输了，胜者来报复我了，你袖手旁观，那我投你何用？ https://t.co/Jg1fo3BF1v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1932077902557749726",
+        "created_at": "2025-06-09T14:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T15:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932077902557749726"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hoshikawa_ran/…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/hoshikawa_ran/status/1932065490371010594",
+              "start": 132,
+              "url": "https://t.co/Jg1fo3BF1v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932077902557749726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 214,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932065490371010594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是，但问题是这里是加州啊，是民主党的大本营和基本盘吧，选举的时候也是给民主党的票的吧？\n如果自己的大本营都任人践踏，都保护不了的话，那这个政党也太软弱了吧？那你的选民还凭什么投给你——我投了你，别人没投你，结果你输了，胜者来报复我了，你袖手旁观，那我投你何用？ https://t.co/Jg1fo3BF1v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2689170356",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1932065490371010594",
+        "created_at": "2025-06-09T13:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-09T14:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932065490371010594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Glory_and_Drea…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/Glory_and_Dream/status/1931974288464113767",
+              "start": 66,
+              "url": "https://t.co/aisb4gEpCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932065490371010594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1421,
+          "like_count": 24,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931974288464113767",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不去就对了，这就是民主党从选举里得到的教训：既然美国人对执政党有不满就可以选一坨屎上台，那在川普犯错的时候表现得像一坨屎又如何？（ https://t.co/aisb4gEpCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4267,
+          "following_count": 220,
+          "like_count": 20502,
+          "listed_count": 12,
+          "media_count": 1579,
+          "tweet_count": 19537
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-29T04:45:18.000Z",
+        "description": "被困在男性身体里的灵体生物 | 经济学&历史学背景 | 社自🗽为体，社民🌹为用 | 减速主义 | 混乱善良 | 反法西斯反威权，声援各国进步和民主运动 | 自然神论 | “庸俗的资产阶级人道主义者” | “恶贯满盈的中道壬” | 浮生辗转承一诺，不容青史尽成灰 | 美国不是我爹，是你以及一切混蛋的爹",
+        "id": "2689170356",
+        "location": "自由人联合体",
+        "name": "星川 蘭🇺🇦🇪🇺🇨🇦🇬🇱爱美TV义务宣传员 ver.🌻📄",
+        "pinned_tweet_id": "1892408950336663584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503035329233580034/bXYTE57g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14804,
+          "following_count": 397,
+          "like_count": 147334,
+          "listed_count": 67,
+          "media_count": 2484,
+          "tweet_count": 24901
+        },
+        "username": "Hoshikawa_ran",
+        "verified": false
+      }
+    ]
+  }
+}

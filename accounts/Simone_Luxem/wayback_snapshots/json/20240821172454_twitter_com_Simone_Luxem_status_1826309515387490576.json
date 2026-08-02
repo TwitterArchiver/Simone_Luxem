@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1826309515387490576",
+    "created_at": "2024-08-21T17:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T18:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826309515387490576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/garrulous_abys…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/garrulous_abyss/status/1826307669680161101",
+          "start": 91,
+          "url": "https://t.co/EVKzcZJIsV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826309515387490576",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826307669680161101",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以有的时候，尤其是在自己幻觉强烈的情况下，自己总是会忍不住想：如果所有的疼痛与苦难，都真的是有意义的，那么这一切究竟是为了什么，到底有什么样的奖赏，是需要自己来承受这些来得到的… https://t.co/EVKzcZJIsV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1826309515387490576",
+        "created_at": "2024-08-21T17:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T18:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826309515387490576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1826307669680161101",
+              "start": 91,
+              "url": "https://t.co/EVKzcZJIsV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826309515387490576",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826307669680161101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以有的时候，尤其是在自己幻觉强烈的情况下，自己总是会忍不住想：如果所有的疼痛与苦难，都真的是有意义的，那么这一切究竟是为了什么，到底有什么样的奖赏，是需要自己来承受这些来得到的… https://t.co/EVKzcZJIsV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "1826302133508923809",
+        "created_at": "2024-08-21T17:17:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T18:17:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826307669680161101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1826307669680161101",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826307001694945477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但是还是那句话，在中国这种环境下，作为绝大多数的顺直人，如果都活得痛苦不堪。。。你即使有各种各样的幸运加成，在跨性别这种debuff的影响下，你无非是，“没有那样痛苦”而已。\n\n作为普通人，尤其是作为和父母家庭大概率关系极差的普通人，作为跨性别，你几乎注定是难上加难的一条路。(6/6)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3647,
+          "following_count": 221,
+          "like_count": 16137,
+          "listed_count": 8,
+          "tweet_count": 16676
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//双性恋//百合ing 女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//真·法语学习博主//中文//English//français// 可能会ban纯黄推、纯政治推 //见到Incel、terf、小粉红、魔怔人立刻拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Yaoyao38324"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20798,
+          "following_count": 2990,
+          "like_count": 109063,
+          "listed_count": 61,
+          "tweet_count": 40620
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2075040082382458995",
+    "created_at": "2026-07-09T02:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T03:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075040082382458995"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1459453832",
+          "start": 3,
+          "username": "sauricat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075040082382458995",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074962655715234175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sauricat: 转载：亚利桑那大学刚刚完成论文答辩毕业的 Dr. Shanshan Zhang 博士（三三老师）日前被 ICE 拘留，需要筹集保释资金、押金、关押期间伙食改善和避免营养不良的费用。\n\n图中是直接给她妻子的帐号转钱的链接（美国账户，抱歉暂无加拿大转账方…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1274,
+        "media_key": "3_2074961620787400704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMu-mbmaEAA8N2D.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2075040082382458995",
+        "created_at": "2026-07-09T02:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T03:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075040082382458995"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1459453832",
+              "start": 3,
+              "username": "sauricat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075040082382458995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074962655715234175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sauricat: 转载：亚利桑那大学刚刚完成论文答辩毕业的 Dr. Shanshan Zhang 博士（三三老师）日前被 ICE 拘留，需要筹集保释资金、押金、关押期间伙食改善和避免营养不良的费用。\n\n图中是直接给她妻子的帐号转钱的链接（美国账户，抱歉暂无加拿大转账方…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074961620787400704"
+          ]
+        },
+        "author_id": "1459453832",
+        "conversation_id": "2074962655715234175",
+        "created_at": "2026-07-08T21:03:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:01:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074962001051488307",
+          "2074962655715234175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z1WCzNnsr3",
+              "end": 182,
+              "expanded_url": "https://x.com/sauricat/status/2074962655715234175/photo/1",
+              "media_key": "3_2074961620787400704",
+              "start": 159,
+              "url": "https://t.co/z1WCzNnsr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074962655715234175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "转载：亚利桑那大学刚刚完成论文答辩毕业的 Dr. Shanshan Zhang 博士（三三老师）日前被 ICE 拘留，需要筹集保释资金、押金、关押期间伙食改善和避免营养不良的费用。\n\n图中是直接给她妻子的帐号转钱的链接（美国账户，抱歉暂无加拿大转账方式）。UA Resist 也在帮三三老师各处奔走。三三老师目前还在 Eloy Detention Center 关押着，有余力的社群伙伴们请不吝转发支持！\n\n三三老师是优秀的学者、女性和酷儿社群支持工作者。她不应当继续成为 ICE 持续移民暴力的受害者。也不应当有任何人继续成为受害者。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7876,
+          "like_count": 30,
+          "quote_count": 4,
+          "reply_count": 5,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "转载：亚利桑那大学刚刚完成论文答辩毕业的 Dr. Shanshan Zhang 博士（三三老师）日前被 ICE 拘留，需要筹集保释资金、押金、关押期间伙食改善和避免营养不良的费用。\n\n图中是直接给她妻子的帐号转钱的链接（美国账户，抱歉暂无加拿大转账方式）。UA Resist 也在帮三三老师各处奔走。三三老师目前还在 https://t.co/z1WCzNnsr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6233,
+          "following_count": 220,
+          "like_count": 25031,
+          "listed_count": 16,
+          "media_count": 1793,
+          "tweet_count": 21811
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) 北雁书/bsky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kazv.moe/users/rhyme417",
+                "end": 23,
+                "expanded_url": "https://kazv.moe/users/rhyme417",
+                "start": 0,
+                "url": "https://t.co/ug9yRYBV7t"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "Shu the Internet Squirrel",
+        "pinned_tweet_id": "2066818208653361431",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11205,
+          "following_count": 1036,
+          "like_count": 34435,
+          "listed_count": 35,
+          "media_count": 623,
+          "tweet_count": 12306
+        },
+        "url": "https://t.co/ug9yRYBV7t",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

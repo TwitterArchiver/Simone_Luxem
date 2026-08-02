@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1129067985451118593",
+          "name": "Physical Education"
+        }
+      }
+    ],
+    "conversation_id": "1976042623552065710",
+    "created_at": "2025-10-10T05:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T06:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976525745334653243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1478146235756576770",
+          "start": 0,
+          "username": "UNN_Owen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976525745334653243",
+    "in_reply_to_user_id": "1478146235756576770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976437214696607868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UNN_Owen 啊不能这么说，我就是pvp爱好者的，但仅限游戏中，或者体育运动中…\n就，pvp是有意义的的重点在于你的对手也是自愿参与，具有和你相当的水平，并且基于一个公平的规则下的呀，而高考怎么说都不满足这些点吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "1976042623552065710",
+        "created_at": "2025-10-10T05:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T06:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976525745334653243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1478146235756576770",
+              "start": 0,
+              "username": "UNN_Owen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976525745334653243",
+        "in_reply_to_user_id": "1478146235756576770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976437214696607868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UNN_Owen 啊不能这么说，我就是pvp爱好者的，但仅限游戏中，或者体育运动中…\n就，pvp是有意义的的重点在于你的对手也是自愿参与，具有和你相当的水平，并且基于一个公平的规则下的呀，而高考怎么说都不满足这些点吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1478146235756576770",
+        "conversation_id": "1976042623552065710",
+        "created_at": "2025-10-09T23:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T00:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976437214696607868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976437214696607868",
+        "in_reply_to_user_id": "1478146235756576770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976436609894764987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 补充：根据我的观察，喜欢玩pvp（或者说“和人斗”）的或多或少都沾点\n\n这也解释了为什么高学历群体里社达魔怔人这么多——都玩pvp了你就让着它罢（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4632,
+          "following_count": 219,
+          "like_count": 22577,
+          "listed_count": 13,
+          "media_count": 1669,
+          "tweet_count": 20505
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-03T23:28:29.000Z",
+        "description": "我收回我以前对星璃璃的一切指控, 星璃璃是有史以来最伟大的北京跨性别社区领导者, 她心她行澄如明镜, 所作所为皆为正义",
+        "id": "1478146235756576770",
+        "location": "Z57/60系统",
+        "name": "The Nameless Belkan Catgirl",
+        "pinned_tweet_id": "1956700646910173252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975162390514978816/YH57r0Tv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 201,
+          "like_count": 5323,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 1245
+        },
+        "username": "UNN_Owen",
+        "verified": false
+      }
+    ]
+  }
+}

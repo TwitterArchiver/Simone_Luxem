@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1909222971958231040",
+        "13_1909222971975057408",
+        "13_1909222972004442114",
+        "13_1909222971991851008"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1909223113843241178",
+    "created_at": "2025-04-07T12:33:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T13:33:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1909223113843241178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QJ1SVOj2tY",
+          "end": 163,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1909223113843241178/video/1",
+          "media_key": "3_1909222971958231040",
+          "start": 140,
+          "url": "https://t.co/QJ1SVOj2tY"
+        },
+        {
+          "display_url": "pic.x.com/QJ1SVOj2tY",
+          "end": 163,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1909223113843241178/video/1",
+          "media_key": "13_1909222971975057408",
+          "start": 140,
+          "url": "https://t.co/QJ1SVOj2tY"
+        },
+        {
+          "display_url": "pic.x.com/QJ1SVOj2tY",
+          "end": 163,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1909223113843241178/video/1",
+          "media_key": "13_1909222972004442114",
+          "start": 140,
+          "url": "https://t.co/QJ1SVOj2tY"
+        },
+        {
+          "display_url": "pic.x.com/QJ1SVOj2tY",
+          "end": 163,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1909223113843241178/video/1",
+          "media_key": "13_1909222971991851008",
+          "start": 140,
+          "url": "https://t.co/QJ1SVOj2tY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909223113843241178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前说过的学校对抗政府砍教育经费的罢工如期而至，本人再次担任了战地记者\n然后发现场面比自己想象的大不少哦，好多人都来了\n具有不同立场的，不同政治观点的，不同身份的人，把自身的理念和这次的主题都联系在了一起\n这下真的是组建大同盟了…\n所以说果真是只有不读书的蠢货才会支持极右翼吧… https://t.co/QJ1SVOj2tY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1909222971958231040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn7sLXCWAAAsaPz.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 21386,
+        "height": 960,
+        "media_key": "13_1909222971975057408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909222971975057408/img/MLyfV8GcoWWjIdtw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909222971975057408/vid/avc1/320x568/L2fiIf9Lgsca2XEq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909222971975057408/vid/avc1/480x852/gr6nE5f40LZsUGV-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909222971975057408/vid/avc1/540x960/BKltWzqtL0AZWsgH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909222971975057408/pl/4j8fAjnvTzU5vxvK.m3u8?tag=14"
+          }
+        ],
+        "width": 540
+      },
+      {
+        "duration_ms": 38050,
+        "height": 540,
+        "media_key": "13_1909222972004442114",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909222972004442114/img/WG8YfFBtZyHD91mS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909222972004442114/vid/avc1/480x270/ruzuMzCp4j2-oYXt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909222972004442114/vid/avc1/640x360/OH8sRrL-Hh6tncIN.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909222972004442114/vid/avc1/960x540/Gw12k41BAddvhX-P.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909222972004442114/pl/nCSiKSLLHBfBqLv8.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "duration_ms": 17236,
+        "height": 540,
+        "media_key": "13_1909222971991851008",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1909222971991851008/img/ISg7EusXW3mxI0wd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909222971991851008/vid/avc1/480x270/T4tsMhFGtkRI76Vq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909222971991851008/vid/avc1/640x360/IcNZkfpoiPpNjg9V.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1909222971991851008/vid/avc1/960x540/vtXd0NKjEoww96Lw.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1909222971991851008/pl/OUqv-NaoUPg-mwR7.m3u8?tag=14"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909222971958231040",
+            "13_1909222971975057408",
+            "13_1909222972004442114",
+            "13_1909222971991851008"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1909223113843241178",
+        "created_at": "2025-04-07T12:33:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T13:33:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909223113843241178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QJ1SVOj2tY",
+              "end": 163,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1909223113843241178/video/1",
+              "media_key": "3_1909222971958231040",
+              "start": 140,
+              "url": "https://t.co/QJ1SVOj2tY"
+            },
+            {
+              "display_url": "pic.x.com/QJ1SVOj2tY",
+              "end": 163,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1909223113843241178/video/1",
+              "media_key": "13_1909222971975057408",
+              "start": 140,
+              "url": "https://t.co/QJ1SVOj2tY"
+            },
+            {
+              "display_url": "pic.x.com/QJ1SVOj2tY",
+              "end": 163,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1909223113843241178/video/1",
+              "media_key": "13_1909222972004442114",
+              "start": 140,
+              "url": "https://t.co/QJ1SVOj2tY"
+            },
+            {
+              "display_url": "pic.x.com/QJ1SVOj2tY",
+              "end": 163,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1909223113843241178/video/1",
+              "media_key": "13_1909222971991851008",
+              "start": 140,
+              "url": "https://t.co/QJ1SVOj2tY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909223113843241178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前说过的学校对抗政府砍教育经费的罢工如期而至，本人再次担任了战地记者\n然后发现场面比自己想象的大不少哦，好多人都来了\n具有不同立场的，不同政治观点的，不同身份的人，把自身的理念和这次的主题都联系在了一起\n这下真的是组建大同盟了…\n所以说果真是只有不读书的蠢货才会支持极右翼吧… https://t.co/QJ1SVOj2tY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4124,
+          "following_count": 219,
+          "like_count": 19939,
+          "listed_count": 11,
+          "media_count": 1516,
+          "tweet_count": 18985
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2056909455498031357",
+    "created_at": "2026-05-20T01:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T02:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056909455498031357"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2056797032690352558",
+          "start": 86,
+          "url": "https://t.co/kehc0QgwVv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056909455498031357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056797032690352558",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么，请问没有“被剥夺政治权利”的公民们，要怎样行使言论自由的政治权利呢？\n以及那么如此说的话，就是承认在监狱中的囚犯们说的话，都是“身不由己”的，都是“不自由”的言论咯 https://t.co/kehc0QgwVv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 146748,
+        "height": 1920,
+        "media_key": "13_2056644119095853056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056644119095853056/img/JwDWYqHRqB03zbnv.jpg",
+        "public_metrics": {
+          "view_count": 48649
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056644119095853056/vid/avc1/320x568/civfvT4tYGj3sg4n.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056644119095853056/pl/oz6KOEhPR1eoANZH.m3u8?v=4bc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056644119095853056/vid/avc1/720x1280/tmJw3K_8dPUcLWkL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056644119095853056/vid/avc1/480x852/nYEIZCBUVGakS_qr.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056644119095853056/vid/avc1/1080x1920/nOqKihbE3KbABv-q.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1034,
+        "media_key": "3_2056644193318207488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqq_0waAAArxyy.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2258,
+        "media_key": "3_2056644227287932928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqrBzTa4AABvJU.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1232,
+        "media_key": "3_2056644264495632384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqrD96bUAAVp9m.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2056909455498031357",
+        "created_at": "2026-05-20T01:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T02:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056909455498031357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2056797032690352558",
+              "start": 86,
+              "url": "https://t.co/kehc0QgwVv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056909455498031357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056797032690352558",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么，请问没有“被剥夺政治权利”的公民们，要怎样行使言论自由的政治权利呢？\n以及那么如此说的话，就是承认在监狱中的囚犯们说的话，都是“身不由己”的，都是“不自由”的言论咯 https://t.co/kehc0QgwVv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056644119095853056",
+            "3_2056644193318207488",
+            "3_2056644227287932928",
+            "3_2056644264495632384"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2056797032690352558",
+        "created_at": "2026-05-19T18:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T19:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056797032690352558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BUfgoacZnh",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056797032690352558/video/1",
+              "media_key": "13_2056644119095853056",
+              "start": 109,
+              "url": "https://t.co/BUfgoacZnh"
+            },
+            {
+              "display_url": "pic.x.com/BUfgoacZnh",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056797032690352558/video/1",
+              "media_key": "3_2056644193318207488",
+              "start": 109,
+              "url": "https://t.co/BUfgoacZnh"
+            },
+            {
+              "display_url": "pic.x.com/BUfgoacZnh",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056797032690352558/video/1",
+              "media_key": "3_2056644227287932928",
+              "start": 109,
+              "url": "https://t.co/BUfgoacZnh"
+            },
+            {
+              "display_url": "pic.x.com/BUfgoacZnh",
+              "end": 132,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2056797032690352558/video/1",
+              "media_key": "3_2056644264495632384",
+              "start": 109,
+              "url": "https://t.co/BUfgoacZnh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056797032690352558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，电影《监狱来的妈妈》定档5月30日全国上映，本片根据真实故事改编，赵箫泓因反抗家暴失手杀夫入狱十年，出狱前，她把真实经历演成了电影，也凭借此片中“母亲廖红”一角，拿下第73届圣塞巴斯蒂安电影节最佳主角银贝壳奖。\n\n 随后，网友们通过扒裁判文书网后发现，2009年因家务琐事争执，赵晓红持刀刺中丈夫胸部致主动脉破裂死亡，构成故意伤害罪，判刑15年，剥夺政治权利5年（经两次减刑实际服刑11年）。因此引发公众质疑和反对，网友们质疑“犯罪分子竟然可以被美化成英雄？” “司法判决剥夺政治权力期间，当事人参与电影的拍摄与法律规定是否有没有冲突?”“抛却争议，能把凶手，儿子，婆婆三个人拉到一起拍电影，也是很牛逼的。”\n\n值得注意的是，演员姚晨曾公开发文为该片宣传，但不久后又删掉了微博。姚晨工作室回应：“此次转发，原是出于对国产电影创作的关注。但对影片相关背景缺乏充分了解，对此我们审慎自省”\n\n截至目前发文，影片女主角赵箫泓多平台账号被禁，网传该影片暂缓上映撤档。\n\n 长沙一名律师解读称：赵箫泓被剥夺政治权利的结束日期是2023年6月15日。而这部电影2019年夏天开机，2021年杀青。整个拍摄过程均在赵箫泓被剥夺政治权利期间。一般来说演员参与拍摄不直接违背剥政治权利的规定，因为台词剧本都是编剧写的，演员只需要执行导演指令即可。但这部电影的主演不单单参与了拍摄，而是实际参与了电影的创作过程。她以自己的视角作为素材，参与电影创作，并通过电影向社会传达思想，等于实质上行驶了言论自由和出版自由，我个人认为她违反了法规。\n\n作家自媒体博主“熊太行”表示：打老婆这件事，没有临时起意第一次就打就出事的。又打头又踢腰，一看就是老干家了。打老婆打到被老婆用刀子捅了，这人性说真的不怎么样。\n 这倒霉女人平时没报过警，挨打就挨了，那自然没留下证据，无法认定家暴。\n贵地基本盘法盲居多，看见没写“家暴”就觉得“不存在家暴”。\n他们根本不知道家暴的认定有多难。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 94277,
+          "like_count": 327,
+          "quote_count": 8,
+          "reply_count": 84,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "近日，电影《监狱来的妈妈》定档5月30日全国上映，本片根据真实故事改编，赵箫泓因反抗家暴失手杀夫入狱十年，出狱前，她把真实经历演成了电影，也凭借此片中“母亲廖红”一角，拿下第73届圣塞巴斯蒂安电影节最佳主角银贝壳奖。 https://t.co/BUfgoacZnh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6206,
+          "following_count": 222,
+          "like_count": 24698,
+          "listed_count": 18,
+          "media_count": 1782,
+          "tweet_count": 21688
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230981,
+          "following_count": 1059,
+          "like_count": 9578,
+          "listed_count": 8759,
+          "media_count": 47103,
+          "tweet_count": 54225
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

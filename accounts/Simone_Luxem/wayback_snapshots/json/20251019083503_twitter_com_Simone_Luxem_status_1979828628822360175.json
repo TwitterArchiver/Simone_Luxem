@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979828610740482048",
+        "3_1979828610719514624"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1979827818516422850",
+    "created_at": "2025-10-19T08:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T09:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979828628822360175"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/m6uHomuwLF",
+          "end": 135,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1979828628822360175/photo/1",
+          "media_key": "3_1979828610740482048",
+          "start": 112,
+          "url": "https://t.co/m6uHomuwLF"
+        },
+        {
+          "display_url": "pic.x.com/m6uHomuwLF",
+          "end": 135,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1979828628822360175/photo/1",
+          "media_key": "3_1979828610719514624",
+          "start": 112,
+          "url": "https://t.co/m6uHomuwLF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979828628822360175",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979827818516422850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以及，pai给的这个类似比基尼的内裤（？）感觉莫名好色气xx，另外睡了一觉之后发现原先那个让自己困惑的大洞被遮住了，整体外观也有很明显的改进，所以应该确实就是消肿/没消肿的作用导致的，应该再过段时间等恢复更好些会外观更好些 https://t.co/m6uHomuwLF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1979828628822360175].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1979828628822360175",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1979828628822360175"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1979828610740482048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nDocNXcAAX1rI.jpg",
+        "width": 1539
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1979828610719514624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3nDocIXgAACF3B.jpg",
+        "width": 1539
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1979827818516422850",
+        "created_at": "2025-10-19T08:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T09:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979827818516422850"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979827818516422850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不过有一说一，虽然外观自己不好说，但是自己的神经连接恢复的那确实是真的快，甚至比手术之前更敏感了…\n嗯..在还带着尿管的情况下清洗，就已经感觉有些敏感了，以及在此之后又纯粹出于好奇心自己用手去…探索了一下xxxx\n嗯..就是感觉比原生的还要好用xxxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5367,
+          "following_count": 216,
+          "like_count": 22703,
+          "listed_count": 15,
+          "media_count": 1679,
+          "tweet_count": 20589
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

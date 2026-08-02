@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2050814839459831929",
+    "created_at": "2026-05-03T05:48:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T06:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050814839459831929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2050269321029435392",
+          "start": 3,
+          "username": "nk1415926"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "smcs.dpdns.org",
+          "end": 131,
+          "expanded_url": "https://smcs.dpdns.org/",
+          "start": 108,
+          "status": 200,
+          "title": "登录 - xxxx计算机系统",
+          "unwound_url": "https://smcs.dpdns.org/login",
+          "url": "https://t.co/4Hxx4nJUNd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050814839459831929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050518788089544831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nk1415926: 人身安全守护系统\n\n我们反对任何形式的暴力网戒或跨性别扭转治疗。这是一个公益项目，旨在为受到威胁的人提供力所能及的帮助。系统尚未竣工，求救邮件无法发出，但站内可见求救用户列表。\n\n网址：https://t.co/4Hxx4nJUNd\n可登录账户ID…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "安全守护主页",
+        "height": 1170,
+        "media_key": "3_2050518620195770368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTn0ioX0AAWKVz.jpg",
+        "width": 1080
+      },
+      {
+        "alt_text": "管理面板",
+        "height": 1013,
+        "media_key": "3_2050517692587585536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHTm-jBWMAAFmuV.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2050814839459831929",
+        "created_at": "2026-05-03T05:48:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T06:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050814839459831929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2050269321029435392",
+              "start": 3,
+              "username": "nk1415926"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "smcs.dpdns.org",
+              "end": 131,
+              "expanded_url": "https://smcs.dpdns.org/",
+              "start": 108,
+              "status": 200,
+              "title": "登录 - xxxx计算机系统",
+              "unwound_url": "https://smcs.dpdns.org/login",
+              "url": "https://t.co/4Hxx4nJUNd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050814839459831929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050518788089544831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nk1415926: 人身安全守护系统\n\n我们反对任何形式的暴力网戒或跨性别扭转治疗。这是一个公益项目，旨在为受到威胁的人提供力所能及的帮助。系统尚未竣工，求救邮件无法发出，但站内可见求救用户列表。\n\n网址：https://t.co/4Hxx4nJUNd\n可登录账户ID…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050518620195770368",
+            "3_2050517692587585536"
+          ]
+        },
+        "author_id": "2050269321029435392",
+        "conversation_id": "2050518788089544831",
+        "created_at": "2026-05-02T10:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050518788089544831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "smcs.dpdns.org",
+              "end": 116,
+              "expanded_url": "https://smcs.dpdns.org/",
+              "start": 93,
+              "status": 200,
+              "title": "登录 - xxxx计算机系统",
+              "unwound_url": "https://smcs.dpdns.org/login",
+              "url": "https://t.co/4Hxx4nJUNd"
+            },
+            {
+              "display_url": "pic.x.com/RACaBokQHv",
+              "end": 192,
+              "expanded_url": "https://x.com/nk1415926/status/2050518788089544831/photo/1",
+              "media_key": "3_2050518620195770368",
+              "start": 169,
+              "url": "https://t.co/RACaBokQHv"
+            },
+            {
+              "display_url": "pic.x.com/RACaBokQHv",
+              "end": 192,
+              "expanded_url": "https://x.com/nk1415926/status/2050518788089544831/photo/1",
+              "media_key": "3_2050517692587585536",
+              "start": 169,
+              "url": "https://t.co/RACaBokQHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050518788089544831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 1241,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "人身安全守护系统\n\n我们反对任何形式的暴力网戒或跨性别扭转治疗。这是一个公益项目，旨在为受到威胁的人提供力所能及的帮助。系统尚未竣工，求救邮件无法发出，但站内可见求救用户列表。\n\n网址：https://t.co/4Hxx4nJUNd\n可登录账户ID：moo5jdrdsSCQME\n密码：nk1415926\n\n欢迎大家在记事本模块内留言。 https://t.co/RACaBokQHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6177,
+          "following_count": 219,
+          "like_count": 24490,
+          "listed_count": 19,
+          "media_count": 1776,
+          "tweet_count": 21629
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T17:41:29.000Z",
+        "description": "一只mtf。欢迎同类互关。\n\n反对暴力网戒与跨性别扭转，我们在行动。\n持续关注我们的项目：\nhttps://t.co/omqRpqyOZ3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/nk1415926/stat…",
+                "end": 69,
+                "expanded_url": "https://x.com/nk1415926/status/2050518788089544831?s=20",
+                "start": 46,
+                "url": "https://t.co/omqRpqyOZ3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "smcs.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://smcs.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/AQfLiX47Hs"
+              }
+            ]
+          }
+        },
+        "id": "2050269321029435392",
+        "name": "糯空🍥",
+        "pinned_tweet_id": "2050518788089544831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050274836107149312/iPZZXU1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 19,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "url": "https://t.co/AQfLiX47Hs",
+        "username": "nk1415926",
+        "verified": false
+      }
+    ]
+  }
+}

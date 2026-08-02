@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1911022347882053971",
+    "created_at": "2025-04-12T11:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-12T12:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911022350440489032"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1911022350440489032",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911022347882053971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "凭心而论，并不是一个坏人；相反，它会对它人慷慨解囊，会被它人的遭遇深刻触动，持有（虽然与我相异但并不矛盾）的理想并努力付诸实施；它是会仅因“我想要帮助这个人”而真的去帮助这个人的，而这样的行为和动机，在我看来，就是足够纯粹的\n\n其因为与（前）亲密关系之间的私事而承受的一些指责是不公的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1911022347882053971",
+        "created_at": "2025-04-12T11:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T12:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911022350440489032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1911022350440489032",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911022347882053971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凭心而论，并不是一个坏人；相反，它会对它人慷慨解囊，会被它人的遭遇深刻触动，持有（虽然与我相异但并不矛盾）的理想并努力付诸实施；它是会仅因“我想要帮助这个人”而真的去帮助这个人的，而这样的行为和动机，在我看来，就是足够纯粹的\n\n其因为与（前）亲密关系之间的私事而承受的一些指责是不公的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1911022347882053971",
+        "created_at": "2025-04-12T11:43:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-12T12:43:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911022347882053971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1487336894522265601",
+              "start": 7,
+              "username": "HDHZMcDonald"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911022347882053971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觉得应该替毛毛@HDHZMcDonald 说两句公道话\n我的嘴不是能被钱收买的，因此我所说的话全部为自己真实的所见所感，与任何利益往来皆不相干\n虽然与毛毛的直接接触只有一次，但是各种间接渠道下，自己其实与它有过不少往来，自认为，对它还是有一定了解的\n它确实有一般顺男常见的口嗨和粗俗的行为，但"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4130,
+          "following_count": 219,
+          "like_count": 19971,
+          "listed_count": 11,
+          "media_count": 1521,
+          "tweet_count": 19021
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

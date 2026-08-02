@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1971449262627226006",
+    "created_at": "2025-09-26T07:57:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T08:57:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971484231152042180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906892094953762816",
+          "start": 0,
+          "username": "yrr0rinblues"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971484231152042180",
+    "in_reply_to_user_id": "906892094953762816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971484009579544728",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yrr0rinblues 术前需要断糖，虽然我其实觉得没必要，但是标准流程上确实是这样说的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1971449262627226006",
+        "created_at": "2025-09-26T07:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T08:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971484231152042180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906892094953762816",
+              "start": 0,
+              "username": "yrr0rinblues"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971484231152042180",
+        "in_reply_to_user_id": "906892094953762816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971484009579544728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yrr0rinblues 术前需要断糖，虽然我其实觉得没必要，但是标准流程上确实是这样说的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906892094953762816",
+        "conversation_id": "1971449262627226006",
+        "created_at": "2025-09-26T07:56:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T08:56:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971484009579544728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971484009579544728",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971449262627226006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 怎么还会断糖😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4619,
+          "following_count": 220,
+          "like_count": 22483,
+          "listed_count": 13,
+          "media_count": 1661,
+          "tweet_count": 20417
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T14:48:19.000Z",
+        "description": "Metalhead Nihilist🏳️‍🌈｜普通话&English｜自封的友跨顺男｜可能不会翻车吧｜非常缺爱想要人陪qwq｜肥宅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yrr0r.net",
+                "end": 23,
+                "expanded_url": "http://blog.yrr0r.net",
+                "start": 0,
+                "url": "https://t.co/nlTQQyVLGW"
+              }
+            ]
+          }
+        },
+        "id": "906892094953762816",
+        "location": "江苏锅炉房",
+        "name": "Yrr0r",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856622707829575680/iJCZ4Ctf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 461,
+          "like_count": 238212,
+          "listed_count": 9,
+          "media_count": 471,
+          "tweet_count": 36443
+        },
+        "url": "https://t.co/nlTQQyVLGW",
+        "username": "yrr0rinblues",
+        "verified": false
+      }
+    ]
+  }
+}

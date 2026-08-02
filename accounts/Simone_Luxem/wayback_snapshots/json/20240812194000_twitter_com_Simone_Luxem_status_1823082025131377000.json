@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1823079709200232876",
+    "created_at": "2024-08-12T19:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T20:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823082025131377000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1219174778050924546",
+          "start": 0,
+          "username": "Kotori42156659"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823082025131377000",
+    "in_reply_to_user_id": "1219174778050924546",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823079709200232876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kotori42156659 我是原本是泛性恋，然后越来越偏向无性恋了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1823079709200232876",
+        "created_at": "2024-08-12T19:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T20:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823082025131377000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1219174778050924546",
+              "start": 0,
+              "username": "Kotori42156659"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823082025131377000",
+        "in_reply_to_user_id": "1219174778050924546",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823079709200232876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kotori42156659 我是原本是泛性恋，然后越来越偏向无性恋了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1219174778050924546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1823079709200232876",
+        "created_at": "2024-08-12T19:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T20:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1823079709200232876"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuna_Kamisato/…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/Yuna_Kamisato/status/1822921249141457113",
+              "start": 84,
+              "url": "https://t.co/igGwJVd9Kd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823079709200232876",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822921249141457113",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的……我的感觉很明显。\nhrt之前是女性恋，一年后逐步变成泛，甚至偏向男，现在暂时停药了三个月，又开始向女性恋转。\n不过随便吧。无论怎样，还能喜欢得上人就算是好事。 https://t.co/igGwJVd9Kd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3523,
+          "following_count": 224,
+          "like_count": 15949,
+          "listed_count": 9,
+          "tweet_count": 16525
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-20T08:28:34.000Z",
+        "description": "Sub，和谐的多意识体系统。因为都有翅膀又都很能摸所以称呼『咕咕们』就行。She/They。关注/取关随意。祝你每天开心快乐。",
+        "id": "1219174778050924546",
+        "location": "里世界",
+        "name": "星尘系统🐱🐰🐦",
+        "pinned_tweet_id": "1697431071099634142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819380477780021250/n08L9oVY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3657,
+          "following_count": 832,
+          "like_count": 40613,
+          "listed_count": 11,
+          "tweet_count": 7312
+        },
+        "username": "Kotori42156659",
+        "verified": false
+      }
+    ]
+  }
+}

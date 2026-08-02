@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1979078303051829405",
+    "created_at": "2025-10-17T11:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T12:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979142151045816352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1637759072115261440",
+          "start": 0,
+          "username": "MiaoZephyr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979142151045816352",
+    "in_reply_to_user_id": "1637759072115261440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979141835395403982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiaoZephyr 在泰国"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1979078303051829405",
+        "created_at": "2025-10-17T11:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979142151045816352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1637759072115261440",
+              "start": 0,
+              "username": "MiaoZephyr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979142151045816352",
+        "in_reply_to_user_id": "1637759072115261440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979141835395403982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiaoZephyr 在泰国"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637759072115261440",
+        "conversation_id": "1979078303051829405",
+        "created_at": "2025-10-17T11:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T12:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979141835395403982"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979141835395403982",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979078303051829405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 住院的地方在什么医院诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5301,
+          "following_count": 218,
+          "like_count": 22701,
+          "listed_count": 14,
+          "media_count": 1677,
+          "tweet_count": 20571
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T10:13:58.000Z",
+        "description": "『彩虹厨房』实验室官方号，研究各种化妆品配方，主营5倍雌二醇凝胶和高浓度美白精华",
+        "id": "1637759072115261440",
+        "name": "小怪兽🏳️‍⚧️",
+        "pinned_tweet_id": "1891718536654913726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1773291055452139520/3hyvjI66_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 324,
+          "like_count": 3764,
+          "listed_count": 12,
+          "media_count": 165,
+          "tweet_count": 3078
+        },
+        "username": "MiaoZephyr",
+        "verified": false
+      }
+    ]
+  }
+}

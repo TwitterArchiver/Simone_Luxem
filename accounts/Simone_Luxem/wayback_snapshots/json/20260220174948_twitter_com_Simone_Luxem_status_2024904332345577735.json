@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2024904332345577735",
+    "created_at": "2026-02-20T17:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T18:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024904332345577735"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hagishigure/st…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/hagishigure/status/2024873565028339962",
+          "start": 72,
+          "url": "https://t.co/BYMQbmlxuU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024904332345577735",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024873565028339962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己的声音大概是自己广义的外貌中最没有信心的部分了，然而好像不止一次被同类说“喜欢你的声音”了，所以自己也不清楚实际上自己的声音到底怎么样.. https://t.co/BYMQbmlxuU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2024904332345577735",
+        "created_at": "2026-02-20T17:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T18:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024904332345577735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hagishigure/st…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/hagishigure/status/2024873565028339962",
+              "start": 72,
+              "url": "https://t.co/BYMQbmlxuU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024904332345577735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024873565028339962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己的声音大概是自己广义的外貌中最没有信心的部分了，然而好像不止一次被同类说“喜欢你的声音”了，所以自己也不清楚实际上自己的声音到底怎么样.. https://t.co/BYMQbmlxuU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965393379224944645",
+        "conversation_id": "2024873565028339962",
+        "created_at": "2026-02-20T15:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T16:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024873565028339962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2024860519073816635",
+              "start": 44,
+              "url": "https://t.co/T0LyhFscsl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024873565028339962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 442,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024860519073816635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "王柠檬还是太顺直中心主义了，毕竟我能唱C7但是我日常就故意用纯男声说话。\n我就喜欢玩。 https://t.co/T0LyhFscsl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6131,
+          "following_count": 218,
+          "like_count": 23810,
+          "listed_count": 17,
+          "media_count": 1745,
+          "tweet_count": 21291
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T12:34:37.000Z",
+        "description": "“我愿尽余之能力与判断力所及，遵守为病家谋利益之信条，并检柬一切堕落和害人行为，我不得将危害药品给予他人，并不作该项之指导，虽有人请求亦必不与之。”\n|宣誓人——🪼諾諾|🪼沒有標籤，也不需要定義自己|正因神愛世人，世人才予以神的敬稱|前世 @yumeminekodesu|現涉及10个專業|治愈的资格將由痛苦计量。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "yumeminekodesu"
+              }
+            ]
+          }
+        },
+        "id": "1965393379224944645",
+        "location": "Wan Chai District, Hong Kong",
+        "name": "時璃風医詩🌈🏳️‍🌈",
+        "pinned_tweet_id": "1973880815366123649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973891136327725061/-Pyo_hiN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 136,
+          "like_count": 20921,
+          "listed_count": 0,
+          "media_count": 592,
+          "tweet_count": 5126
+        },
+        "username": "hagishigure",
+        "verified": true
+      }
+    ]
+  }
+}

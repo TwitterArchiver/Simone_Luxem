@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1979175483570028570",
+    "created_at": "2025-10-17T13:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T14:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1979175483570028570"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/momoya051115/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/momoya051115/status/1977060585515745292",
+          "start": 14,
+          "url": "https://t.co/ye01j9oI5u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979175483570028570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977060585515745292",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "给我妈发过去了，试一试效果 https://t.co/ye01j9oI5u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1979175483570028570",
+        "created_at": "2025-10-17T13:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T14:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979175483570028570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/momoya051115/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/momoya051115/status/1977060585515745292",
+              "start": 14,
+              "url": "https://t.co/ye01j9oI5u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979175483570028570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977060585515745292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "给我妈发过去了，试一试效果 https://t.co/ye01j9oI5u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784636606659383296",
+        "conversation_id": "1977060585515745292",
+        "created_at": "2025-10-11T17:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T18:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977060585515745292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1700333571389657088",
+              "start": 55,
+              "username": "Dongguacute"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This website's content, except for the code, is open-sourced under the CC BY-SA 4.0",
+              "display_url": "trans-parents.dgct.cc",
+              "end": 147,
+              "expanded_url": "http://trans-parents.dgct.cc",
+              "start": 124,
+              "status": 200,
+              "title": "Trans Parents",
+              "unwound_url": "https://trans-parents.dgct.cc/",
+              "url": "https://t.co/35JEfk2vsc"
+            },
+            {
+              "description": "This website's content, except for the code, is open-sourced under the CC BY-SA 4.0",
+              "display_url": "tp.dgct.cc",
+              "end": 171,
+              "expanded_url": "http://tp.dgct.cc",
+              "start": 148,
+              "status": 200,
+              "title": "Trans Parents",
+              "unwound_url": "https://tp.dgct.cc/",
+              "url": "https://t.co/XrDoLfbw0E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977060585515745292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 67,
+                "id": "1700333571389657088",
+                "start": 55,
+                "username": "Dongguacute"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "trans-parents.dgct.cc",
+                "end": 147,
+                "expanded_url": "http://trans-parents.dgct.cc",
+                "start": 124,
+                "url": "https://t.co/nufdVtBdeP"
+              },
+              {
+                "display_url": "tp.dgct.cc",
+                "end": 171,
+                "expanded_url": "http://tp.dgct.cc",
+                "start": 148,
+                "url": "https://t.co/amLYXF0J12"
+              },
+              {
+                "display_url": "trans-parents.transsoul.top",
+                "end": 200,
+                "expanded_url": "http://trans-parents.transsoul.top",
+                "start": 177,
+                "url": "https://t.co/BvWyZeFBi0"
+              }
+            ]
+          },
+          "text": "一个给家长了解我们的网站（我个人永远建议大家深柜以免引起不必要的麻烦 但是大家可以保存以备不时之需）\n\n作者：@Dongguacute 作者原话：本次更新了新文档框架，以及对部分文章的内容做了修改，本版本为长期维护版本，希望能帮到大家\n\n链接1 ：https://t.co/nufdVtBdeP\nhttps://t.co/amLYXF0J12\n链接2 ：https://t.co/BvWyZeFBi0"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 12707,
+          "like_count": 63,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "一个给家长了解我们的网站（我个人永远建议大家深柜以免引起不必要的麻烦 但是大家可以保存以备不时之需）\n\n作者：@Dongguacute 作者原话：本次更新了新文档框架，以及对部分文章的内容做了修改，本版本为长期维护版本，希望能帮到大家\n\n链接1 ：https://t.co/35JEfk2vsc\nhttps://t.co/XrDoLfbw0E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5318,
+          "following_count": 218,
+          "like_count": 22678,
+          "listed_count": 14,
+          "media_count": 1677,
+          "tweet_count": 20577
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-28T17:31:46.000Z",
+        "description": "这里是沫沫 2005/11/15 19岁 重要的日子2024/6/11 尽力为MTF提供帮助的女孩子",
+        "id": "1784636606659383296",
+        "location": "沫沫的快乐空间",
+        "name": "沫沫酱 winika",
+        "pinned_tweet_id": "1910326887177498710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807084896474836992/7pHwpbgF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12294,
+          "following_count": 372,
+          "like_count": 2076,
+          "listed_count": 40,
+          "media_count": 384,
+          "tweet_count": 3088
+        },
+        "username": "momoya051115",
+        "verified": true
+      }
+    ]
+  }
+}

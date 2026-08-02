@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1983856637397102593",
+        "3_1983856637430657026",
+        "3_1983856637401284608"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1983856652446265666",
+    "created_at": "2025-10-30T11:20:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T12:20:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983856652446265666"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ZJVxO8s7w",
+          "end": 167,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1983856652446265666/photo/1",
+          "media_key": "3_1983856637397102593",
+          "start": 144,
+          "url": "https://t.co/5ZJVxO8s7w"
+        },
+        {
+          "display_url": "pic.x.com/5ZJVxO8s7w",
+          "end": 167,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1983856652446265666/photo/1",
+          "media_key": "3_1983856637430657026",
+          "start": 144,
+          "url": "https://t.co/5ZJVxO8s7w"
+        },
+        {
+          "display_url": "pic.x.com/5ZJVxO8s7w",
+          "end": 167,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1983856652446265666/photo/1",
+          "media_key": "3_1983856637401284608",
+          "start": 144,
+          "url": "https://t.co/5ZJVxO8s7w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983856652446265666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "术后15天效果展示\n感觉恢复效果还是不错的，排尿顺利，大部分区域消肿也还顺利的\n就是组织液分泌还是比较多，所以还需要塞纸巾之类的东西吸液\n以及不知道什么原因似乎阴蒂消肿比其他部位慢，所以有时候会…合不拢腿（\n以及一个tip，千万在医生说可以下床了之后下床多保持一会站立姿势，否则容易积液 https://t.co/5ZJVxO8s7w"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1983856652446265666].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1983856652446265666",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1983856652446265666"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1983856637397102593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gTGc1a8AEYNHW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1983856637430657026",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gTGc9a8AIC9-Y.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1983856637401284608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4gTGc2awAAUj-_.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5616,
+          "following_count": 216,
+          "like_count": 22823,
+          "listed_count": 17,
+          "media_count": 1684,
+          "tweet_count": 20681
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

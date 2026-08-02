@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1844144439012540784",
+    "created_at": "2024-10-09T22:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-09T23:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1844144439012540784"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1844144439012540784",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点被气到了…\n我所想要的一直都是尽可能维护所有同类间的和平，尽可能团结还可以团结的人，或者至少退一万步说别闹到要死人的地步，而已啊…\n对的，原则很重要，真相很重要，真理和正义更是大过生命的，但问题是这些都只有保证大家活着才能够得到啊…要是人死了，从哪里来对错啊…只会成为谜团的呀…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1844144439012540784",
+        "created_at": "2024-10-09T22:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-09T23:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1844144439012540784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1844144439012540784",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点被气到了…\n我所想要的一直都是尽可能维护所有同类间的和平，尽可能团结还可以团结的人，或者至少退一万步说别闹到要死人的地步，而已啊…\n对的，原则很重要，真相很重要，真理和正义更是大过生命的，但问题是这些都只有保证大家活着才能够得到啊…要是人死了，从哪里来对错啊…只会成为谜团的呀…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3780,
+          "following_count": 222,
+          "like_count": 17441,
+          "listed_count": 9,
+          "tweet_count": 17376
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

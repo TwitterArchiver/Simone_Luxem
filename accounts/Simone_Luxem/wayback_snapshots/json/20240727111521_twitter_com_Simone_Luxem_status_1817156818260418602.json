@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1817106812430098450",
+    "created_at": "2024-07-27T11:15:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-27T12:15:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1817156818260418602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1757616332240224256",
+          "start": 0,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1817156818260418602",
+    "in_reply_to_user_id": "1757616332240224256",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1817106812430098450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@B_cat38324 由于我（被Emma认证的）保守,所以我甚至没有欣赏的来很多场面,甚至感觉有些...太吵了（？）,而Emma作为比我进步的多的人反而能欣赏的来更多场面对其“耐受度”也比我高得多...\n由此可见能把这玩意视作“撒旦的诱惑”的人是得多...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1817106812430098450",
+        "created_at": "2024-07-27T11:15:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T12:15:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1817156818260418602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1817156818260418602",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817106812430098450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 由于我（被Emma认证的）保守,所以我甚至没有欣赏的来很多场面,甚至感觉有些...太吵了（？）,而Emma作为比我进步的多的人反而能欣赏的来更多场面对其“耐受度”也比我高得多...\n由此可见能把这玩意视作“撒旦的诱惑”的人是得多...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1817106812430098450",
+        "created_at": "2024-07-27T07:56:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-27T08:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1817106812430098450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1817106812430098450",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1528,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😥人麻了，不知道谁点了一堆老保在我主页上。然后这些老保说，巴黎奥运会上的表演是「撒旦的诱惑」。不是……那个……老保对这个表演勃起了？不是……这个是怎么诱惑到的啊？蛤？？？要怎么冲啊？我看了删减版吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3447,
+          "following_count": 223,
+          "like_count": 15497,
+          "listed_count": 8,
+          "tweet_count": 16265
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "B猫是黑丝无印良品香氛",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9114,
+          "following_count": 137,
+          "like_count": 129,
+          "listed_count": 32,
+          "tweet_count": 5621
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

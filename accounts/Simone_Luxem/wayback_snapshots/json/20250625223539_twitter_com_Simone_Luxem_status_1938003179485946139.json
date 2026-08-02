@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1938003179485946139",
+    "created_at": "2025-06-25T22:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-25T23:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1938003179485946139"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ciyasy0/status…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/ciyasy0/status/1937036902080946249",
+          "start": 59,
+          "url": "https://t.co/A0oD8C6qo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938003179485946139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937036902080946249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这玩意愣是硬控了我一分钟，让我在大脑里想了半天是不是我没理解中文的博大精深…\n就，你都反女权了，那，你怎么不厌女…？ https://t.co/A0oD8C6qo4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 894,
+        "media_key": "3_1937036899325038592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuG8zA0X0AAsHN8.jpg",
+        "width": 901
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1938003179485946139",
+        "created_at": "2025-06-25T22:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T23:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938003179485946139"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ciyasy0/status…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/ciyasy0/status/1937036902080946249",
+              "start": 59,
+              "url": "https://t.co/A0oD8C6qo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938003179485946139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937036902080946249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这玩意愣是硬控了我一分钟，让我在大脑里想了半天是不是我没理解中文的博大精深…\n就，你都反女权了，那，你怎么不厌女…？ https://t.co/A0oD8C6qo4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937036899325038592"
+          ]
+        },
+        "author_id": "803915923400761344",
+        "conversation_id": "1937036902080946249",
+        "created_at": "2025-06-23T06:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T07:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937036902080946249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P4n5tU54AV",
+              "end": 36,
+              "expanded_url": "https://x.com/CiyaSy0/status/1937036902080946249/photo/1",
+              "media_key": "3_1937036899325038592",
+              "start": 13,
+              "url": "https://t.co/P4n5tU54AV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937036902080946249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 21547,
+          "like_count": 329,
+          "quote_count": 8,
+          "reply_count": 33,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "看到没，反女权就是厌女😋 https://t.co/P4n5tU54AV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4306,
+          "following_count": 220,
+          "like_count": 20719,
+          "listed_count": 12,
+          "media_count": 1604,
+          "tweet_count": 19715
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-30T10:57:47.000Z",
+        "description": "MTF，反女权😋，小药娘一只。如果你不知道啥是药娘，把我当男的就行了。",
+        "id": "803915923400761344",
+        "location": "上海",
+        "name": "曦雅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297778199854628867/PiebRy1n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 560,
+          "like_count": 2187,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 5000
+        },
+        "username": "CiyaSy0",
+        "verified": false
+      }
+    ]
+  }
+}

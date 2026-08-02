@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1942903630375608435",
+    "created_at": "2025-07-09T14:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T15:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942958450985877896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1562153864",
+          "start": 0,
+          "username": "BigMiIkBottIe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942958450985877896",
+    "in_reply_to_user_id": "1562153864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942903630375608435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigMiIkBottIe 自己觉得遇到各种问候的时候微笑然后点头就好了，感觉也满足礼貌的要求了…？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1942903630375608435",
+        "created_at": "2025-07-09T14:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T15:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942958450985877896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1562153864",
+              "start": 0,
+              "username": "BigMiIkBottIe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942958450985877896",
+        "in_reply_to_user_id": "1562153864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942903630375608435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigMiIkBottIe 自己觉得遇到各种问候的时候微笑然后点头就好了，感觉也满足礼貌的要求了…？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1562153864",
+        "conversation_id": "1942903630375608435",
+        "created_at": "2025-07-09T11:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T12:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942903630375608435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942903630375608435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Bon après midi !（祝您有個好下午）\n長這麼大第一次發現居然還能這樣講話的\n越來越覺得自己就是個沒禮貌的鄉下人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4429,
+          "following_count": 219,
+          "like_count": 21116,
+          "listed_count": 13,
+          "media_count": 1625,
+          "tweet_count": 19874
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-02T03:54:31.000Z",
+        "description": "400 mL 的大容量奶瓶｜奶牛貓貓娘｜貓咪中心主義｜貓咪至大",
+        "id": "1562153864",
+        "location": "117 公館，廚房的櫃子裏",
+        "name": "餵貓用奶瓶 🍼😺 ᠰᡠᠨ ᠰᡠᠴᡝ ᡴᡝᠰᡳᡴᡝ",
+        "pinned_tweet_id": "1678596763320729600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570667703274450944/uIwnUF6R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 763,
+          "like_count": 117706,
+          "listed_count": 8,
+          "media_count": 747,
+          "tweet_count": 20240
+        },
+        "username": "BigMiIkBottIe",
+        "verified": false
+      }
+    ]
+  }
+}

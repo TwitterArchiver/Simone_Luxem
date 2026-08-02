@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1990600261438689679",
+    "created_at": "2025-11-18T01:57:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T02:57:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990600261438689679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1781510736000274432",
+          "start": 3,
+          "username": "huantim1"
+        },
+        {
+          "end": 38,
+          "id": "1949798281586118656",
+          "start": 25,
+          "username": "xiaohan__ing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990600261438689679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990429783860339121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huantim1: 紧急情况！帮忙转贴！\n@xiaohan__ing 疑似被送扭转，已经两天联系不上她了\n打电话给她父母，她父亲态度嚣张，说：不需要你管\n有能力的帮一下忙！万分感谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1990600261438689679",
+        "created_at": "2025-11-18T01:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T02:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990600261438689679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1781510736000274432",
+              "start": 3,
+              "username": "huantim1"
+            },
+            {
+              "end": 38,
+              "id": "1949798281586118656",
+              "start": 25,
+              "username": "xiaohan__ing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990600261438689679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990429783860339121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huantim1: 紧急情况！帮忙转贴！\n@xiaohan__ing 疑似被送扭转，已经两天联系不上她了\n打电话给她父母，她父亲态度嚣张，说：不需要你管\n有能力的帮一下忙！万分感谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1781510736000274432",
+        "conversation_id": "1990429783860339121",
+        "created_at": "2025-11-17T14:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990429783860339121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1949798281586118656",
+              "start": 11,
+              "username": "xiaohan__ing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990429783860339121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1860,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "紧急情况！帮忙转贴！\n@xiaohan__ing 疑似被送扭转，已经两天联系不上她了\n打电话给她父母，她父亲态度嚣张，说：不需要你管\n有能力的帮一下忙！万分感谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5787,
+          "following_count": 214,
+          "like_count": 22937,
+          "listed_count": 18,
+          "media_count": 1699,
+          "tweet_count": 20799
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T02:30:55.000Z",
+        "description": "上海某高一牲｜非二元性别💛🤍💜🖤（mtx？暂时不含糖那种……）｜无性恋🖤🩶🤍💜｜随便看点｜互fo，忘回请评论/私信提醒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/huantim_bot",
+                "end": 23,
+                "expanded_url": "http://t.me/huantim_bot",
+                "start": 0,
+                "url": "https://t.co/bJlJDPfp7Z"
+              }
+            ]
+          }
+        },
+        "id": "1781510736000274432",
+        "location": "南门二",
+        "name": "幻Tim",
+        "pinned_tweet_id": "1990429783860339121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781510900635009024/ggVgOfNK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 261,
+          "like_count": 1672,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1211
+        },
+        "url": "https://t.co/bJlJDPfp7Z",
+        "username": "huantim1",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-28T11:45:30.000Z",
+        "description": "在黑夜里，亲手刻下我的墓志铭……； 旅途的起点：2009-02 /我的故事：🍥2025-07 ；190cm/73kg（ 不知道咋又长了2厘米？＋减肥ing）【天残党pro max plus ultra？ MTF？家长党？双性恋？maybe？】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaohan0777",
+                "end": 23,
+                "expanded_url": "http://t.me/xiaohan0777",
+                "start": 0,
+                "url": "https://t.co/EZV8zALbdM"
+              }
+            ]
+          }
+        },
+        "id": "1949798281586118656",
+        "location": "互联网原住民",
+        "name": "Cartethyia",
+        "pinned_tweet_id": "1989161601904366061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980312376432881664/xDwk0uFz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 1044,
+          "like_count": 3833,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 490
+        },
+        "url": "https://t.co/EZV8zALbdM",
+        "username": "xiaohan__ing",
+        "verified": false
+      }
+    ]
+  }
+}

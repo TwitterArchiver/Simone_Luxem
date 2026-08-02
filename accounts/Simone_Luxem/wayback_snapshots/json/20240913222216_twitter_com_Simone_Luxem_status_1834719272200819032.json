@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1834719265301184512",
+        "3_1834719265330507776",
+        "3_1834719265309487104"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1834719272200819032",
+    "created_at": "2024-09-13T22:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T23:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834719272200819032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/txuhi73bna",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Simone_Luxem/status/1834719272200819032/photo/1",
+          "media_key": "3_1834719265301184512",
+          "start": 31,
+          "url": "https://t.co/TXUHi73Bna"
+        },
+        {
+          "display_url": "pic.x.com/txuhi73bna",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Simone_Luxem/status/1834719272200819032/photo/1",
+          "media_key": "3_1834719265330507776",
+          "start": 31,
+          "url": "https://t.co/TXUHi73Bna"
+        },
+        {
+          "display_url": "pic.x.com/txuhi73bna",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Simone_Luxem/status/1834719272200819032/photo/1",
+          "media_key": "3_1834719265309487104",
+          "start": 31,
+          "url": "https://t.co/TXUHi73Bna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834719272200819032",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又一次证明自己其实是真的很怕疼的…\n但也确实…好一些的…嗯… https://t.co/TXUHi73Bna"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1834719272200819032].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1834719272200819032",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1834719272200819032"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1834719265301184512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXY7c3bXwAA9oeh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1834719265330507776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXY7c3iXMAATguZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1834719265309487104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXY7c3dWcAA4ViG.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 223,
+          "like_count": 16681,
+          "listed_count": 8,
+          "tweet_count": 16978
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

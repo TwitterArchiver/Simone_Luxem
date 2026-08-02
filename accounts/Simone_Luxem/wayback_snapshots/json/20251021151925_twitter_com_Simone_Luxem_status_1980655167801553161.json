@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1980561009162248623",
+    "created_at": "2025-10-21T15:19:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T16:19:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980655167801553161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1529658600649539584",
+          "start": 0,
+          "username": "DrSunan2022422"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980655167801553161",
+    "in_reply_to_user_id": "1529658600649539584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980648670073913369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DrSunan2022422 当然是分离的，你有你的女权我有我的女权，就像对于养那只斗鸡的人而言它的斗鸡当然就是罗马\n只不过要是你的女权和我的差异太大，或者严格些说就是你的女权超出了我对于女权这个词的含义的接受范围了的话，那我就不叼你罢了——就像我在讲罗马的时候肯定不会去考虑鸡，也不在意鸡对罗马的看法一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1980561009162248623",
+        "created_at": "2025-10-21T15:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T16:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980655167801553161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1529658600649539584",
+              "start": 0,
+              "username": "DrSunan2022422"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980655167801553161",
+        "in_reply_to_user_id": "1529658600649539584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980648670073913369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DrSunan2022422 当然是分离的，你有你的女权我有我的女权，就像对于养那只斗鸡的人而言它的斗鸡当然就是罗马\n只不过要是你的女权和我的差异太大，或者严格些说就是你的女权超出了我对于女权这个词的含义的接受范围了的话，那我就不叼你罢了——就像我在讲罗马的时候肯定不会去考虑鸡，也不在意鸡对罗马的看法一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1529658600649539584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237004504219828224",
+              "name": "Computer hardware"
+            }
+          }
+        ],
+        "conversation_id": "1980561009162248623",
+        "created_at": "2025-10-21T14:53:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T15:53:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980648670073913369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980648670073913369",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980561009162248623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 有时候真的不知道该听从统一论点还是分离论点……\n有关女权到底是铁板一块还是意见不同的讨论已经快把我CPU给烧了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5520,
+          "following_count": 215,
+          "like_count": 22738,
+          "listed_count": 15,
+          "media_count": 1679,
+          "tweet_count": 20606
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-26T03:00:24.000Z",
+        "description": "一般路过女高 | 要素过多 | 啥都能聊 | | 业余喜欢写小说 |睿智的P社玩家 🏳‍⚧｜2026 SRS 手术准备中",
+        "id": "1529658600649539584",
+        "location": "SCP基金会中国分部34号站点",
+        "name": "🍥MTF....Dr.Sunan🏳‍⚧🍥🐾",
+        "pinned_tweet_id": "1977929373727834336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1530385867826556928/p_rx1WWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 364,
+          "like_count": 19378,
+          "listed_count": 9,
+          "media_count": 209,
+          "tweet_count": 3770
+        },
+        "username": "DrSunan2022422",
+        "verified": false
+      }
+    ]
+  }
+}

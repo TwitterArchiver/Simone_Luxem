@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1999113059709927685",
+    "created_at": "2025-12-11T16:46:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T17:46:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999158928433967580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906892094953762816",
+          "start": 0,
+          "username": "yrr0rinblues"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999158928433967580",
+    "in_reply_to_user_id": "906892094953762816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999157167325434089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yrr0rinblues 某辆火车上（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1999113059709927685",
+        "created_at": "2025-12-11T16:46:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:46:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999158928433967580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906892094953762816",
+              "start": 0,
+              "username": "yrr0rinblues"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999158928433967580",
+        "in_reply_to_user_id": "906892094953762816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999157167325434089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yrr0rinblues 某辆火车上（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "906892094953762816",
+        "conversation_id": "1999113059709927685",
+        "created_at": "2025-12-11T16:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999157167325434089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999157167325434089",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999113059709927685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 话说你现在在哪里啊👀👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5982,
+          "following_count": 216,
+          "like_count": 23166,
+          "listed_count": 18,
+          "media_count": 1716,
+          "tweet_count": 20958
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T14:48:19.000Z",
+        "description": "Metalhead🏳️‍🌈｜普通话&English｜肥宅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yrr0r.net",
+                "end": 23,
+                "expanded_url": "http://blog.yrr0r.net",
+                "start": 0,
+                "url": "https://t.co/nlTQQyVLGW"
+              }
+            ]
+          }
+        },
+        "id": "906892094953762816",
+        "location": "上海的某个地下锅炉房",
+        "name": "Yrr0r",
+        "pinned_tweet_id": "1992957792924410069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998410248210751488/vTzKH695_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 539,
+          "like_count": 246055,
+          "listed_count": 8,
+          "media_count": 491,
+          "tweet_count": 37732
+        },
+        "url": "https://t.co/nlTQQyVLGW",
+        "username": "yrr0rinblues",
+        "verified": false
+      }
+    ]
+  }
+}

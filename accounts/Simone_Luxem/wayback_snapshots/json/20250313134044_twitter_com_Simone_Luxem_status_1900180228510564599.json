@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1900180228510564599",
+    "created_at": "2025-03-13T13:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T14:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1900180228510564599"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1900180228510564599",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大概自己最大的幸运就是一生中从来没有真正是“独自一人”过吧，无论在哪里，无论多么落魄的处境，自己总是在被支持着理解着的…\n可能也造就了自己独立性差的缺陷吧，优柔寡断，当断不断…\n从始至终都未曾做到过“木棉”，而一直都是藤蔓…\n真是…对不起呢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1900180228510564599",
+        "created_at": "2025-03-13T13:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T14:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900180228510564599"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900180228510564599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大概自己最大的幸运就是一生中从来没有真正是“独自一人”过吧，无论在哪里，无论多么落魄的处境，自己总是在被支持着理解着的…\n可能也造就了自己独立性差的缺陷吧，优柔寡断，当断不断…\n从始至终都未曾做到过“木棉”，而一直都是藤蔓…\n真是…对不起呢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4084,
+          "following_count": 222,
+          "like_count": 19574,
+          "listed_count": 11,
+          "media_count": 1505,
+          "tweet_count": 18800
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

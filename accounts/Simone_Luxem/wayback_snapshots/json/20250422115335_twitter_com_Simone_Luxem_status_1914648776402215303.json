@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1914648776402215303",
+    "created_at": "2025-04-22T11:53:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-22T12:53:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914648776402215303"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1914648776402215303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在学校公共休息区睡觉\n然后身边其他沙发上坐满了一对对异性恋小情侣，在那里唧唧我我\n就…你们中午都不睡觉的吗…不睡觉跑沙发上来干什么…\n而且…就…你们那些调情的话是怎么说出口的…就…就…这里还是公共场合呢有别人呢诶…就…你们…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1914648776402215303",
+        "created_at": "2025-04-22T11:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-22T12:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914648776402215303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1914648776402215303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在学校公共休息区睡觉\n然后身边其他沙发上坐满了一对对异性恋小情侣，在那里唧唧我我\n就…你们中午都不睡觉的吗…不睡觉跑沙发上来干什么…\n而且…就…你们那些调情的话是怎么说出口的…就…就…这里还是公共场合呢有别人呢诶…就…你们…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4152,
+          "following_count": 220,
+          "like_count": 20014,
+          "listed_count": 12,
+          "media_count": 1527,
+          "tweet_count": 19122
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

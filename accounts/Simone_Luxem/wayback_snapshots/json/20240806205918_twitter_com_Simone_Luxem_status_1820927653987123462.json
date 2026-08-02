@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1820925109575496000",
+    "created_at": "2024-08-06T20:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T21:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820927653987123462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1633959561345335300",
+          "start": 0,
+          "username": "allegrarabinow1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/simone_luxem/s…",
+          "end": 55,
+          "expanded_url": "https://x.com/simone_luxem/status/1715443782668161413?s=61&t=1ePxjJSIdkRLN992unYi3w",
+          "start": 32,
+          "url": "https://t.co/T2prxjpzvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820927653987123462",
+    "in_reply_to_user_id": "1633959561345335300",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1715443782668161413",
+        "type": "quoted"
+      },
+      {
+        "id": "1820925109575496000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allegrarabinow1 停——\n你自己也看到了的…\n\nhttps://t.co/T2prxjpzvv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1820925109575496000",
+        "created_at": "2024-08-06T20:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T21:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820927653987123462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1633959561345335300",
+              "start": 0,
+              "username": "allegrarabinow1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 55,
+              "expanded_url": "https://x.com/simone_luxem/status/1715443782668161413?s=61&t=1ePxjJSIdkRLN992unYi3w",
+              "start": 32,
+              "url": "https://t.co/T2prxjpzvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820927653987123462",
+        "in_reply_to_user_id": "1633959561345335300",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1715443782668161413",
+            "type": "quoted"
+          },
+          {
+            "id": "1820925109575496000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allegrarabinow1 停——\n你自己也看到了的…\n\nhttps://t.co/T2prxjpzvv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1715443782668161413",
+        "created_at": "2023-10-20T19:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2023-10-20T20:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1715443782668161413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1715443782668161413",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12600,
+          "like_count": 103,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "关于“清蒸寺”，我认为对于任何一位跨性别都不应该给予关注、投稿，不应该因为私人恩怨而将任何同类“挂”上去，或因此而庆祝。就像是同为跨性别，无论对方做了什么事情，无论对方与自己有多大的恩怨——即使是胡桃夹子对于我，也不应该对方送入扭转治疗机构一样，也不应对此类行为有任何协助。（1/3）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1820925106714980352"
+          ]
+        },
+        "author_id": "1633959561345335300",
+        "conversation_id": "1820925109575496000",
+        "created_at": "2024-08-06T20:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T21:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820925109575496000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/DONWerSr0v",
+              "end": 80,
+              "expanded_url": "https://twitter.com/allegrarabinow1/status/1820925109575496000/photo/1",
+              "media_key": "3_1820925106714980352",
+              "start": 57,
+              "url": "https://t.co/DONWerSr0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820925109575496000",
+        "lang": "zh",
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就这啊，我还以为多新鲜呢，多久之前的“旧闻”了。看来芥大师安插内鬼的能力越来越烂了，只能从公开消息里拾人牙慧了。 https://t.co/DONWerSr0v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3451,
+          "following_count": 224,
+          "like_count": 15795,
+          "listed_count": 8,
+          "tweet_count": 16377
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T22:34:53.000Z",
+        "description": "彩霞的伴侣/这是新号/乐意回答友善的提问/历史和逻辑是我们唯一知道的/equal opportunity left-libertarianism/anti-perfectionism/Could I have a spoon",
+        "id": "1633959561345335300",
+        "name": "翕然",
+        "pinned_tweet_id": "1820863801291632921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638287474756816898/Lib5i9ct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 157,
+          "like_count": 7067,
+          "listed_count": 0,
+          "tweet_count": 391
+        },
+        "username": "allegrarabinow1",
+        "verified": false
+      }
+    ]
+  }
+}

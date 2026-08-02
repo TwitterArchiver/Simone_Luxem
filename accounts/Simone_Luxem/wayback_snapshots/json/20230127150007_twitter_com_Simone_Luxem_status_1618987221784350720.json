@@ -1,0 +1,186 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1618970919871057922",
+    "created_at": "2023-01-27T15:00:07.000Z",
+    "edit_controls": {
+      "editable_until": "2023-01-27T15:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1618987221784350720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1555058674619797504",
+          "start": 0,
+          "username": "AkaneSerenade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1618987221784350720",
+    "in_reply_to_user_id": "1555058674619797504",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1618986008363798534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkaneSerenade 一般社会权利，比如“我不接受同性恋作为教师/政府官员/享有安全生活的权利”，即使是我实际上没有剥夺他人这个权利的能力，我的话本身也是歧视的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1618970919871057922",
+        "created_at": "2023-01-27T15:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-27T15:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1618987221784350720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1555058674619797504",
+              "start": 0,
+              "username": "AkaneSerenade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1618987221784350720",
+        "in_reply_to_user_id": "1555058674619797504",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1618986008363798534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkaneSerenade 一般社会权利，比如“我不接受同性恋作为教师/政府官员/享有安全生活的权利”，即使是我实际上没有剥夺他人这个权利的能力，我的话本身也是歧视的。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1555058674619797504",
+        "conversation_id": "1618970919871057922",
+        "created_at": "2023-01-27T14:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-27T15:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1618986008363798534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1618986008363798534",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1618970919871057922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 其实只是单纯好奇“接受”在这里意味着什么……如果是我的话，别人不接受我的某个特征，那就不接受好了么，我也不需要他的接受；同理别人怎样我觉得我接受不了，别人也不需要我来接受。总有人会接受这些的，一个人接不接受我觉得影响不大吧(\n如果没理解错的话，你说的“不接受”更像是不允许其存在于社会?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；ASD/ADHD；open relationship;贪婪的冒险者；失败主义军师；混乱善良第四天灾；想要闪闪发光呢；祝我们死得其所; lover & care giver @Emma20131621",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 111,
+                "username": "Emma20131621"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "simone🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610090054856187904/hfwL_46R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 180,
+          "listed_count": 3,
+          "tweet_count": 7294
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-04T05:11:08.000Z",
+        "description": "中文/日本語(そこそこ)/英語(chat-level)。\n含糖但仍不好看的MtF，能变可爱就好了\n渐渐变成一个无趣的人了，但并不想这样下去\n看着像有病(自测) 尝试修复中\n一般不主动follow (害怕)，有点极端反性，不想谈政治，但三观不同也努力做到包容，只想安静地做个好看女孩子(难…",
+        "id": "1555058674619797504",
+        "name": "みつき あかね",
+        "pinned_tweet_id": "1558147692101963776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555061006446968832/67JkCQob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 61,
+          "listed_count": 0,
+          "tweet_count": 2739
+        },
+        "username": "AkaneSerenade",
+        "verified": false
+      }
+    ]
+  }
+}

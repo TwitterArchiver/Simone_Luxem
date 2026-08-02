@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1918655977693598065",
+    "created_at": "2025-05-04T14:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T15:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919030662482346237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1907291805521211392",
+          "start": 0,
+          "username": "Soyounome"
+        },
+        {
+          "end": 22,
+          "id": "1757616332240224256",
+          "start": 11,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919030662482346237",
+    "in_reply_to_user_id": "1907291805521211392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918872577474248998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Soyounome @B_cat38324 刘少奇：可惜不够厚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1918655977693598065",
+        "created_at": "2025-05-04T14:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T15:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919030662482346237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1907291805521211392",
+              "start": 0,
+              "username": "Soyounome"
+            },
+            {
+              "end": 22,
+              "id": "1757616332240224256",
+              "start": 11,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919030662482346237",
+        "in_reply_to_user_id": "1907291805521211392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918872577474248998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Soyounome @B_cat38324 刘少奇：可惜不够厚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907291805521211392",
+        "conversation_id": "1918655977693598065",
+        "created_at": "2025-05-04T03:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T04:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918872577474248998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918872577474248998",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918655977693598065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 想起初中我们政治老师说《宪法》也是这么用来砸人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4201,
+          "following_count": 220,
+          "like_count": 20044,
+          "listed_count": 12,
+          "media_count": 1539,
+          "tweet_count": 19215
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T04:39:47.000Z",
+        "description": "发癫文学独角戏🤡；底层oder😵；喝酒必须喝到醉😁；我爱无糖特浓美式☕；色谱龙食用者😥；减肥魔怔人🤮；躺平带专生活😴；目前正在戒烟😣。\n不发照片，至少现在是😿。喜欢我的发癫文学请fo😽😸。除了骂我，讥诮讽虐我以外欢迎和我说任何话😺💐",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4399.com",
+                "end": 23,
+                "expanded_url": "http://4399.com",
+                "start": 0,
+                "url": "https://t.co/ESPZea6XrA"
+              }
+            ]
+          }
+        },
+        "id": "1907291805521211392",
+        "location": "Somewhere ethereal and liminal",
+        "name": "麦角希米露😿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917442281529081856/eQ-RHhDp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 133,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 319
+        },
+        "url": "https://t.co/ESPZea6XrA",
+        "username": "Soyounome",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "F猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16261,
+          "following_count": 183,
+          "like_count": 548,
+          "listed_count": 59,
+          "media_count": 80,
+          "tweet_count": 16236
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1917278703668654243",
+    "created_at": "2025-04-29T18:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T19:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1917278703668654243"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/simone_luxem/s…",
+          "end": 154,
+          "expanded_url": "https://x.com/simone_luxem/status/1715443782668161413?s=46&t=1ePxjJSIdkRLN992unYi3w",
+          "start": 131,
+          "url": "https://t.co/GJ56fDY26U"
+        },
+        {
+          "display_url": "x.com/kaohchuancity/…",
+          "end": 178,
+          "expanded_url": "https://twitter.com/kaohchuancity/status/1917119951376421217",
+          "start": 155,
+          "url": "https://t.co/PFqZiZsnaY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917278703668654243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917119951376421217",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很高兴当事人互相之间的误会已经解开了\n以及，希望当事人以后可以冷静行事，更加明辨是非，知道什么人的话不可信吧…\n咱就说，清蒸的话，去看已经算脏眼睛了，居然还去当作可靠信源…希望可以吃一堑长一智吧…\n以及也算是佐证了自己一直以来采取并宣传的对清蒸态度是多么正确\n\nhttps://t.co/GJ56fDY26U https://t.co/PFqZiZsnaY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1917278703668654243",
+        "created_at": "2025-04-29T18:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T19:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917278703668654243"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 154,
+              "expanded_url": "https://x.com/simone_luxem/status/1715443782668161413?s=46&t=1ePxjJSIdkRLN992unYi3w",
+              "start": 131,
+              "url": "https://t.co/GJ56fDY26U"
+            },
+            {
+              "display_url": "x.com/kaohchuancity/…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/kaohchuancity/status/1917119951376421217",
+              "start": 155,
+              "url": "https://t.co/PFqZiZsnaY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917278703668654243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917119951376421217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很高兴当事人互相之间的误会已经解开了\n以及，希望当事人以后可以冷静行事，更加明辨是非，知道什么人的话不可信吧…\n咱就说，清蒸的话，去看已经算脏眼睛了，居然还去当作可靠信源…希望可以吃一堑长一智吧…\n以及也算是佐证了自己一直以来采取并宣传的对清蒸态度是多么正确\n\nhttps://t.co/GJ56fDY26U https://t.co/PFqZiZsnaY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "1917119951376421217",
+        "created_at": "2025-04-29T07:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T08:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1917119951376421217"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1917119951376421217",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 592,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "互关吵架不要拉着我表态哦，我不喜欢二选一三选一这种事儿，我希望和大家都好好的，当然，明显有恶意的例外"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4179,
+          "following_count": 220,
+          "like_count": 20013,
+          "listed_count": 12,
+          "media_count": 1536,
+          "tweet_count": 19186
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "我是一颗星，4亿岁了。\n里推：@thelastchaoxinx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "thelastchaoxinx"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "星空文明摄平星系云屏市北云区星辰官邸",
+        "name": "🌈⛩️雪原剑仙🏳️‍⚧️✨（摇光星）",
+        "pinned_tweet_id": "1916995232606130563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909572096617009152/nAwZoSaH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 368,
+          "like_count": 803,
+          "listed_count": 2,
+          "media_count": 156,
+          "tweet_count": 980
+        },
+        "username": "Kaohchuancity",
+        "verified": false
+      }
+    ]
+  }
+}

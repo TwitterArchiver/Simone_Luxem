@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1932837362154811498",
+    "created_at": "2025-06-12T12:00:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T13:00:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933132214096830471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1511587491215683584",
+          "start": 0,
+          "username": "liuchen10032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933132214096830471",
+    "in_reply_to_user_id": "1511587491215683584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932986509252293096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liuchen10032 你又是个什么玩意，怎么名字看着这么眼熟，却又让人一时想不起来是哪个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1932837362154811498",
+        "created_at": "2025-06-12T12:00:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T13:00:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933132214096830471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1511587491215683584",
+              "start": 0,
+              "username": "liuchen10032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933132214096830471",
+        "in_reply_to_user_id": "1511587491215683584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932986509252293096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liuchen10032 你又是个什么玩意，怎么名字看着这么眼熟，却又让人一时想不起来是哪个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511587491215683584",
+        "conversation_id": "1932837362154811498",
+        "created_at": "2025-06-12T02:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T03:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932986509252293096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932986509252293096",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932837362154811498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 本来还不知道怎么回事，看到最后一个图，原来如此，那很活该了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4276,
+          "following_count": 220,
+          "like_count": 20528,
+          "listed_count": 12,
+          "media_count": 1585,
+          "tweet_count": 19559
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-06T06:12:04.000Z",
+        "description": "🇮🇱🇺🇦🏳️‍⚧️ non-binary transgender \nliberal Zionist\nmaybe a future jewish girl(convert)\n#StandWithUkraine #Jewsfightback",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 86,
+                "tag": "StandWithUkraine"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "tag": "Jewsfightback"
+              }
+            ]
+          }
+        },
+        "id": "1511587491215683584",
+        "name": "清水砂糖🏳️‍⚧️🎗️",
+        "pinned_tweet_id": "1896918646850785733",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930806826666196992/8AmzN44D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 395,
+          "like_count": 14008,
+          "listed_count": 5,
+          "media_count": 46,
+          "tweet_count": 1045
+        },
+        "username": "liuchen10032",
+        "verified": false
+      }
+    ]
+  }
+}

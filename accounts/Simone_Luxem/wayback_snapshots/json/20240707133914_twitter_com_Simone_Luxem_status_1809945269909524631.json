@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1809944190660596153",
+    "created_at": "2024-07-07T13:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T14:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809945269909524631"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1809945269909524631",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809944190660596153",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "动物在遭受显而易见的痛苦,而这种痛苦是可以用操作上简单的改进避免的,甚至其本身就是没有必要的,在这种时候却拒绝使其免于遭受这种痛苦,用“国内现在规定上说可以这么做”来应付...而与此同时同学却是有说有笑的毫不关心的,让自己感到无比害怕,似乎偌大的实验室中自己是唯一一个长者眼睛和脑子的人..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1809944190660596153",
+        "created_at": "2024-07-07T13:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T14:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809945269909524631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809945269909524631",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809944190660596153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "动物在遭受显而易见的痛苦,而这种痛苦是可以用操作上简单的改进避免的,甚至其本身就是没有必要的,在这种时候却拒绝使其免于遭受这种痛苦,用“国内现在规定上说可以这么做”来应付...而与此同时同学却是有说有笑的毫不关心的,让自己感到无比害怕,似乎偌大的实验室中自己是唯一一个长者眼睛和脑子的人..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1809944190660596153",
+        "created_at": "2024-07-07T13:34:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T14:34:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809944190660596153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaojingcanxue…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/xiaojingcanxue/status/1809894443853754686",
+              "start": 150,
+              "url": "https://t.co/NbjbqtspWL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809944190660596153",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809894443853754686",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也是自己为什么在国内大学读不下去的原因..之一\n自己确实是比较容易和小动物建立连接的那种,所以会容易与之感同身受...\n但是绝大时候认为,很多东西甚至不应该需要像自己一样建立连接也是应该轻而易举地感受到的,比如实验动物所遭受的显而易见的痛苦...\n而在面对这种痛苦时,熟视无睹,让我无法接受... https://t.co/NbjbqtspWL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3362,
+          "following_count": 221,
+          "like_count": 14899,
+          "listed_count": 9,
+          "tweet_count": 15866
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

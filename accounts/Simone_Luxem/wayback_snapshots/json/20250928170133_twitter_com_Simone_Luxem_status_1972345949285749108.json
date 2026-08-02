@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1972273603929669882",
+    "created_at": "2025-09-28T17:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T18:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972345949285749108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1126154089216262145",
+          "start": 0,
+          "username": "ArtsSuraimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972345949285749108",
+    "in_reply_to_user_id": "1126154089216262145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972273603929669882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArtsSuraimu 草第一反应是“大麻的花”，心说这年头大麻的花都有人抽了吗那么值钱，仔细一看居然是“麻花”，然后就更震惊了什么麻花8.9公斤值800多万人民币？？？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1972273603929669882",
+        "created_at": "2025-09-28T17:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T18:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972345949285749108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsSuraimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972345949285749108",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972273603929669882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsSuraimu 草第一反应是“大麻的花”，心说这年头大麻的花都有人抽了吗那么值钱，仔细一看居然是“麻花”，然后就更震惊了什么麻花8.9公斤值800多万人民币？？？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1126154089216262145",
+        "conversation_id": "1972273603929669882",
+        "created_at": "2025-09-28T12:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T13:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972273603929669882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaobaosg/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/zaobaosg/status/1971922969128485320",
+              "start": 36,
+              "url": "https://t.co/IisP6vP2PX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972273603929669882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 891,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971922969128485320",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱天津人介儿的大麻花怎么着您嘞？\n介玩意儿还被dei着真是介辈子有了！ https://t.co/IisP6vP2PX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622,
+          "following_count": 220,
+          "like_count": 22495,
+          "listed_count": 13,
+          "media_count": 1662,
+          "tweet_count": 20435
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. Traveller. Opinions are own. 属性鼠鹿，性别男，找不到对象，政治属性不明，喜欢鹿乃子、史莱姆（利姆露）、小埋、@ddvd233 日本語を少しい話せます Deutsch kann ich auch ein bissl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 92,
+                "username": "ddvd233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimuroslime",
+                "end": 23,
+                "expanded_url": "https://t.me/rimuroslime",
+                "start": 0,
+                "url": "https://t.co/Xo0VOQW4ny"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu スライム 史莱姆",
+        "pinned_tweet_id": "1961942536651776399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966898166998953984/PqrvBn8g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10920,
+          "following_count": 2538,
+          "like_count": 93674,
+          "listed_count": 49,
+          "media_count": 572,
+          "tweet_count": 5563
+        },
+        "url": "https://t.co/Xo0VOQW4ny",
+        "username": "ArtsSuraimu",
+        "verified": true
+      }
+    ]
+  }
+}

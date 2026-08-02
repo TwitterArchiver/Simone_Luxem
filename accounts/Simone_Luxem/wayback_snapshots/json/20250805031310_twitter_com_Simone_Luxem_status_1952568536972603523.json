@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1952540971159421202",
+    "created_at": "2025-08-05T03:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-05T04:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952568536972603523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1878225515561332736",
+          "start": 0,
+          "username": "EScanlon95354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952568536972603523",
+    "in_reply_to_user_id": "1878225515561332736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1952540971159421202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EScanlon95354 sigh…还真是，我妈还不知道从哪看到的什么“金星变回男相”来和我说…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1952540971159421202",
+        "created_at": "2025-08-05T03:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T04:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952568536972603523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1878225515561332736",
+              "start": 0,
+              "username": "EScanlon95354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952568536972603523",
+        "in_reply_to_user_id": "1878225515561332736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1952540971159421202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EScanlon95354 sigh…还真是，我妈还不知道从哪看到的什么“金星变回男相”来和我说…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878225515561332736",
+        "conversation_id": "1952540971159421202",
+        "created_at": "2025-08-05T01:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-05T02:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1952540971159421202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1952540971159421202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 718,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国跨性别领域的非家长党有个统一的操作：当孩子出柜时，他们不是去搜索易性症，而是浏览各个平台视频，专门找那些后悔变性的，然后把视频转发给孩子来劝退，其中很多是转发瑶瑶的视频。\n值得一提的是，家长还自我感动，觉得自己为孩子好，是孩子的错，孩子不理解家长的良苦用心😅😅😅😅我真的会谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4534,
+          "following_count": 221,
+          "like_count": 21926,
+          "listed_count": 13,
+          "media_count": 1648,
+          "tweet_count": 20103
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-11T23:40:50.000Z",
+        "description": "我决定开始玩抽象：所以你们说的什么糖，什么药娘，什么手术，我都不知道，我是直男",
+        "id": "1878225515561332736",
+        "name": "大 E（变性贝利亚）",
+        "pinned_tweet_id": "1913519699222003943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936037262325956611/KlOspB8S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2816,
+          "following_count": 2325,
+          "like_count": 5915,
+          "listed_count": 4,
+          "media_count": 30,
+          "tweet_count": 1557
+        },
+        "username": "EScanlon95354",
+        "verified": false
+      }
+    ]
+  }
+}

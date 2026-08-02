@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1792248422059118738",
+    "created_at": "2024-05-19T17:41:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-19T18:41:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792249259846218216"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1792249259846218216",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792248422059118738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很多时候的技巧都只是为了尽可能弥补绝对资源的不足，如果真的资源充足，很多问题其实都能简单好多，只可惜资源永远都达不到“充足”，甚至连“够用”都达不到…\n大概也是很大的悲哀了吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1792248422059118738",
+        "created_at": "2024-05-19T17:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T18:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792249259846218216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792249259846218216",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792248422059118738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很多时候的技巧都只是为了尽可能弥补绝对资源的不足，如果真的资源充足，很多问题其实都能简单好多，只可惜资源永远都达不到“充足”，甚至连“够用”都达不到…\n大概也是很大的悲哀了吧…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1792248422059118738",
+        "created_at": "2024-05-19T17:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T18:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792248422059118738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanlianyi520/s…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/hanlianyi520/status/1792196850122101218",
+              "start": 145,
+              "url": "https://t.co/8E6PP07w9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792248422059118738",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792196850122101218",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以最大的，也最经常发生的绝望，就是发现自己并没有能力来帮助案例解决掉造成它目前现状的问题，而在很多语境下，就是自己也不知道怎么让案例可以赚到钱，并且自己也没钱…\n事实上很多（但绝对不是全部）的问题都可以通过“我出钱给你xxxx”来解决，但没钱，就只能用各种“巧妙”的方式，还不一定有用… https://t.co/8E6PP07w9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3177,
+          "following_count": 217,
+          "like_count": 13536,
+          "listed_count": 11,
+          "tweet_count": 15173
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

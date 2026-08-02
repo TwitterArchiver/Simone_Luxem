@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1824546224906662124",
+    "created_at": "2024-08-16T20:38:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T21:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1824546224906662124"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1824546224906662124",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己真的有在进步吗…\n可是为什么即使仅和去年此时的自己相比，自己并没有变得更有耐心，能力更强，或是至少解开了更多缠绕的丝线…\n反而似乎失去了原本的锐意进取，像是试图扭动已经布满青色铜锈的层层齿轮驱动的船一样，却仍旧困在同样的迷雾中…\n像是要吐尽蛛丝的蜘蛛一样…\n不想要…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1824546224906662124",
+        "created_at": "2024-08-16T20:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T21:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1824546224906662124"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1824546224906662124",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己真的有在进步吗…\n可是为什么即使仅和去年此时的自己相比，自己并没有变得更有耐心，能力更强，或是至少解开了更多缠绕的丝线…\n反而似乎失去了原本的锐意进取，像是试图扭动已经布满青色铜锈的层层齿轮驱动的船一样，却仍旧困在同样的迷雾中…\n像是要吐尽蛛丝的蜘蛛一样…\n不想要…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3533,
+          "following_count": 223,
+          "like_count": 16060,
+          "listed_count": 8,
+          "tweet_count": 16594
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

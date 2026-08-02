@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1991727543175770173",
+    "created_at": "2025-11-21T21:46:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T22:46:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991986719655346294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886796352283402250",
+          "start": 0,
+          "username": "TheCyclist400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991986719655346294",
+    "in_reply_to_user_id": "1886796352283402250",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991727543175770173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TheCyclist400 （认真记下来）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1991727543175770173",
+        "created_at": "2025-11-21T21:46:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T22:46:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991986719655346294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886796352283402250",
+              "start": 0,
+              "username": "TheCyclist400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991986719655346294",
+        "in_reply_to_user_id": "1886796352283402250",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991727543175770173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheCyclist400 （认真记下来）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886796352283402250",
+        "conversation_id": "1991727543175770173",
+        "created_at": "2025-11-21T04:37:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T05:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991727543175770173"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1991727543175770173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2593,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "随机掉落的小经验…\n\n扩张器上涂抹再多的润滑效果也不好，因为大部分会被阻拦在外，而内部依旧干涩，导致推进困难…\n\n而事先用注射器注入1-2ml润滑剂，扩张器适当润滑就可以更轻松进入，并且保证整个过程都是润滑的…\n\n这样润滑剂使用量小很多，也不容易把润滑剂弄的到处都是.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5784,
+          "following_count": 214,
+          "like_count": 22960,
+          "listed_count": 18,
+          "media_count": 1700,
+          "tweet_count": 20815
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-04T15:18:12.000Z",
+        "description": "TransParent/Gardener/2nd hand carpenter/Ex-handyman/Retired photographer/Former 021er/MMA/4WD/ISFJ我有ADHD也许有ASD/SRS 26.9.2025/我希望每个人都能成为自己心目中的样子/我们能战胜depression",
+        "id": "1886796352283402250",
+        "name": "Lulu.C",
+        "pinned_tweet_id": "1961013729388351563",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886982396542902276/n2YwM30L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 415,
+          "like_count": 4594,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 1898
+        },
+        "username": "TheCyclist400",
+        "verified": true
+      }
+    ]
+  }
+}

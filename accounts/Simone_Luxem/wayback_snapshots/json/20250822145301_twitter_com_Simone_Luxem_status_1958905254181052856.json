@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1958743925771907281",
+    "created_at": "2025-08-22T14:53:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-22T15:53:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958905254181052856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1633163319833169920",
+          "start": 0,
+          "username": "Lune101398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958905254181052856",
+    "in_reply_to_user_id": "1633163319833169920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958743925771907281",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lune101398 这个我也有，但我觉得无所谓，或者说“欣然接受”\n因为既然社会目前是这样的，把那些人塑造成这种样子，那同样身处这个世界的自己认为对此加以利用无可厚非，即既然容貌在客观上可以作为一种优势，那就不妨去使用它，只要目的本身是无害于它人的，那就是正当的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1958743925771907281",
+        "created_at": "2025-08-22T14:53:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T15:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958905254181052856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1633163319833169920",
+              "start": 0,
+              "username": "Lune101398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958905254181052856",
+        "in_reply_to_user_id": "1633163319833169920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958743925771907281",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lune101398 这个我也有，但我觉得无所谓，或者说“欣然接受”\n因为既然社会目前是这样的，把那些人塑造成这种样子，那同样身处这个世界的自己认为对此加以利用无可厚非，即既然容貌在客观上可以作为一种优势，那就不妨去使用它，只要目的本身是无害于它人的，那就是正当的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633163319833169920",
+        "conversation_id": "1958743925771907281",
+        "created_at": "2025-08-22T04:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-22T05:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958743925771907281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1958743925771907281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2509,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身为跨女对男凝有种很矛盾的感觉，一方面感觉很冒犯，另一方面又觉得男凝像是一种奇怪的认可。\n而且在男性群体中成长了二十年多才开始转变，遇到男凝时总能想起以前的“好兄弟”对女生指指点点的瞬间。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4546,
+          "following_count": 221,
+          "like_count": 22203,
+          "listed_count": 13,
+          "media_count": 1652,
+          "tweet_count": 20192
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-07T17:51:07.000Z",
+        "description": "打游戏写曲子 / 请找我约饭！/ hrt&rle 2022.11.5",
+        "id": "1633163319833169920",
+        "location": "北京",
+        "name": "meemee 🏳️‍⚧️",
+        "pinned_tweet_id": "1801595451155825138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733845957564116992/UvEm9iSn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5234,
+          "following_count": 596,
+          "like_count": 12075,
+          "listed_count": 17,
+          "media_count": 638,
+          "tweet_count": 3945
+        },
+        "username": "Lune101398",
+        "verified": false
+      }
+    ]
+  }
+}

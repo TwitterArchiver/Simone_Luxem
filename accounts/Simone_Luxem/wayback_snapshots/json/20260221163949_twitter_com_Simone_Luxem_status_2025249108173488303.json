@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "2025249108173488303",
+    "created_at": "2026-02-21T16:39:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T17:39:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025249108173488303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maidens_reve/s…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/maidens_reve/status/2022891145660125583",
+          "start": 4,
+          "url": "https://t.co/bo9H4gjAoV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025249108173488303",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022891145660125583",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好看！ https://t.co/bo9H4gjAoV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2022888101644021760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBK-Ar7bMAALFpf.jpg",
+        "width": 865
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2022888101602037764",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBK-ArxakAQxeVb.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2025249108173488303",
+        "created_at": "2026-02-21T16:39:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T17:39:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025249108173488303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maidens_reve/s…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/maidens_reve/status/2022891145660125583",
+              "start": 4,
+              "url": "https://t.co/bo9H4gjAoV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025249108173488303",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022891145660125583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好看！ https://t.co/bo9H4gjAoV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022888101644021760",
+            "3_2022888101602037764"
+          ]
+        },
+        "author_id": "1580969668491476992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2022891145660125583",
+        "created_at": "2026-02-15T04:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T05:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022891145660125583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 101,
+              "id": "1580969668491476992",
+              "start": 88,
+              "username": "Maidens_Reve"
+            }
+          ],
+          "urls": [
+            {
+              "description": "【セット内容】・コート【サイズ】（cm）XS肩幅：38.5cmバスト：92cmウエスト：74cm着丈：122cm袖丈：59.5cmS肩幅：39.5cmバスト：96cmウエスト：78cm着丈：125cm袖丈：60.5cmM肩幅：40.5cmバスト：100cmウエスト：82cm着丈：128cm袖丈：61.5cmL肩幅：41.5cmバスト：104cmウエスト：86cm着丈：131cm袖丈：62.5cmXL肩幅：45.5cmバスト：110cmウエスト：92cm着丈：131cm袖丈：63.5cm2XL肩幅：48.5cmバスト：116cmウエスト：98cm着丈：134cm袖丈：64.5cm3XL肩幅：53cmバスト：122cmウエスト：104cm着丈：137cm袖丈：65.5cm上記のサイズ表はあくまでも参考であり、実際の場合は1cm～3cmの誤差が生じる場合がございますので何卒ご了承お願いいたします。ご注文から10〜20営業日で発送予定製品によってサイズ・色味に若干の個体差が生じる場合がございます。撮影状況やご覧になる環境（端末・モニター）により、実物の色味、質感等が商品写真と異なって見える場合がございます。管理番号3095",
+              "display_url": "maidensreve.kawaiishop.jp/items/134901468",
+              "end": 78,
+              "expanded_url": "https://maidensreve.kawaiishop.jp/items/134901468",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2023024847169957888/yh-s3ZpM?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2023024847169957888/yh-s3ZpM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 55,
+              "status": 200,
+              "title": "漆黒ゴシックコンバットロングコート | Maiden's Rêve",
+              "unwound_url": "https://maidensreve.kawaiishop.jp/items/134901468",
+              "url": "https://t.co/G0xwxziVvq"
+            },
+            {
+              "display_url": "pic.x.com/vFCRheM6Fd",
+              "end": 185,
+              "expanded_url": "https://x.com/Maidens_Reve/status/2022891145660125583/photo/1",
+              "media_key": "3_2022888101644021760",
+              "start": 162,
+              "url": "https://t.co/vFCRheM6Fd"
+            },
+            {
+              "display_url": "pic.x.com/vFCRheM6Fd",
+              "end": 185,
+              "expanded_url": "https://x.com/Maidens_Reve/status/2022891145660125583/photo/1",
+              "media_key": "3_2022888101602037764",
+              "start": 162,
+              "url": "https://t.co/vFCRheM6Fd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022891145660125583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 279,
+          "impression_count": 71707,
+          "like_count": 1526,
+          "quote_count": 105,
+          "reply_count": 209,
+          "retweet_count": 1122
+        },
+        "reply_settings": "everyone",
+        "text": "💕Maiden's Rêve\n    プレゼントキャンペーン°˖✧\n\n🎁漆黒ゴシックコンバットロングコート🎁\nhttps://t.co/G0xwxziVvq\n\n🎀参加条件🎀\n→@Maidens_Reveをフォロー\n→このツイートをRT\n\n🎀締め切り🎀\n　3月15日\n\n❣ご希望のサイズをコメント/引用RTで当選確率アップ❣ https://t.co/vFCRheM6Fd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6140,
+          "following_count": 219,
+          "like_count": 23821,
+          "listed_count": 17,
+          "media_count": 1745,
+          "tweet_count": 21299
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T17:12:21.000Z",
+        "description": "ロリータ・地雷系・量産型、可愛い服を多数取り扱っているファッションサイトです。♡\n無料プレゼント抽選キャンペーンを開催しますのでたくさん応募してください♡\n※偽アカウントにご注意ください！※\n\n🎀 Global Shop is here! Worldwide Shipping\n@Maidens_Reve_gl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 139,
+                "username": "Maidens_Reve_gl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maidensreve.kawaiishop.jp",
+                "end": 23,
+                "expanded_url": "https://maidensreve.kawaiishop.jp/",
+                "start": 0,
+                "url": "https://t.co/d6n3EENLy8"
+              }
+            ]
+          }
+        },
+        "id": "1580969668491476992",
+        "location": "♡みんなで可愛くなりましょう♡",
+        "name": "Maiden's Rêve❤（メイデンズ・レーブ）",
+        "pinned_tweet_id": "2010698287788208272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583369042114805760/ReSLCbkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124830,
+          "following_count": 3904,
+          "like_count": 61,
+          "listed_count": 944,
+          "media_count": 15286,
+          "tweet_count": 20500
+        },
+        "url": "https://t.co/d6n3EENLy8",
+        "username": "Maidens_Reve",
+        "verified": true
+      }
+    ]
+  }
+}

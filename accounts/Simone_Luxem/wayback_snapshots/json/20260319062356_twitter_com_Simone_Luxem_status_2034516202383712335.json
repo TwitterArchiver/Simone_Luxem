@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2034516202383712335",
+    "created_at": "2026-03-19T06:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T07:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034516202383712335"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maidens_reve/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/maidens_reve/status/2033893961488863324",
+          "start": 20,
+          "url": "https://t.co/zgkO6TPsrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034516202383712335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033893961488863324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "左边那个感觉莫名很像黑部奈叶香的那条？ https://t.co/zgkO6TPsrc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2033893956849922048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnXxxjacAAPG9p.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2033893956828979200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnXxxea4AASEwy.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2034516202383712335",
+        "created_at": "2026-03-19T06:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T07:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034516202383712335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maidens_reve/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/maidens_reve/status/2033893961488863324",
+              "start": 20,
+              "url": "https://t.co/zgkO6TPsrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034516202383712335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033893961488863324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "左边那个感觉莫名很像黑部奈叶香的那条？ https://t.co/zgkO6TPsrc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033893956849922048",
+            "3_2033893956828979200"
+          ]
+        },
+        "author_id": "1580969668491476992",
+        "conversation_id": "2033893961488863324",
+        "created_at": "2026-03-17T13:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033893961488863324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ezjLa01bzM",
+              "end": 43,
+              "expanded_url": "https://x.com/Maidens_Reve/status/2033893961488863324/photo/1",
+              "media_key": "3_2033893956849922048",
+              "start": 20,
+              "url": "https://t.co/ezjLa01bzM"
+            },
+            {
+              "display_url": "pic.x.com/ezjLa01bzM",
+              "end": 43,
+              "expanded_url": "https://x.com/Maidens_Reve/status/2033893961488863324/photo/1",
+              "media_key": "3_2033893956828979200",
+              "start": 20,
+              "url": "https://t.co/ezjLa01bzM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033893961488863324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1051,
+          "impression_count": 98925,
+          "like_count": 5004,
+          "quote_count": 98,
+          "reply_count": 3,
+          "retweet_count": 448
+        },
+        "reply_settings": "everyone",
+        "text": "アシンメトリーショートパンツスカート♡ https://t.co/ezjLa01bzM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6155,
+          "following_count": 218,
+          "like_count": 24151,
+          "listed_count": 19,
+          "media_count": 1758,
+          "tweet_count": 21446
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T17:12:21.000Z",
+        "description": "ロリータ・地雷系・量産型、可愛い服を多数取り扱っているファッションサイトです。♡\n無料プレゼント抽選キャンペーンを開催しますのでたくさん応募してください♡\n※偽アカウントにご注意ください！※\n\n🎀 Global Shop is here! Worldwide Shipping\n@Maidens_Reve_gl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 139,
+                "username": "Maidens_Reve_gl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maidensreve.kawaiishop.jp",
+                "end": 23,
+                "expanded_url": "https://maidensreve.kawaiishop.jp/",
+                "start": 0,
+                "url": "https://t.co/d6n3EENLy8"
+              }
+            ]
+          }
+        },
+        "id": "1580969668491476992",
+        "location": "♡みんなで可愛くなりましょう♡",
+        "name": "Maiden's Rêve❤（メイデンズ・レーブ）",
+        "pinned_tweet_id": "2010698287788208272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583369042114805760/ReSLCbkb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128361,
+          "following_count": 3890,
+          "like_count": 61,
+          "listed_count": 974,
+          "media_count": 16377,
+          "tweet_count": 22148
+        },
+        "url": "https://t.co/d6n3EENLy8",
+        "username": "Maidens_Reve",
+        "verified": true
+      }
+    ]
+  }
+}

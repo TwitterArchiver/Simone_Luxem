@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054850521190764545",
+        "3_2054850521203445761",
+        "3_2054850521207631872"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "2054850532360310870",
+    "created_at": "2026-05-14T09:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T10:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054850532360310870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GifkE9rUam",
+          "end": 67,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2054850532360310870/photo/1",
+          "media_key": "3_2054850521190764545",
+          "start": 44,
+          "url": "https://t.co/GifkE9rUam"
+        },
+        {
+          "display_url": "pic.x.com/GifkE9rUam",
+          "end": 67,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2054850532360310870/photo/1",
+          "media_key": "3_2054850521203445761",
+          "start": 44,
+          "url": "https://t.co/GifkE9rUam"
+        },
+        {
+          "display_url": "pic.x.com/GifkE9rUam",
+          "end": 67,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2054850532360310870/photo/1",
+          "media_key": "3_2054850521207631872",
+          "start": 44,
+          "url": "https://t.co/GifkE9rUam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054850532360310870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己确实挺喜欢这身衣服的，虽然是长袖并贴身的，但是因为布料极其轻薄，并没有想象中那么热 https://t.co/GifkE9rUam"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2054850521190764545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRLqXYaEAEeV6U.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2054850521203445761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRLqXbbkAE6RNN.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2054850521207631872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRLqXcbcAAWUUY.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054850521190764545",
+            "3_2054850521203445761",
+            "3_2054850521207631872"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "2054850532360310870",
+        "created_at": "2026-05-14T09:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T10:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054850532360310870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GifkE9rUam",
+              "end": 67,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2054850532360310870/photo/1",
+              "media_key": "3_2054850521190764545",
+              "start": 44,
+              "url": "https://t.co/GifkE9rUam"
+            },
+            {
+              "display_url": "pic.x.com/GifkE9rUam",
+              "end": 67,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2054850532360310870/photo/1",
+              "media_key": "3_2054850521203445761",
+              "start": 44,
+              "url": "https://t.co/GifkE9rUam"
+            },
+            {
+              "display_url": "pic.x.com/GifkE9rUam",
+              "end": 67,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2054850532360310870/photo/1",
+              "media_key": "3_2054850521207631872",
+              "start": 44,
+              "url": "https://t.co/GifkE9rUam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054850532360310870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己确实挺喜欢这身衣服的，虽然是长袖并贴身的，但是因为布料极其轻薄，并没有想象中那么热 https://t.co/GifkE9rUam"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6195,
+          "following_count": 220,
+          "like_count": 24634,
+          "listed_count": 19,
+          "media_count": 1780,
+          "tweet_count": 21667
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

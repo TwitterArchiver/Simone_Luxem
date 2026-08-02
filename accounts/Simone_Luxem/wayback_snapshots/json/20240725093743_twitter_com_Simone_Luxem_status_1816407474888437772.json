@@ -1,0 +1,149 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1816407471910518931",
+    "created_at": "2024-07-25T09:37:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T10:37:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816407474888437772"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1816407474888437772",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816407471910518931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "某种意义上，虽然自己的每一天都与之前任何一天是不同的，自己也被迫卷入各种漩涡之中，可与此同时，自己的每一天却也是前一天的复制，正如前一天之于再前一天一样…\n自己…似乎至少暂时…成为了道途石…每一部分都在不断变化着的，却又静止在原地的道途石…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1816407471910518931",
+        "created_at": "2024-07-25T09:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T10:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816407474888437772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816407474888437772",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816407471910518931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某种意义上，虽然自己的每一天都与之前任何一天是不同的，自己也被迫卷入各种漩涡之中，可与此同时，自己的每一天却也是前一天的复制，正如前一天之于再前一天一样…\n自己…似乎至少暂时…成为了道途石…每一部分都在不断变化着的，却又静止在原地的道途石…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1816407471910518931",
+        "created_at": "2024-07-25T09:37:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T10:37:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816407471910518931"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1816407471910518931",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己“加入”跨性别似乎要三年了…\n并不觉得是很长的时间，却依然记得三年以来见到好多同类，甚至实际年龄比自己小的同类，以好快的速度变得“成熟”，无论是说话的语气还是其他的，或者死掉了…\n而自己似乎和三年前一模一样，抱有同样的理想，持有一样的准则，为同样的事情焦虑，甚至会被同样的因素刺激…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3444,
+          "following_count": 223,
+          "like_count": 15451,
+          "listed_count": 8,
+          "tweet_count": 16226
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

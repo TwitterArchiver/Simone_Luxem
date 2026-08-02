@@ -1,0 +1,185 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1799549812322299961",
+    "created_at": "2024-06-08T21:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-08T22:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1799549812322299961"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/b_cat38324/sta…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/b_cat38324/status/1799306792272589082",
+          "start": 62,
+          "url": "https://t.co/rGC6CFr9uj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1799549812322299961",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799306792272589082",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我：因为没带钥匙，穿着长裙和圆头鞋，咣地一脚把门踹开…以及后来有邻居同样没带钥匙，我出于好心过去问用不用我帮你们踹踹试试… https://t.co/rGC6CFr9uj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1799549812322299961",
+        "created_at": "2024-06-08T21:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T22:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799549812322299961"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/b_cat38324/status/1799306792272589082",
+              "start": 62,
+              "url": "https://t.co/rGC6CFr9uj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1799549812322299961",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799306792272589082",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我：因为没带钥匙，穿着长裙和圆头鞋，咣地一脚把门踹开…以及后来有邻居同样没带钥匙，我出于好心过去问用不用我帮你们踹踹试试… https://t.co/rGC6CFr9uj"
+      },
+      {
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1799306792272589082",
+        "created_at": "2024-06-08T05:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-08T06:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1799306792272589082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799306792272589082",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 16695,
+          "like_count": 259,
+          "quote_count": 8,
+          "reply_count": 43,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我的有些药娘姐妹跟我说，她们有的时候会有一种，男孩子操作系统没卸载干净的感觉。\n\n比如说在日常生活中，遇到搬重物的时候，如果男朋友或者男性友人要帮忙，她们会礼貌地让对方来做。但如果是一个人，🙂她们就会调用一下那个力气很大的男性人格一口气搬水上饮水机。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3201,
+          "following_count": 220,
+          "like_count": 13847,
+          "listed_count": 10,
+          "tweet_count": 15457
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "黑猫",
+        "pinned_tweet_id": "1788987285796712719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3139,
+          "following_count": 92,
+          "like_count": 45,
+          "listed_count": 8,
+          "tweet_count": 2319
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

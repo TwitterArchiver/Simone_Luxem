@@ -1,0 +1,224 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1798645435739132337",
+    "created_at": "2024-06-06T09:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-06T10:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1798645435739132337"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xhlprprpr/stat…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/xhlprprpr/status/1798505522930622874",
+          "start": 143,
+          "url": "https://t.co/Ynu0wn0pmT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798645435739132337",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798505522930622874",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "把某个群里默认成毫无主观意识，永远都是“被侵害”的客体，是一种侮辱和歧视，因为紧接着就可以以保护的名义限制其各种自由了，比如以“保护女性生育能力”为借口禁止女性开车\n顺便，先不说“滥交”到底是不是个罪名吧，真要说的话某些划手的人对于“跨圈”名声的贡献可比滥交大多了，毕竟伤痕是摆在那的 https://t.co/Ynu0wn0pmT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1798645435739132337",
+        "created_at": "2024-06-06T09:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T10:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798645435739132337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xhlprprpr/stat…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/xhlprprpr/status/1798505522930622874",
+              "start": 143,
+              "url": "https://t.co/Ynu0wn0pmT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798645435739132337",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798505522930622874",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "把某个群里默认成毫无主观意识，永远都是“被侵害”的客体，是一种侮辱和歧视，因为紧接着就可以以保护的名义限制其各种自由了，比如以“保护女性生育能力”为借口禁止女性开车\n顺便，先不说“滥交”到底是不是个罪名吧，真要说的话某些划手的人对于“跨圈”名声的贡献可比滥交大多了，毕竟伤痕是摆在那的 https://t.co/Ynu0wn0pmT"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798505507206127617",
+            "3_1798505515481513984"
+          ]
+        },
+        "author_id": "1689136531913785346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1798505522930622874",
+        "created_at": "2024-06-06T00:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T01:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798505522930622874"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zUTq25Gzh3",
+              "end": 118,
+              "expanded_url": "https://twitter.com/xhlprprpr/status/1798505522930622874/photo/1",
+              "media_key": "3_1798505507206127617",
+              "start": 95,
+              "url": "https://t.co/zUTq25Gzh3"
+            },
+            {
+              "display_url": "pic.twitter.com/zUTq25Gzh3",
+              "end": 118,
+              "expanded_url": "https://twitter.com/xhlprprpr/status/1798505522930622874/photo/1",
+              "media_key": "3_1798505515481513984",
+              "start": 95,
+              "url": "https://t.co/zUTq25Gzh3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798505522930622874",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5282,
+          "like_count": 101,
+          "quote_count": 2,
+          "reply_count": 35,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "这也是我与跨圈切割的一个原因，滥交已经与跨性别绑定在一起了😅\n怎么，因为寒人设立的好，牛子长，这么多人争先恐后的抢着被他透？跨圈是这样的😋原来搞搞救助就有数不清的人上门排队等着被透啊😋😋😋 https://t.co/zUTq25Gzh3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3193,
+          "following_count": 220,
+          "like_count": 13829,
+          "listed_count": 10,
+          "tweet_count": 15420
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T04:48:34.000Z",
+        "description": "求求你们了讨厌我请屏蔽我/\n嫉恶如仇，喜欢多管闲事/162cm44kg/mtx，男的，很丑😢/精神状态不好/发泄方式是割手手，正在努力戒/想要朋友（趴唔）\n\nps：要是长时间没上线，就是似了",
+        "id": "1689136531913785346",
+        "location": "地球",
+        "name": "🧀☃小狐狸🦊",
+        "pinned_tweet_id": "1797094893539766642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761787182409519104/BTxdVMO2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 1097,
+          "like_count": 23009,
+          "listed_count": 4,
+          "tweet_count": 6575
+        },
+        "username": "xhlprprpr",
+        "verified": false
+      }
+    ]
+  }
+}

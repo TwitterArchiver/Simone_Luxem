@@ -1,0 +1,200 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1809520494242037920",
+    "created_at": "2024-07-06T09:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T10:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809520494242037920"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XiaoHuiHuiH/st…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1809289911465570516",
+          "start": 131,
+          "url": "https://t.co/Jb7CZkG9O7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809520494242037920",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809289911465570516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对我来说死亡应该是最终的奖赏吧...\n只是它只应该被在恰当的时机采摘,过早地采摘它,只会品尝到苦涩的...\n同样对于自己爱的人,自己在乎的人,自己实际上也是好怕好怕它们死掉的...没有人应该死在自己前面的,而自己的死亡,目前还没有到应该被采下品尝的时候的... https://t.co/Jb7CZkG9O7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1809520494242037920",
+        "created_at": "2024-07-06T09:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T10:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809520494242037920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XiaoHuiHuiH/st…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/XiaoHuiHuiH/status/1809289911465570516",
+              "start": 131,
+              "url": "https://t.co/Jb7CZkG9O7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809520494242037920",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809289911465570516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对我来说死亡应该是最终的奖赏吧...\n只是它只应该被在恰当的时机采摘,过早地采摘它,只会品尝到苦涩的...\n同样对于自己爱的人,自己在乎的人,自己实际上也是好怕好怕它们死掉的...没有人应该死在自己前面的,而自己的死亡,目前还没有到应该被采下品尝的时候的... https://t.co/Jb7CZkG9O7"
+      },
+      {
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "1809289911465570516",
+        "created_at": "2024-07-05T18:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T19:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809289911465570516"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1809289911465570516",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14977,
+          "like_count": 84,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于“死亡”这个词汇，\n\n你是从什么时候开始，从“畏惧”变成“向往”了呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3368,
+          "following_count": 221,
+          "like_count": 14857,
+          "listed_count": 9,
+          "tweet_count": 15838
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "萌新求fo/日常推+涩涩推🫣/\nENFP(INFP)/跨性别女性mtf(mtx)🏳️‍⚧️/hrt 2023.12.7🍥/泛性恋/🏳️‍🌈🩷💜/20岁/0.5/啥都爱玩🥵/开放式关系🥰/\n多伦多上学🇨🇦/约克大学/江苏无锡/\n⚠️魔怔疯批/时而温柔/时常发癫/淫趴头子/滥交药攻/嗑药地雷💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7ZvDZ"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🏳️‍⚧️喵喵艺术家~",
+        "pinned_tweet_id": "1793338001109799321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805817537021853699/IF42qnFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6340,
+          "following_count": 839,
+          "like_count": 51079,
+          "listed_count": 17,
+          "tweet_count": 28368
+        },
+        "url": "https://t.co/LQg5S7ZvDZ",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

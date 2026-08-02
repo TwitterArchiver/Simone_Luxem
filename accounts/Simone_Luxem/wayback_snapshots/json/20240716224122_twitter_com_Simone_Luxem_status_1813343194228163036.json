@@ -1,0 +1,201 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1813343194228163036",
+    "created_at": "2024-07-16T22:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T23:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1813343194228163036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/karasu_ga_wara…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/karasu_ga_warau/status/1813274695040389198",
+          "start": 36,
+          "url": "https://t.co/GrRltch9ee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1813343194228163036",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813274695040389198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "坚持做正确的事情,不是因为它「最后会是胜利的」,而仅仅是因为它是正确的 https://t.co/GrRltch9ee"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1813343194228163036",
+        "created_at": "2024-07-16T22:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T23:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813343194228163036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/karasu_ga_wara…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/karasu_ga_warau/status/1813274695040389198",
+              "start": 36,
+              "url": "https://t.co/GrRltch9ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813343194228163036",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813274695040389198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坚持做正确的事情,不是因为它「最后会是胜利的」,而仅仅是因为它是正确的 https://t.co/GrRltch9ee"
+      },
+      {
+        "attachments": {},
+        "author_id": "1497481140915290115",
+        "conversation_id": "1813274695040389198",
+        "created_at": "2024-07-16T18:09:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T19:09:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1813274695040389198"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mm_editorial/s…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/mm_editorial/status/1812165131545313346",
+              "start": 125,
+              "url": "https://t.co/2qYQsFM8ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813274695040389198",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4049,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812165131545313346",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「堅持做正確的事情，不與邪惡為伍，從不應該成為一種值得稱贊的優秀品質，而更應該成為每個人的道德基準線。所以我會告訴每一個前來拜訪我的年輕人，不要管周圍人怎麼看、怎麼想，堅持做你認為正確的事情，然後努力奔跑，我們要堅信，在將來，光明一定會戰勝黑暗。」 https://t.co/2qYQsFM8ch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3415,
+          "following_count": 221,
+          "like_count": 15273,
+          "listed_count": 8,
+          "tweet_count": 16072
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "1801399617747099655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19477,
+          "following_count": 1116,
+          "like_count": 5778,
+          "listed_count": 60,
+          "tweet_count": 2579
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      }
+    ]
+  }
+}

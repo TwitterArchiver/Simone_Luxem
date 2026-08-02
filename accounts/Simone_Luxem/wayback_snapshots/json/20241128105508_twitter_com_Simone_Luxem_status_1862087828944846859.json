@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1862087824943529984",
+        "3_1862087824943566848"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1862087828944846859",
+    "created_at": "2024-11-28T10:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T11:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1862087828944846859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7IXB7YGF9g",
+          "end": 149,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1862087828944846859/photo/1",
+          "media_key": "3_1862087824943529984",
+          "start": 126,
+          "url": "https://t.co/7IXB7YGF9g"
+        },
+        {
+          "display_url": "pic.x.com/7IXB7YGF9g",
+          "end": 149,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1862087828944846859/photo/1",
+          "media_key": "3_1862087824943566848",
+          "start": 126,
+          "url": "https://t.co/7IXB7YGF9g"
+        },
+        {
+          "display_url": "x.com/kafka_kissu/st…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/kafka_kissu/status/1862035472555635011",
+          "start": 150,
+          "url": "https://t.co/qcQzuxAujG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862087828944846859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862035472555635011",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不喜欢这个表格…\n打问号的是不明白这个问题什么意思或者自己不知道的…\n什么叫“小资情结”？？\n房租贵当然恩格尔系数低，但这说明不了生活状态呀\n而且独生子女为什么也算？？这有个毛球关系？？\n二线以上城市有房…这只能说明（大概率）出生地在二线以上城市啊… https://t.co/7IXB7YGF9g https://t.co/qcQzuxAujG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1862087824943529984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdd3AtJWwAAqvoi.jpg",
+        "width": 1074
+      },
+      {
+        "height": 1287,
+        "media_key": "3_1862087824943566848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gdd3AtJXUAAJDI1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862087824943529984",
+            "3_1862087824943566848"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1862087828944846859",
+        "created_at": "2024-11-28T10:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T11:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862087828944846859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7IXB7YGF9g",
+              "end": 149,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1862087828944846859/photo/1",
+              "media_key": "3_1862087824943529984",
+              "start": 126,
+              "url": "https://t.co/7IXB7YGF9g"
+            },
+            {
+              "display_url": "pic.x.com/7IXB7YGF9g",
+              "end": 149,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1862087828944846859/photo/1",
+              "media_key": "3_1862087824943566848",
+              "start": 126,
+              "url": "https://t.co/7IXB7YGF9g"
+            },
+            {
+              "display_url": "x.com/kafka_kissu/st…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/kafka_kissu/status/1862035472555635011",
+              "start": 150,
+              "url": "https://t.co/qcQzuxAujG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862087828944846859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862035472555635011",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不喜欢这个表格…\n打问号的是不明白这个问题什么意思或者自己不知道的…\n什么叫“小资情结”？？\n房租贵当然恩格尔系数低，但这说明不了生活状态呀\n而且独生子女为什么也算？？这有个毛球关系？？\n二线以上城市有房…这只能说明（大概率）出生地在二线以上城市啊… https://t.co/7IXB7YGF9g https://t.co/qcQzuxAujG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862035388774121472"
+          ]
+        },
+        "author_id": "1455940830594752517",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1862035472555635011",
+        "created_at": "2024-11-28T07:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T08:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862035472555635011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9OBpKLyry5",
+              "end": 64,
+              "expanded_url": "https://x.com/Kafka_kissu/status/1862035472555635011/photo/1",
+              "media_key": "3_1862035388774121472",
+              "start": 41,
+              "url": "https://t.co/9OBpKLyry5"
+            },
+            {
+              "display_url": "x.com/kaori1628304/s…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/kaori1628304/status/1862010867119960526",
+              "start": 65,
+              "url": "https://t.co/WmIhBiMgfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862035472555635011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1273,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862010867119960526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "家庭年收入没有30w，但是我有\n所以从来没考虑过出国留学…等有钱了再去欧洲留学吧 https://t.co/9OBpKLyry5 https://t.co/WmIhBiMgfB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3912,
+          "following_count": 221,
+          "like_count": 18176,
+          "listed_count": 10,
+          "media_count": 1417,
+          "tweet_count": 17927
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T16:52:14.000Z",
+        "description": "我是卡芙卡（ㄑㄧㄚˇ）。zhCN/enUS。ES，JP，KR看得懂不会写丨 亲友@akiakuno @shiawaseMeow @mottoye89 @Kaori1628304 @anzu_3207146943",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "akiakuno"
+              },
+              {
+                "end": 63,
+                "start": 50,
+                "username": "shiawaseMeow"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "mottoye89"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Kaori1628304"
+              },
+              {
+                "end": 105,
+                "start": 89,
+                "username": "anzu_3207146943"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kafka73678",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kafka73678",
+                "start": 0,
+                "url": "https://t.co/ibnapD0DVh"
+              }
+            ]
+          }
+        },
+        "id": "1455940830594752517",
+        "location": "Pyongyang-si, DPRK",
+        "name": "Kafka",
+        "pinned_tweet_id": "1858144985947767235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838111071372263425/BgCXIvrw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 2240,
+          "like_count": 2524,
+          "listed_count": 1,
+          "media_count": 156,
+          "tweet_count": 2201
+        },
+        "url": "https://t.co/ibnapD0DVh",
+        "username": "Kafka_kissu",
+        "verified": false
+      }
+    ]
+  }
+}

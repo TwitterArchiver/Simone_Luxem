@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2077270021974495723",
+    "created_at": "2026-07-15T05:52:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:52:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077270021974495723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077270021974495723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077257715999461506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: 前段时间正好在做扭转/戒网瘾学校这类私有化强制矫正机构的警治史研究，给一个之前做过会议发表的回答吧：\n\n首先，此类机构并非中国首创，而是在美国六十年代由基督教保守人士发明的。它的官方名称叫做「问题青少年产业（Troubled Teen……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1975,
+        "media_key": "3_2077257712623075328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPm4kPWwAAQ8h2.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077257712639922176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPm4kTX0AACbq9.jpg",
+        "width": 1074
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077257712614694912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNPm4kNW4AAB4i2.jpg",
+        "width": 478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2077270021974495723",
+        "created_at": "2026-07-15T05:52:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:52:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077270021974495723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077270021974495723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077257715999461506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: 前段时间正好在做扭转/戒网瘾学校这类私有化强制矫正机构的警治史研究，给一个之前做过会议发表的回答吧：\n\n首先，此类机构并非中国首创，而是在美国六十年代由基督教保守人士发明的。它的官方名称叫做「问题青少年产业（Troubled Teen……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077257712623075328",
+            "3_2077257712639922176",
+            "3_2077257712614694912"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2077257715999461506",
+        "created_at": "2026-07-15T05:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077257715999461506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJvNeN7tDR",
+              "end": 141,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2077257715999461506/photo/1",
+              "media_key": "3_2077257712623075328",
+              "start": 118,
+              "url": "https://t.co/fJvNeN7tDR"
+            },
+            {
+              "display_url": "pic.x.com/fJvNeN7tDR",
+              "end": 141,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2077257715999461506/photo/1",
+              "media_key": "3_2077257712639922176",
+              "start": 118,
+              "url": "https://t.co/fJvNeN7tDR"
+            },
+            {
+              "display_url": "pic.x.com/fJvNeN7tDR",
+              "end": 141,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2077257715999461506/photo/1",
+              "media_key": "3_2077257712614694912",
+              "start": 118,
+              "url": "https://t.co/fJvNeN7tDR"
+            },
+            {
+              "display_url": "x.com/heicha141/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/heicha141/status/2077191121240019381",
+              "start": 142,
+              "url": "https://t.co/DsIJT1m2tK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077257715999461506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "前段时间正好在做扭转/戒网瘾学校这类私有化强制矫正机构的警治史研究，给一个之前做过会议发表的回答吧：\n\n首先，此类机构并非中国首创，而是在美国六十年代由基督教保守人士发明的。它的官方名称叫做「问题青少年产业（Troubled Teen Industry）」，旨在通过野外训练、暴力体罚等方式帮助家长管束「不听话」的儿童（包括性少数群体），也会采用强制绑架的方式将这些孩子拉到这些训练营里。直到2020年，此类机构都因其成熟的公关体系、强大的法务团队以及和美国金融机构的紧密合作关系而成功压制了大部分受害者的维权企图。直到2020年，著名影星帕里斯·希尔顿（Paris Hilton）在一部纪录片中公开自己受该类机构监禁的经历，这一产业才重新受到广泛关注。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 801,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077191121240019381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前段时间正好在做扭转/戒网瘾学校这类私有化强制矫正机构的警治史研究，给一个之前做过会议发表的回答吧：\n\n首先，此类机构并非中国首创，而是在美国六十年代由基督教保守人士发明的。它的官方名称叫做「问题青少年产业（Troubled Teen https://t.co/fJvNeN7tDR https://t.co/DsIJT1m2tK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6241,
+          "following_count": 220,
+          "like_count": 25044,
+          "listed_count": 16,
+          "media_count": 1794,
+          "tweet_count": 21832
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6577,
+          "following_count": 1087,
+          "like_count": 6304,
+          "listed_count": 11,
+          "media_count": 313,
+          "tweet_count": 3592
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

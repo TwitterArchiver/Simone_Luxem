@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1828077952913019191",
+    "created_at": "2024-08-27T12:25:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-27T13:25:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1828408559974895940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "840657664342343681",
+          "start": 0,
+          "username": "Yuna_Kamisato"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828408559974895940",
+    "in_reply_to_user_id": "840657664342343681",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828077952913019191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuna_Kamisato 我在很小，既没有性别发育，也不知道跨性别这个概念的时候，会有一种自己也解释不了的“啊如果去死是不是就能重新当女生来过了”的想法时不时冒出来…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1828077952913019191",
+        "created_at": "2024-08-27T12:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T13:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828408559974895940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "840657664342343681",
+              "start": 0,
+              "username": "Yuna_Kamisato"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828408559974895940",
+        "in_reply_to_user_id": "840657664342343681",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828077952913019191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuna_Kamisato 我在很小，既没有性别发育，也不知道跨性别这个概念的时候，会有一种自己也解释不了的“啊如果去死是不是就能重新当女生来过了”的想法时不时冒出来…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840657664342343681",
+        "conversation_id": "1828077952913019191",
+        "created_at": "2024-08-26T14:32:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T15:32:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828077952913019191"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828077952913019191",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 13046,
+          "like_count": 123,
+          "quote_count": 5,
+          "reply_count": 18,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "先天型的MtF似乎会对「成为女孩子」这件事有一种特别的，与生俱来的向往。这种向往也许会迟到，但绝不会缺席。而对我而言，这种向往的体现...\n\n是一种心动\n\n一种从小就能感受到，且只有在「成为女孩子」这种想象下才会有的独特的心动。\n\n也就是我所说的，属于先天MtF的「原动力」…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3651,
+          "following_count": 222,
+          "like_count": 16311,
+          "listed_count": 8,
+          "tweet_count": 16764
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-11T20:16:20.000Z",
+        "description": "是社恐｜INFP｜萌新 Pipeline TD｜过气 EFX Artist｜她 // 彼女 // She // Her // Yuna // 汐玥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/m/td8HJHR4YjM1",
+                "end": 23,
+                "expanded_url": "https://t.me/m/td8HJHR4YjM1",
+                "start": 0,
+                "url": "https://t.co/QyGfZmhmlD"
+              }
+            ]
+          }
+        },
+        "id": "840657664342343681",
+        "location": "汐玥之梦 - Yuna's Dream",
+        "name": "北雁汐 @Bᴇɪʏᴀɴ-Yuna",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818130687612084224/gMjcnqno_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 249,
+          "like_count": 6424,
+          "listed_count": 2,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/QyGfZmhmlD",
+        "username": "Yuna_Kamisato",
+        "verified": true
+      }
+    ]
+  }
+}

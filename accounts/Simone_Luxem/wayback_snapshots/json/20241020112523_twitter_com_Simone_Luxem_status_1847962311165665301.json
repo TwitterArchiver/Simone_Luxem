@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1847962311165665301",
+    "created_at": "2024-10-20T11:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-20T12:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1847962311165665301"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/garrulous_abys…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/garrulous_abyss/status/1847961215533818015",
+          "start": 89,
+          "url": "https://t.co/VsBaoh24Hn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1847962311165665301",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1847961215533818015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我倒是不敢保证不会发生金钱关系，毕竟天有不测风云，自己尤其不测（\n但想要辨别是不是真的我大概也是太简单的了吧…毕竟…自认为自己的个人风格还是相当鲜明的，想要冒充大概是困难了点… https://t.co/VsBaoh24Hn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1847962311165665301",
+        "created_at": "2024-10-20T11:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T12:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847962311165665301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1847961215533818015",
+              "start": 89,
+              "url": "https://t.co/VsBaoh24Hn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1847962311165665301",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1847961215533818015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我倒是不敢保证不会发生金钱关系，毕竟天有不测风云，自己尤其不测（\n但想要辨别是不是真的我大概也是太简单的了吧…毕竟…自认为自己的个人风格还是相当鲜明的，想要冒充大概是困难了点… https://t.co/VsBaoh24Hn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "1847961215533818015",
+        "created_at": "2024-10-20T11:21:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-20T12:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1847961215533818015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1847961215533818015",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现Bluesky上，有人冒充了我，建了个高仿疑似号。\n\nwell。我只想说一句话。过去，现在，将来，我任何时候，都不会通过任何途径，跟任何推特，Bluesky的任何网友，发生任何金钱关系。\n\n如果有任何人，任何时候，说ta是garrulous abyss，朝你借钱，私信说任何事，那肯定不会是我233\n\n网上冲浪，开心而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3805,
+          "following_count": 223,
+          "like_count": 17674,
+          "listed_count": 9,
+          "tweet_count": 17481
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//双性恋//百合ing 女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//真·法语学习博主//中文//English//français// 可能会ban纯黄推、纯政治推 //见到Incel、terf、小粉红、魔怔人立刻拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Yaoyao38324"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22633,
+          "following_count": 3065,
+          "like_count": 116962,
+          "listed_count": 65,
+          "tweet_count": 43185
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

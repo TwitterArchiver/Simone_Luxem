@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1960263692664385697",
+    "created_at": "2025-08-26T11:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-26T12:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960310055577977281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "691123",
+          "start": 0,
+          "username": "wenli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960310055577977281",
+    "in_reply_to_user_id": "691123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960263692664385697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wenli 有没有可能，就是说，跨性别中存在ftm呢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1960263692664385697",
+        "created_at": "2025-08-26T11:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T12:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960310055577977281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "691123",
+              "start": 0,
+              "username": "wenli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960310055577977281",
+        "in_reply_to_user_id": "691123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960263692664385697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wenli 有没有可能，就是说，跨性别中存在ftm呢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "691123",
+        "conversation_id": "1960263692664385697",
+        "created_at": "2025-08-26T08:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-26T09:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960263692664385697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1960263692664385697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 610,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🫃🫄\n\n居然有「男生懷孕」的繪文字，而且起碼有兩款異色。\n\n這些科技公司是有多想讓男人懷孕⋯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4548,
+          "following_count": 221,
+          "like_count": 22242,
+          "listed_count": 14,
+          "media_count": 1653,
+          "tweet_count": 20219
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2007-01-24T03:32:49.000Z",
+        "description": "🏳️‍⚧️神楽坂雯麗®︎是廢業青年™的龍鳳胎妹妹｜17歳350ヶ月の更年期少女｜領證含糖HRT藥娘｜跨性別非二元偏女｜レトロゲームコレクター｜ビンテージトイガン愛好家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wenli.…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/wenli.bsky.social",
+                "start": 0,
+                "url": "https://t.co/BlEgW8SWZe"
+              }
+            ]
+          }
+        },
+        "id": "691123",
+        "location": "Taiwan｜台湾",
+        "name": "神楽坂雯麗🏳️‍⚧️",
+        "pinned_tweet_id": "1845172181451579483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947573725542682625/ONnwC8z9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31388,
+          "following_count": 6029,
+          "like_count": 46215,
+          "listed_count": 319,
+          "media_count": 10349,
+          "tweet_count": 50089
+        },
+        "url": "https://t.co/BlEgW8SWZe",
+        "username": "wenli",
+        "verified": false
+      }
+    ]
+  }
+}

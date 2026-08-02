@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1956861194406711685",
+    "created_at": "2025-08-16T23:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-17T00:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1956861194406711685"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1956861194406711685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己的精神状态需要从自己的亲密关系和重要它人处得到巨大的支持来维持\n可自己（愈发）糟糕的精神状态本身又会亲手把还在支持自己的亲密关系和重要它人推开，撕碎自己先前为自己搭建的网络\n也只有精神状态好的自己才是值得被爱的吧，毕竟精神状态不好的自己，连自己都是嫌弃的呢（笑）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1956861194406711685",
+        "created_at": "2025-08-16T23:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T00:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956861194406711685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1956861194406711685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己的精神状态需要从自己的亲密关系和重要它人处得到巨大的支持来维持\n可自己（愈发）糟糕的精神状态本身又会亲手把还在支持自己的亲密关系和重要它人推开，撕碎自己先前为自己搭建的网络\n也只有精神状态好的自己才是值得被爱的吧，毕竟精神状态不好的自己，连自己都是嫌弃的呢（笑）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4528,
+          "following_count": 221,
+          "like_count": 22113,
+          "listed_count": 13,
+          "media_count": 1652,
+          "tweet_count": 20160
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

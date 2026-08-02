@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1975610265803890988",
+    "created_at": "2025-10-07T17:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T18:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975611395111784557"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975611395111784557",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975610265803890988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "注：“神不可能被人完全理解”是通过“为什么全善全能的神会创造恶”的那个悖论推导出来的，就懒得在此展开说了；如果这个条件不成立，那么神的全能和全善之间就一定有一个不成立，那么圣经本身也就变的更加没有价值，或者说无异于一本古代部落的历史书了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1975610265803890988",
+        "created_at": "2025-10-07T17:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975611395111784557"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975611395111784557",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975610265803890988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "注：“神不可能被人完全理解”是通过“为什么全善全能的神会创造恶”的那个悖论推导出来的，就懒得在此展开说了；如果这个条件不成立，那么神的全能和全善之间就一定有一个不成立，那么圣经本身也就变的更加没有价值，或者说无异于一本古代部落的历史书了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1975610265803890988",
+        "created_at": "2025-10-07T17:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T18:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975610265803890988"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dennisottawa/s…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/dennisottawa/status/1975560318706438217",
+              "start": 142,
+              "url": "https://t.co/Gs2z7oYzNy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975610265803890988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975560318706438217",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶其实一直对圣经有一点疑惑，就是说既然神本身是无法被人完全理解的，那么如果圣经真的是百分百还原神的旨意，任何看它的人都不可能完全读懂；如果任何人能完全读懂其，那就说明至少被笔写下来的圣经本身肯定不完全是神的旨意，或多或少受限于记述者自身的时代和个人限制\n那么怎么可能是“无误”的呢？ https://t.co/Gs2z7oYzNy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4623,
+          "following_count": 220,
+          "like_count": 22539,
+          "listed_count": 13,
+          "media_count": 1668,
+          "tweet_count": 20489
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

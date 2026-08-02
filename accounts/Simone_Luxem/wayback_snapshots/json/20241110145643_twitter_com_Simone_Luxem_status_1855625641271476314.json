@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1855625641271476314",
+    "created_at": "2024-11-10T14:56:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-10T15:56:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1855625641271476314"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/b_cat38324/sta…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/b_cat38324/status/1855603518008414294",
+          "start": 27,
+          "url": "https://t.co/fSeLDw6pUf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855625641271476314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855603518008414294",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我：啊…好像又把自己的预约给忘了…好烦啊先不管了吧… https://t.co/fSeLDw6pUf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1855625641271476314",
+        "created_at": "2024-11-10T14:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T15:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855625641271476314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/b_cat38324/status/1855603518008414294",
+              "start": 27,
+              "url": "https://t.co/fSeLDw6pUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855625641271476314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855603518008414294",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我：啊…好像又把自己的预约给忘了…好烦啊先不管了吧… https://t.co/fSeLDw6pUf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1855603518008414294",
+        "created_at": "2024-11-10T13:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T14:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855603518008414294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1855603518008414294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1170,
+          "like_count": 31,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跨女对手术费的概念。\n\n亡命跨女：五万足矣\n一般跨女：手术加其余杂费将近十万\n保守型跨女：要准备 1.5-2 倍手术费，术后要康复\n工作后跨女：要准备 2 倍以上手术费，防止术后没工作空窗期……\n有孩子跨女：先不跨了再说吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3852,
+          "following_count": 224,
+          "like_count": 17872,
+          "listed_count": 10,
+          "tweet_count": 17709
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "你可劲",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11845,
+          "following_count": 177,
+          "like_count": 287,
+          "listed_count": 39,
+          "tweet_count": 10663
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

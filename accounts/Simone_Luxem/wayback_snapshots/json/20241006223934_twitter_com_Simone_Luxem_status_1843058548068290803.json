@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1843058548068290803",
+    "created_at": "2024-10-06T22:39:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-06T23:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1843058548068290803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1426793440046632963",
+          "start": 3,
+          "username": "reedreedandsoon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1843058548068290803",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1843053816637448562",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reedreedandsoon: 这是一条求助帖：有在墨尔本的朋友有右美之类的止咳药吗，最近身体恶化的很严重，已经严重咳嗽一周多一些，在过去咳嗽从没有如此漫长过，可以找你买，每次咳嗽都感觉大脑要炸裂开来，感觉要死去了，非常感谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1843058548068290803",
+        "created_at": "2024-10-06T22:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T23:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1843058548068290803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1426793440046632963",
+              "start": 3,
+              "username": "reedreedandsoon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1843058548068290803",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1843053816637448562",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reedreedandsoon: 这是一条求助帖：有在墨尔本的朋友有右美之类的止咳药吗，最近身体恶化的很严重，已经严重咳嗽一周多一些，在过去咳嗽从没有如此漫长过，可以找你买，每次咳嗽都感觉大脑要炸裂开来，感觉要死去了，非常感谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426793440046632963",
+        "conversation_id": "1843053816637448562",
+        "created_at": "2024-10-06T22:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-06T23:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843053816637448562"
+        ],
+        "entities": {},
+        "geo": {
+          "place_id": "400bed883e1b2bcf"
+        },
+        "id": "1843053816637448562",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 206,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这是一条求助帖：有在墨尔本的朋友有右美之类的止咳药吗，最近身体恶化的很严重，已经严重咳嗽一周多一些，在过去咳嗽从没有如此漫长过，可以找你买，每次咳嗽都感觉大脑要炸裂开来，感觉要死去了，非常感谢你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3768,
+          "following_count": 223,
+          "like_count": 17366,
+          "listed_count": 9,
+          "tweet_count": 17329
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T06:30:49.000Z",
+        "description": "06年的药药（性别酷儿）曾经是mtf/100％互fo/175，63kg/现居墨尔本，平常在南京/lesbian🏳️‍🌈🌈t/社民/古典健身爱好者/抑郁中/尝试留发/容易吃醋，很黏人/不会回fo看黄男/🚪200/正在冲击2030年奥林匹亚健美冠军/是病娇/地雷女/我们要永远在一起𝙛𝙤𝙧𝙚𝙫𝙚𝙧…",
+        "id": "1426793440046632963",
+        "location": "神圣泰拉 审判庭马上到你家门口",
+        "name": "白芷🏳️‍⚧️（冲击奥林匹亚冠军ing）",
+        "pinned_tweet_id": "1832365696644161672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781206822709530624/4OQBWeg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3395,
+          "following_count": 2382,
+          "like_count": 6743,
+          "listed_count": 5,
+          "tweet_count": 5417
+        },
+        "username": "reedreedandsoon",
+        "verified": true
+      }
+    ]
+  }
+}

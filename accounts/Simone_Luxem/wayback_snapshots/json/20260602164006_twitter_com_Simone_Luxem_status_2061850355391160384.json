@@ -1,0 +1,659 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061233270592049152"
+      ],
+      "media_source_tweet_id": [
+        "2061233284273807602"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1582737213221052417",
+          "name": "The Age"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1582737213992759298",
+          "name": "The Sydney Morning Herald"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2061850355391160384",
+    "created_at": "2026-06-02T16:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T17:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061850355391160384"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "267695291",
+          "start": 3,
+          "username": "badiucao"
+        },
+        {
+          "end": 48,
+          "id": "32201814",
+          "start": 41,
+          "username": "theage"
+        },
+        {
+          "end": 61,
+          "id": "16675569",
+          "start": 57,
+          "username": "smh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xZqMWd4PU8",
+          "end": 118,
+          "expanded_url": "https://x.com/badiucao/status/2061233284273807602/photo/1",
+          "media_key": "3_2061233270592049152",
+          "start": 95,
+          "url": "https://t.co/xZqMWd4PU8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061850355391160384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061233284273807602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @badiucao: 八九六四 37周年纪念漫画\n于今日发表于澳洲时代报纸 @theage 和悉尼先驱晨报 @smh \n“都37七年了\n看看中国的今天何其进步\n你怎么还在这儿挡道？” https://t.co/xZqMWd4PU8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2783,
+        "media_key": "3_2061233270592049152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJr4vRzbEAA-nhe.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061233270592049152"
+          ],
+          "media_source_tweet_id": [
+            "2061233284273807602"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213221052417",
+              "name": "The Age"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213992759298",
+              "name": "The Sydney Morning Herald"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2061850355391160384",
+        "created_at": "2026-06-02T16:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T17:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061850355391160384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "267695291",
+              "start": 3,
+              "username": "badiucao"
+            },
+            {
+              "end": 48,
+              "id": "32201814",
+              "start": 41,
+              "username": "theage"
+            },
+            {
+              "end": 61,
+              "id": "16675569",
+              "start": 57,
+              "username": "smh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZqMWd4PU8",
+              "end": 118,
+              "expanded_url": "https://x.com/badiucao/status/2061233284273807602/photo/1",
+              "media_key": "3_2061233270592049152",
+              "start": 95,
+              "url": "https://t.co/xZqMWd4PU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061850355391160384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061233284273807602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @badiucao: 八九六四 37周年纪念漫画\n于今日发表于澳洲时代报纸 @theage 和悉尼先驱晨报 @smh \n“都37七年了\n看看中国的今天何其进步\n你怎么还在这儿挡道？” https://t.co/xZqMWd4PU8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061233270592049152"
+          ]
+        },
+        "author_id": "267695291",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213221052417",
+              "name": "The Age"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1582737213992759298",
+              "name": "The Sydney Morning Herald"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2061233284273807602",
+        "created_at": "2026-05-31T23:48:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T00:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061233284273807602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "32201814",
+              "start": 27,
+              "username": "theage"
+            },
+            {
+              "end": 47,
+              "id": "16675569",
+              "start": 43,
+              "username": "smh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZqMWd4PU8",
+              "end": 104,
+              "expanded_url": "https://x.com/badiucao/status/2061233284273807602/photo/1",
+              "media_key": "3_2061233270592049152",
+              "start": 81,
+              "url": "https://t.co/xZqMWd4PU8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061233284273807602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 37076,
+          "like_count": 752,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "八九六四 37周年纪念漫画\n于今日发表于澳洲时代报纸 @theage 和悉尼先驱晨报 @smh \n“都37七年了\n看看中国的今天何其进步\n你怎么还在这儿挡道？” https://t.co/xZqMWd4PU8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6211,
+          "following_count": 220,
+          "like_count": 24920,
+          "listed_count": 16,
+          "media_count": 1788,
+          "tweet_count": 21750
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-17T11:22:49.000Z",
+        "description": "Chinese Australian artist/Award wining cartoonist for @theage @smh /Human rights Activist/Anti-CCP/New Book https://t.co/O7ZmTytF6D",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 54,
+                "username": "theage"
+              },
+              {
+                "end": 66,
+                "start": 62,
+                "username": "smh"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "badiucao.com/book",
+                "end": 131,
+                "expanded_url": "http://www.badiucao.com/book",
+                "start": 108,
+                "url": "https://t.co/O7ZmTytF6D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "badiucao.com",
+                "end": 23,
+                "expanded_url": "https://badiucao.com",
+                "start": 0,
+                "url": "https://t.co/kCZxU6rJLo"
+              }
+            ]
+          }
+        },
+        "id": "267695291",
+        "name": "巴丢草 Bad ї ucao",
+        "pinned_tweet_id": "2019663942713504158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1251816290211082240/jo1xNu8y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126175,
+          "following_count": 16318,
+          "like_count": 43371,
+          "listed_count": 927,
+          "media_count": 11628,
+          "tweet_count": 230646
+        },
+        "url": "https://t.co/kCZxU6rJLo",
+        "username": "badiucao",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-16T23:28:23.000Z",
+        "description": "Breaking news. Must-read columnists. Award-winning investigative journalism. Independent. Always. 🗞️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "theage.com.au",
+                "end": 23,
+                "expanded_url": "http://www.theage.com.au",
+                "start": 0,
+                "url": "https://t.co/M0zesozsr3"
+              }
+            ]
+          }
+        },
+        "id": "32201814",
+        "location": "Melbourne, Australia",
+        "name": "The Age",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1091122118547230722/ZWXcd6en_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874295,
+          "following_count": 1252,
+          "like_count": 496,
+          "listed_count": 4516,
+          "media_count": 21292,
+          "tweet_count": 173004
+        },
+        "url": "https://t.co/M0zesozsr3",
+        "username": "theage",
+        "verified": true
+      },
+      {
+        "created_at": "2008-10-09T23:05:36.000Z",
+        "description": "Australia's leading news source. Independent. Always.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "smh.com.au",
+                "end": 23,
+                "expanded_url": "http://www.smh.com.au",
+                "start": 0,
+                "url": "https://t.co/HxS3aiSjfw"
+              }
+            ]
+          }
+        },
+        "id": "16675569",
+        "location": "Sydney, Australia",
+        "name": "The Sydney Morning Herald",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/967839415803437056/l7qHd7oD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 874382,
+          "following_count": 704,
+          "like_count": 527,
+          "listed_count": 6479,
+          "media_count": 13603,
+          "tweet_count": 248120
+        },
+        "url": "https://t.co/HxS3aiSjfw",
+        "username": "smh",
+        "verified": true
+      }
+    ]
+  }
+}

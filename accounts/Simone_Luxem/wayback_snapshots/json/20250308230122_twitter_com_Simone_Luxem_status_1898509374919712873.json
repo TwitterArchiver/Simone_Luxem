@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1898509374919712873",
+    "created_at": "2025-03-08T23:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T00:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898509374919712873"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lorgarwasright…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/lorgarwasright/status/1898215740555378991",
+          "start": 33,
+          "url": "https://t.co/x2AEJsS0hN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898509374919712873",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898215740555378991",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Together, I am the chosen shit ( https://t.co/x2AEJsS0hN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_1898215729029431301",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlfRJfvbwAUz1p_.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1898509374919712873",
+        "created_at": "2025-03-08T23:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T00:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898509374919712873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lorgarwasright…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/lorgarwasright/status/1898215740555378991",
+              "start": 33,
+              "url": "https://t.co/x2AEJsS0hN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898509374919712873",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898215740555378991",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Together, I am the chosen shit ( https://t.co/x2AEJsS0hN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898215729029431301"
+          ]
+        },
+        "author_id": "758901515809546240",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1898215740555378991",
+        "created_at": "2025-03-08T03:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T04:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898215740555378991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y9Sf7vEMlH",
+              "end": 23,
+              "expanded_url": "https://x.com/Lorgarwasright/status/1898215740555378991/photo/1",
+              "media_key": "3_1898215729029431301",
+              "start": 0,
+              "url": "https://t.co/Y9Sf7vEMlH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898215740555378991",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1252,
+          "impression_count": 160209,
+          "like_count": 13326,
+          "quote_count": 27,
+          "reply_count": 35,
+          "retweet_count": 1257
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Y9Sf7vEMlH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4074,
+          "following_count": 222,
+          "like_count": 19536,
+          "listed_count": 12,
+          "media_count": 1500,
+          "tweet_count": 18755
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-29T05:46:35.000Z",
+        "description": "Arch priest of the primordial truth and the high minister chaos. Shitposting from the Templum Inficio for the last 10k years.",
+        "id": "758901515809546240",
+        "location": "Templum Inficio",
+        "name": "Lorgar Aurelian",
+        "pinned_tweet_id": "1893287533519241219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840930324794220544/Rlqo58ve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27871,
+          "following_count": 338,
+          "like_count": 5756,
+          "listed_count": 27,
+          "media_count": 5542,
+          "tweet_count": 6608
+        },
+        "username": "Lorgarwasright",
+        "verified": true
+      }
+    ]
+  }
+}

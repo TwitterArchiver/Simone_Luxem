@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047231579861454848"
+      ],
+      "media_source_tweet_id": [
+        "2047231766617038864"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "2047262987690639467",
+    "created_at": "2026-04-23T10:35:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T11:35:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047262987690639467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1479696561302999042",
+          "start": 3,
+          "username": "quite8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/erdhOEQaE8",
+          "end": 94,
+          "expanded_url": "https://x.com/quite8964/status/2047231766617038864/photo/1",
+          "media_key": "3_2047231579861454848",
+          "start": 71,
+          "url": "https://t.co/erdhOEQaE8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047262987690639467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047231766617038864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quite8964: 朋友开的游戏公司在招程序员，在深圳，友跨氛围好，提供独立单间住宿，欢迎小药娘，邮箱：xyn@prpr.date https://t.co/erdhOEQaE8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2752,
+        "media_key": "3_2047231579861454848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGk6RnKakAAlAhB.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047231579861454848"
+          ],
+          "media_source_tweet_id": [
+            "2047231766617038864"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "2047262987690639467",
+        "created_at": "2026-04-23T10:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T11:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047262987690639467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1479696561302999042",
+              "start": 3,
+              "username": "quite8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/erdhOEQaE8",
+              "end": 94,
+              "expanded_url": "https://x.com/quite8964/status/2047231766617038864/photo/1",
+              "media_key": "3_2047231579861454848",
+              "start": 71,
+              "url": "https://t.co/erdhOEQaE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047262987690639467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047231766617038864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quite8964: 朋友开的游戏公司在招程序员，在深圳，友跨氛围好，提供独立单间住宿，欢迎小药娘，邮箱：xyn@prpr.date https://t.co/erdhOEQaE8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047231579861454848"
+          ]
+        },
+        "author_id": "1479696561302999042",
+        "conversation_id": "2047231766617038864",
+        "created_at": "2026-04-23T08:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047231766617038864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/erdhOEQaE8",
+              "end": 79,
+              "expanded_url": "https://x.com/quite8964/status/2047231766617038864/photo/1",
+              "media_key": "3_2047231579861454848",
+              "start": 56,
+              "url": "https://t.co/erdhOEQaE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047231766617038864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 1404,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "朋友开的游戏公司在招程序员，在深圳，友跨氛围好，提供独立单间住宿，欢迎小药娘，邮箱：xyn@prpr.date https://t.co/erdhOEQaE8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6053,
+          "following_count": 216,
+          "like_count": 24388,
+          "listed_count": 19,
+          "media_count": 1772,
+          "tweet_count": 21570
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 想要得到更多的喜欢和爱 可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "dominnicchina"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "枫糖小橘🍊",
+        "pinned_tweet_id": "2039014410736529909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938519215071481856/RGyMr1ce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10547,
+          "following_count": 3033,
+          "like_count": 33520,
+          "listed_count": 24,
+          "media_count": 642,
+          "tweet_count": 14714
+        },
+        "username": "quite8964",
+        "verified": false
+      }
+    ]
+  }
+}

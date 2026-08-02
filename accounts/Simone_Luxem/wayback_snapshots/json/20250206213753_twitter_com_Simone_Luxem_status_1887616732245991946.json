@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1887510654820426035",
+    "created_at": "2025-02-06T21:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T22:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887616732245991946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "754875590231019520",
+          "start": 0,
+          "username": "oldkouyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887616732245991946",
+    "in_reply_to_user_id": "754875590231019520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887592720212135960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oldkouyou …？\n并不是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1887510654820426035",
+        "created_at": "2025-02-06T21:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T22:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887616732245991946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "754875590231019520",
+              "start": 0,
+              "username": "oldkouyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887616732245991946",
+        "in_reply_to_user_id": "754875590231019520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887592720212135960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oldkouyou …？\n并不是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "754875590231019520",
+        "conversation_id": "1887510654820426035",
+        "created_at": "2025-02-06T20:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T21:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887592720212135960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887592720212135960",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887510654820426035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 什么苦修者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3998,
+          "following_count": 222,
+          "like_count": 19138,
+          "listed_count": 10,
+          "media_count": 1484,
+          "tweet_count": 18530
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-18T03:09:00.000Z",
+        "description": "普通的欧陆留学生罢了~",
+        "id": "754875590231019520",
+        "location": "法国",
+        "name": "灰坚果～",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691461343088615424/UfjkEnHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 230,
+          "like_count": 457,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 164
+        },
+        "username": "oldkouyou",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1905070572314534229",
+    "created_at": "2025-03-27T04:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-27T05:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905113073968394332"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1850772146177576960",
+          "start": 0,
+          "username": "Chunier520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905113073968394332",
+    "in_reply_to_user_id": "1850772146177576960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905070572314534229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chunier520 停…没人找我麻烦，也没人能找我麻烦，我做的事情仅因为我自己的个人意愿，与其它的都无关…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1905070572314534229",
+        "created_at": "2025-03-27T04:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T05:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905113073968394332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1850772146177576960",
+              "start": 0,
+              "username": "Chunier520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905113073968394332",
+        "in_reply_to_user_id": "1850772146177576960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905070572314534229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chunier520 停…没人找我麻烦，也没人能找我麻烦，我做的事情仅因为我自己的个人意愿，与其它的都无关…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850772146177576960",
+        "conversation_id": "1905070572314534229",
+        "created_at": "2025-03-27T01:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-27T02:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905070572314534229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1905070572314534229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反对满蒙回跨+这个词的，请在评论区跟我对线，而不是去攻击跟皮下认识的人谢谢\n反对bot就反对bot，bot做的事情和其他人无关，冬翼也不是bot运营者，凭什么要跟她过不去？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4107,
+          "following_count": 220,
+          "like_count": 19791,
+          "listed_count": 11,
+          "media_count": 1510,
+          "tweet_count": 18929
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T05:30:47.000Z",
+        "description": "我们呼吁大家 #关注救助者健康 ，呼吁大家 #关注家暴受害者\n旨在帮助没有流量的跨女获得流量\n爱党爱国，坚决拥护中国共产党领导。请不要把账号内容用于政治目的。\n接约文。\n自杀干预右转 @lianyiganyu \n扭转干预右转 @lwrdhyyuxr22499\nbot没办法帮你，常住运营者A，不常住运营C，A比你还差",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 15,
+                "start": 7,
+                "tag": "关注救助者健康"
+              },
+              {
+                "end": 30,
+                "start": 22,
+                "tag": "关注家暴受害者"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 92,
+                "username": "lianyiganyu"
+              },
+              {
+                "end": 129,
+                "start": 113,
+                "username": "lwrdhyyuxr22499"
+              }
+            ]
+          }
+        },
+        "id": "1850772146177576960",
+        "name": "MtF转发bot（TG那个是冒充的）",
+        "pinned_tweet_id": "1904950960356798901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904469897620701184/IBaWTsyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 336,
+          "like_count": 1819,
+          "listed_count": 4,
+          "media_count": 21,
+          "tweet_count": 3130
+        },
+        "username": "Chunier520",
+        "verified": false
+      }
+    ]
+  }
+}

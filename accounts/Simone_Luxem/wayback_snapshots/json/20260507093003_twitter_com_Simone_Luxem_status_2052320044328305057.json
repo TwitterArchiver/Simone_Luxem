@@ -1,0 +1,534 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2052320044328305057",
+    "created_at": "2026-05-07T09:30:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:30:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052320044328305057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1568268459674574848",
+          "start": 3,
+          "username": "calsys456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052320044328305057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052313250146959554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @calsys456: Migrate from GitHub是一个老生常谈的话题了，从20年被M$收购开始，大家就开始了一批又一批的迁徙。迁徙的理由不尽相同，不过常见的呼声大概是：\n\n• GH…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2052320044328305057",
+        "created_at": "2026-05-07T09:30:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:30:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052320044328305057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1568268459674574848",
+              "start": 3,
+              "username": "calsys456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052320044328305057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052313250146959554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @calsys456: Migrate from GitHub是一个老生常谈的话题了，从20年被M$收购开始，大家就开始了一批又一批的迁徙。迁徙的理由不尽相同，不过常见的呼声大概是：\n\n• GH…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1568268459674574848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2052313250146959554",
+        "created_at": "2026-05-07T09:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052313250146959554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/calsys456/stat…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/calsys456/status/2051866892252635412",
+              "start": 86,
+              "url": "https://t.co/fcCHhqtq7d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052313250146959554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "sfconservancy.org/GiveUpGitHub/",
+                "end": 522,
+                "expanded_url": "https://sfconservancy.org/GiveUpGitHub/",
+                "start": 499,
+                "url": "https://t.co/z0AhebEArt"
+              }
+            ]
+          },
+          "text": "Migrate from GitHub是一个老生常谈的话题了，从20年被M$收购开始，大家就开始了一批又一批的迁徙。迁徙的理由不尽相同，不过常见的呼声大概是：\n\n• GH Copilot的问题。Copilot在训练中使用了大量开源仓库的语料，却未能很好地尊重源代码作者的著作权。尤其是对于\"copyleft\"软件，尽管在法律实践上尚有争议，但却毋庸置疑地违背了大部分著作权人的意愿\n• Copilot在GitHub上四处喷粪，GitHub也在纵容AI和bot账号以其它各种形式四处喷粪。使用AI并非坏事，但关不掉且无法施加限制就不好了。部分项目已经关闭PR功能，issue区也一片狼藉，显然因为不胜其烦\n• 这两年GitHub的uptime（服务在线率）越来越糟糕了，影响了很多重度用户的体验。上个月Ghostty的作者宣布准备迁离，是程序员圈子里比较火的新闻\n• GitHub的支持系统相当糟糕，用户提交工单动辄几周无人回复，就算花钱买pro也不能幸免（\n• GitHub本身并不开源，也无法自建，颇有点吃饭砸碗的感觉\n\n相关的呼吁已经持续了很长时间，比马斯克收购后呼吁迁离推特的呼声还长。比如 https://t.co/z0AhebEArt\n\n我个人迁出GitHub的原因主要是：\n\n• 所谓众人拾柴火焰高。历史的任何时刻，总有相对好的东西，也有相对不好的东西。作为个体，我们用脚投票。如果有可能，在不给自己带来额外负担的情况下，尽量支持好的东西、支持社群运动，总是好的；\n• GitHub的支持系统确实太糟糕了，店大欺客。去年六月我的github账号被误封了大半个月，工单迟迟没有反馈，以至于影响到了工作；\n• 现在的GitHub社交属性太强了，里面的风气也令人不适。虽然我确实喜欢写出一些好东西收获大家关注，但我并不喜欢时时刻刻被社交和以社交为目的的评价所包围，也不太喜欢这样的平台。熟悉我的人知道我习惯动辄断网，大概也是同样的动机；\n• GitHub所独有的大部分功能我并不需要，例如慷慨的CI（GitHub Actions）、AI review、在线预览，甚至是star/pr/issue系统，迁移毫无压力；\n\n之所以选择sourcehut，而非gitlab/sourceforge/bitbucket/codeberg/自建的原因主要有：\n\n• 它很有趣\n• 在sourcehut上提交patch或参与讨论不需要注册账号，所有讨论直接在公开的邮件列表里进行。这对github以外的小众平台是重大利好。换位思考，如果参与一个CMS的讨论就要注册一个账号的话我会疯的\n• 呃呃我不喜欢tracking system我为什么还要使用那些把tracking systems(star, code frequency, repo history analysis)拍在访客脸上的平台，尤其还是小众平台\n• host on sourcehut有一个donateware性质的订阅门槛，有些人可能不喜欢，但我无所谓。Copyleft并非不鼓励收费，我愿意资助好的开发者过上工薪阶层应有的生活。何况它的订阅费确实很亲民，financial aids plan只有$2/mo，自建比这贵多了\n• 不选择自建的原因主要是我不觉得自己能活的比CMS平台长，自建的话人走茶凉就没有了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051866892252635412",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Migrate from GitHub是一个老生常谈的话题了，从20年被M$收购开始，大家就开始了一批又一批的迁徙。迁徙的理由不尽相同，不过常见的呼声大概是：\n\n• GH https://t.co/fcCHhqtq7d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6184,
+          "following_count": 220,
+          "like_count": 24548,
+          "listed_count": 19,
+          "media_count": 1777,
+          "tweet_count": 21641
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-09T16:02:05.000Z",
+        "description": "ADHD & BPD & C-PTSD & DID & MDD & Schizophrenia | Write in Lisp | Sister @Simone_Luxem @AsdQWD358224, Lover @HANLIANYI331 @wired_hero @Caroline_9870 @miruku2937",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 73,
+                "username": "Simone_Luxem"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 121,
+                "start": 108,
+                "username": "HANLIANYI331"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "wired_hero"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "miruku2937"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "calsys.org",
+                "end": 23,
+                "expanded_url": "https://calsys.org",
+                "start": 0,
+                "url": "https://t.co/MUWDEAOVp9"
+              }
+            ]
+          }
+        },
+        "id": "1568268459674574848",
+        "location": "Wuhan",
+        "name": "北雁月月「月历系统」🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010619340497043456/kc6DVAN3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2345,
+          "following_count": 1132,
+          "like_count": 48615,
+          "listed_count": 8,
+          "media_count": 266,
+          "tweet_count": 4950
+        },
+        "url": "https://t.co/MUWDEAOVp9",
+        "username": "calsys456",
+        "verified": true
+      }
+    ]
+  }
+}

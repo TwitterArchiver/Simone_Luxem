@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1841503718673383511",
+    "created_at": "2024-10-02T15:41:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T16:41:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841503718673383511"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1841503718673383511",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "精神状态不好的时候读取不属于自己的记忆的情况变得好严重…\n自己趴桌子，有自己缩起来躲在角落里被揪出来骂“躲什么躲”“还有脸躲”之类的话的幻觉，一遍遍冲击自己的意识，让自己在一些瞬间都会以为那是真的正在自己身上发生的…\n可是实际上并不是…也应该是没有发生过的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1841503718673383511",
+        "created_at": "2024-10-02T15:41:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T16:41:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841503718673383511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1841503718673383511",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "精神状态不好的时候读取不属于自己的记忆的情况变得好严重…\n自己趴桌子，有自己缩起来躲在角落里被揪出来骂“躲什么躲”“还有脸躲”之类的话的幻觉，一遍遍冲击自己的意识，让自己在一些瞬间都会以为那是真的正在自己身上发生的…\n可是实际上并不是…也应该是没有发生过的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3751,
+          "following_count": 224,
+          "like_count": 17224,
+          "listed_count": 9,
+          "tweet_count": 17251
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

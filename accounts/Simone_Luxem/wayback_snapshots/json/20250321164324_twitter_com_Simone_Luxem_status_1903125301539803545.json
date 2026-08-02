@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1903125301539803545",
+    "created_at": "2025-03-21T16:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T17:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903125301539803545"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/unguentumli/st…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/unguentumli/status/1903106672442462249",
+          "start": 145,
+          "url": "https://t.co/SVzWX9sKxR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903125301539803545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903106672442462249",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "莫大的讽刺是什么呢\n我自己是一个偏向于“归化”的，倒不是自己觉得这是什么义务，而是自己本来在很多事情上就是“不在意”或者“没有自己的模式”的，因此会自然而然地受自己所生活的环境的大幅影响变得与当地人相似\n于是我和当地人一起维护人的言论自由，与当地学生一起维护学术自由，然后，它们就要我死了 https://t.co/SVzWX9sKxR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1903125301539803545",
+        "created_at": "2025-03-21T16:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T17:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903125301539803545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/unguentumli/st…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/unguentumli/status/1903106672442462249",
+              "start": 145,
+              "url": "https://t.co/SVzWX9sKxR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903125301539803545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903106672442462249",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "莫大的讽刺是什么呢\n我自己是一个偏向于“归化”的，倒不是自己觉得这是什么义务，而是自己本来在很多事情上就是“不在意”或者“没有自己的模式”的，因此会自然而然地受自己所生活的环境的大幅影响变得与当地人相似\n于是我和当地人一起维护人的言论自由，与当地学生一起维护学术自由，然后，它们就要我死了 https://t.co/SVzWX9sKxR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1738260366831071232",
+        "conversation_id": "1903105534275748305",
+        "created_at": "2025-03-21T15:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T16:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903106672442462249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1574491477543206912",
+              "start": 0,
+              "username": "AomameYe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903106672442462249",
+        "in_reply_to_user_id": "1574491477543206912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 0,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903105534275748305",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AomameYe 我如果以后入籍在哪儿落叶生根以后当然会“归化”融入当地社会。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4100,
+          "following_count": 222,
+          "like_count": 19723,
+          "listed_count": 11,
+          "media_count": 1506,
+          "tweet_count": 18881
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T18:09:12.000Z",
+        "description": "雪霖霖的新号 je suis parfumeur 大齡術後小阿姨（重生日7.1日）Nomen Latinum 考古學愛好 東亞전통 의상 我們的存在是對惡意最大的反抗",
+        "id": "1738260366831071232",
+        "name": "눈霖霖🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871383167170379776/23SXRg23_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 1209,
+          "like_count": 6035,
+          "listed_count": 5,
+          "media_count": 217,
+          "tweet_count": 1353
+        },
+        "username": "UnguentumLi",
+        "verified": false
+      }
+    ]
+  }
+}

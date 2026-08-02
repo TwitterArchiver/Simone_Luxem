@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1826221345971061170",
+    "created_at": "2024-08-21T12:07:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-21T13:07:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826229684037681643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1641412507305648129",
+          "start": 0,
+          "username": "TooHimeno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826229684037681643",
+    "in_reply_to_user_id": "1641412507305648129",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826228552456720651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TooHimeno 没办法，我也秃…\n就只能反正长自己脑袋顶上自己也看不见眼不见心不烦了orz…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1826221345971061170",
+        "created_at": "2024-08-21T12:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T13:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826229684037681643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1641412507305648129",
+              "start": 0,
+              "username": "TooHimeno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826229684037681643",
+        "in_reply_to_user_id": "1641412507305648129",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826228552456720651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TooHimeno 没办法，我也秃…\n就只能反正长自己脑袋顶上自己也看不见眼不见心不烦了orz…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1641412507305648129",
+        "conversation_id": "1826221345971061170",
+        "created_at": "2024-08-21T12:03:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-21T13:03:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826228552456720651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826228552456720651",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826221345971061170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 姐姐，脱发你是怎么办的，我也有点脱发了，洗澡的时候焦虑死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3643,
+          "following_count": 221,
+          "like_count": 16134,
+          "listed_count": 8,
+          "tweet_count": 16669
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T12:10:19.000Z",
+        "description": "",
+        "id": "1641412507305648129",
+        "name": "姫野 永遠🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1648854698491879428/ea-Kqk-m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 318,
+          "like_count": 139,
+          "listed_count": 0,
+          "tweet_count": 203
+        },
+        "username": "TooHimeno",
+        "verified": false
+      }
+    ]
+  }
+}

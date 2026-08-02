@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1821888594413248636",
+    "created_at": "2024-08-09T12:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T13:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821888594413248636"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1821888594413248636",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已经无法用语言来表达我的仇恨与愤怒了…\n从视频中见到的亚明，已经可以用不成人形来形容了，毫不夸张地说…\n…\n这件事情，即使亚明死了，也不会结案了：需要亚明的父母，当地派出所的警察，扭转机构的运营者和负责人，参与绑架运输虐待的每一个“教官”，扭转机构在当地的保护伞…每一个人，全都死掉."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1821888594413248636",
+        "created_at": "2024-08-09T12:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T13:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821888594413248636"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1821888594413248636",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已经无法用语言来表达我的仇恨与愤怒了…\n从视频中见到的亚明，已经可以用不成人形来形容了，毫不夸张地说…\n…\n这件事情，即使亚明死了，也不会结案了：需要亚明的父母，当地派出所的警察，扭转机构的运营者和负责人，参与绑架运输虐待的每一个“教官”，扭转机构在当地的保护伞…每一个人，全都死掉."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3476,
+          "following_count": 223,
+          "like_count": 15864,
+          "listed_count": 8,
+          "tweet_count": 16415
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

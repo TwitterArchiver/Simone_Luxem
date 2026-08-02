@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005114578263531520",
+        "3_2005114578284523520",
+        "3_2005114578313904130"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "2005114586987680130",
+    "created_at": "2025-12-28T03:12:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T04:12:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005114586987680130"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AFoUNJVDJM",
+          "end": 42,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2005114586987680130/photo/1",
+          "media_key": "3_2005114578263531520",
+          "start": 19,
+          "url": "https://t.co/AFoUNJVDJM"
+        },
+        {
+          "display_url": "pic.x.com/AFoUNJVDJM",
+          "end": 42,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2005114586987680130/photo/1",
+          "media_key": "3_2005114578284523520",
+          "start": 19,
+          "url": "https://t.co/AFoUNJVDJM"
+        },
+        {
+          "display_url": "pic.x.com/AFoUNJVDJM",
+          "end": 42,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2005114586987680130/photo/1",
+          "media_key": "3_2005114578313904130",
+          "start": 19,
+          "url": "https://t.co/AFoUNJVDJM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005114586987680130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "论为什么我明明在郁期却愣是能被气到… https://t.co/AFoUNJVDJM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1202,
+        "media_key": "3_2005114578263531520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9OZFdta4AA0vz9.jpg",
+        "width": 565
+      },
+      {
+        "height": 1194,
+        "media_key": "3_2005114578284523520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9OZFdybMAA2X8s.jpg",
+        "width": 567
+      },
+      {
+        "height": 1210,
+        "media_key": "3_2005114578313904130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9OZFd5bgAIy5zW.jpg",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005114578263531520",
+            "3_2005114578284523520",
+            "3_2005114578313904130"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "2005114586987680130",
+        "created_at": "2025-12-28T03:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T04:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005114586987680130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFoUNJVDJM",
+              "end": 42,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2005114586987680130/photo/1",
+              "media_key": "3_2005114578263531520",
+              "start": 19,
+              "url": "https://t.co/AFoUNJVDJM"
+            },
+            {
+              "display_url": "pic.x.com/AFoUNJVDJM",
+              "end": 42,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2005114586987680130/photo/1",
+              "media_key": "3_2005114578284523520",
+              "start": 19,
+              "url": "https://t.co/AFoUNJVDJM"
+            },
+            {
+              "display_url": "pic.x.com/AFoUNJVDJM",
+              "end": 42,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2005114586987680130/photo/1",
+              "media_key": "3_2005114578313904130",
+              "start": 19,
+              "url": "https://t.co/AFoUNJVDJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005114586987680130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "论为什么我明明在郁期却愣是能被气到… https://t.co/AFoUNJVDJM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5996,
+          "following_count": 216,
+          "like_count": 23384,
+          "listed_count": 17,
+          "media_count": 1726,
+          "tweet_count": 21053
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

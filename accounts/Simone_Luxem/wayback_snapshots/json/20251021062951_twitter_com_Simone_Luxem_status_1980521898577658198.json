@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1980517804840472765",
+    "created_at": "2025-10-21T06:29:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T07:29:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980521898577658198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1287402082509545474",
+          "start": 0,
+          "username": "SF98964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980521898577658198",
+    "in_reply_to_user_id": "1287402082509545474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980517804840472765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SF98964 评价为这餐桌礼仪还不如我呢，而我大概是众所周知的“我蛮夷也”的那种…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1980517804840472765",
+        "created_at": "2025-10-21T06:29:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:29:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980521898577658198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1287402082509545474",
+              "start": 0,
+              "username": "SF98964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980521898577658198",
+        "in_reply_to_user_id": "1287402082509545474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980517804840472765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SF98964 评价为这餐桌礼仪还不如我呢，而我大概是众所周知的“我蛮夷也”的那种…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1287402082509545474",
+        "conversation_id": "1980517804840472765",
+        "created_at": "2025-10-21T06:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T07:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980517804840472765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/laitonyjiantao…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/laitonyjiantao/status/1980188117253656869",
+              "start": 99,
+              "url": "https://t.co/QMwa4ZTv4v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980517804840472765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980188117253656869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有桌布，扣1分\n只有一套餐具，扣10分\n没有解腻饮品，扣20分\n仔细一看这个摆盘乱七八糟，扣50分\n没有餐巾，扣70分\n桌椅背景布置连牢中中产的家居都不如，扣100分\n建议来星际舰队学习餐桌礼仪 https://t.co/QMwa4ZTv4v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5517,
+          "following_count": 215,
+          "like_count": 22727,
+          "listed_count": 15,
+          "media_count": 1679,
+          "tweet_count": 20602
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T14:59:23.000Z",
+        "description": "A United Federation of Planets Starship/Tweet in English, 中文 even 日本語 Retweet ≠ Endorsement #GayMarriage #FuckTrump",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 104,
+                "start": 92,
+                "tag": "GayMarriage"
+              },
+              {
+                "end": 115,
+                "start": 105,
+                "tag": "FuckTrump"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deviantart.com/survivorstudio",
+                "end": 23,
+                "expanded_url": "https://www.deviantart.com/survivorstudio",
+                "start": 0,
+                "url": "https://t.co/NqAnseBeCn"
+              }
+            ]
+          }
+        },
+        "id": "1287402082509545474",
+        "location": "Alpha Quadrant, Star Fleet Ops",
+        "name": "U.S.S. Renegade NCC-98964",
+        "pinned_tweet_id": "1873477500690702760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818677381328211968/IgkIRVKt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 193,
+          "like_count": 6531,
+          "listed_count": 4,
+          "media_count": 1081,
+          "tweet_count": 12224
+        },
+        "url": "https://t.co/NqAnseBeCn",
+        "username": "SF98964",
+        "verified": false
+      }
+    ]
+  }
+}

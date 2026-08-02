@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2045519992922501563",
+    "created_at": "2026-04-18T15:09:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:09:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045519992922501563"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045519992922501563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "罕见地穿短裙出门\n然后发现不知道自己又长高了还是二次发育了，原本到膝盖的裙子，现在只能盖过去屁股了…\n嗯，自己对于一切没法在坐姿情况下包住屁股，长度盖过膝盖的裙子都有一种强烈而莫名的羞耻感…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2045519992922501563",
+        "created_at": "2026-04-18T15:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045519992922501563"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045519992922501563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "罕见地穿短裙出门\n然后发现不知道自己又长高了还是二次发育了，原本到膝盖的裙子，现在只能盖过去屁股了…\n嗯，自己对于一切没法在坐姿情况下包住屁股，长度盖过膝盖的裙子都有一种强烈而莫名的羞耻感…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6027,
+          "following_count": 215,
+          "like_count": 24337,
+          "listed_count": 19,
+          "media_count": 1767,
+          "tweet_count": 21540
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

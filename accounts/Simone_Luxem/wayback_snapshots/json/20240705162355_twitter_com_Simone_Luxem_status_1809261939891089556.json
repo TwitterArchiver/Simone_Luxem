@@ -1,0 +1,202 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1809199640887054824",
+    "created_at": "2024-07-05T16:23:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T17:23:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809261939891089556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753998690677874688",
+          "start": 0,
+          "username": "EAzure19511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809261939891089556",
+    "in_reply_to_user_id": "1753998690677874688",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809260781797814489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EAzure19511 ...谢谢你..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1809199640887054824",
+        "created_at": "2024-07-05T16:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T17:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809261939891089556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753998690677874688",
+              "start": 0,
+              "username": "EAzure19511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809261939891089556",
+        "in_reply_to_user_id": "1753998690677874688",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809260781797814489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EAzure19511 ...谢谢你..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1753998690677874688",
+        "conversation_id": "1809199640887054824",
+        "created_at": "2024-07-05T16:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T17:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809260781797814489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809260781797814489",
+        "in_reply_to_user_id": "1753998690677874688",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809260101662122045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 说是偶像大概不太确切...憧憬和景仰，这样说更准确些吧..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3364,
+          "following_count": 221,
+          "like_count": 14829,
+          "listed_count": 10,
+          "tweet_count": 15827
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-04T04:27:47.000Z",
+        "description": "MTX~F | 代词随意 | 说话喜欢带\"我\" | 睡不够会很烦 | 重力放出 | 需要评价和建议 | 时间永远不够用 | 小孩子气 | 迷子 |  努力成长中 | 雌二醇重度依赖 | 推特重度依恋~ | 喜欢鹿目圆、珂朵莉、高松灯 | 不希望任何朋友继续痛苦下去 | 希望能一直幸运而纯洁🍀⚜️",
+        "id": "1753998690677874688",
+        "location": "哈尔滨",
+        "name": "Azure Ether (soaked in sin)",
+        "pinned_tweet_id": "1799080814543774169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807788974007869440/GPBHkRiL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 398,
+          "like_count": 26610,
+          "listed_count": 2,
+          "tweet_count": 4126
+        },
+        "username": "EAzure19511",
+        "verified": false
+      }
+    ]
+  }
+}

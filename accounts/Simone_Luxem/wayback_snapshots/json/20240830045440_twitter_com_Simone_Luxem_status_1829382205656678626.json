@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1829377404793749504"
+      ],
+      "media_source_tweet_id": [
+        "1829377407444553732"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1829382205656678626",
+    "created_at": "2024-08-30T04:54:40.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-30T05:54:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1829382205656678626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1354157392959660038",
+          "start": 3,
+          "username": "translate_cn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/gaybreakfast/s…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/GayBreakfast/status/1668345245610954755",
+          "start": 62,
+          "url": "https://t.co/Jmm4Q1lfxn"
+        },
+        {
+          "display_url": "pic.x.com/61dshinanm",
+          "end": 109,
+          "expanded_url": "https://twitter.com/translate_cn/status/1829377407444553732/photo/1",
+          "media_key": "3_1829377404793749504",
+          "start": 86,
+          "url": "https://t.co/61DShinaNm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1829382205656678626",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1829377407444553732",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @translate_cn: 我们不需要去回应那些恶意的攻击和中伤。\n\n让我们把时间和精力花在我们喜爱的事物上吧。\n\nhttps://t.co/Jmm4Q1lfxn https://t.co/61DShinaNm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1829377404793749504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GWNBDqTbgAAV2cU.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829377404793749504"
+          ],
+          "media_source_tweet_id": [
+            "1829377407444553732"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1829382205656678626",
+        "created_at": "2024-08-30T04:54:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T05:54:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1829382205656678626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1354157392959660038",
+              "start": 3,
+              "username": "translate_cn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/gaybreakfast/s…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/GayBreakfast/status/1668345245610954755",
+              "start": 62,
+              "url": "https://t.co/Jmm4Q1lfxn"
+            },
+            {
+              "display_url": "pic.x.com/61dshinanm",
+              "end": 109,
+              "expanded_url": "https://twitter.com/translate_cn/status/1829377407444553732/photo/1",
+              "media_key": "3_1829377404793749504",
+              "start": 86,
+              "url": "https://t.co/61DShinaNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829382205656678626",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1829377407444553732",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @translate_cn: 我们不需要去回应那些恶意的攻击和中伤。\n\n让我们把时间和精力花在我们喜爱的事物上吧。\n\nhttps://t.co/Jmm4Q1lfxn https://t.co/61DShinaNm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1829377404793749504"
+          ]
+        },
+        "author_id": "1354157392959660038",
+        "conversation_id": "1829377407444553732",
+        "created_at": "2024-08-30T04:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-30T05:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1829377407444553732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gaybreakfast/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/GayBreakfast/status/1668345245610954755",
+              "start": 44,
+              "url": "https://t.co/Jmm4Q1lfxn"
+            },
+            {
+              "display_url": "pic.x.com/61dshinanm",
+              "end": 91,
+              "expanded_url": "https://twitter.com/translate_cn/status/1829377407444553732/photo/1",
+              "media_key": "3_1829377404793749504",
+              "start": 68,
+              "url": "https://t.co/61DShinaNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1829377407444553732",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 291,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1668345245610954755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们不需要去回应那些恶意的攻击和中伤。\n\n让我们把时间和精力花在我们喜爱的事物上吧。\n\nhttps://t.co/Jmm4Q1lfxn https://t.co/61DShinaNm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3662,
+          "following_count": 225,
+          "like_count": 16359,
+          "listed_count": 8,
+          "tweet_count": 16785
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-26T20:01:30.000Z",
+        "description": "翻译中的用词取舍、是否为选译等信息，请至我们电报频道的评论区查看。\n\n有意一起翻译/做图嵌字/做字幕的朋友请联系我们。",
+        "id": "1354157392959660038",
+        "name": "推特翻译",
+        "pinned_tweet_id": "1712022291092275438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1354668835484225540/azcPVoB3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16353,
+          "following_count": 20,
+          "like_count": 555,
+          "listed_count": 94,
+          "tweet_count": 7929
+        },
+        "username": "translate_cn",
+        "verified": false
+      }
+    ]
+  }
+}

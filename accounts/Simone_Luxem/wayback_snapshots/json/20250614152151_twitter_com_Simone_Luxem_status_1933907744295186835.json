@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1933907744295186835",
+    "created_at": "2025-06-14T15:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T16:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933907744295186835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1919053439960748032",
+          "start": 3,
+          "username": "asdmtfpride"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933907744295186835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933886583838757329",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asdmtfpride: 帮个忙吧，宫笙是自杀干预志愿者，帮助过不少人的，大家有条件的捐点或者扩散下消息，谢谢了，她已经吃不上饭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1933907744295186835",
+        "created_at": "2025-06-14T15:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T16:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933907744295186835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1919053439960748032",
+              "start": 3,
+              "username": "asdmtfpride"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933907744295186835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933886583838757329",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asdmtfpride: 帮个忙吧，宫笙是自杀干预志愿者，帮助过不少人的，大家有条件的捐点或者扩散下消息，谢谢了，她已经吃不上饭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1919053439960748032",
+        "conversation_id": "1933886583838757329",
+        "created_at": "2025-06-14T13:57:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T14:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933886583838757329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shuo_zi27516/s…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/shuo_zi27516/status/1932578900749738454",
+              "start": 53,
+              "url": "https://t.co/cHbVlkkfxV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933886583838757329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 113,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932578900749738454",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "帮个忙吧，宫笙是自杀干预志愿者，帮助过不少人的，大家有条件的捐点或者扩散下消息，谢谢了，她已经吃不上饭了 https://t.co/cHbVlkkfxV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4278,
+          "following_count": 221,
+          "like_count": 20535,
+          "listed_count": 12,
+          "media_count": 1591,
+          "tweet_count": 19587
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T15:36:18.000Z",
+        "description": "橙凝凌",
+        "id": "1919053439960748032",
+        "name": "橙凝凌",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 61,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 158
+        },
+        "username": "asdmtfpride",
+        "verified": false
+      }
+    ]
+  }
+}

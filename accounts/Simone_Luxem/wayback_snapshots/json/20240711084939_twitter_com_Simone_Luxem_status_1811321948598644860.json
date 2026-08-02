@@ -1,0 +1,239 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1811321948598644860",
+    "created_at": "2024-07-11T08:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T09:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1811321948598644860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/garrulous_abys…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/garrulous_abyss/status/1811052089960702184",
+          "start": 132,
+          "url": "https://t.co/CNOeLyEQhz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811321948598644860",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811052089960702184",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起来我还真的会修水管,而且真的修过自己家水管,以及自家衣柜空调...\n其实自己动手能力大概还是蛮强的吧,唯一的问题就还是那个老问题,自己所有的产出都表现出了过于强烈的想象力...\n大概过于“俺寻思这玩意这么装能用”的那种...就...产品的可靠性比较随机... https://t.co/CNOeLyEQhz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1811321948598644860",
+        "created_at": "2024-07-11T08:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T09:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811321948598644860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1811052089960702184",
+              "start": 132,
+              "url": "https://t.co/CNOeLyEQhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811321948598644860",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811052089960702184",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来我还真的会修水管,而且真的修过自己家水管,以及自家衣柜空调...\n其实自己动手能力大概还是蛮强的吧,唯一的问题就还是那个老问题,自己所有的产出都表现出了过于强烈的想象力...\n大概过于“俺寻思这玩意这么装能用”的那种...就...产品的可靠性比较随机... https://t.co/CNOeLyEQhz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1811052084533309440",
+            "3_1811052084676153351",
+            "3_1811052084512337920",
+            "3_1811052084524920832"
+          ]
+        },
+        "author_id": "4752010152",
+        "conversation_id": "1811052089960702184",
+        "created_at": "2024-07-10T14:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-10T15:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811052089960702184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/rjAksG0R9Y",
+              "end": 171,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1811052089960702184/photo/1",
+              "media_key": "3_1811052084533309440",
+              "start": 148,
+              "url": "https://t.co/rjAksG0R9Y"
+            },
+            {
+              "display_url": "pic.twitter.com/rjAksG0R9Y",
+              "end": 171,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1811052089960702184/photo/1",
+              "media_key": "3_1811052084676153351",
+              "start": 148,
+              "url": "https://t.co/rjAksG0R9Y"
+            },
+            {
+              "display_url": "pic.twitter.com/rjAksG0R9Y",
+              "end": 171,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1811052089960702184/photo/1",
+              "media_key": "3_1811052084512337920",
+              "start": 148,
+              "url": "https://t.co/rjAksG0R9Y"
+            },
+            {
+              "display_url": "pic.twitter.com/rjAksG0R9Y",
+              "end": 171,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/1811052089960702184/photo/1",
+              "media_key": "3_1811052084524920832",
+              "start": 148,
+              "url": "https://t.co/rjAksG0R9Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811052089960702184",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 38229,
+          "like_count": 317,
+          "quote_count": 15,
+          "reply_count": 23,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "没啥奇怪的\n\n像法国人，无论男女都普遍“非常独立”，很多情侣在一起好几年了，还是只民事结合，经济账各算各的。\n\n既然大家都独立，那对象钱多钱少就无所谓啊。是否有趣，帅气，身材棒才最要。\n\n另外一点就是，比如像学术科研这种工作，实在太损耗人的“精神力”了。论“性吸引”程度，我也投水管工一票orz https://t.co/rjAksG0R9Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3374,
+          "following_count": 220,
+          "like_count": 15055,
+          "listed_count": 9,
+          "tweet_count": 15954
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//双性恋//百合ing 女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//真·法语学习博主//中文//English//français// 可能会ban纯黄推、纯政治推 //见到Incel、terf、小粉红、魔怔人立刻拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Yaoyao38324"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20401,
+          "following_count": 2942,
+          "like_count": 103648,
+          "listed_count": 62,
+          "tweet_count": 38783
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

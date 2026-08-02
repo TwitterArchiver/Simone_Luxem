@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1928318392894706037",
+    "created_at": "2025-05-30T05:11:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T06:11:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928318392894706037"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quack_one/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/quack_one/status/1927954905458712620",
+          "start": 19,
+          "url": "https://t.co/HsmkZdQI8A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928318392894706037",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927954905458712620",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为我，或者说人，上厕所是为了拉屎的 https://t.co/HsmkZdQI8A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1928318392894706037",
+        "created_at": "2025-05-30T05:11:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T06:11:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928318392894706037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quack_one/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/quack_one/status/1927954905458712620",
+              "start": 19,
+              "url": "https://t.co/HsmkZdQI8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928318392894706037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927954905458712620",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我，或者说人，上厕所是为了拉屎的 https://t.co/HsmkZdQI8A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764728841010831360",
+        "conversation_id": "1927954905458712620",
+        "created_at": "2025-05-29T05:07:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T06:07:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927954905458712620"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1927954905458712620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 21615,
+          "like_count": 155,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "搞不懂有些跨女为什么自己在国外，却要鼓励国内未改证的跨女：“没事的 直接上女厕 别害怕”\n\n属于明着害人了\n\n国内这么干是真的会被警察叔叔抓呀，到时候你跟警察解释 你说我是生理性别男，心理性别女你看人家听不听你的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 219,
+          "like_count": 20409,
+          "listed_count": 12,
+          "media_count": 1566,
+          "tweet_count": 19410
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-04T19:05:36.000Z",
+        "description": "mtf | 吉他手 | 爵士乐 |",
+        "id": "1764728841010831360",
+        "location": "china",
+        "name": "小鹅",
+        "pinned_tweet_id": "1917158081559167344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926139287273197568/pJ_S87eK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2744,
+          "following_count": 112,
+          "like_count": 763,
+          "listed_count": 7,
+          "media_count": 104,
+          "tweet_count": 1078
+        },
+        "username": "Quack_one",
+        "verified": false
+      }
+    ]
+  }
+}

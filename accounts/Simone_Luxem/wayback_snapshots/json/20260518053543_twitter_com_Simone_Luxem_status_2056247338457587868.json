@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2056247338457587868",
+    "created_at": "2026-05-18T05:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T06:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056247338457587868"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alexmengfei/st…",
+          "end": 147,
+          "expanded_url": "https://twitter.com/alexmengfei/status/2055939704986722460",
+          "start": 124,
+          "url": "https://t.co/PHhV9sBC57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056247338457587868",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055939704986722460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "必须要承认，这个世界上没有我们的盟友，没有安全的后方，没有应许之地——至少现在没有；四面皆敌，我们唯一所有的只有我们自己：我们的能力，资源，和已死之人与尚存之人的爱，记忆与执念；我们所要做的，就是以我们所有的建立我们想要的，让我们的同类得以活下去 https://t.co/PHhV9sBC57"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2056247338457587868",
+        "created_at": "2026-05-18T05:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T06:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056247338457587868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexmengfei/st…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/alexmengfei/status/2055939704986722460",
+              "start": 124,
+              "url": "https://t.co/PHhV9sBC57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056247338457587868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055939704986722460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "必须要承认，这个世界上没有我们的盟友，没有安全的后方，没有应许之地——至少现在没有；四面皆敌，我们唯一所有的只有我们自己：我们的能力，资源，和已死之人与尚存之人的爱，记忆与执念；我们所要做的，就是以我们所有的建立我们想要的，让我们的同类得以活下去 https://t.co/PHhV9sBC57"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055932802911424513",
+        "conversation_id": "2055939704986722460",
+        "created_at": "2026-05-17T09:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055939704986722460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2055900148291539041",
+              "start": 85,
+              "url": "https://t.co/cXUecF2y5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055939704986722460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2384,
+          "like_count": 111,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055900148291539041",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在我看来，各国性少数都应该破除对他国的乌托邦幻想。尤其是破除自由世界vs正义联盟这种奇异搞笑阵营学。性少数权益是全球性问题，不存在净土。\n\n各国的性少数都各有各的不幸。 https://t.co/cXUecF2y5e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6209,
+          "following_count": 221,
+          "like_count": 24673,
+          "listed_count": 18,
+          "media_count": 1782,
+          "tweet_count": 21682
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T08:48:38.000Z",
+        "description": "大号@Alex_mengfei\n跨性别女性\nshe/her/they",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "Alex_mengfei"
+              }
+            ]
+          }
+        },
+        "id": "2055932802911424513",
+        "name": "Alex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055933702153355264/dg0hK78L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 26,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "AlexMengfei",
+        "verified": false
+      }
+    ]
+  }
+}

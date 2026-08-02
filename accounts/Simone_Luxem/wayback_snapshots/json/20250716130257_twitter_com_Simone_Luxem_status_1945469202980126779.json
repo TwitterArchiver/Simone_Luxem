@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1945469202980126779",
+    "created_at": "2025-07-16T13:02:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T14:02:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945469202980126779"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1945469202980126779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己是真的老了，和现在的小孩子相比体力真的是差距太大了，连续剧烈运动自己是真的吃不消…\n连穿着罩袍的小孩子都比自己能蹦跶…\n以及再次印证了自己对于尖锐的高分贝声音真的是不耐受…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1945469202980126779",
+        "created_at": "2025-07-16T13:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T14:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945469202980126779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945469202980126779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己是真的老了，和现在的小孩子相比体力真的是差距太大了，连续剧烈运动自己是真的吃不消…\n连穿着罩袍的小孩子都比自己能蹦跶…\n以及再次印证了自己对于尖锐的高分贝声音真的是不耐受…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4489,
+          "following_count": 219,
+          "like_count": 21425,
+          "listed_count": 13,
+          "media_count": 1634,
+          "tweet_count": 19953
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

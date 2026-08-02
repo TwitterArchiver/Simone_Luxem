@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1929665228763238709",
+    "created_at": "2025-06-03T08:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T09:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929817425798656072"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1015788561088630791",
+          "start": 0,
+          "username": "neko_ruyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929817425798656072",
+    "in_reply_to_user_id": "1015788561088630791",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929665228763238709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@neko_ruyue 把“边缘青少年群体”当作问题处理这个行为本身就是最大的问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1929665228763238709",
+        "created_at": "2025-06-03T08:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T09:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929817425798656072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1015788561088630791",
+              "start": 0,
+              "username": "neko_ruyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929817425798656072",
+        "in_reply_to_user_id": "1015788561088630791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929665228763238709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@neko_ruyue 把“边缘青少年群体”当作问题处理这个行为本身就是最大的问题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1015788561088630791",
+        "conversation_id": "1929665228763238709",
+        "created_at": "2025-06-02T22:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T23:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929665228763238709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1929665228763238709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 497,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我个人极其反对“矫正中心”这种带有强制性和创伤性的机构模式，也痛恨它给无数青少年带来的心理创伤与人格压抑，但我也不能否认一个现实问题——这些机构之所以存在，背后也折射出社会在处理“边缘青少年群体”时的无力与焦虑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4257,
+          "following_count": 219,
+          "like_count": 20466,
+          "listed_count": 12,
+          "media_count": 1571,
+          "tweet_count": 19455
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "你他妈全家都是福利姬 私信骚扰的傻逼诅咒你们全都去死 不写门槛价格是因为不想被人说是卖b的 但是不写的话一堆傻逼骚扰懂不懂 看清楚了没有",
+        "id": "1015788561088630791",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "小猫月月",
+        "pinned_tweet_id": "1928618421404492126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830584532141215744/PblY5QNI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33042,
+          "following_count": 4019,
+          "like_count": 139026,
+          "listed_count": 84,
+          "media_count": 2625,
+          "tweet_count": 28531
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      }
+    ]
+  }
+}

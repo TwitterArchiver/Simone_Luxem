@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992526906919723009",
+        "3_1992526906915516417",
+        "3_1992526906928070656"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1992526932223951141",
+    "created_at": "2025-11-23T09:33:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T10:33:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992526932223951141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nTU5wcz44k",
+          "end": 126,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1992526932223951141/photo/1",
+          "media_key": "3_1992526906919723009",
+          "start": 103,
+          "url": "https://t.co/nTU5wcz44k"
+        },
+        {
+          "display_url": "pic.x.com/nTU5wcz44k",
+          "end": 126,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1992526932223951141/photo/1",
+          "media_key": "3_1992526906915516417",
+          "start": 103,
+          "url": "https://t.co/nTU5wcz44k"
+        },
+        {
+          "display_url": "pic.x.com/nTU5wcz44k",
+          "end": 126,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1992526932223951141/photo/1",
+          "media_key": "3_1992526906928070656",
+          "start": 103,
+          "url": "https://t.co/nTU5wcz44k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992526932223951141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小区楼下的猫猫们，都是橘色和白色按照各种比例混色出来的，好像是一个猫妈妈生的\nP.S.有人在武汉想要领养小猫嘛，对猫猫尽可能科学饲养，愿意且有条件付出时间和精力照顾猫猫就行的，有意愿的话欢迎私信我，谢谢啦 https://t.co/nTU5wcz44k"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992526906919723009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bgqjxboAEkEEO.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1992526906915516417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bgqjwbcAE2dad.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1992526906928070656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6bgqjzbAAAoD74.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992526906919723009",
+            "3_1992526906915516417",
+            "3_1992526906928070656"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1992526932223951141",
+        "created_at": "2025-11-23T09:33:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T10:33:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992526932223951141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nTU5wcz44k",
+              "end": 126,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1992526932223951141/photo/1",
+              "media_key": "3_1992526906919723009",
+              "start": 103,
+              "url": "https://t.co/nTU5wcz44k"
+            },
+            {
+              "display_url": "pic.x.com/nTU5wcz44k",
+              "end": 126,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1992526932223951141/photo/1",
+              "media_key": "3_1992526906915516417",
+              "start": 103,
+              "url": "https://t.co/nTU5wcz44k"
+            },
+            {
+              "display_url": "pic.x.com/nTU5wcz44k",
+              "end": 126,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1992526932223951141/photo/1",
+              "media_key": "3_1992526906928070656",
+              "start": 103,
+              "url": "https://t.co/nTU5wcz44k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992526932223951141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小区楼下的猫猫们，都是橘色和白色按照各种比例混色出来的，好像是一个猫妈妈生的\nP.S.有人在武汉想要领养小猫嘛，对猫猫尽可能科学饲养，愿意且有条件付出时间和精力照顾猫猫就行的，有意愿的话欢迎私信我，谢谢啦 https://t.co/nTU5wcz44k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5787,
+          "following_count": 215,
+          "like_count": 22969,
+          "listed_count": 18,
+          "media_count": 1702,
+          "tweet_count": 20828
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

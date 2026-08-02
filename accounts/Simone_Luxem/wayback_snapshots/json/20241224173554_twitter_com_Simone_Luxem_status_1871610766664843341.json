@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1871444142812962880",
+    "created_at": "2024-12-24T17:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-24T18:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1871610766664843341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4752010152",
+          "start": 0,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1871610766664843341",
+    "in_reply_to_user_id": "4752010152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871444142812962880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garrulous_abyss 而且，穆斯林作为全球各地移民人口中占有相当数量的群体，如果一个地方的新穆斯林移民少得可怜或者几乎没有，用脚丫子想想也知道这个地方对于移民不友好或者不适合移民吧….作为一个想要run的人这点事情都想不明白吗…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1871444142812962880",
+        "created_at": "2024-12-24T17:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T18:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871610766664843341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871610766664843341",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871444142812962880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 而且，穆斯林作为全球各地移民人口中占有相当数量的群体，如果一个地方的新穆斯林移民少得可怜或者几乎没有，用脚丫子想想也知道这个地方对于移民不友好或者不适合移民吧….作为一个想要run的人这点事情都想不明白吗…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1871444137737646080",
+            "3_1871444137758625793"
+          ]
+        },
+        "author_id": "4752010152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          }
+        ],
+        "conversation_id": "1871444142812962880",
+        "created_at": "2024-12-24T06:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-24T07:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1871444142812962880"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0wsCEAUYsL",
+              "end": 169,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1871444142812962880/photo/1",
+              "media_key": "3_1871444137737646080",
+              "start": 146,
+              "url": "https://t.co/0wsCEAUYsL"
+            },
+            {
+              "display_url": "pic.x.com/0wsCEAUYsL",
+              "end": 169,
+              "expanded_url": "https://x.com/garrulous_abyss/status/1871444142812962880/photo/1",
+              "media_key": "3_1871444137758625793",
+              "start": 146,
+              "url": "https://t.co/0wsCEAUYsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871444142812962880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 10415,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "这个怎么以run为目的，要求还这么多啊😂\n\n第一条，半导体很敏感，大概率得排除美国。\n第二条，好拿永居。排除一大堆国家。感觉热门英语国家都得排除。\n第三条，感觉西欧、北欧、南欧、中欧都得排除。\n第五条，英美、北欧，读个博都更方便移民，也排除。\n\n好像新加坡、日本合适。但新加坡这些年水涨船高 https://t.co/0wsCEAUYsL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3920,
+          "following_count": 221,
+          "like_count": 18629,
+          "listed_count": 10,
+          "media_count": 1453,
+          "tweet_count": 18178
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//双性恋//百合ing 女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//真·法语学习博主//中文//English//français// 可能会ban纯黄推、纯政治推 //见到Incel、terf、小粉红、魔怔人立刻拉黑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Yaoyao38324"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25053,
+          "following_count": 3208,
+          "like_count": 124734,
+          "listed_count": 74,
+          "media_count": 2879,
+          "tweet_count": 46282
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

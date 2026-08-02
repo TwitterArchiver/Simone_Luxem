@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2022470387804905703",
+    "created_at": "2026-02-14T00:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T01:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022471551439003751"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022471551439003751",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022470387804905703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就…我不认为某种精神疾病/神经发育是一个人的主观过错，它们是被塑造成这样子的，即使受限于条件我们并不能够给予足够医疗支持，甚至可能会为了保护其它人不得不对其进行一些各种程度上的人身限制，这也不是它们的错呀，为什么会希望对方受到伤害…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2022470387804905703",
+        "created_at": "2026-02-14T00:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T01:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022471551439003751"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022471551439003751",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022470387804905703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就…我不认为某种精神疾病/神经发育是一个人的主观过错，它们是被塑造成这样子的，即使受限于条件我们并不能够给予足够医疗支持，甚至可能会为了保护其它人不得不对其进行一些各种程度上的人身限制，这也不是它们的错呀，为什么会希望对方受到伤害…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2022470387804905703",
+        "created_at": "2026-02-14T00:38:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T01:38:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022470387804905703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022470387804905703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又看到了什么“如何惩罚npd”“让npd失去养分会怎样”之类标题的短视频/文章…\n感觉很是反感，就，为什么要去因为另一个人的精神疾病而去惩罚它？即使这种精神疾病可能会伤害到我，并且我也帮不到它的前提下，我所想要做的也是自我防卫而不是伤害它呀，这个目的从最开始就是错了的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6116,
+          "following_count": 217,
+          "like_count": 23722,
+          "listed_count": 17,
+          "media_count": 1744,
+          "tweet_count": 21239
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1942239609507008759",
+    "created_at": "2025-07-07T15:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T16:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942239609507008759"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hexiaoqi77/sta…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/hexiaoqi77/status/1942214216959795475",
+          "start": 29,
+          "url": "https://t.co/WdV24ohRSl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942239609507008759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942214216959795475",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为我能\n至少，我应该能\n如果不能，那就应该干它，直到能 https://t.co/WdV24ohRSl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1942239609507008759",
+        "created_at": "2025-07-07T15:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942239609507008759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hexiaoqi77/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/hexiaoqi77/status/1942214216959795475",
+              "start": 29,
+              "url": "https://t.co/WdV24ohRSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942239609507008759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942214216959795475",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我能\n至少，我应该能\n如果不能，那就应该干它，直到能 https://t.co/WdV24ohRSl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697725634133561344",
+        "conversation_id": "1942214216959795475",
+        "created_at": "2025-07-07T13:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T14:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942214216959795475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942214216959795475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1774,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "《如果你能够做手术》\n如果你能够做手术：\n出生证改不了\n档案改不了\n学历改不了\n以后身份证也许也改不了…\n很难找到另一半组建家庭\n生不了孩子…\n你有生理问题需要一直维护\n你有心理问题需要一直抵抗\n在社会上被歧视\n有可能丢掉工作\n有可能无法生存\n最终难逃一死…\n那你告诉我：\n为什么还要追求手术？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4330,
+          "following_count": 219,
+          "like_count": 21055,
+          "listed_count": 12,
+          "media_count": 1620,
+          "tweet_count": 19853
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-01T21:38:41.000Z",
+        "description": "已跨术女，离异带娃。HRT20220715，SRS20230423WIH。不线下不推广，喜欢干净的Timeline，随机回fo。欧易https://t.co/lrFYJcTSlR。自用梯子https://t.co/amQZxiF5DU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "okx.com/join/37983702",
+                "end": 89,
+                "expanded_url": "https://okx.com/join/37983702",
+                "start": 66,
+                "url": "https://t.co/lrFYJcTSlR"
+              },
+              {
+                "display_url": "doumao.top/index.php#/reg…",
+                "end": 117,
+                "expanded_url": "https://www.doumao.top/index.php#/register?code=bo5Qmt30",
+                "start": 94,
+                "url": "https://t.co/amQZxiF5DU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HeXiaoQi77",
+                "end": 23,
+                "expanded_url": "https://t.me/HeXiaoQi77",
+                "start": 0,
+                "url": "https://t.co/r3aQCrjBuj"
+              }
+            ]
+          }
+        },
+        "id": "1697725634133561344",
+        "location": "WIH International Hospital",
+        "name": "柒_Rain☕️",
+        "pinned_tweet_id": "1913865519406403642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862795292178829312/I6s-XESc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12988,
+          "following_count": 278,
+          "like_count": 13874,
+          "listed_count": 48,
+          "media_count": 137,
+          "tweet_count": 10592
+        },
+        "url": "https://t.co/r3aQCrjBuj",
+        "username": "HeXiaoQi77",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1819802939591946240"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1819802945212321848",
+    "created_at": "2024-08-03T18:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-03T19:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819802945212321848"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/eOM3OVFM0Y",
+          "end": 169,
+          "expanded_url": "https://twitter.com/Simone_Luxem/status/1819802945212321848/photo/1",
+          "media_key": "3_1819802939591946240",
+          "start": 146,
+          "url": "https://t.co/eOM3OVFM0Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819802945212321848",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "侵入性思维…是叫这个名字吗？\n不是说，“你所想的内容都是你的大脑想要你想的内容”吗？可是为什么在现在，还掌控着自己身体的这个自己，明明“不想”，明明知道“不是真的”的念头，却像是一个钻头一样在试图把它扎根进自己的意识里呢…\n并且自己不知道怎么把它摘出去，可能可以暂时抵挡，却完全不能逆转.. https://t.co/eOM3OVFM0Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_1819802939591946240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUE9Ib-W8AAKUL9.jpg",
+        "width": 653
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819802939591946240"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1819802945212321848",
+        "created_at": "2024-08-03T18:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-03T19:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819802945212321848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/eOM3OVFM0Y",
+              "end": 169,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1819802945212321848/photo/1",
+              "media_key": "3_1819802939591946240",
+              "start": 146,
+              "url": "https://t.co/eOM3OVFM0Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819802945212321848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "侵入性思维…是叫这个名字吗？\n不是说，“你所想的内容都是你的大脑想要你想的内容”吗？可是为什么在现在，还掌控着自己身体的这个自己，明明“不想”，明明知道“不是真的”的念头，却像是一个钻头一样在试图把它扎根进自己的意识里呢…\n并且自己不知道怎么把它摘出去，可能可以暂时抵挡，却完全不能逆转.. https://t.co/eOM3OVFM0Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3451,
+          "following_count": 224,
+          "like_count": 15708,
+          "listed_count": 8,
+          "tweet_count": 16350
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

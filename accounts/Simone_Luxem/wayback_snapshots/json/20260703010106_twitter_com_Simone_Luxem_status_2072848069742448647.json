@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2072848069742448647",
+    "created_at": "2026-07-03T01:01:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T02:01:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072848069742448647"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qzlgames/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/qzlgames/status/2072693020798120226",
+          "start": 18,
+          "url": "https://t.co/JGHpt8wTtd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072848069742448647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072693020798120226",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉好涩气xx（小声）\n想要（逃） https://t.co/JGHpt8wTtd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20572,
+        "height": 1440,
+        "media_key": "13_2072692849775443968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2072692849775443968/img/wDmejEk5a__M-3ff.jpg",
+        "public_metrics": {
+          "view_count": 157605
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072692849775443968/vid/avc1/480x270/ql_sUHnOU88wSj7s.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072692849775443968/vid/avc1/640x360/yfy3diFL8by9WCbM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2072692849775443968/vid/avc1/1280x720/LoTYDxNsAzrSLNFK.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2072692849775443968/pl/ok3Zc8Km4dpU8jul.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2072848069742448647",
+        "created_at": "2026-07-03T01:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072848069742448647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qzlgames/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/qzlgames/status/2072693020798120226",
+              "start": 18,
+              "url": "https://t.co/JGHpt8wTtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072848069742448647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072693020798120226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉好涩气xx（小声）\n想要（逃） https://t.co/JGHpt8wTtd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2072692849775443968"
+          ]
+        },
+        "author_id": "1270163141771423745",
+        "conversation_id": "2072693020798120226",
+        "created_at": "2026-07-02T14:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072693020798120226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6MRDNIVURk",
+              "end": 66,
+              "expanded_url": "https://x.com/QZLgames/status/2072693020798120226/video/1",
+              "media_key": "13_2072692849775443968",
+              "start": 43,
+              "url": "https://t.co/6MRDNIVURk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072693020798120226",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1464,
+          "impression_count": 266583,
+          "like_count": 2783,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "I made an undefeatable… enemy for my game? https://t.co/6MRDNIVURk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6233,
+          "following_count": 220,
+          "like_count": 25008,
+          "listed_count": 16,
+          "media_count": 1793,
+          "tweet_count": 21804
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-09T01:17:58.000Z",
+        "description": "Poetry of Blood: https://t.co/cwvnEFj739   \nLongevity Codex: https://t.co/FcnFsoaRlR\nIdle Garden: https://t.co/IZU5iGe0b9\nDiscord: https://t.co/M6GkpJCLzw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "s.team/a/2372330",
+                "end": 40,
+                "expanded_url": "http://s.team/a/2372330",
+                "start": 17,
+                "url": "https://t.co/cwvnEFj739"
+              },
+              {
+                "display_url": "s.team/a/3659470",
+                "end": 84,
+                "expanded_url": "http://s.team/a/3659470",
+                "start": 61,
+                "url": "https://t.co/FcnFsoaRlR"
+              },
+              {
+                "display_url": "s.team/a/4102020",
+                "end": 121,
+                "expanded_url": "http://s.team/a/4102020",
+                "start": 98,
+                "url": "https://t.co/IZU5iGe0b9"
+              },
+              {
+                "display_url": "discord.gg/HuVPht4RjV",
+                "end": 154,
+                "expanded_url": "http://discord.gg/HuVPht4RjV",
+                "start": 131,
+                "url": "https://t.co/M6GkpJCLzw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ZeroGameStudi…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@ZeroGameStudio_Official",
+                "start": 0,
+                "url": "https://t.co/NWOIpKs7nI"
+              }
+            ]
+          }
+        },
+        "id": "1270163141771423745",
+        "name": "ZeroGameStudio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1642241484677345281/5A86G96__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5687,
+          "following_count": 925,
+          "like_count": 4006,
+          "listed_count": 67,
+          "media_count": 364,
+          "tweet_count": 1087
+        },
+        "url": "https://t.co/NWOIpKs7nI",
+        "username": "QZLgames",
+        "verified": false
+      }
+    ]
+  }
+}

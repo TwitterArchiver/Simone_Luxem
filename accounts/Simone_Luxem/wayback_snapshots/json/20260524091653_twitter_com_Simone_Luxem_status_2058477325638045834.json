@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2058477325638045834",
+    "created_at": "2026-05-24T09:16:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T10:16:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058477325638045834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1824324977379905537",
+          "start": 3,
+          "username": "siyu060910"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "kdocs.cn/l/cfDRxwiowDvR",
+          "end": 44,
+          "expanded_url": "https://www.kdocs.cn/l/cfDRxwiowDvR",
+          "start": 21,
+          "unwound_url": "https://www.kdocs.cn/l/cfDRxwiowDvR",
+          "url": "https://t.co/l041YphRLU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058477325638045834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058258075287732733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @siyu060910: 【全文请看https://t.co/l041YphRLU】\n本尼迪克特·安德森说“民族是一种想象的共同体”，揭示了民族其实是一种被“发明”出来的，通过教育、语言、叙事、制度、媒体等共同塑造的“身份”。\n\n我认为“共同文化”是民族/身份建构中非常重…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2058477325638045834",
+        "created_at": "2026-05-24T09:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T10:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058477325638045834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1824324977379905537",
+              "start": 3,
+              "username": "siyu060910"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "kdocs.cn/l/cfDRxwiowDvR",
+              "end": 44,
+              "expanded_url": "https://www.kdocs.cn/l/cfDRxwiowDvR",
+              "start": 21,
+              "unwound_url": "https://www.kdocs.cn/l/cfDRxwiowDvR",
+              "url": "https://t.co/l041YphRLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058477325638045834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058258075287732733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @siyu060910: 【全文请看https://t.co/l041YphRLU】\n本尼迪克特·安德森说“民族是一种想象的共同体”，揭示了民族其实是一种被“发明”出来的，通过教育、语言、叙事、制度、媒体等共同塑造的“身份”。\n\n我认为“共同文化”是民族/身份建构中非常重…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824324977379905537",
+        "conversation_id": "2058258075287732733",
+        "created_at": "2026-05-23T18:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058258075287732733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "kdocs.cn/l/cfDRxwiowDvR",
+              "end": 28,
+              "expanded_url": "https://www.kdocs.cn/l/cfDRxwiowDvR",
+              "start": 5,
+              "unwound_url": "https://www.kdocs.cn/l/cfDRxwiowDvR",
+              "url": "https://t.co/l041YphRLU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058258075287732733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "kdocs.cn/l/cfDRxwiowDvR",
+                "end": 28,
+                "expanded_url": "https://www.kdocs.cn/l/cfDRxwiowDvR",
+                "start": 5,
+                "url": "https://t.co/JGeRTRmg4p"
+              }
+            ]
+          },
+          "text": "【全文请看https://t.co/JGeRTRmg4p】\n本尼迪克特·安德森说“民族是一种想象的共同体”，揭示了民族其实是一种被“发明”出来的，通过教育、语言、叙事、制度、媒体等共同塑造的“身份”。\n\n我认为“共同文化”是民族/身份建构中非常重要的一环，甚至可说是一体两面，互相塑造的。\n\n日本的明治维新时期，通过种种文化建构手段和政策革新，如经典的“解除禁肉令，让国民吃肉、喝牛奶”（是的，这也是一种文化，就像回民不能吃猪肉那样），再比如引入西方的资本运作模式、工厂管理经验、生产生活方式等，在短短的几十年里，日本人民的主流文化从封建武士文化转变为了西方现代工业文化。\n\n再比如二战后的新加坡，李光耀有意识地通过国家暴力机器（法律、制度、警察等）构建了“多元种族、精英治理、实用主义”的国家文化。\n\n再比如现代韩国，建造了一套国家-企业-民众的系统性工程，从战后贫困到把“韩流”（K-pop、韩剧、韩食）打造成全球文化输出品。\n\n再比如中国的改开，“以阶级斗争为纲”被“以经济建设为中心”取代了，再到近年来强调“文化自信”和中华文明的复兴叙事，这些都是持续的文化建构。\n\n但在这些文化建构的历史发生之后，是日本在民族化浪潮和法西斯主义的需求下，武士文化又重新被捡了起来，是新加坡在面对中国时总是强调其“华人身份”，是“韩流”本身就是为了传播和强调“韩国人”的文化，是“中华民族的伟大复兴”，这些就是民族建构的历史。\n\n其实到了21世纪的今天，我们不难发现，无论是明治维新后的日本，还是后来的新加坡、韩国，又或是今天的“我们”，在日常的生活方式上，除了饮食可能有较大的差距外，已经很少有大的差异了。\n\n同样的国家、资本和城市，人们从出生，到义务教育，到上班，再到结婚生子，在类似的城市里漫步，被类似的资本剥削，我们究竟如何定义“我们”。\n\n出于对国家整体利益的考量，为了分辨“你们”和“我们”，民族/身份终于被发明或者说建构出来了。\n\n我们为何要建构社群文化和身份\n现代工业社会其实是一个高度原子化的社会，我们试想一个场景：一个白领，Ta每天算上加班在公司十个小时，回家倒头就睡。\n\n那么Ta将不会有任何时间来做任何除上班以外的事，包括社交，这就是原子化，人的精力在这种社会环境下被不断的机械的垄断，所以我说，中国人、日本人、美国人、韩国人，其实并没有什么本质的区别。\n\n在国家层面，国家出于自身利益的考量，必须建构“民族”来进行对抗；在个人层面，我们出于自身利益考量，其实往往也会自动的建构出一种“共同身份”来对抗这种原子化或者虚无。\n\n这很大一部分原因是由于实际上人类社会其实还没有我们想象中发展的那么均等而导致的，例如在中国，还有相当大一部分地区是乡土社会；例如在公司，虽然大部分人都是重复机械劳动的“打工人”，但“权力关系”的存在，还是让其中充斥着大量的非原子化状态。\n\n作为个人，尤其是原子化的个人，想要对抗这些非原子化的团体，简直就是痴人说梦。\n\n“我们可以不用剑，但手里不能没有剑。”\n\n当我们的权利遭受到损害时，甚至可能是一种体系性的损害时，个人的力量太过渺小了，在国家层面，这条规则依然适用。\n\n从“非对抗”的角度，文化和身份的建构也是十分重要的。\n\n人类，至少是现在的人类，还是非常需要共同生活、共同文化、共同身份的，虽然是现代社会里，你不接触任何一个人，你大概率也能活得下去，但很少有人能真正受得了这一点，就像所有的“未来作品”里，人们似乎都在对一种“虚无的未来”产生恐惧，那就说明现在的人类还是十分需要群居生活的，那就不可避免的需要共同的文化来快速确立“我可以跟谁交朋友”、“我跟谁是一路人”。\n\n良好的文化氛围除了能够帮助大家更团结、更稳定的生活以外，还能在一定程度上改变点什么，就像“二次元”和“赛车”文化，最开始也是经历了漫长的污名化时期，虽然现在不理解的人还是不理解，但他们也确实与被污名化严重的那段时期有了很大的改变，这些文化也彻底兴起，喜欢的人越来越多。\n\n还有当这种稳定的社群文化形成以后，文化创作者们，尤其是传统的文字、声音、图画等艺术创作者，才更有可能依靠自己的才华生活下去。\n\n现在的中国跨性别文化，显然并不具备这几点。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 304,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "【全文请看https://t.co/l041YphRLU】\n本尼迪克特·安德森说“民族是一种想象的共同体”，揭示了民族其实是一种被“发明”出来的，通过教育、语言、叙事、制度、媒体等共同塑造的“身份”。\n\n我认为“共同文化”是民族/身份建构中非常重要的一环，甚至可说是一体两面，互相塑造的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6212,
+          "following_count": 221,
+          "like_count": 24752,
+          "listed_count": 17,
+          "media_count": 1784,
+          "tweet_count": 21706
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T05:59:28.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️｜https://t.co/0hXlAGwWRx项目主要志愿者｜tg导航频道https://t.co/np7tbdIbrP内涵联系方式｜可提供社群资源、紧急庇护、自杀干预、资金求助、反扭转等服务｜我是中国人、我始终热爱这片土地｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia",
+                "end": 33,
+                "expanded_url": "https://inthesunshine.asia/",
+                "start": 10,
+                "url": "https://t.co/0hXlAGwWRx"
+              },
+              {
+                "display_url": "t.me/seele_2345",
+                "end": 70,
+                "expanded_url": "https://t.me/seele_2345",
+                "start": 47,
+                "url": "https://t.co/np7tbdIbrP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inthesunshine.asia/#contact",
+                "end": 23,
+                "expanded_url": "https://inthesunshine.asia/#contact",
+                "start": 0,
+                "url": "https://t.co/KusRjCTsTB"
+              }
+            ]
+          }
+        },
+        "id": "1824324977379905537",
+        "location": "5.20KM",
+        "name": "Seele",
+        "pinned_tweet_id": "2049167214830559716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043059786330312704/Smm3G5ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7471,
+          "following_count": 88,
+          "like_count": 537,
+          "listed_count": 11,
+          "media_count": 286,
+          "tweet_count": 864
+        },
+        "url": "https://t.co/KusRjCTsTB",
+        "username": "siyu060910",
+        "verified": true
+      }
+    ]
+  }
+}

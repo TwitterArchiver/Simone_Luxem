@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1997524343933579696",
+    "created_at": "2025-12-07T04:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T05:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997524343933579696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zhouzhouneko2/…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/zhouzhouneko2/status/1997442093611188562",
+          "start": 33,
+          "url": "https://t.co/6FVBWqVRyW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997524343933579696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997442093611188562",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "令人发指…\n起床看到被气得胃疼喘不上气…\n再一次说明了…什么呢… https://t.co/6FVBWqVRyW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1997524343933579696",
+        "created_at": "2025-12-07T04:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T05:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997524343933579696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zhouzhouneko2/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/zhouzhouneko2/status/1997442093611188562",
+              "start": 33,
+              "url": "https://t.co/6FVBWqVRyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997524343933579696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997442093611188562",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "令人发指…\n起床看到被气得胃疼喘不上气…\n再一次说明了…什么呢… https://t.co/6FVBWqVRyW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1403720942858035201",
+        "conversation_id": "1997442093611188562",
+        "created_at": "2025-12-06T23:04:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T00:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997442093611188562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997442093611188562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 18337,
+          "like_count": 89,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前任被判了了3年半，卖了不到2000块思诺思为我们交房租\n一切都结束了\n我等不了她三年\n我在法庭上看着她的父母，看着剪了头的她，我不敢看她，她也不敢看我\n结束了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5973,
+          "following_count": 216,
+          "like_count": 23122,
+          "listed_count": 18,
+          "media_count": 1711,
+          "tweet_count": 20919
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-12T14:29:19.000Z",
+        "description": "转生了\n\n您的赛博猫咪｜双相｜互fo｜mtf｜二次元｜ENFP/INFP｜微键政｜传递爱 希望 自由｜ 方舟 雀魂 肉鸽 博德之门｜闲聊 安慰与抱抱( ´•ω•)ノ｜写作ing｜希望成为温柔的人｜世界破破烂烂，喵喵缝缝补补｜🚪28/58/168/288",
+        "id": "1403720942858035201",
+        "location": "喵星✨",
+        "name": "周周喵🐈 二代目（求fo版）",
+        "pinned_tweet_id": "1907031259274211613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772551411274027008/V0C-jVfn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 2038,
+          "like_count": 9932,
+          "listed_count": 6,
+          "media_count": 201,
+          "tweet_count": 1747
+        },
+        "username": "zhouzhouneko2",
+        "verified": false
+      }
+    ]
+  }
+}

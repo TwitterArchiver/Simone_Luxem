@@ -1,0 +1,215 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1806516746997862738",
+    "created_at": "2024-06-28T07:31:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-28T08:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806591165665259696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "164224930",
+          "start": 0,
+          "username": "MinakoOikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806591165665259696",
+    "in_reply_to_user_id": "164224930",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1806516746997862738",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinakoOikawa 好像我家橘猫猫...除了我家橘猫猫是小耳朵猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1806516746997862738",
+        "created_at": "2024-06-28T07:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T08:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806591165665259696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "164224930",
+              "start": 0,
+              "username": "MinakoOikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806591165665259696",
+        "in_reply_to_user_id": "164224930",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1806516746997862738",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinakoOikawa 好像我家橘猫猫...除了我家橘猫猫是小耳朵猫"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1806516701577814016"
+          ]
+        },
+        "author_id": "164224930",
+        "conversation_id": "1806516746997862738",
+        "created_at": "2024-06-28T02:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-28T03:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1806516746997862738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/f7smN1VE5i",
+              "end": 39,
+              "expanded_url": "https://twitter.com/MinakoOikawa/status/1806516746997862738/photo/1",
+              "media_key": "3_1806516701577814016",
+              "start": 16,
+              "url": "https://t.co/f7smN1VE5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806516746997862738",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 798,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "金猫银猫不如我家的提丰猫。。） https://t.co/f7smN1VE5i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3351,
+          "following_count": 223,
+          "like_count": 14510,
+          "listed_count": 10,
+          "tweet_count": 15703
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-08T10:19:29.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shuizilong.com",
+                "end": 23,
+                "expanded_url": "http://www.shuizilong.com/",
+                "start": 0,
+                "url": "https://t.co/jcBGh2T5SX"
+              }
+            ]
+          }
+        },
+        "id": "164224930",
+        "location": "Shanghai, China",
+        "name": "小島みなこ 🏳️‍⚧️",
+        "pinned_tweet_id": "1228093781280354304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596711607845130240/1y4atMYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8458,
+          "following_count": 5962,
+          "like_count": 70048,
+          "listed_count": 118,
+          "tweet_count": 46673
+        },
+        "url": "https://t.co/jcBGh2T5SX",
+        "username": "MinakoOikawa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943829426757591040",
+        "3_1943829426757685248",
+        "3_1943829426745065472"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cuisines",
+          "id": "860133563332648963",
+          "name": "Cuisines"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Vegan",
+          "id": "860145749463506944",
+          "name": "Veganism"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1260985796053487616",
+          "name": "Organic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Vegan",
+          "id": "860145749463506944",
+          "name": "Veganism"
+        }
+      }
+    ],
+    "conversation_id": "1943829437205688700",
+    "created_at": "2025-07-12T00:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T01:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943829437205688700"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/e3MAvQwxUV",
+          "end": 118,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1943829437205688700/photo/1",
+          "media_key": "3_1943829426757591040",
+          "start": 95,
+          "url": "https://t.co/e3MAvQwxUV"
+        },
+        {
+          "display_url": "pic.x.com/e3MAvQwxUV",
+          "end": 118,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1943829437205688700/photo/1",
+          "media_key": "3_1943829426757685248",
+          "start": 95,
+          "url": "https://t.co/e3MAvQwxUV"
+        },
+        {
+          "display_url": "pic.x.com/e3MAvQwxUV",
+          "end": 118,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1943829437205688700/photo/1",
+          "media_key": "3_1943829426745065472",
+          "start": 95,
+          "url": "https://t.co/e3MAvQwxUV"
+        },
+        {
+          "display_url": "x.com/alice14_88/sta…",
+          "end": 142,
+          "expanded_url": "https://twitter.com/alice14_88/status/1943145622015811734",
+          "start": 119,
+          "url": "https://t.co/OiQLqdgvzG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943829437205688700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943145622015811734",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "前几个轴中英差异不大，但后面几个还是有差异的，大概是语意理解的问题\n以及自己拿到vegan的章但实际上自己的状态一直都是“觉得这样做是对的是更好的但是因为各种原因实际上一直做不到”的状态… https://t.co/e3MAvQwxUV https://t.co/OiQLqdgvzG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1943829426757591040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvnekJXWYAAH8Sj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943829426757685248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvnekJXX0AAxRrx.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1943829426745065472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvnekJUXQAAQBv7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1943145619326910465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvdwpULWQAEzWsd.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943829426757591040",
+            "3_1943829426757685248",
+            "3_1943829426745065472"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cuisines",
+              "id": "860133563332648963",
+              "name": "Cuisines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Vegan",
+              "id": "860145749463506944",
+              "name": "Veganism"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1260985796053487616",
+              "name": "Organic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vegan",
+              "id": "860145749463506944",
+              "name": "Veganism"
+            }
+          }
+        ],
+        "conversation_id": "1943829437205688700",
+        "created_at": "2025-07-12T00:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T01:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943829437205688700"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e3MAvQwxUV",
+              "end": 118,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1943829437205688700/photo/1",
+              "media_key": "3_1943829426757591040",
+              "start": 95,
+              "url": "https://t.co/e3MAvQwxUV"
+            },
+            {
+              "display_url": "pic.x.com/e3MAvQwxUV",
+              "end": 118,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1943829437205688700/photo/1",
+              "media_key": "3_1943829426757685248",
+              "start": 95,
+              "url": "https://t.co/e3MAvQwxUV"
+            },
+            {
+              "display_url": "pic.x.com/e3MAvQwxUV",
+              "end": 118,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1943829437205688700/photo/1",
+              "media_key": "3_1943829426745065472",
+              "start": 95,
+              "url": "https://t.co/e3MAvQwxUV"
+            },
+            {
+              "display_url": "x.com/alice14_88/sta…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/alice14_88/status/1943145622015811734",
+              "start": 119,
+              "url": "https://t.co/OiQLqdgvzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943829437205688700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943145622015811734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "前几个轴中英差异不大，但后面几个还是有差异的，大概是语意理解的问题\n以及自己拿到vegan的章但实际上自己的状态一直都是“觉得这样做是对的是更好的但是因为各种原因实际上一直做不到”的状态… https://t.co/e3MAvQwxUV https://t.co/OiQLqdgvzG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943145619326910465"
+          ]
+        },
+        "author_id": "1819944260239851520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943145622015811734",
+        "created_at": "2025-07-10T03:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T04:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943145622015811734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lQNOkpfKWX",
+              "end": 23,
+              "expanded_url": "https://x.com/Alice14_88/status/1943145622015811734/photo/1",
+              "media_key": "3_1943145619326910465",
+              "start": 0,
+              "url": "https://t.co/lQNOkpfKWX"
+            },
+            {
+              "display_url": "x.com/Gotohitory/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Gotohitory/status/1943081124969971999",
+              "start": 24,
+              "url": "https://t.co/S6gbdrIwst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943145622015811734",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1899,
+          "like_count": 19,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943081124969971999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/lQNOkpfKWX https://t.co/S6gbdrIwst"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4482,
+          "following_count": 219,
+          "like_count": 21246,
+          "listed_count": 13,
+          "media_count": 1633,
+          "tweet_count": 19910
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T03:51:46.000Z",
+        "description": "我们会在那个没有罪孽的世界",
+        "id": "1819944260239851520",
+        "location": "Lifelover",
+        "name": "⸸𝔄𝔩𝔦𝔠𝔢⸸",
+        "pinned_tweet_id": "1893208949001789801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719964092813312/dyDj3Flc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 2394,
+          "like_count": 32215,
+          "listed_count": 7,
+          "media_count": 1161,
+          "tweet_count": 14021
+        },
+        "username": "Alice14_88",
+        "verified": false
+      }
+    ]
+  }
+}

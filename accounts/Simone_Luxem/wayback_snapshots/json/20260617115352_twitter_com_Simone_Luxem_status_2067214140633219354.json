@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sociology",
+          "id": "1088163371365482496",
+          "name": "Sociology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2067214140633219354",
+    "created_at": "2026-06-17T11:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T12:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067214140633219354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1015788561088630791",
+          "start": 3,
+          "username": "neko_ruyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067214140633219354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067014903899238530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @neko_ruyue: 真的难以评价，提高性同意年龄和女权主义，保护女童根本没有任何关系，只有那个勇敢发声的态度值得点赞，至于发声的内容全都是狗屁。\n有点社会学常识的人都知道，我们根本不是没有法律没有东西给那些强奸犯定罪，而是根本找不到他们，都隐藏在权利结构下了，提高年…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067014881971429376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-DFWlaYAAyLvu.jpg",
+        "width": 969
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067014888057454592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-DFtQbwAAoUq1.jpg",
+        "width": 977
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067014894453678080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-DGFFaYAA52nX.jpg",
+        "width": 981
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067014901454057472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK-DGfKbsAAUKJi.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2067214140633219354",
+        "created_at": "2026-06-17T11:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T12:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067214140633219354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1015788561088630791",
+              "start": 3,
+              "username": "neko_ruyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067214140633219354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067014903899238530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @neko_ruyue: 真的难以评价，提高性同意年龄和女权主义，保护女童根本没有任何关系，只有那个勇敢发声的态度值得点赞，至于发声的内容全都是狗屁。\n有点社会学常识的人都知道，我们根本不是没有法律没有东西给那些强奸犯定罪，而是根本找不到他们，都隐藏在权利结构下了，提高年…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067014881971429376",
+            "3_2067014888057454592",
+            "3_2067014894453678080",
+            "3_2067014901454057472"
+          ]
+        },
+        "author_id": "1015788561088630791",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2067014903899238530",
+        "created_at": "2026-06-16T22:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T23:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067014903899238530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EBExenaEBH",
+              "end": 166,
+              "expanded_url": "https://x.com/neko_ruyue/status/2067014903899238530/photo/1",
+              "media_key": "3_2067014881971429376",
+              "start": 143,
+              "url": "https://t.co/EBExenaEBH"
+            },
+            {
+              "display_url": "pic.x.com/EBExenaEBH",
+              "end": 166,
+              "expanded_url": "https://x.com/neko_ruyue/status/2067014903899238530/photo/1",
+              "media_key": "3_2067014888057454592",
+              "start": 143,
+              "url": "https://t.co/EBExenaEBH"
+            },
+            {
+              "display_url": "pic.x.com/EBExenaEBH",
+              "end": 166,
+              "expanded_url": "https://x.com/neko_ruyue/status/2067014903899238530/photo/1",
+              "media_key": "3_2067014894453678080",
+              "start": 143,
+              "url": "https://t.co/EBExenaEBH"
+            },
+            {
+              "display_url": "pic.x.com/EBExenaEBH",
+              "end": 166,
+              "expanded_url": "https://x.com/neko_ruyue/status/2067014903899238530/photo/1",
+              "media_key": "3_2067014901454057472",
+              "start": 143,
+              "url": "https://t.co/EBExenaEBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067014903899238530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4914,
+          "like_count": 48,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "真的难以评价，提高性同意年龄和女权主义，保护女童根本没有任何关系，只有那个勇敢发声的态度值得点赞，至于发声的内容全都是狗屁。\n有点社会学常识的人都知道，我们根本不是没有法律没有东西给那些强奸犯定罪，而是根本找不到他们，都隐藏在权利结构下了，提高年龄只会成为14岁-18岁的罪犯的温床。 https://t.co/EBExenaEBH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6215,
+          "following_count": 221,
+          "like_count": 25078,
+          "listed_count": 16,
+          "media_count": 1791,
+          "tweet_count": 21775
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-08T02:44:00.000Z",
+        "description": "",
+        "id": "1015788561088630791",
+        "name": "小猫月月",
+        "pinned_tweet_id": "2028420666077384893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006421945345286144/XZYVb9aR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33134,
+          "following_count": 4115,
+          "like_count": 152577,
+          "listed_count": 79,
+          "media_count": 2731,
+          "tweet_count": 30911
+        },
+        "username": "neko_ruyue",
+        "verified": false
+      }
+    ]
+  }
+}

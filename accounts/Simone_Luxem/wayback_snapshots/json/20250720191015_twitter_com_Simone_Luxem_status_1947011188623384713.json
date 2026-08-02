@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1947011188623384713",
+    "created_at": "2025-07-20T19:10:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T20:10:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1947011188623384713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1429365180618706945",
+          "start": 3,
+          "username": "Simone_Luxem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1947011188623384713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1947011161020653833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Simone_Luxem: 十分抱歉…真的十分抱歉…\n这不是我的遗书，至少我不希望它是，也没有打算让它是\n只是我自己个人认为是我自己人生规划中非常具有风险但是又别无选择的一步，所以有很多感受，想写点什么，然后自己在表达的时候又使用了过多的抒情性语言…\n真的非常抱歉…对于…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1947011188623384713",
+        "created_at": "2025-07-20T19:10:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T20:10:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947011188623384713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1429365180618706945",
+              "start": 3,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1947011188623384713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1947011161020653833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Simone_Luxem: 十分抱歉…真的十分抱歉…\n这不是我的遗书，至少我不希望它是，也没有打算让它是\n只是我自己个人认为是我自己人生规划中非常具有风险但是又别无选择的一步，所以有很多感受，想写点什么，然后自己在表达的时候又使用了过多的抒情性语言…\n真的非常抱歉…对于…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1946668409418391882",
+        "created_at": "2025-07-20T19:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T20:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1947011161020653833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1947011161020653833",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946668409418391882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "十分抱歉…真的十分抱歉…\n这不是我的遗书，至少我不希望它是，也没有打算让它是\n只是我自己个人认为是我自己人生规划中非常具有风险但是又别无选择的一步，所以有很多感受，想写点什么，然后自己在表达的时候又使用了过多的抒情性语言…\n真的非常抱歉…对于在意我的人所造成的担忧和困扰…鞠躬…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4511,
+          "following_count": 220,
+          "like_count": 21498,
+          "listed_count": 13,
+          "media_count": 1637,
+          "tweet_count": 19972
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

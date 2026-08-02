@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943094115538706432"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1943094122836906430",
+    "created_at": "2025-07-09T23:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-10T00:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943094122836906430"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tbDKuGd6Lm",
+          "end": 67,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1943094122836906430/photo/1",
+          "media_key": "3_1943094115538706432",
+          "start": 44,
+          "url": "https://t.co/tbDKuGd6Lm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943094122836906430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“用户提出了一个\n完成”\n自己像爱因斯坦一样的量子物理把gpt搞宕机了还是搞无语了（（ https://t.co/tbDKuGd6Lm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1415,
+        "media_key": "3_1943094115538706432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvdBzZnWIAAUKti.jpg",
+        "width": 1528
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943094115538706432"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1943094122836906430",
+        "created_at": "2025-07-09T23:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T00:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943094122836906430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tbDKuGd6Lm",
+              "end": 67,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1943094122836906430/photo/1",
+              "media_key": "3_1943094115538706432",
+              "start": 44,
+              "url": "https://t.co/tbDKuGd6Lm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943094122836906430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“用户提出了一个\n完成”\n自己像爱因斯坦一样的量子物理把gpt搞宕机了还是搞无语了（（ https://t.co/tbDKuGd6Lm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4437,
+          "following_count": 219,
+          "like_count": 21145,
+          "listed_count": 13,
+          "media_count": 1626,
+          "tweet_count": 19880
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

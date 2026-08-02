@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1948262276047216948",
+    "created_at": "2025-07-24T06:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T07:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948264623129444477"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1948264623129444477",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948262276047216948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或许也是自己“主体性极弱”的表现吧，自己其实是很在意对自己重要的人对自己的评价的吧，甚至不一定能用理智控制的那种在意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1948262276047216948",
+        "created_at": "2025-07-24T06:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T07:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948264623129444477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1948264623129444477",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948262276047216948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许也是自己“主体性极弱”的表现吧，自己其实是很在意对自己重要的人对自己的评价的吧，甚至不一定能用理智控制的那种在意…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1948262276047216948",
+        "created_at": "2025-07-24T06:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T07:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948262276047216948"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/b_cat38324/status/1948232319552098810",
+              "start": 59,
+              "url": "https://t.co/cUkdjeBDEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948262276047216948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948232319552098810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "暴风哭泣…\n如果这样的话自己宁可…\n反正自己早在作为跨性别之前就早就不是它们会为之骄傲的了，更不可能拿来炫耀什么的… https://t.co/cUkdjeBDEU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4517,
+          "following_count": 220,
+          "like_count": 21596,
+          "listed_count": 13,
+          "media_count": 1645,
+          "tweet_count": 20018
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

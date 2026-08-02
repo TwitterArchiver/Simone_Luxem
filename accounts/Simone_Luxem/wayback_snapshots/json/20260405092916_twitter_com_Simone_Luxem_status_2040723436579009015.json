@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2040723436579009015",
+    "created_at": "2026-04-05T09:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T10:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040723436579009015"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "谨以此文纪念C君，F君，L君，Y君 谨以此文纪念已经死去的和尚未死去的，自己的同类，与自己一样的怪物，和自己 是自己的第一篇完结中篇小说，大概在半年前就已经构思好了，但因为中途各种事情的耽搁以及自己拙劣的写作说平，磕磕绊绊到现在才完工，故事也根据自己的新想法一改再改，直到如今这",
+          "display_url": "pixiv.net/novel/show.php…",
+          "end": 65,
+          "expanded_url": "https://www.pixiv.net/novel/show.php?id=27043260",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2040723439707910144/z6_xQ5ca?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2040723439707910144/z6_xQ5ca?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 42,
+          "status": 200,
+          "title": "[R-18] 不共戴天的我们",
+          "unwound_url": "https://www.pixiv.net/novel/show.php?id=27043260",
+          "url": "https://t.co/2WaaAeV5u2"
+        },
+        {
+          "display_url": "x.com/pizyj/status/2…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/pizyj/status/2040560523423744148",
+          "start": 66,
+          "url": "https://t.co/ppvLQDbzUh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040723436579009015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040560523423744148",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想写部自传…哦我已经写完了呀，那没事了\n欢迎来看喵，自传性质的小说，算是（？）\n\nhttps://t.co/2WaaAeV5u2 https://t.co/ppvLQDbzUh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2040723436579009015",
+        "created_at": "2026-04-05T09:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T10:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040723436579009015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "谨以此文纪念C君，F君，L君，Y君 谨以此文纪念已经死去的和尚未死去的，自己的同类，与自己一样的怪物，和自己 是自己的第一篇完结中篇小说，大概在半年前就已经构思好了，但因为中途各种事情的耽搁以及自己拙劣的写作说平，磕磕绊绊到现在才完工，故事也根据自己的新想法一改再改，直到如今这",
+              "display_url": "pixiv.net/novel/show.php…",
+              "end": 65,
+              "expanded_url": "https://www.pixiv.net/novel/show.php?id=27043260",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2040723439707910144/z6_xQ5ca?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040723439707910144/z6_xQ5ca?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 42,
+              "status": 200,
+              "title": "[R-18] 不共戴天的我们",
+              "unwound_url": "https://www.pixiv.net/novel/show.php?id=27043260",
+              "url": "https://t.co/2WaaAeV5u2"
+            },
+            {
+              "display_url": "x.com/pizyj/status/2…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/pizyj/status/2040560523423744148",
+              "start": 66,
+              "url": "https://t.co/ppvLQDbzUh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040723436579009015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040560523423744148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想写部自传…哦我已经写完了呀，那没事了\n欢迎来看喵，自传性质的小说，算是（？）\n\nhttps://t.co/2WaaAeV5u2 https://t.co/ppvLQDbzUh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374034349700444161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2040560523423744148",
+        "created_at": "2026-04-04T22:41:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T23:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040560523423744148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Xe1_N0n/status…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/Xe1_N0n/status/2040093396421996882",
+              "start": 150,
+              "url": "https://t.co/NIgeYEg3pN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040560523423744148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4157,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040093396421996882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想写部自传 讲讲曾经的小镇做题家 高中第一次全科考试1000分出头，满分1050震惊所有人+连续两年理科全近乎满分第一+代课两年每天替老师上一两节课 生物竞赛选手\n\n是如何变成了高三郁郁症休学看病一年最后只考了573，大学复读三次大一退学只有高中文凭但是能到处跑着玩能在上海定居找到自己生活的故事 https://t.co/NIgeYEg3pN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6127,
+          "following_count": 216,
+          "like_count": 24305,
+          "listed_count": 19,
+          "media_count": 1766,
+          "tweet_count": 21522
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T16:24:59.000Z",
+        "description": "什么猫？什么猫？猞猁猫？灵白猫？猫小白？是switch/sub/m，厌蠢，最喜欢体验新鲜东西。现在和@rollingcat0100住一起，刷新了一个主子@Harper_Ran86  ，一个大猫@NekomiyaKoharu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 50,
+                "username": "rollingcat0100"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Harper_Ran86"
+              },
+              {
+                "end": 111,
+                "start": 96,
+                "username": "NekomiyaKoharu"
+              }
+            ]
+          }
+        },
+        "id": "1374034349700444161",
+        "location": "猫罐头",
+        "name": "灵白猫海斗真好玩不能作弊的肉鸽就是好玩",
+        "pinned_tweet_id": "1995771051234783575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899500314749030403/grMD1iNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61439,
+          "following_count": 5240,
+          "like_count": 43897,
+          "listed_count": 75,
+          "media_count": 10147,
+          "tweet_count": 55388
+        },
+        "username": "pizyj",
+        "verified": false
+      }
+    ]
+  }
+}

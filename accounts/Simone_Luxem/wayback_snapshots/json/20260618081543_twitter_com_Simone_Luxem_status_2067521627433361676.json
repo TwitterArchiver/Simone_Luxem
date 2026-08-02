@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2067520846571393204",
+    "created_at": "2026-06-18T08:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067521627433361676"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067521627433361676",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067520846571393204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就，“为什么人们无法相互理解呢”…\n或者说，“感同身受”这种事情，明明，都应该可以做到的，对吧…而但凡能够感受到，就…没有可能再那样残忍下去的…对吧…为什么…为什么啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2067520846571393204",
+        "created_at": "2026-06-18T08:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067521627433361676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067521627433361676",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067520846571393204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就，“为什么人们无法相互理解呢”…\n或者说，“感同身受”这种事情，明明，都应该可以做到的，对吧…而但凡能够感受到，就…没有可能再那样残忍下去的…对吧…为什么…为什么啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2067520846571393204",
+        "created_at": "2026-06-18T08:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067520846571393204"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067520846571393204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己好像被困住了\n“同情心泛滥”吗？可是自己并不觉得是任何“泛滥”的，但又确实在事实上，让自己好像“无法采取任何立场”，或者说自己的立场仍然是那个“希望所有人都可以好”…\n但在这相互矛盾的局面中，自己好像并没有能力同时满足各方的愿望呀…\n甚至好像自己实现任何愿望的能力都没有…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6213,
+          "following_count": 219,
+          "like_count": 25089,
+          "listed_count": 16,
+          "media_count": 1791,
+          "tweet_count": 21778
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

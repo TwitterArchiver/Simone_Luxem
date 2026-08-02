@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1939307769766531177",
+    "created_at": "2025-06-29T12:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T13:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939307769766531177"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1939307769766531177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近看了不少犯罪相关的纪实节目，杀人案那种\n然后发现似乎很多凶手都有一个“从小性格古怪，家庭关系不和，周围人对其评价不佳/两极分化明显”的描述…\n啊以及还有，“父母曾将其送入“特殊寄宿学校”之类的地方希望能“教它规矩”，但没有效果”…\n…\n有一点点…看起来似乎像这些凶手都是被人为制造出来的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1939307769766531177",
+        "created_at": "2025-06-29T12:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T13:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939307769766531177"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939307769766531177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近看了不少犯罪相关的纪实节目，杀人案那种\n然后发现似乎很多凶手都有一个“从小性格古怪，家庭关系不和，周围人对其评价不佳/两极分化明显”的描述…\n啊以及还有，“父母曾将其送入“特殊寄宿学校”之类的地方希望能“教它规矩”，但没有效果”…\n…\n有一点点…看起来似乎像这些凶手都是被人为制造出来的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4323,
+          "following_count": 220,
+          "like_count": 20826,
+          "listed_count": 12,
+          "media_count": 1608,
+          "tweet_count": 19764
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

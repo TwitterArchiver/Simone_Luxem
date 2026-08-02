@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2055918786289844616",
+    "created_at": "2026-05-17T07:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055919001545695555"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2055919001545695555",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055918786289844616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再配合剧情中奈叶香非常不擅长撒谎的表现…就很…非常美味的好孩子呀啊哇…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2055918786289844616",
+        "created_at": "2026-05-17T07:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055919001545695555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055919001545695555",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055918786289844616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再配合剧情中奈叶香非常不擅长撒谎的表现…就很…非常美味的好孩子呀啊哇…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2055918786289844616",
+        "created_at": "2026-05-17T07:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055918786289844616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/13witch_trials…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/13witch_trials/status/2055633971867000980",
+              "start": 132,
+              "url": "https://t.co/9TNdLrl0Ht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055918786289844616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055633971867000980",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜哇呜哇这个背景设定太戳了好吧…和自己之前给的私设完美重合…\n特别死配合姐姐的“变身”能力，和剧情中的暗示（明示？）存在过的因为考试考坏了难过然后姐姐变身奈叶香去替考的剧情…最美味的是只说了“可能发生过这样的事情”，却没有说“每一次都是这样的”，甚至没有给定论… https://t.co/9TNdLrl0Ht"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6210,
+          "following_count": 220,
+          "like_count": 24658,
+          "listed_count": 18,
+          "media_count": 1781,
+          "tweet_count": 21675
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

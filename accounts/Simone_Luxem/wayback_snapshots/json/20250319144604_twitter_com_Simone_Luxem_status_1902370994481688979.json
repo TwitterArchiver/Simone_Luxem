@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1902369582695801167",
+    "created_at": "2025-03-19T14:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T15:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902370994481688979"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1902370994481688979",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902369582695801167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为距离感可以让它们或多或少在事实上意识到你与它们之间是彼此独立的，所以即使经济还没有完全独立，分开生活本身也是有帮助的\n啊以及另一个可能有帮助但大概争议很大的点，就是因为自己高中自杀未遂的经历，所以自己给它们进一步留下了深刻的“容易死”的印象，可能也让它们更周到考虑了吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1902369582695801167",
+        "created_at": "2025-03-19T14:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T15:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902370994481688979"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902370994481688979",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902369582695801167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为距离感可以让它们或多或少在事实上意识到你与它们之间是彼此独立的，所以即使经济还没有完全独立，分开生活本身也是有帮助的\n啊以及另一个可能有帮助但大概争议很大的点，就是因为自己高中自杀未遂的经历，所以自己给它们进一步留下了深刻的“容易死”的印象，可能也让它们更周到考虑了吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1902369582695801167",
+        "created_at": "2025-03-19T14:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T15:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902369582695801167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pizyj/status/1…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/pizyj/status/1902125213610897836",
+              "start": 132,
+              "url": "https://t.co/YqS0ZSwllV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902369582695801167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902125213610897836",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我自己的经历大概就是“真诚就是最大的必杀技”，但我不确保可重复性，也不推荐它人贸然使用…\n以及很重要的就是，无论经济是否独立，让孩子远离父母生活一段时间，增加距离感，并且用此时间生米煮成熟饭，再摊牌，能够大幅降低坏结果的概率，当然如果经济也是完全独立的就更好了… https://t.co/YqS0ZSwllV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4102,
+          "following_count": 222,
+          "like_count": 19683,
+          "listed_count": 11,
+          "media_count": 1505,
+          "tweet_count": 18853
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

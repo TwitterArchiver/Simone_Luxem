@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2039636561852354733",
+    "created_at": "2026-04-02T09:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T10:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039636561852354733"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/garrulous_abys…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/garrulous_abyss/status/2039605780773486617",
+          "start": 117,
+          "url": "https://t.co/tr5k85RTpB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039636561852354733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039605780773486617",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "正是因此，以自己定义下的“体面”，反而成为了对自己而言非常重要的事情\n因为自己确实严重缺少自信，并且自己也长期以来都具有强烈的被注视感，会时刻都有一个第三人称视角看向自己\n因此确实，自己会不停地表演，维持自己定义下的体面，给自己看… https://t.co/tr5k85RTpB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2039636561852354733",
+        "created_at": "2026-04-02T09:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T10:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039636561852354733"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/garrulous_abys…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/garrulous_abyss/status/2039605780773486617",
+              "start": 117,
+              "url": "https://t.co/tr5k85RTpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039636561852354733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039605780773486617",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正是因此，以自己定义下的“体面”，反而成为了对自己而言非常重要的事情\n因为自己确实严重缺少自信，并且自己也长期以来都具有强烈的被注视感，会时刻都有一个第三人称视角看向自己\n因此确实，自己会不停地表演，维持自己定义下的体面，给自己看… https://t.co/tr5k85RTpB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4752010152",
+        "conversation_id": "2039605780773486617",
+        "created_at": "2026-04-02T07:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T08:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039605780773486617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ytiihyslqlabpo…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/ytiihyslqlabpow/status/2039556788031246354",
+              "start": 76,
+              "url": "https://t.co/39vGPQgrbn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039605780773486617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 545,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039556788031246354",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得以“体面”为第一要义，本质是对自己的人生缺乏想法，对自己的选择缺少自信。\n\n然后就必须以他人的眼光，世俗的最优来安慰自己，说自己是对的、有意义的 https://t.co/39vGPQgrbn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6137,
+          "following_count": 215,
+          "like_count": 24267,
+          "listed_count": 19,
+          "media_count": 1765,
+          "tweet_count": 21504
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuEa4Up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 125,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 102,
+                "url": "https://t.co/KZBQuEa4Up"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31571,
+          "following_count": 3668,
+          "like_count": 182205,
+          "listed_count": 105,
+          "media_count": 3861,
+          "tweet_count": 66897
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      }
+    ]
+  }
+}

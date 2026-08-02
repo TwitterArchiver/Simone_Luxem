@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1906759186488201718",
+    "created_at": "2025-03-31T17:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T18:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906759186488201718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1898210174810419200",
+          "start": 3,
+          "username": "Anohana_39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/3Rk2rf4",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/3Rk2rf4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906759186488201718",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906649855046594699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Anohana_39: 说一下发生了什么吧，我被忽悠参与协助贩卖“第二类精神药品”，目前还在调查中，应该不算特别严重......我需要法律援助，或者跨圈以及OD药圈有类似经历的人协助，不知道怎么办，可以私信我发你详细经过和证据… https://t.co/3Rk2rf4…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_1906648465901522944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXGrYmakAAQM7C.jpg",
+        "width": 1283
+      },
+      {
+        "height": 1890,
+        "media_key": "3_1906648465930948608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXGrYtbkAAznYf.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1906648465914118144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnXGrYpawAAAnOz.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1906759186488201718",
+        "created_at": "2025-03-31T17:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T18:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906759186488201718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1898210174810419200",
+              "start": 3,
+              "username": "Anohana_39"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/3Rk2rf4",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/3Rk2rf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906759186488201718",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906649855046594699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Anohana_39: 说一下发生了什么吧，我被忽悠参与协助贩卖“第二类精神药品”，目前还在调查中，应该不算特别严重......我需要法律援助，或者跨圈以及OD药圈有类似经历的人协助，不知道怎么办，可以私信我发你详细经过和证据… https://t.co/3Rk2rf4…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906648465901522944",
+            "3_1906648465930948608",
+            "3_1906648465914118144"
+          ]
+        },
+        "author_id": "1898210174810419200",
+        "conversation_id": "1906649855046594699",
+        "created_at": "2025-03-31T10:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T11:03:15.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906648476383125967",
+          "1906648814683070933",
+          "1906649344172073305",
+          "1906649855046594699"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Rk2rf4LPM",
+              "end": 125,
+              "expanded_url": "https://x.com/Anohana_39/status/1906649855046594699/photo/1",
+              "media_key": "3_1906648465901522944",
+              "start": 102,
+              "url": "https://t.co/3Rk2rf4LPM"
+            },
+            {
+              "display_url": "pic.x.com/3Rk2rf4LPM",
+              "end": 125,
+              "expanded_url": "https://x.com/Anohana_39/status/1906649855046594699/photo/1",
+              "media_key": "3_1906648465930948608",
+              "start": 102,
+              "url": "https://t.co/3Rk2rf4LPM"
+            },
+            {
+              "display_url": "pic.x.com/3Rk2rf4LPM",
+              "end": 125,
+              "expanded_url": "https://x.com/Anohana_39/status/1906649855046594699/photo/1",
+              "media_key": "3_1906648465914118144",
+              "start": 102,
+              "url": "https://t.co/3Rk2rf4LPM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906649855046594699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 234,
+                "start": 230,
+                "tag": "思诺思"
+              },
+              {
+                "end": 240,
+                "start": 235,
+                "tag": "精神药品"
+              },
+              {
+                "end": 245,
+                "start": 241,
+                "tag": "mtf"
+              },
+              {
+                "end": 249,
+                "start": 246,
+                "tag": "药娘"
+              },
+              {
+                "end": 253,
+                "start": 250,
+                "tag": "求助"
+              },
+              {
+                "end": 259,
+                "start": 254,
+                "tag": "ADHD"
+              },
+              {
+                "end": 263,
+                "start": 260,
+                "tag": "OD"
+              },
+              {
+                "end": 269,
+                "start": 264,
+                "tag": "右美沙芬"
+              },
+              {
+                "end": 275,
+                "start": 270,
+                "tag": "法律援助"
+              },
+              {
+                "end": 280,
+                "start": 276,
+                "tag": "抑郁症"
+              },
+              {
+                "end": 285,
+                "start": 281,
+                "tag": "抑郁症"
+              }
+            ]
+          },
+          "text": "说一下发生了什么吧，我被忽悠参与协助贩卖“第二类精神药品”，目前还在调查中，应该不算特别严重......我需要法律援助，或者跨圈以及OD药圈有类似经历的人协助，不知道怎么办，可以私信我发你详细经过和证据\n\n另外也希望有好心人可以资助一些钱，会用于这段时间的日常花销、请律师的费用、还有其他东西。我母亲没有工作了，陪我处理这件事，我父亲工资要五月上旬才能开，零花钱也没有了，糖也快吃完。非常感谢，二维码在下面，祝愿我渡过难关，真的很需要你们的帮助，求扩散转发。\n#思诺思 #精神药品 #mtf #药娘 #求助 #ADHD #OD #右美沙芬 #法律援助 #抑郁症 #抑郁症"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9909,
+          "like_count": 38,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "说一下发生了什么吧，我被忽悠参与协助贩卖“第二类精神药品”，目前还在调查中，应该不算特别严重......我需要法律援助，或者跨圈以及OD药圈有类似经历的人协助，不知道怎么办，可以私信我发你详细经过和证据 https://t.co/3Rk2rf4LPM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4098,
+          "following_count": 219,
+          "like_count": 19819,
+          "listed_count": 11,
+          "media_count": 1510,
+          "tweet_count": 18960
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T03:13:22.000Z",
+        "description": "💌 @xiaokongyu233丨挚友@Codingxiaoheng @Voyager0003 @saonanaa丨不畏惧死亡 请以我经历予以警示 不要OD和接触精神一二类药品 敬畏中国法律",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "xiaokongyu233"
+              },
+              {
+                "end": 34,
+                "start": 19,
+                "username": "Codingxiaoheng"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Voyager0003"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "saonanaa"
+              }
+            ]
+          }
+        },
+        "id": "1898210174810419200",
+        "location": "Dublin City, Ireland",
+        "name": "Anohana🌸🏳️‍⚧️",
+        "pinned_tweet_id": "1906649855046594699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905574181154291713/WvSONNKd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 418,
+          "like_count": 1134,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 116
+        },
+        "username": "Anohana_39",
+        "verified": true
+      }
+    ]
+  }
+}

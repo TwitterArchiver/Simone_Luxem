@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1951700559452594499",
+    "created_at": "2025-08-03T00:53:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T01:53:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951808710839615928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362678086211301384",
+          "start": 0,
+          "username": "Amagalan_B1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951808710839615928",
+    "in_reply_to_user_id": "1362678086211301384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951700559452594499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amagalan_B1 我倾向于相信这一点，如果按照广义的性侵害的标准来看的话\n因为身边统计学一下，我是真的见过/接触过不少在成年前被性侵过的女性的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1951700559452594499",
+        "created_at": "2025-08-03T00:53:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T01:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951808710839615928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362678086211301384",
+              "start": 0,
+              "username": "Amagalan_B1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951808710839615928",
+        "in_reply_to_user_id": "1362678086211301384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951700559452594499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amagalan_B1 我倾向于相信这一点，如果按照广义的性侵害的标准来看的话\n因为身边统计学一下，我是真的见过/接触过不少在成年前被性侵过的女性的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362678086211301384",
+        "conversation_id": "1951700559452594499",
+        "created_at": "2025-08-02T17:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T18:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951700559452594499"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 8,
+              "tag": "metoo"
+            },
+            {
+              "end": 109,
+              "start": 103,
+              "tag": "metoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951700559452594499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 761,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我个人对国内的 #metoo 运动表示怀疑，不是怀疑这个运动本身，而是感觉这个运动带来了很多不实信息。\n比如我一直感觉国内经常提到的“超过80%的女性曾在成年之前遭到过各种类型的性侵。”大概率是不属实的。\n#metoo 运动是一个非常危险的潜在造谣渠道，而且很容易调动观众情绪，是很危险的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4529,
+          "following_count": 221,
+          "like_count": 21856,
+          "listed_count": 13,
+          "media_count": 1648,
+          "tweet_count": 20097
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T08:19:32.000Z",
+        "description": "A heavy tank made by Renault. 🇩🇪🇨🇳🇬🇧🇺🇸 A fan of trains, tanks，F1 & battleships. #Renault #Alpine💙💛",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 88,
+                "start": 80,
+                "tag": "Renault"
+              },
+              {
+                "end": 96,
+                "start": 89,
+                "tag": "Alpine"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "defense.gouv.fr",
+                "end": 23,
+                "expanded_url": "https://www.defense.gouv.fr/",
+                "start": 0,
+                "url": "https://t.co/hXf8XteU8w"
+              }
+            ]
+          }
+        },
+        "id": "1362678086211301384",
+        "location": "Boulogne-Billancourt, France",
+        "name": "☢️Char B1 bis",
+        "pinned_tweet_id": "1931855593704497267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888752159979696128/1MaSeRRH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 739,
+          "like_count": 48877,
+          "listed_count": 1,
+          "media_count": 383,
+          "tweet_count": 13017
+        },
+        "url": "https://t.co/hXf8XteU8w",
+        "username": "Amagalan_B1",
+        "verified": false
+      }
+    ]
+  }
+}

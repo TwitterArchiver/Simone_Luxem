@@ -1,0 +1,241 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1809882859189997674",
+    "created_at": "2024-07-07T13:42:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-07T14:42:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809946216156872866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1468416451208179712",
+          "start": 0,
+          "username": "kokowamakotsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809946216156872866",
+    "in_reply_to_user_id": "1468416451208179712",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809942013657366735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokowamakotsu 所以你也有asd以外的其他神经非典型发育表现/精神病呀...对吧（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1809882859189997674",
+        "created_at": "2024-07-07T13:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T14:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809946216156872866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1468416451208179712",
+              "start": 0,
+              "username": "kokowamakotsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809946216156872866",
+        "in_reply_to_user_id": "1468416451208179712",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809942013657366735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokowamakotsu 所以你也有asd以外的其他神经非典型发育表现/精神病呀...对吧（？）"
+      },
+      {
+        "attachments": {},
+        "author_id": "1468416451208179712",
+        "conversation_id": "1809882859189997674",
+        "created_at": "2024-07-07T13:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-07T14:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809942013657366735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809942013657366735",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809882859189997674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 不，我也会这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3362,
+          "following_count": 221,
+          "like_count": 14899,
+          "listed_count": 9,
+          "tweet_count": 15867
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T03:05:47.000Z",
+        "description": "持证上岗//COC跑团人//Oliva青果系骰娘骰主//路过的骑士厨//学生\n长毛象：https://t.co/P1XBuGxmUg\n糖果贩售商店表https://t.co/d7W8od0z7F\n已逝爱人 @ANQNKNy\n微信公众号 makotsu-transer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 103,
+                "username": "ANQNKNy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mstdn.party/@makotsu",
+                "end": 66,
+                "expanded_url": "http://mstdn.party/@makotsu",
+                "start": 43,
+                "url": "https://t.co/P1XBuGxmUg"
+              },
+              {
+                "display_url": "netsusyou-makotsu.github.io/E2-docs",
+                "end": 97,
+                "expanded_url": "http://netsusyou-makotsu.github.io/E2-docs",
+                "start": 74,
+                "url": "https://t.co/d7W8od0z7F"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makotsu.xyz",
+                "end": 23,
+                "expanded_url": "https://makotsu.xyz/",
+                "start": 0,
+                "url": "https://t.co/FWQxuSbLU2"
+              }
+            ]
+          }
+        },
+        "id": "1468416451208179712",
+        "location": "幻想乡 红魔馆",
+        "name": "紫·恒箫·魔骨",
+        "pinned_tweet_id": "1500615371094691842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3271,
+          "following_count": 499,
+          "like_count": 4943,
+          "listed_count": 23,
+          "tweet_count": 17122
+        },
+        "url": "https://t.co/FWQxuSbLU2",
+        "username": "kokowamakotsu",
+        "verified": false
+      }
+    ]
+  }
+}

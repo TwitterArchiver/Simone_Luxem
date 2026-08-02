@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1929839546205639150",
+    "created_at": "2025-06-03T13:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-03T14:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929896675407016071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164688189673463808",
+          "start": 0,
+          "username": "Hina_Tokugawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929896675407016071",
+    "in_reply_to_user_id": "1164688189673463808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929896198435156106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hina_Tokugawa 除非jm没事先写着“r-18g”，否则我就觉得我它尽到了事先提醒的义务\n那就像我写篇小黄文，结果被不知道哪个缺德玩意打印了出来做成传单在学校门口向小孩子散发，那很明显责任是那个散发的人而不是我的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1929839546205639150",
+        "created_at": "2025-06-03T13:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929896675407016071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164688189673463808",
+              "start": 0,
+              "username": "Hina_Tokugawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929896675407016071",
+        "in_reply_to_user_id": "1164688189673463808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929896198435156106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hina_Tokugawa 除非jm没事先写着“r-18g”，否则我就觉得我它尽到了事先提醒的义务\n那就像我写篇小黄文，结果被不知道哪个缺德玩意打印了出来做成传单在学校门口向小孩子散发，那很明显责任是那个散发的人而不是我的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164688189673463808",
+        "conversation_id": "1929839546205639150",
+        "created_at": "2025-06-03T13:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T14:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929896198435156106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929896198435156106",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929842780739613111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 不对不对吧。个人性癖就是自由的，但是表达出来写成书其实是有底线的，比如jm那一套就不适合发表。private和公共区域我觉得还是不太一样，除非以极小圈子向特定人传播。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4258,
+          "following_count": 219,
+          "like_count": 20466,
+          "listed_count": 12,
+          "media_count": 1571,
+          "tweet_count": 19472
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-22T23:58:06.000Z",
+        "description": "Transgender Female. HRT now, already looks like femboy (kinda)\n跨性别女性。MTF（激素治疗中），人生目标就是成为女仆。",
+        "id": "1164688189673463808",
+        "location": "China",
+        "name": "苏Nya Supports BLM",
+        "pinned_tweet_id": "1497177131566047232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1164688280375316481/aIKqjv9K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 640,
+          "like_count": 33608,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 12170
+        },
+        "username": "Hina_Tokugawa",
+        "verified": false
+      }
+    ]
+  }
+}

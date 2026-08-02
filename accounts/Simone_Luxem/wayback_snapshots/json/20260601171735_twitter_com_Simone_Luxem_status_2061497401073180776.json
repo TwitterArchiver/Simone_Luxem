@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061497394530050048",
+        "3_2061497394530025472"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2061497401073180776",
+    "created_at": "2026-06-01T17:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T18:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061497401073180776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iSlIHvW2em",
+          "end": 75,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2061497401073180776/photo/1",
+          "media_key": "3_2061497394530050048",
+          "start": 52,
+          "url": "https://t.co/iSlIHvW2em"
+        },
+        {
+          "display_url": "pic.x.com/iSlIHvW2em",
+          "end": 75,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2061497401073180776/photo/1",
+          "media_key": "3_2061497394530025472",
+          "start": 52,
+          "url": "https://t.co/iSlIHvW2em"
+        },
+        {
+          "display_url": "x.com/diamond_kokoro…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/diamond_kokoro/status/2061295091705368834",
+          "start": 76,
+          "url": "https://t.co/sIYlTmF1BT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061497401073180776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061295091705368834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唔，自己的也是很多的…不过大概都其实是自己本身就已知了，甚至某种意义上，主动为自己选择的吧…作为祭品… https://t.co/iSlIHvW2em https://t.co/sIYlTmF1BT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2061497394530050048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvo9UJbYAAw4FD.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_2061497394530025472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJvo9UJbAAAErWD.jpg",
+        "width": 750
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061295063234408448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsw8FVacAA-zjM.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061295063205126144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsw8FOboAA-1Od.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061497394530050048",
+            "3_2061497394530025472"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2061497401073180776",
+        "created_at": "2026-06-01T17:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061497401073180776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iSlIHvW2em",
+              "end": 75,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2061497401073180776/photo/1",
+              "media_key": "3_2061497394530050048",
+              "start": 52,
+              "url": "https://t.co/iSlIHvW2em"
+            },
+            {
+              "display_url": "pic.x.com/iSlIHvW2em",
+              "end": 75,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2061497401073180776/photo/1",
+              "media_key": "3_2061497394530025472",
+              "start": 52,
+              "url": "https://t.co/iSlIHvW2em"
+            },
+            {
+              "display_url": "x.com/diamond_kokoro…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/diamond_kokoro/status/2061295091705368834",
+              "start": 76,
+              "url": "https://t.co/sIYlTmF1BT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061497401073180776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061295091705368834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唔，自己的也是很多的…不过大概都其实是自己本身就已知了，甚至某种意义上，主动为自己选择的吧…作为祭品… https://t.co/iSlIHvW2em https://t.co/sIYlTmF1BT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061295063234408448",
+            "3_2061295063205126144"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2061295091705368834",
+        "created_at": "2026-06-01T03:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T04:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061295091705368834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nrsCUVnRp0",
+              "end": 77,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2061295091705368834/photo/1",
+              "media_key": "3_2061295063234408448",
+              "start": 54,
+              "url": "https://t.co/nrsCUVnRp0"
+            },
+            {
+              "display_url": "pic.x.com/nrsCUVnRp0",
+              "end": 77,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2061295091705368834/photo/1",
+              "media_key": "3_2061295063205126144",
+              "start": 54,
+              "url": "https://t.co/nrsCUVnRp0"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2061286092767191363",
+              "start": 78,
+              "url": "https://t.co/6CAxqQvhmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061295091705368834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2244,
+          "like_count": 8,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061286092767191363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不是為什麼你們的恐懼這麼少 我有5項的恐懼程度都過半了 難道每天活在持續不斷的恐懼裡是什麼很少見的事嗎，， https://t.co/nrsCUVnRp0 https://t.co/6CAxqQvhmI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6217,
+          "following_count": 220,
+          "like_count": 24902,
+          "listed_count": 16,
+          "media_count": 1788,
+          "tweet_count": 21748
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "戀人：@irisdesombres 。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "location": "Erlösung",
+        "name": "小羽",
+        "pinned_tweet_id": "2061016689874219299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060371508426592256/Gx-SAITd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 147,
+          "like_count": 7818,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 5496
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

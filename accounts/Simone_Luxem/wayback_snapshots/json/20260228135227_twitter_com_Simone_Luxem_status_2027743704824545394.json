@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2027743704824545394",
+    "created_at": "2026-02-28T13:52:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T14:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027743704824545394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/simone_luxem/s…",
+          "end": 118,
+          "expanded_url": "https://twitter.com/simone_luxem/status/2027391020544262596",
+          "start": 95,
+          "url": "https://t.co/nr0LZfPJw6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027743704824545394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027391020544262596",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今天和月说起来才知道英文原文表达的是性含义…\n我：诶不对呀我上学的时候是真的被老师叫过“good girl”之类的呀，就，自己真的很喜欢，感觉很受用什么的…\n月：你这是先天被pua圣体啊… https://t.co/nr0LZfPJw6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 416,
+        "media_key": "3_2027391013778759680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK9Yq0aIAATwfI.jpg",
+        "width": 1300
+      },
+      {
+        "height": 372,
+        "media_key": "3_2027391013975994368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK9YrjbsAAXRcW.jpg",
+        "width": 1388
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2027743704824545394",
+        "created_at": "2026-02-28T13:52:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027743704824545394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/simone_luxem/status/2027391020544262596",
+              "start": 95,
+              "url": "https://t.co/nr0LZfPJw6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027743704824545394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027391020544262596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今天和月说起来才知道英文原文表达的是性含义…\n我：诶不对呀我上学的时候是真的被老师叫过“good girl”之类的呀，就，自己真的很喜欢，感觉很受用什么的…\n月：你这是先天被pua圣体啊… https://t.co/nr0LZfPJw6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027391013778759680",
+            "3_2027391013975994368"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027391020544262596",
+        "created_at": "2026-02-27T14:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027391020544262596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6pJ6x6u7O",
+              "end": 44,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2027391020544262596/photo/1",
+              "media_key": "3_2027391013778759680",
+              "start": 21,
+              "url": "https://t.co/a6pJ6x6u7O"
+            },
+            {
+              "display_url": "pic.x.com/a6pJ6x6u7O",
+              "end": 44,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2027391020544262596/photo/1",
+              "media_key": "3_2027391013975994368",
+              "start": 21,
+              "url": "https://t.co/a6pJ6x6u7O"
+            },
+            {
+              "display_url": "x.com/cyanvtb/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/cyanvtb/status/2027228964142686574",
+              "start": 45,
+              "url": "https://t.co/kcxTVOHhGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027391020544262596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1948,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027228964142686574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜呜呜可是真的很喜欢被夸“好孩子”的… https://t.co/a6pJ6x6u7O https://t.co/kcxTVOHhGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6187,
+          "following_count": 217,
+          "like_count": 23921,
+          "listed_count": 19,
+          "media_count": 1750,
+          "tweet_count": 21361
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

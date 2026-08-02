@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1904287380342718477",
+    "created_at": "2025-03-24T21:41:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T22:41:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904287380342718477"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1904287380342718477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不想要嘲笑人\n但是真的，真的，有时候真的很想说\n“大鹅怎么叫，该哦——”\n好吧确实这样是不对的，悔过一下x\n认真的说就是，聪明的人可以从别人的经历中学习，普通的人可以从自己的经历中学习，而有些笨蛋，事情在自己身上一遍遍发生，却甚至连动作的发出者都不知道…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1904287380342718477",
+        "created_at": "2025-03-24T21:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T22:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904287380342718477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904287380342718477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想要嘲笑人\n但是真的，真的，有时候真的很想说\n“大鹅怎么叫，该哦——”\n好吧确实这样是不对的，悔过一下x\n认真的说就是，聪明的人可以从别人的经历中学习，普通的人可以从自己的经历中学习，而有些笨蛋，事情在自己身上一遍遍发生，却甚至连动作的发出者都不知道…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4092,
+          "following_count": 220,
+          "like_count": 19781,
+          "listed_count": 11,
+          "media_count": 1509,
+          "tweet_count": 18910
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

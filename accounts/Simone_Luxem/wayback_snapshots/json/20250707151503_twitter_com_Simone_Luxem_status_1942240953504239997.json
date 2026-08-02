@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1942240953504239997",
+    "created_at": "2025-07-07T15:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-07T16:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1942240953504239997"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/artoria2e5/sta…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/artoria2e5/status/1942071355664687135",
+          "start": 97,
+          "url": "https://t.co/5IUt8Kio3B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942240953504239997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942071355664687135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对，这个比喻很好\n很多父母，或者说老登，在孩子生病的时候都会去怪孩子为什么要生病，好像生病是孩子的错一样\n确实，病是该治的，但精神科医生都知道想要治疗孩子的精神病第一步是把它父母从诊室里赶出去 https://t.co/5IUt8Kio3B"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1942240953504239997",
+        "created_at": "2025-07-07T15:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T16:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942240953504239997"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/artoria2e5/sta…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/artoria2e5/status/1942071355664687135",
+              "start": 97,
+              "url": "https://t.co/5IUt8Kio3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942240953504239997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942071355664687135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对，这个比喻很好\n很多父母，或者说老登，在孩子生病的时候都会去怪孩子为什么要生病，好像生病是孩子的错一样\n确实，病是该治的，但精神科医生都知道想要治疗孩子的精神病第一步是把它父母从诊室里赶出去 https://t.co/5IUt8Kio3B"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618800860",
+        "conversation_id": "1942070321156436380",
+        "created_at": "2025-07-07T04:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-07T05:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942071355664687135"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942071355664687135",
+        "in_reply_to_user_id": "1618800860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942070321156436380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“买药自杀不是小朋友的错”是“得病不是人的错”的那种“不是错”，不说明不该治"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4329,
+          "following_count": 219,
+          "like_count": 21057,
+          "listed_count": 12,
+          "media_count": 1620,
+          "tweet_count": 19854
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-24T22:52:36.000Z",
+        "description": "💖 @Tsumikiiss | 小号 @Arthur2e5 | Fully-Stuck Cross-Platform User. she/her || im on https://t.co/jazkZAV5uj 🚪42 请给我钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Tsumikiiss"
+              },
+              {
+                "end": 29,
+                "start": 19,
+                "username": "Arthur2e5"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "enwp.org",
+                "end": 105,
+                "expanded_url": "http://enwp.org",
+                "start": 82,
+                "url": "https://t.co/jazkZAV5uj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/Arthur2e5",
+                "end": 23,
+                "expanded_url": "http://about.me/Arthur2e5",
+                "start": 0,
+                "url": "https://t.co/qOu0ummcvE"
+              }
+            ]
+          }
+        },
+        "id": "1618800860",
+        "location": "Shanghai",
+        "name": "Mingye Wang 4.0.1（已九价）🏳️‍⚧️🌻",
+        "pinned_tweet_id": "1782256531150680464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835643449141567488/GSCV91th_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2055,
+          "following_count": 2331,
+          "like_count": 70546,
+          "listed_count": 26,
+          "media_count": 502,
+          "tweet_count": 46440
+        },
+        "url": "https://t.co/qOu0ummcvE",
+        "username": "Artoria2e5",
+        "verified": false
+      }
+    ]
+  }
+}

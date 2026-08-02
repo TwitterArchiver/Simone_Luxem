@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1843558204728652024",
+    "created_at": "2024-10-08T07:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-08T08:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1843558204728652024"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1843558204728652024",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一点建议\n就是大家可不可以在TiA- amber-shu目前相关的争论上都不要公开发表任何有价值判断的任何观点，至少不要是都其中某一方的公开指责…\n因为已经感觉到事情有失控的趋势了，害怕如果继续发展下去，会对其中至少一方的精神状态造成极大伤害，甚至更糟…\n学术分歧/争议不应该造成人身伤害的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1843558204728652024",
+        "created_at": "2024-10-08T07:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-08T08:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1843558204728652024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1843558204728652024",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一点建议\n就是大家可不可以在TiA- amber-shu目前相关的争论上都不要公开发表任何有价值判断的任何观点，至少不要是都其中某一方的公开指责…\n因为已经感觉到事情有失控的趋势了，害怕如果继续发展下去，会对其中至少一方的精神状态造成极大伤害，甚至更糟…\n学术分歧/争议不应该造成人身伤害的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 223,
+          "like_count": 17390,
+          "listed_count": 9,
+          "tweet_count": 17349
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1984837438653731272",
+    "created_at": "2025-11-02T04:18:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T05:18:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984837438653731272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/farewelhk/stat…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/farewelhk/status/1984536473354584210",
+          "start": 11,
+          "url": "https://t.co/ooqcTGtYuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984837438653731272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984536473354584210",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "把人挂在高树上是吧（ https://t.co/ooqcTGtYuu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1984536467537084417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4p9ZxdbQAEqMKA.jpg",
+        "width": 1753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1984837438653731272",
+        "created_at": "2025-11-02T04:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T05:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984837438653731272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/farewelhk/stat…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/farewelhk/status/1984536473354584210",
+              "start": 11,
+              "url": "https://t.co/ooqcTGtYuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984837438653731272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984536473354584210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "把人挂在高树上是吧（ https://t.co/ooqcTGtYuu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984536467537084417"
+          ]
+        },
+        "author_id": "1321789931140771840",
+        "conversation_id": "1984536473354584210",
+        "created_at": "2025-11-01T08:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T09:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984536473354584210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/olefZEqaQO",
+              "end": 123,
+              "expanded_url": "https://x.com/farewelhk/status/1984536473354584210/photo/1",
+              "media_key": "3_1984536467537084417",
+              "start": 100,
+              "url": "https://t.co/olefZEqaQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984536473354584210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12277,
+          "like_count": 397,
+          "quote_count": 4,
+          "reply_count": 14,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "往年我都是把糖果放在門口，讓小朋友自己拿。今年弟弟說要在門口派，問他怎麼派，給我看兩張紙，是他今天的數學功課題，答對才有糖。過了一會問他派糖成果怎樣，他說小朋友大朋友都驚恐地看著他，彷彿看到真正的鬼 https://t.co/olefZEqaQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5650,
+          "following_count": 215,
+          "like_count": 22857,
+          "listed_count": 18,
+          "media_count": 1685,
+          "tweet_count": 20713
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-29T12:24:24.000Z",
+        "description": "憤怒的人民已經不再恐惧",
+        "id": "1321789931140771840",
+        "name": "farewell",
+        "pinned_tweet_id": "1695583754738344346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1321790451444166658/rIR5V9w5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4118,
+          "following_count": 349,
+          "like_count": 11075,
+          "listed_count": 16,
+          "media_count": 993,
+          "tweet_count": 10668
+        },
+        "username": "farewelhk",
+        "verified": false
+      }
+    ]
+  }
+}

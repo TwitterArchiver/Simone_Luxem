@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1876888699864011104",
+    "created_at": "2025-01-08T07:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T08:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876894941848191225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1762727503838515200",
+          "start": 0,
+          "username": "nyaaion"
+        },
+        {
+          "end": 17,
+          "id": "1251444237222240258",
+          "start": 9,
+          "username": "IIInoki"
+        },
+        {
+          "end": 32,
+          "id": "1126154089216262145",
+          "start": 18,
+          "username": "ArtsEpiphany1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876894941848191225",
+    "in_reply_to_user_id": "1762727503838515200",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876893172078363014",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaaion @IIInoki @ArtsEpiphany1 Make it glutamate"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1876888699864011104",
+        "created_at": "2025-01-08T07:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T08:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876894941848191225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1762727503838515200",
+              "start": 0,
+              "username": "nyaaion"
+            },
+            {
+              "end": 17,
+              "id": "1251444237222240258",
+              "start": 9,
+              "username": "IIInoki"
+            },
+            {
+              "end": 32,
+              "id": "1126154089216262145",
+              "start": 18,
+              "username": "ArtsEpiphany1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876894941848191225",
+        "in_reply_to_user_id": "1762727503838515200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876893172078363014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaaion @IIInoki @ArtsEpiphany1 Make it glutamate"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762727503838515200",
+        "conversation_id": "1876888699864011104",
+        "created_at": "2025-01-08T07:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T08:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876893172078363014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1251444237222240258",
+              "start": 0,
+              "username": "IIInoki"
+            },
+            {
+              "end": 23,
+              "id": "1126154089216262145",
+              "start": 9,
+              "username": "ArtsEpiphany1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876893172078363014",
+        "in_reply_to_user_id": "1251444237222240258",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876890229799309770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IIInoki @ArtsEpiphany1 make it GABA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3946,
+          "following_count": 220,
+          "like_count": 18637,
+          "listed_count": 10,
+          "media_count": 1462,
+          "tweet_count": 18289
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T06:32:59.000Z",
+        "description": "(He/他) @tamu BSc. CS '26\n日本語 汉语 English\nムスメ：ゆあり\nRadical Humanitarian Multiculturalism Strongly Endorsed\n#栗子歌单 #猫离重工",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "栗子歌单"
+              },
+              {
+                "end": 115,
+                "start": 110,
+                "tag": "猫离重工"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 12,
+                "start": 7,
+                "username": "tamu"
+              }
+            ]
+          }
+        },
+        "id": "1762727503838515200",
+        "location": "College Station",
+        "name": "香澄毛栗子@尾丸座",
+        "pinned_tweet_id": "1868487691668775210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845888618859995137/bALJXEsG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 485,
+          "like_count": 7098,
+          "listed_count": 0,
+          "media_count": 592,
+          "tweet_count": 4476
+        },
+        "username": "nyaaion",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-18T09:35:39.000Z",
+        "description": "Nobody\n“文科”博士🐶\n人间不值得 生活推\n風立ちぬ、いざ生きめやも\n🚪8.8 USD 走 GitHub sponsorship🤤\nhttps://t.co/KBMpO3fzK4\n背景图 by @IIInoki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 100,
+                "username": "IIInoki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/inokinoki",
+                "end": 92,
+                "expanded_url": "https://github.com/inokinoki",
+                "start": 69,
+                "url": "https://t.co/KBMpO3fzK4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "inoki.cc",
+                "end": 23,
+                "expanded_url": "https://www.inoki.cc",
+                "start": 0,
+                "url": "https://t.co/4mBacSf4mT"
+              }
+            ]
+          }
+        },
+        "id": "1251444237222240258",
+        "location": "114514",
+        "name": "鹿 𝕟𝕠𝕜𝕚𝕟𝕠𝕜𝕚",
+        "pinned_tweet_id": "1854157543364301204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831914566684438528/Tjbm3SmJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10079,
+          "following_count": 1589,
+          "like_count": 59259,
+          "listed_count": 76,
+          "media_count": 2045,
+          "tweet_count": 28253
+        },
+        "url": "https://t.co/4mBacSf4mT",
+        "username": "IIInoki",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. Traveller. Computer Architect. Product Architect. Negative altitude by birth. Opinions are own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimuroslime",
+                "end": 23,
+                "expanded_url": "https://t.me/rimuroslime",
+                "start": 0,
+                "url": "https://t.co/Xo0VOQVwy0"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu 🍡 スライム 史莱姆",
+        "pinned_tweet_id": "1824357556019495152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873660809219551232/HC6EXOGL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10469,
+          "following_count": 1463,
+          "like_count": 85070,
+          "listed_count": 51,
+          "media_count": 1879,
+          "tweet_count": 22985
+        },
+        "url": "https://t.co/Xo0VOQVwy0",
+        "username": "ArtsEpiphany1",
+        "verified": true
+      }
+    ]
+  }
+}

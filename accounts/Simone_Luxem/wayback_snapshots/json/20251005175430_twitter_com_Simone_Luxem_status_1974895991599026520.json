@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1974895985668071424"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1974895991599026520",
+    "created_at": "2025-10-05T17:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T18:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974895991599026520"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MECZ3Oo1Br",
+          "end": 164,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1974895991599026520/photo/1",
+          "media_key": "3_1974895985668071424",
+          "start": 141,
+          "url": "https://t.co/MECZ3Oo1Br"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974895991599026520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想要知道怎样降低一些自己对其它人的占有欲…\n就，对于自己所有亲密的人，自己都会有一种自发产生的具有强烈排它性的占有欲，甚至不只是对自己的恋人，对任何“关系好”的人都会有不同程度的…\n感觉是一种病态的事情了，因为其完全不是自己主观意愿上想要产生的，恰恰相反是自己主观上一直在抑制的… https://t.co/MECZ3Oo1Br"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 810,
+        "media_key": "3_1974895985668071424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2g9b34XIAA8jMS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974895985668071424"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1974895991599026520",
+        "created_at": "2025-10-05T17:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T18:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974895991599026520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MECZ3Oo1Br",
+              "end": 164,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1974895991599026520/photo/1",
+              "media_key": "3_1974895985668071424",
+              "start": 141,
+              "url": "https://t.co/MECZ3Oo1Br"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974895991599026520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要知道怎样降低一些自己对其它人的占有欲…\n就，对于自己所有亲密的人，自己都会有一种自发产生的具有强烈排它性的占有欲，甚至不只是对自己的恋人，对任何“关系好”的人都会有不同程度的…\n感觉是一种病态的事情了，因为其完全不是自己主观意愿上想要产生的，恰恰相反是自己主观上一直在抑制的… https://t.co/MECZ3Oo1Br"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621,
+          "following_count": 220,
+          "like_count": 22509,
+          "listed_count": 12,
+          "media_count": 1667,
+          "tweet_count": 20477
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

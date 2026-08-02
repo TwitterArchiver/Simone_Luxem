@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1879651899890360701",
+    "created_at": "2025-01-15T22:14:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T23:14:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879653418513711414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "60042536",
+          "start": 0,
+          "username": "keyemail"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879653418513711414",
+    "in_reply_to_user_id": "60042536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879651899890360701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keyemail 这算某种挑战吗？我倒是有充分的把握和信心，只不过你的文字游戏玩得太过于明显了，以及我既不认为你具有干涉我个人未来规划的资格，也不对你的未来命运抱有任何关心，所以我当然不可能接受\n我当然清楚我自己是否清白，而你说的话对我毫无价值，我凭什么接受你的赌约？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1879651899890360701",
+        "created_at": "2025-01-15T22:14:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T23:14:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879653418513711414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "60042536",
+              "start": 0,
+              "username": "keyemail"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879653418513711414",
+        "in_reply_to_user_id": "60042536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879651899890360701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keyemail 这算某种挑战吗？我倒是有充分的把握和信心，只不过你的文字游戏玩得太过于明显了，以及我既不认为你具有干涉我个人未来规划的资格，也不对你的未来命运抱有任何关心，所以我当然不可能接受\n我当然清楚我自己是否清白，而你说的话对我毫无价值，我凭什么接受你的赌约？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "60042536",
+        "conversation_id": "1879651899890360701",
+        "created_at": "2025-01-15T22:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T23:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879651899890360701"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Simone_Luxem/s…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1879650994906374154",
+              "start": 97,
+              "url": "https://t.co/KFEOEzEukO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879651899890360701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879650994906374154",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好，我们现在打赌，如果寒涟漪案件立案并且最后审判定谳有罪的话。你自己向荷兰政府自首，取消你自己居留权，遣送回中国。\n如果两年之内没有人向中国政府报案，我自己放弃我自己的澳洲身份，回中国怎么样？ https://t.co/KFEOEzEukO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3955,
+          "following_count": 221,
+          "like_count": 18743,
+          "listed_count": 10,
+          "media_count": 1468,
+          "tweet_count": 18346
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-25T11:57:06.000Z",
+        "description": "人权工作者。 （如果你只相信法轮功媒体） 中华人民共和国国安部长打击法轮功专项行动特别小组成员。被宇宙主佛托梦参与到了神韵案件当中，以清君侧。🐶 🐶 🐶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "liuxiaoer.substack.com/publish/settin…",
+                "end": 23,
+                "expanded_url": "https://liuxiaoer.substack.com/publish/settings",
+                "start": 0,
+                "url": "https://t.co/O0HC56xCzM"
+              }
+            ]
+          }
+        },
+        "id": "60042536",
+        "location": "China",
+        "name": "小二",
+        "pinned_tweet_id": "1870112134396555648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811242230545580032/kCg5TIGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3778,
+          "following_count": 452,
+          "like_count": 468,
+          "listed_count": 21,
+          "media_count": 228,
+          "tweet_count": 3953
+        },
+        "url": "https://t.co/O0HC56xCzM",
+        "username": "keyemail",
+        "verified": false
+      }
+    ]
+  }
+}

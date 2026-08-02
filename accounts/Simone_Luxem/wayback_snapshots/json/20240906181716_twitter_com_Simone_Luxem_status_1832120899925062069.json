@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1832120899925062069",
+    "created_at": "2024-09-06T18:17:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T19:17:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1832120899925062069"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1832120899925062069",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一件挺丢人的事..\n作为一个在北京长大，寒假跑去哈尔滨过冬过，一直以来自以为抗寒属性点满的人…\n差点在荷兰的九月份被冻死…\n说起来感觉同事真的都挺照顾我的，理论上装备是一人一套的，但是我好几次因为被淋透了在发抖，然后同事就从仓库里给我额外的干燥的夹克…现在家里都已经好几件了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1832120899925062069",
+        "created_at": "2024-09-06T18:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T19:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1832120899925062069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1832120899925062069",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一件挺丢人的事..\n作为一个在北京长大，寒假跑去哈尔滨过冬过，一直以来自以为抗寒属性点满的人…\n差点在荷兰的九月份被冻死…\n说起来感觉同事真的都挺照顾我的，理论上装备是一人一套的，但是我好几次因为被淋透了在发抖，然后同事就从仓库里给我额外的干燥的夹克…现在家里都已经好几件了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3680,
+          "following_count": 223,
+          "like_count": 16490,
+          "listed_count": 8,
+          "tweet_count": 16877
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

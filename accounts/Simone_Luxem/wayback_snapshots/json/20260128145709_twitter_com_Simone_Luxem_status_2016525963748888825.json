@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2016525963748888825",
+    "created_at": "2026-01-28T14:57:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T15:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016525963748888825"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016525963748888825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在想，如果某位同类为了拿原生家庭的资源来做一些事情，选择了detrans的话，算不算“具有某种觉悟”\n自己认为是不算的。对自己来说有“不可交出之物”的概念，即存在某条底线，是宁可付出自己的生命，甚至是其它人的生命，也不可以用来交换的事物；而若是将其交出了，即使是为了高尚的目的，也不是对的吧.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2016525963748888825",
+        "created_at": "2026-01-28T14:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016525963748888825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016525963748888825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在想，如果某位同类为了拿原生家庭的资源来做一些事情，选择了detrans的话，算不算“具有某种觉悟”\n自己认为是不算的。对自己来说有“不可交出之物”的概念，即存在某条底线，是宁可付出自己的生命，甚至是其它人的生命，也不可以用来交换的事物；而若是将其交出了，即使是为了高尚的目的，也不是对的吧.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6070,
+          "following_count": 216,
+          "like_count": 23572,
+          "listed_count": 18,
+          "media_count": 1739,
+          "tweet_count": 21167
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

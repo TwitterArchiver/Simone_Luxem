@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Caregiving",
+          "id": "1092545020932976640",
+          "name": "Caregiving"
+        }
+      }
+    ],
+    "conversation_id": "1962421475245543481",
+    "created_at": "2025-09-01T07:45:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T08:45:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962421475245543481"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mukdengise/sta…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/mukdengise/status/1961809278819610795",
+          "start": 150,
+          "url": "https://t.co/Di9srZ4gOp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962421475245543481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961809278819610795",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但值得庆幸的是，猫大脑的结构基础决定了其“智力”或者说“认知”相较于人而言都一定是低的，因此作为拥有更高智力的一方去做到“完全理解和感受”或至少“大部分理解并感受”猫的需求，情感和思维实际上是可能的，因此或许可以把猫看作长不大的小孩子——作为宠物其确实是终生保持幼态的，而你则是其caregiver https://t.co/Di9srZ4gOp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Caregiving",
+              "id": "1092545020932976640",
+              "name": "Caregiving"
+            }
+          }
+        ],
+        "conversation_id": "1962421475245543481",
+        "created_at": "2025-09-01T07:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T08:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962421475245543481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/mukdengise/status/1961809278819610795",
+              "start": 150,
+              "url": "https://t.co/Di9srZ4gOp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962421475245543481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961809278819610795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但值得庆幸的是，猫大脑的结构基础决定了其“智力”或者说“认知”相较于人而言都一定是低的，因此作为拥有更高智力的一方去做到“完全理解和感受”或至少“大部分理解并感受”猫的需求，情感和思维实际上是可能的，因此或许可以把猫看作长不大的小孩子——作为宠物其确实是终生保持幼态的，而你则是其caregiver https://t.co/Di9srZ4gOp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "1961809278819610795",
+        "created_at": "2025-08-30T15:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T16:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961809278819610795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/mukdengise/status/1961798545163599986",
+              "start": 141,
+              "url": "https://t.co/Fnt9IUb3oE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961809278819610795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1749,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961798545163599986",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一想到人类对宠物的“爱”与传统社会男性对女性的“爱”在结构上似乎如出一辙，就忍不住不寒而栗。这二者似乎都是站在自我中心地、带着自以为是的保护去爱对方的工具价值，而不是真的愿意设身处地理解对方的感受。但我昨天去喂猫的时候真的一直忍不住哭，我自以为应该将这种自以为是的责任感践行下去 https://t.co/Fnt9IUb3oE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4544,
+          "following_count": 218,
+          "like_count": 22309,
+          "listed_count": 13,
+          "media_count": 1653,
+          "tweet_count": 20252
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常请见 #花路食堂/桔：@__Ju___Ju__/垃圾桶小号：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "start": 37,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 66,
+                "start": 56,
+                "username": "Lulu_ilha"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=P96et4ns",
+                "start": 0,
+                "url": "https://t.co/1G1Jz64Dew"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "location": "自用VPN🪜👉🏻",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960404590417076226/igUxxyXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8689,
+          "following_count": 737,
+          "like_count": 135353,
+          "listed_count": 50,
+          "media_count": 1631,
+          "tweet_count": 21254
+        },
+        "url": "https://t.co/1G1Jz64Dew",
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

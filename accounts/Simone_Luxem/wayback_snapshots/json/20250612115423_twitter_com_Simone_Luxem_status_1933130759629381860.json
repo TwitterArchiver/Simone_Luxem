@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1932837362154811498",
+    "created_at": "2025-06-12T11:54:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T12:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933130759629381860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1770060314467565568",
+          "start": 0,
+          "username": "IRGUN_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933130759629381860",
+    "in_reply_to_user_id": "1770060314467565568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932988376237682850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IRGUN_X 你是个什么jb玩意也配说话"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1612,
+        "media_key": "3_1932988366670471168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtNarZZbIAAmdk2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1932837362154811498",
+        "created_at": "2025-06-12T11:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T12:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933130759629381860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1770060314467565568",
+              "start": 0,
+              "username": "IRGUN_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933130759629381860",
+        "in_reply_to_user_id": "1770060314467565568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932988376237682850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IRGUN_X 你是个什么jb玩意也配说话"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1932988366670471168"
+          ]
+        },
+        "author_id": "1770060314467565568",
+        "conversation_id": "1932837362154811498",
+        "created_at": "2025-06-12T02:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T03:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1932988376237682850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jRPCdTdoPC",
+              "end": 77,
+              "expanded_url": "https://x.com/IRGUN_X/status/1932988376237682850/photo/1",
+              "media_key": "3_1932988366670471168",
+              "start": 54,
+              "url": "https://t.co/jRPCdTdoPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932988376237682850",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 92,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932837362154811498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 自由，不是指伊斯兰教极端主义压迫女性，谢谢。\n自由万岁，巴勒斯坦人滚出以色列。 https://t.co/jRPCdTdoPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4276,
+          "following_count": 220,
+          "like_count": 20528,
+          "listed_count": 12,
+          "media_count": 1585,
+          "tweet_count": 19558
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-19T12:10:49.000Z",
+        "description": "粉碎巴勒斯坦，保守社会主义者，新教徒，公认的中推圈极超右翼分子。“愿AIM120D照亮你的座舱”      🇺🇲🇮🇱🤣👉🐷🇨🇳🇺🇦🇵🇸🇮🇷🇩🇪🇮🇪🇪🇺🇺🇳 我支持美国警察，你们可以来打我了！",
+        "id": "1770060314467565568",
+        "location": "SEMPER PARATUS SEMPER FIDELIS",
+        "name": "✡️B-1B Lancer🇺🇸🇮🇱🕎",
+        "pinned_tweet_id": "1932993037912965570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932321631558619136/3d3hY8B1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1032,
+          "following_count": 464,
+          "like_count": 20377,
+          "listed_count": 6,
+          "media_count": 2255,
+          "tweet_count": 11550
+        },
+        "username": "IRGUN_X",
+        "verified": false
+      }
+    ]
+  }
+}

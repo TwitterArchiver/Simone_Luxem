@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994673494534348800",
+        "3_1994673494530166794"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1994673506936906153",
+    "created_at": "2025-11-29T07:43:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T08:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994673506936906153"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gFkE9SiodL",
+          "end": 64,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1994673506936906153/photo/1",
+          "media_key": "3_1994673494534348800",
+          "start": 41,
+          "url": "https://t.co/gFkE9SiodL"
+        },
+        {
+          "display_url": "pic.x.com/gFkE9SiodL",
+          "end": 64,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1994673506936906153/photo/1",
+          "media_key": "3_1994673494530166794",
+          "start": 41,
+          "url": "https://t.co/gFkE9SiodL"
+        },
+        {
+          "display_url": "x.com/mukdengise/sta…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/mukdengise/status/1994667782496293002",
+          "start": 65,
+          "url": "https://t.co/N8sihCljmw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994673506936906153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994667782496293002",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "用gpt跑的，同款文字乱码\n以及…有点一言难尽吧…\n不过人物形象还是挺好看的至少 https://t.co/gFkE9SiodL https://t.co/N8sihCljmw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1994673494534348800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66A-ZybYAABEnr.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1994673494530166794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G66A-ZxbkAo7YQC.jpg",
+        "width": 1024
+      },
+      {
+        "height": 1184,
+        "media_key": "3_1994667771616272384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G657xSQboAA_c6q.jpg",
+        "width": 864
+      },
+      {
+        "height": 1184,
+        "media_key": "3_1994667771616268288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G657xSQbkAA5JD2.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994673494534348800",
+            "3_1994673494530166794"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1994673506936906153",
+        "created_at": "2025-11-29T07:43:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994673506936906153"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gFkE9SiodL",
+              "end": 64,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1994673506936906153/photo/1",
+              "media_key": "3_1994673494534348800",
+              "start": 41,
+              "url": "https://t.co/gFkE9SiodL"
+            },
+            {
+              "display_url": "pic.x.com/gFkE9SiodL",
+              "end": 64,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1994673506936906153/photo/1",
+              "media_key": "3_1994673494530166794",
+              "start": 41,
+              "url": "https://t.co/gFkE9SiodL"
+            },
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/mukdengise/status/1994667782496293002",
+              "start": 65,
+              "url": "https://t.co/N8sihCljmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994673506936906153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994667782496293002",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用gpt跑的，同款文字乱码\n以及…有点一言难尽吧…\n不过人物形象还是挺好看的至少 https://t.co/gFkE9SiodL https://t.co/N8sihCljmw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994667771616272384",
+            "3_1994667771616268288"
+          ]
+        },
+        "author_id": "1401733664682102786",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Concept Art",
+              "id": "1046581724098912256",
+              "name": "Concept art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1994667782496293002",
+        "created_at": "2025-11-29T07:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T08:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994667782496293002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vWsm19vSkb",
+              "end": 62,
+              "expanded_url": "https://x.com/mukdengise/status/1994667782496293002/photo/1",
+              "media_key": "3_1994667771616272384",
+              "start": 39,
+              "url": "https://t.co/vWsm19vSkb"
+            },
+            {
+              "display_url": "pic.x.com/vWsm19vSkb",
+              "end": 62,
+              "expanded_url": "https://x.com/mukdengise/status/1994667782496293002/photo/1",
+              "media_key": "3_1994667771616268288",
+              "start": 39,
+              "url": "https://t.co/vWsm19vSkb"
+            },
+            {
+              "display_url": "x.com/berryxia_ai/st…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/berryxia_ai/status/1992621791588835494",
+              "start": 63,
+              "url": "https://t.co/mJqw4HR8ms"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994667782496293002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 111,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992621791588835494",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用Gemini生成的，你们怎么解决汉字乱码的问题的啊，尝试沟通了好几遍也没用 https://t.co/vWsm19vSkb https://t.co/mJqw4HR8ms"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5904,
+          "following_count": 216,
+          "like_count": 23039,
+          "listed_count": 18,
+          "media_count": 1706,
+          "tweet_count": 20868
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "爱人类的探险者/IG: ilhajugvn/烹饪日常在 #花路食堂/桔：@__Ju___Ju__/里：@Lulu_ilha",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "花路食堂"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 36,
+                "username": "__Ju___Ju__"
+              },
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Lulu_ilha"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "name": "花路探險記",
+        "pinned_tweet_id": "1843689660666786148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960404590417076226/igUxxyXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9267,
+          "following_count": 738,
+          "like_count": 137168,
+          "listed_count": 50,
+          "media_count": 1714,
+          "tweet_count": 22802
+        },
+        "username": "mukdengise",
+        "verified": false
+      }
+    ]
+  }
+}

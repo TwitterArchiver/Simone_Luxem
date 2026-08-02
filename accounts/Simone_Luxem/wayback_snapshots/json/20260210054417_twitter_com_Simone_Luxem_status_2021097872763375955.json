@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2021097872763375955",
+    "created_at": "2026-02-10T05:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T06:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021097872763375955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jianlvya/statu…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/jianlvya/status/2020997162985980224",
+          "start": 141,
+          "url": "https://t.co/u5uWcbW1tZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021097872763375955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020997162985980224",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "受够了这个畜生了，天天搁着造黄谣，还老跑到我tl上，遂b之\n以及顺嘴再说一句，有没有一种可能，就是即使是国内的学校，除了那一套运动服以外，也不少都有另一套叫做“制服”的正装校服呢？甚至还强迫学生在“正式场合”穿，被包括我在内的学生嫌弃得要死的呢？这是得多见识短浅才能造出这种谣言？ https://t.co/u5uWcbW1tZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 782,
+        "media_key": "3_2020997159425069057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAwGNXOa0AEjeuq.jpg",
+        "width": 440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2021097872763375955",
+        "created_at": "2026-02-10T05:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021097872763375955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jianlvya/statu…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/jianlvya/status/2020997162985980224",
+              "start": 141,
+              "url": "https://t.co/u5uWcbW1tZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021097872763375955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020997162985980224",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "受够了这个畜生了，天天搁着造黄谣，还老跑到我tl上，遂b之\n以及顺嘴再说一句，有没有一种可能，就是即使是国内的学校，除了那一套运动服以外，也不少都有另一套叫做“制服”的正装校服呢？甚至还强迫学生在“正式场合”穿，被包括我在内的学生嫌弃得要死的呢？这是得多见识短浅才能造出这种谣言？ https://t.co/u5uWcbW1tZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020997159425069057"
+          ]
+        },
+        "author_id": "1828632343680294916",
+        "conversation_id": "2020997162985980224",
+        "created_at": "2026-02-09T23:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T00:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020997162985980224"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8bfTTqGZ1",
+              "end": 31,
+              "expanded_url": "https://x.com/jianlvya/status/2020997162985980224/photo/1",
+              "media_key": "3_2020997159425069057",
+              "start": 8,
+              "url": "https://t.co/Y8bfTTqGZ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020997162985980224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 244055,
+          "like_count": 1043,
+          "quote_count": 10,
+          "reply_count": 79,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "西式校服这一块 https://t.co/Y8bfTTqGZ1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6113,
+          "following_count": 216,
+          "like_count": 23679,
+          "listed_count": 17,
+          "media_count": 1741,
+          "tweet_count": 21211
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 \n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律（私信互fo）",
+        "pinned_tweet_id": "2020997162985980224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 582,
+          "like_count": 4060,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 368
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

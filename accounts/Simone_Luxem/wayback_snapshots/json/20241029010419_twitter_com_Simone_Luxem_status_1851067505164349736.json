@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1851067505164349736",
+    "created_at": "2024-10-29T01:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-29T02:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1851067505164349736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ctct1927/statu…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/ctct1927/status/1851026480928530765",
+          "start": 91,
+          "url": "https://t.co/LQuXLnTmNl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1851067505164349736",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1851026480928530765",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘿，来瞅瞅我，这不就是装精神分裂和双相的嘛\n要是按“没诊断就是装病”的标准，那装病的可太多了，就是不知道这动不动既不用望也不用闻更不会问和切就说别人装病的，自己是神医还是真的有病了 https://t.co/LQuXLnTmNl"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1851067505164349736",
+        "created_at": "2024-10-29T01:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-29T02:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851067505164349736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ctct1927/statu…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/ctct1927/status/1851026480928530765",
+              "start": 91,
+              "url": "https://t.co/LQuXLnTmNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1851067505164349736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1851026480928530765",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿，来瞅瞅我，这不就是装精神分裂和双相的嘛\n要是按“没诊断就是装病”的标准，那装病的可太多了，就是不知道这动不动既不用望也不用闻更不会问和切就说别人装病的，自己是神医还是真的有病了 https://t.co/LQuXLnTmNl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1293926136645394435",
+        "conversation_id": "1851026480928530765",
+        "created_at": "2024-10-28T22:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-28T23:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1851026480928530765"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1851026480928530765",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 432,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在网上装病的人很多，装ADHD、阿斯伯格和抑郁症是高发地带，尤其是念人文学科的装抑郁症几乎快成玩网标配。\n但是呢，精神分裂和双相是没什么人装的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3833,
+          "following_count": 223,
+          "like_count": 17755,
+          "listed_count": 10,
+          "tweet_count": 17583
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-13T15:03:35.000Z",
+        "description": "in exile\nDeutsch English Nederlands\n\nRome catholic",
+        "id": "1293926136645394435",
+        "location": "Cantonia",
+        "name": "Athanas urbis aquensis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821904883886194688/YAAuw0EE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 1105,
+          "like_count": 13979,
+          "listed_count": 0,
+          "tweet_count": 12183
+        },
+        "username": "ctct1927",
+        "verified": false
+      }
+    ]
+  }
+}

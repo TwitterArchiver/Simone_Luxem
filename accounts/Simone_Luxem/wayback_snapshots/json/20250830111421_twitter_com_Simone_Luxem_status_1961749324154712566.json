@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1961735233277190463",
+    "created_at": "2025-08-30T11:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T12:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961749324154712566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1860224342778609665",
+          "start": 0,
+          "username": "VonLinne2004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961749324154712566",
+    "in_reply_to_user_id": "1860224342778609665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961735233277190463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VonLinne2004 我也问过，得到最多的答案是“不想晒黑”，以及少数温度调定点异于常人的回答是“冷”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1961735233277190463",
+        "created_at": "2025-08-30T11:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T12:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961749324154712566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1860224342778609665",
+              "start": 0,
+              "username": "VonLinne2004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961749324154712566",
+        "in_reply_to_user_id": "1860224342778609665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961735233277190463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VonLinne2004 我也问过，得到最多的答案是“不想晒黑”，以及少数温度调定点异于常人的回答是“冷”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860224342778609665",
+        "conversation_id": "1961735233277190463",
+        "created_at": "2025-08-30T10:18:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T11:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961735233277190463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961735233277190463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 181,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到有个欧洲人问为什么中国初中生33℃的天气也要穿外套？\n有网友说是女生这个阶段普遍害羞于暴露自己正在发育的体貌。🤔\n\n我想起来我egg时期，也问过一些闺蜜，大热天的明明已经热得受不了了，为什么不把外套脱了？\n得到的只有「你好咸湿哦」这样让我一头雾水的回答😵‍💫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4547,
+          "following_count": 219,
+          "like_count": 22283,
+          "listed_count": 13,
+          "media_count": 1653,
+          "tweet_count": 20244
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-23T07:30:29.000Z",
+        "description": "医专护士生冯琳奈的四号机，是一个很无聊的人。\n没那么日常有些严肃的内容在三号机@VonLinne2003\n\n❤️好姬友：@LING_bdnit\n🌟背景板插图的作者：@mo__zk31\n\n🙇🏻‍♀️一个很窝囊的人，你骂我或者挂我，我会无条件投降🏳️\n❤️一个喜欢一切可爱的人和美好的事物的人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 39,
+                "username": "VonLinne2003"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "LING_bdnit"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "username": "mo__zk31"
+              }
+            ]
+          }
+        },
+        "id": "1860224342778609665",
+        "location": "GBA",
+        "name": "VonLinne(四号机)",
+        "pinned_tweet_id": "1961120080747487255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948975876668096512/MpEmN-80_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 359,
+          "like_count": 33482,
+          "listed_count": 3,
+          "media_count": 385,
+          "tweet_count": 11221
+        },
+        "username": "VonLinne2004",
+        "verified": false
+      }
+    ]
+  }
+}

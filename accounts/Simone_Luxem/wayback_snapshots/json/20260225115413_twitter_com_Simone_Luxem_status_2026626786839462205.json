@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2026626786839462205",
+    "created_at": "2026-02-25T11:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T12:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026626786839462205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pbpp10521715/s…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/pbpp10521715/status/2026595748729729260",
+          "start": 79,
+          "url": "https://t.co/Y8UCzZL0XA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026626786839462205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026595748729729260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得在自己经济条件允许的范围内，供给子女不受经济条件限制地追求其想追求的学业应该是父母在想要维持亲情的情况下被归为“理应做到”的部分，或者说，软性义务的… https://t.co/Y8UCzZL0XA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2026626786839462205",
+        "created_at": "2026-02-25T11:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T12:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026626786839462205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pbpp10521715/s…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/pbpp10521715/status/2026595748729729260",
+              "start": 79,
+              "url": "https://t.co/Y8UCzZL0XA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026626786839462205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026595748729729260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得在自己经济条件允许的范围内，供给子女不受经济条件限制地追求其想追求的学业应该是父母在想要维持亲情的情况下被归为“理应做到”的部分，或者说，软性义务的… https://t.co/Y8UCzZL0XA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421301972007849986",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2026595748729729260",
+        "created_at": "2026-02-25T09:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T10:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026595748729729260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026595748729729260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3078,
+          "like_count": 43,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈呀家里拿所有现金流给几百万留学读文科专业，这还不爱不算托举吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6180,
+          "following_count": 218,
+          "like_count": 23879,
+          "listed_count": 19,
+          "media_count": 1748,
+          "tweet_count": 21348
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-31T02:49:51.000Z",
+        "description": "命比丝袜薄，赔钱货",
+        "id": "1421301972007849986",
+        "location": "Mongolia",
+        "name": "咪咪摸摸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005189372724027392/wrCnH6l9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12709,
+          "following_count": 486,
+          "like_count": 24556,
+          "listed_count": 26,
+          "media_count": 872,
+          "tweet_count": 9479
+        },
+        "username": "pbpp10521715",
+        "verified": false
+      }
+    ]
+  }
+}

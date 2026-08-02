@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1830720275337375959",
+    "created_at": "2024-09-02T21:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-02T22:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1830721689908297749"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1830721689908297749",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830720275337375959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己不能接受分别，不能接受遗憾，不能接受死亡，不能接受任何玷污，不能接受失去希望，不能接受没有意义…太多太多了，似乎只有一个骑士小说的世界之中自己才能存活…\n可是现实世界不是这样子的…\n…\n其实，只是现在还不是这样子的…对吧…对吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1830720275337375959",
+        "created_at": "2024-09-02T21:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T22:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830721689908297749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1830721689908297749",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830720275337375959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己不能接受分别，不能接受遗憾，不能接受死亡，不能接受任何玷污，不能接受失去希望，不能接受没有意义…太多太多了，似乎只有一个骑士小说的世界之中自己才能存活…\n可是现实世界不是这样子的…\n…\n其实，只是现在还不是这样子的…对吧…对吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1830720275337375959",
+        "created_at": "2024-09-02T21:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-02T22:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830720275337375959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/simone_luxem/status/1830677690585878823",
+              "start": 141,
+              "url": "https://t.co/WCDbO1lGkU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830720275337375959",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830677690585878823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再次感叹，可能因为在寒涟漪那里的一年，或者更早时候的经历吧，自己妹妹真的在好多方面都比自己成熟（？）太多了吧…\n或者可能自己实际上是自然选择的漏网之鱼吧，太多对其他人而言不是问题的事情，对自己来说却是性命攸关的…\n自己早就应该死掉的…\n可能自己早就死了，只有执念凝成的幽灵还在吧… https://t.co/WCDbO1lGkU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3659,
+          "following_count": 224,
+          "like_count": 16410,
+          "listed_count": 8,
+          "tweet_count": 16817
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

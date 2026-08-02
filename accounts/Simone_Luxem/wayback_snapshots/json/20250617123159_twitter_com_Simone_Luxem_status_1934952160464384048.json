@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1934950782618755373",
+    "created_at": "2025-06-17T12:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-17T13:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934952160464384048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1371296214692499457",
+          "start": 0,
+          "username": "MisakaNo10777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934952160464384048",
+    "in_reply_to_user_id": "1371296214692499457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934950782618755373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MisakaNo10777 你和傻子较什么劲…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1934950782618755373",
+        "created_at": "2025-06-17T12:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T13:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934952160464384048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1371296214692499457",
+              "start": 0,
+              "username": "MisakaNo10777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934952160464384048",
+        "in_reply_to_user_id": "1371296214692499457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934950782618755373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MisakaNo10777 你和傻子较什么劲…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1371296214692499457",
+        "conversation_id": "1934950782618755373",
+        "created_at": "2025-06-17T12:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-17T13:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934950782618755373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ServalCandle/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/ServalCandle/status/1934787415794962923",
+              "start": 14,
+              "url": "https://t.co/tyseAClfAW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934950782618755373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934787415794962923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ip地址:加拿大\n身份:跨 https://t.co/tyseAClfAW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4275,
+          "following_count": 222,
+          "like_count": 20552,
+          "listed_count": 12,
+          "media_count": 1594,
+          "tweet_count": 19630
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-15T03:04:44.000Z",
+        "description": "I am a college computer science student & developer & Misaka No.10777 . 失败学研0",
+        "id": "1371296214692499457",
+        "location": "别人脚踩答题卡就考上的一所二本",
+        "name": "Misaka10777",
+        "pinned_tweet_id": "1685137590465495040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722776439832055808/fuQD5NGE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4325,
+          "following_count": 3538,
+          "like_count": 449815,
+          "listed_count": 16,
+          "media_count": 2923,
+          "tweet_count": 21531
+        },
+        "username": "MisakaNo10777",
+        "verified": false
+      }
+    ]
+  }
+}

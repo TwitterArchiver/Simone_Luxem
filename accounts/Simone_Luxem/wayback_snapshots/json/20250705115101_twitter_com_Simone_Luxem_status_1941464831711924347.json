@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1941464831711924347",
+    "created_at": "2025-07-05T11:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T12:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1941464831711924347"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/servalcandle/s…",
+          "end": 98,
+          "expanded_url": "https://twitter.com/servalcandle/status/1941411480823529533",
+          "start": 75,
+          "url": "https://t.co/is9AFSvbaV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941464831711924347",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941411480823529533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然自己真的不喜欢和傻子较劲，也不认为这位“天性恶劣”什么的..\n但为了更多无辜的人的精神健康，在其病情得到控制之前，强烈建议大家把它block掉… https://t.co/is9AFSvbaV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1941464831711924347",
+        "created_at": "2025-07-05T11:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T12:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941464831711924347"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/servalcandle/status/1941411480823529533",
+              "start": 75,
+              "url": "https://t.co/is9AFSvbaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941464831711924347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941411480823529533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然自己真的不喜欢和傻子较劲，也不认为这位“天性恶劣”什么的..\n但为了更多无辜的人的精神健康，在其病情得到控制之前，强烈建议大家把它block掉… https://t.co/is9AFSvbaV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "1941411480823529533",
+        "created_at": "2025-07-05T08:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T09:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941411480823529533"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/servalcandle/s…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/servalcandle/status/1941236092801515528",
+              "start": 84,
+              "url": "https://t.co/LIuPfAJB0U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941411480823529533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 795,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941236092801515528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "变性人真的和大部分精神病都很像\n\n都需要一堆人说谎哄她才能开心\n\n可惜笨猫既不是你花钱雇的心理医生\n\n也不是希望你好好当牛马的资本家\n\n所以笨猫说实话_(:з」∠)_ https://t.co/LIuPfAJB0U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4342,
+          "following_count": 219,
+          "like_count": 20997,
+          "listed_count": 12,
+          "media_count": 1619,
+          "tweet_count": 19836
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "電波系大笨貓 ◉▼◉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWVo2"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "☃️La saison infinie de neige❄️",
+        "name": "💖傻貓𝕮𝖆𝖓𝖉𝖑𝖊🦊🎀",
+        "pinned_tweet_id": "1911075406863819109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937076267335000065/VO343_fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32177,
+          "following_count": 346,
+          "like_count": 224847,
+          "listed_count": 101,
+          "media_count": 7922,
+          "tweet_count": 52791
+        },
+        "url": "https://t.co/PBHqsUWVo2",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

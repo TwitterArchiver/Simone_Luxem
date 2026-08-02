@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2012505079111364733",
+    "created_at": "2026-01-17T12:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T13:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012505095649264119"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012505095649264119",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012505091303944407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "甚至在相当长的时间里，自己都是以一种试图作为当事人来获得身体的主导权，但受限于游戏剧本根本没写分支剧情，只能眼睁睁地看着自己的身体去说出那些话，做出那些事的状态在进行的——某种程度上就如同真实世界中自己对自己的身体的控制感脆弱一样\n（5/n）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2012505079111364733",
+        "created_at": "2026-01-17T12:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T13:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012505095649264119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012505095649264119",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012505091303944407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甚至在相当长的时间里，自己都是以一种试图作为当事人来获得身体的主导权，但受限于游戏剧本根本没写分支剧情，只能眼睁睁地看着自己的身体去说出那些话，做出那些事的状态在进行的——某种程度上就如同真实世界中自己对自己的身体的控制感脆弱一样\n（5/n）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2012505079111364733",
+        "created_at": "2026-01-17T12:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T13:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012505091303944407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012505091303944407",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012505087172555209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后再说些自己的感受\n可能是自己格外容易感同身受的缘故，自己在游玩过程中几乎不是以局外的玩家而更像是以当事人的视角参与故事的，由此，每一个角色，无论是作为魔女，作为被害者，作为被处决者，作为按下处决按钮的人，自己都产生了强烈的情感共鸣（4/n）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6064,
+          "following_count": 215,
+          "like_count": 23503,
+          "listed_count": 18,
+          "media_count": 1734,
+          "tweet_count": 21132
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

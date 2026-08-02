@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1993151395131015506",
+    "created_at": "2025-11-26T09:59:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T10:59:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993620537382433246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "835183658084384768",
+          "start": 0,
+          "username": "Shelly3400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993620537382433246",
+    "in_reply_to_user_id": "835183658084384768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993618266066239826",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shelly3400 我妈是不比我轻的恋爱脑，而且还是从小（在绝对意义上）缺爱的那种…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1993151395131015506",
+        "created_at": "2025-11-26T09:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993620537382433246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "835183658084384768",
+              "start": 0,
+              "username": "Shelly3400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993620537382433246",
+        "in_reply_to_user_id": "835183658084384768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993618266066239826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shelly3400 我妈是不比我轻的恋爱脑，而且还是从小（在绝对意义上）缺爱的那种…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "835183658084384768",
+        "conversation_id": "1993151395131015506",
+        "created_at": "2025-11-26T09:50:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T10:50:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993618266066239826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993618266066239826",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993151395131015506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 你爸屌癌犯了，你媽還幫著他😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5864,
+          "following_count": 215,
+          "like_count": 23014,
+          "listed_count": 18,
+          "media_count": 1705,
+          "tweet_count": 20854
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-24T17:44:35.000Z",
+        "description": "Cat person, Workout for muscle, Thai-food n simply food. 🎮 Gamer, MBA Finance, ENFJ-T,LGBTQ+🌈 Date of rebirth 29th June 2022",
+        "id": "835183658084384768",
+        "location": "Wang Thonglang, Bangkok",
+        "name": "🐸Irene🏳️‍⚧️🌈",
+        "pinned_tweet_id": "1599331982026379265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505044115116855304/h_3mtgtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4160,
+          "following_count": 943,
+          "like_count": 17017,
+          "listed_count": 14,
+          "media_count": 521,
+          "tweet_count": 6858
+        },
+        "username": "Shelly3400",
+        "verified": false
+      }
+    ]
+  }
+}

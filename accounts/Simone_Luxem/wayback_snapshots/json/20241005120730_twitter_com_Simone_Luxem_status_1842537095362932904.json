@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1842536318464594215",
+    "created_at": "2024-10-05T12:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-05T13:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1842537095362932904"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1842537095362932904",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842536318464594215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "精神上的满足和钱包上的满足无论如何都可以至少满足其中一个，横竖不亏（得那么厉害），我觉得即使从一个纯粹利己的角度这么做也是正确的吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1842536318464594215",
+        "created_at": "2024-10-05T12:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T13:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842537095362932904"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1842537095362932904",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842536318464594215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "精神上的满足和钱包上的满足无论如何都可以至少满足其中一个，横竖不亏（得那么厉害），我觉得即使从一个纯粹利己的角度这么做也是正确的吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1842536318464594215",
+        "created_at": "2024-10-05T12:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-05T13:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1842536318464594215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/evilinside44/s…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/evilinside44/status/1842474313422946738",
+              "start": 135,
+              "url": "https://t.co/5nbiSS1rdS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842536318464594215",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842474313422946738",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实很阴暗地说，我希望其他工作，尤其是体力工作的工资都高一些，主要有两个原因\n1.这样子就会有更多的人选择去做那些收入高的工作，就更少的人和我竞争我自己真的喜欢的工作了\n2.这样子我自己在做自己不喜欢的工作时，也能获得较高的收入，分一杯羹平衡一下没能做想做的工作的遗憾 https://t.co/5nbiSS1rdS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3762,
+          "following_count": 223,
+          "like_count": 17330,
+          "listed_count": 9,
+          "tweet_count": 17302
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1928823856921231611",
+    "created_at": "2025-05-31T14:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T15:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1928823856921231611"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/torontobigface…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/torontobigface/status/1928728563399930219",
+          "start": 142,
+          "url": "https://t.co/bMLdQwlnnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928823856921231611",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928728563399930219",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "由此观之，特朗普演讲根本没人看了，否则最荒诞，最让人恶心这个头衔谁能抢的过它\n至少，蒋的演讲本身毫无问题，目前也没有证据证明蒋本人有任何与其演讲内容相违背的地方，你所有的指控都是说人家“没有讲什么”，而本身就是一个根据演讲者自由发挥且时间有限的演讲，说人家有什么没讲的，实属大可不必 https://t.co/bMLdQwlnnp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1928728559826132992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQ4aASWYAA4EIm.jpg",
+        "width": 1090
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1928728559817719808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsQ4aAQWAAAoufp.jpg",
+        "width": 1015
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1928823856921231611",
+        "created_at": "2025-05-31T14:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T15:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928823856921231611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/torontobigface…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/torontobigface/status/1928728563399930219",
+              "start": 142,
+              "url": "https://t.co/bMLdQwlnnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928823856921231611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928728563399930219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由此观之，特朗普演讲根本没人看了，否则最荒诞，最让人恶心这个头衔谁能抢的过它\n至少，蒋的演讲本身毫无问题，目前也没有证据证明蒋本人有任何与其演讲内容相违背的地方，你所有的指控都是说人家“没有讲什么”，而本身就是一个根据演讲者自由发挥且时间有限的演讲，说人家有什么没讲的，实属大可不必 https://t.co/bMLdQwlnnp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928728559826132992",
+            "3_1928728559817719808"
+          ]
+        },
+        "author_id": "1477342523555135490",
+        "conversation_id": "1928728563399930219",
+        "created_at": "2025-05-31T08:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T09:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928728563399930219"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UGHTAwR793",
+              "end": 156,
+              "expanded_url": "https://x.com/torontobigface/status/1928728563399930219/photo/1",
+              "media_key": "3_1928728559826132992",
+              "start": 133,
+              "url": "https://t.co/UGHTAwR793"
+            },
+            {
+              "display_url": "pic.x.com/UGHTAwR793",
+              "end": 156,
+              "expanded_url": "https://x.com/torontobigface/status/1928728563399930219/photo/1",
+              "media_key": "3_1928728559817719808",
+              "start": 133,
+              "url": "https://t.co/UGHTAwR793"
+            },
+            {
+              "display_url": "x.com/dashengmedia/s…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/dashengmedia/status/1928361357856100821",
+              "start": 157,
+              "url": "https://t.co/tEWWPX3JWY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928728563399930219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是我今年看过最荒诞，且让人恶心的演讲\n\n蒋雨融在演讲中，说她相信世界可以消灭贫穷和饥饿，义愤填膺的为女性共情，为战争的受害者共情\n\n但是她本身不就是加害行为的受益者吗？\n\n蒋雨融是受绿发会推荐，就读的哈佛，其父亲还是绿发会执行主任，这推荐什么成色，大家心里都清楚\n\n而中国绿发会是隶属于中国科协的组织，就是一个政府组织\n蒋雨融能来到哈佛，就是依靠剥削中国普通人获得的特权\n她能到哈佛读书，是建立在中国人民的苦难，中国人民的血汗之上的\n\n当然有原罪不代表不能做什么\n但是如果真要共情的话，请放弃那虚伪的表演\n想关注女性权益请关注铁链女，为铁链女发声\n想关注战争请为乌克兰发声，谴责中共支援俄罗斯的行为\n\n但是她会吗？\n她不会\n她知道到什么是会影响她特权的雷区\n她也知道说什么是能展现虚伪道德，同时维护她特权的地方"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 179620,
+          "like_count": 989,
+          "quote_count": 15,
+          "reply_count": 96,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928361357856100821",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我今年看过最荒诞，且让人恶心的演讲\n\n蒋雨融在演讲中，说她相信世界可以消灭贫穷和饥饿，义愤填膺的为女性共情，为战争的受害者共情\n\n但是她本身不就是加害行为的受益者吗？\n\n蒋雨融是受绿发会推荐，就读的哈佛，其父亲还是绿发会执行主任，这推荐什么成色，大家心里都清楚 https://t.co/UGHTAwR793 https://t.co/tEWWPX3JWY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4253,
+          "following_count": 219,
+          "like_count": 20440,
+          "listed_count": 12,
+          "media_count": 1568,
+          "tweet_count": 19428
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "1928753322829427112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706591,
+          "following_count": 252,
+          "like_count": 4133,
+          "listed_count": 2172,
+          "media_count": 5375,
+          "tweet_count": 17051
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

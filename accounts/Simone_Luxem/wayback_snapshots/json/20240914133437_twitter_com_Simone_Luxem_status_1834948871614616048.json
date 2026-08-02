@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1834948871614616048",
+    "created_at": "2024-09-14T13:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-14T14:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1834948871614616048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/arctan3_141592…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/arctan3_1415926/status/1834762120539386360",
+          "start": 58,
+          "url": "https://t.co/rI9slWpJ5N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834948871614616048",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834762120539386360",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然想到一个问题，如果是海外的本科学历，那….国内的系统怎么认/认不认？海外的毕业证书之类的东西上又没有记录性别… https://t.co/rI9slWpJ5N"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1834948871614616048",
+        "created_at": "2024-09-14T13:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T14:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834948871614616048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/arctan3_141592…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/arctan3_1415926/status/1834762120539386360",
+              "start": 58,
+              "url": "https://t.co/rI9slWpJ5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834948871614616048",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834762120539386360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想到一个问题，如果是海外的本科学历，那….国内的系统怎么认/认不认？海外的毕业证书之类的东西上又没有记录性别… https://t.co/rI9slWpJ5N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "1834762120539386360",
+        "created_at": "2024-09-14T01:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-14T02:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834762120539386360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quitee123/stat…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/quitee123/status/1834252349822706146",
+              "start": 145,
+              "url": "https://t.co/jGfidohQEr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834762120539386360",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 14019,
+          "like_count": 87,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834252349822706146",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我在想，自己一个普通985的本科学历，手术后学历作废都心疼得不得了，清华本科的跨性别，手术后学历作废，心理得多煎熬啊。之前还看到phd毕业了做手术的，内心真的强大，也真为手术豁出去了。\n但我依然没有放弃，可能让我努力提升gpa的动力，感觉是申到国外学校然后移民，找一个对跨性别宽松的环境。 https://t.co/jGfidohQEr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3695,
+          "following_count": 223,
+          "like_count": 16689,
+          "listed_count": 8,
+          "tweet_count": 16986
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "mtf、丑小鸦🐦‍⬛",
+        "id": "1462419807173677059",
+        "name": "Moran🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834778659720511488/8yJFtB2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6938,
+          "following_count": 1758,
+          "like_count": 6059,
+          "listed_count": 17,
+          "tweet_count": 6741
+        },
+        "username": "arctan3_1415926",
+        "verified": false
+      }
+    ]
+  }
+}

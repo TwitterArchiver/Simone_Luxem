@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1926330213232677338",
+    "created_at": "2025-05-24T17:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-24T18:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1926330213232677338"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1926330213232677338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果现在死掉，是不是就算实现了“一辈子都是学生”的愿望了…\n是不是在棋局结束前砸掉棋盘，自己就没有输…\n是不是在最外层的蒙皮被自内向外的溃烂胀破前永远消失掉，就能让一切都留在最美好的绽放瞬间…\n如果再有勇气一些…如果自己不恐高…如果自己不晕血…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1926330213232677338",
+        "created_at": "2025-05-24T17:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T18:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926330213232677338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1926330213232677338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果现在死掉，是不是就算实现了“一辈子都是学生”的愿望了…\n是不是在棋局结束前砸掉棋盘，自己就没有输…\n是不是在最外层的蒙皮被自内向外的溃烂胀破前永远消失掉，就能让一切都留在最美好的绽放瞬间…\n如果再有勇气一些…如果自己不恐高…如果自己不晕血…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4245,
+          "following_count": 219,
+          "like_count": 20347,
+          "listed_count": 12,
+          "media_count": 1559,
+          "tweet_count": 19371
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

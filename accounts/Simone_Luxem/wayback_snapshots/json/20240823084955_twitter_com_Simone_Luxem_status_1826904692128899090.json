@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1826900448256700667",
+    "created_at": "2024-08-23T08:49:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-23T09:49:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1826904692128899090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1430936966066020353",
+          "start": 0,
+          "username": "Emma20131621"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826904692128899090",
+    "in_reply_to_user_id": "1430936966066020353",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826900806773133761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Emma20131621 那还不是你的问题，你看我和四月睡一起就不踹人，只有和你睡一起才踹人（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1826900448256700667",
+        "created_at": "2024-08-23T08:49:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T09:49:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826904692128899090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1430936966066020353",
+              "start": 0,
+              "username": "Emma20131621"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826904692128899090",
+        "in_reply_to_user_id": "1430936966066020353",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826900806773133761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Emma20131621 那还不是你的问题，你看我和四月睡一起就不踹人，只有和你睡一起才踹人（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430936966066020353",
+        "conversation_id": "1826900448256700667",
+        "created_at": "2024-08-23T08:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-23T09:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1826900806773133761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826900806773133761",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826900448256700667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 你和我睡的哪是同一个被窝？？不是你每次睡到半夜就把我踢出去么？\n\n还有把我的短裤还给我！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3652,
+          "following_count": 221,
+          "like_count": 16180,
+          "listed_count": 8,
+          "tweet_count": 16697
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-26T16:55:45.000Z",
+        "description": "是中国大陆的在逃学生，性别酷儿，泛性恋，厌恶威权、集体主义，想要大家都平等而自由地活着。I'm a student in UvA.I'm pansexual, queer, polyamorous, radically against the patriarchy and paternalism.",
+        "id": "1430936966066020353",
+        "location": "Amsterdam, The Netherlands",
+        "name": "Emma Shi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1430937154314715136/0fJt8ZbI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 511,
+          "like_count": 59008,
+          "listed_count": 4,
+          "tweet_count": 5742
+        },
+        "username": "Emma20131621",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1942459866796486870",
+    "created_at": "2025-07-08T07:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T08:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942480640533786872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1340253206417272832",
+          "start": 0,
+          "username": "Shina_Kaede"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942480640533786872",
+    "in_reply_to_user_id": "1340253206417272832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942459866796486870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shina_Kaede /叼来 手电筒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1942459866796486870",
+        "created_at": "2025-07-08T07:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T08:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942480640533786872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1340253206417272832",
+              "start": 0,
+              "username": "Shina_Kaede"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942480640533786872",
+        "in_reply_to_user_id": "1340253206417272832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942459866796486870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shina_Kaede /叼来 手电筒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340253206417272832",
+        "conversation_id": "1942459866796486870",
+        "created_at": "2025-07-08T05:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T06:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1942459866796486870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1942459866796486870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人愿意，也借我一束光吗\n\n我好像，修不好我自己了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4350,
+          "following_count": 219,
+          "like_count": 21083,
+          "listed_count": 12,
+          "media_count": 1624,
+          "tweet_count": 19866
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T11:10:48.000Z",
+        "description": "随心而动🍁INFJ/🇯🇵/Les🏳️‍🌈/21♍️♎️/理系人文/認知神経心理学/心理言語学/臨床医学/中文/EN/日本語/元声優/通訳者/音ゲー/雀魂/FF14鸟区🎮/茶道/コーヒー/雑学/和楽器/吹奏楽/弓道/芳香疗法/紫陽花/白狐/オオルリ/愛と言う感情を知るため旅中✨文学少女育成中(^_ _^)♪",
+        "id": "1340253206417272832",
+        "location": "東京 文京区",
+        "name": "椎名かえで",
+        "pinned_tweet_id": "1464963304502312963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508760383854718977/y9BOK3D4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 3560,
+          "like_count": 16506,
+          "listed_count": 11,
+          "media_count": 564,
+          "tweet_count": 6552
+        },
+        "username": "Shina_Kaede",
+        "verified": true
+      }
+    ]
+  }
+}

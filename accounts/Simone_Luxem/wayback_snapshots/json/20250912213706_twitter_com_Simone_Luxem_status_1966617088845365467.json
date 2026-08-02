@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1966502801036693737",
+    "created_at": "2025-09-12T21:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T22:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966617088845365467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1466454791496732677",
+          "start": 0,
+          "username": "nyanyanyanyamii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966617088845365467",
+    "in_reply_to_user_id": "1466454791496732677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966561852659249395",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanyanyanyamii 据说被人养得比较好的猫猫会相对更长时间地保持幼态，因为相当于人给它提供了一个更加“可以当幼猫”的环境，所以可能你的猫猫会很久都是幼崽的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1966502801036693737",
+        "created_at": "2025-09-12T21:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T22:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966617088845365467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1466454791496732677",
+              "start": 0,
+              "username": "nyanyanyanyamii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966617088845365467",
+        "in_reply_to_user_id": "1466454791496732677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966561852659249395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanyanyanyamii 据说被人养得比较好的猫猫会相对更长时间地保持幼态，因为相当于人给它提供了一个更加“可以当幼猫”的环境，所以可能你的猫猫会很久都是幼崽的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466454791496732677",
+        "conversation_id": "1966502801036693737",
+        "created_at": "2025-09-12T17:57:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T18:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966561852659249395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966561852659249395",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966519982449406307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 是的！感觉真的好奇心好旺盛，我这个年纪的大猫已经共情不了它了.jpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4570,
+          "following_count": 219,
+          "like_count": 22414,
+          "listed_count": 13,
+          "media_count": 1656,
+          "tweet_count": 20341
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-02T17:10:54.000Z",
+        "description": "称呼是猫/读研中/推止于推/请谨慎关注与交流/记录奇怪想法/存放文字创作(NSFW注意!🔞)/混沌的杂食生物体/赛博墓地(文字作品主页)点击下方链接↓↓↓/ 其余归档点及相处指南请见置顶/🚫禁止AI🚫禁无授权转载/欢迎来到我的垃圾场!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "catcorework.readthedocs.io/zh/latest/",
+                "end": 23,
+                "expanded_url": "https://catcorework.readthedocs.io/zh/latest/",
+                "start": 0,
+                "url": "https://t.co/km10AD4DAk"
+              }
+            ]
+          }
+        },
+        "id": "1466454791496732677",
+        "location": "Homo homini lupus.",
+        "name": "猫。",
+        "pinned_tweet_id": "1815958031034900779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694290996413259776/RLHxYx10_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4318,
+          "following_count": 377,
+          "like_count": 44472,
+          "listed_count": 19,
+          "media_count": 669,
+          "tweet_count": 12686
+        },
+        "url": "https://t.co/km10AD4DAk",
+        "username": "nyanyanyanyamii",
+        "verified": false
+      }
+    ]
+  }
+}

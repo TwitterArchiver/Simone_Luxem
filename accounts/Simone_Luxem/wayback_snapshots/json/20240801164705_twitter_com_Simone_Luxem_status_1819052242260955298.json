@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1819037697932988658",
+    "created_at": "2024-08-01T16:47:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-01T17:47:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819052242260955298"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2989618511",
+          "start": 0,
+          "username": "Kristall_Wang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819052242260955298",
+    "in_reply_to_user_id": "2989618511",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819052147796840477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kristall_Wang_ 摸摸…猫猫是小孩子啦…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1819052147796840477].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1819052147796840477",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1819052147796840477"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1819037697932988658",
+        "created_at": "2024-08-01T16:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-01T17:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819052242260955298"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2989618511",
+              "start": 0,
+              "username": "Kristall_Wang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819052242260955298",
+        "in_reply_to_user_id": "2989618511",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819052147796840477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kristall_Wang_ 摸摸…猫猫是小孩子啦…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3468,
+          "following_count": 224,
+          "like_count": 15647,
+          "listed_count": 8,
+          "tweet_count": 16335
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-21T11:33:34.000Z",
+        "description": "Astrophysics&Biochemistry/MtF/IEEE+ACS+APS studentmember/English talking okay/无产阶级万岁！/Lolita/168/87/66/88/70D/锁推的fo前请私信/闷声大发财，我什么也不说，这是坠吼的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kristall-wang.lgbt",
+                "end": 23,
+                "expanded_url": "http://kristall-wang.lgbt",
+                "start": 0,
+                "url": "https://t.co/xB7XCAbKWH"
+              }
+            ]
+          }
+        },
+        "id": "2989618511",
+        "name": "Kristall Wang（接受所有回fo）#StopWar（反射弧很长）",
+        "pinned_tweet_id": "1610098333770547201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567704879350648834/eExiJ1sW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4934,
+          "following_count": 5326,
+          "like_count": 104549,
+          "listed_count": 32,
+          "tweet_count": 25668
+        },
+        "url": "https://t.co/xB7XCAbKWH",
+        "username": "Kristall_Wang_",
+        "verified": false
+      }
+    ]
+  }
+}

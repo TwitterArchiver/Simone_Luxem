@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1963081991106252932",
+    "created_at": "2025-09-03T13:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T14:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963240006564384859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1887111976507277312",
+          "start": 0,
+          "username": "sssssszjzj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963240006564384859",
+    "in_reply_to_user_id": "1887111976507277312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963081991106252932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sssssszjzj 我妈也是..不知道对泰国的偏见从哪里来的，虽然我也不喜欢泰国吧，但我是反感它们的王室和军方，我妈是总觉得去泰国会被噶腰子…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1486,
+        "media_key": "3_1963081985687187456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz5EqkXacAA6v7K.jpg",
+        "width": 890
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1963081991106252932",
+        "created_at": "2025-09-03T13:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T14:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963240006564384859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887111976507277312",
+              "start": 0,
+              "username": "sssssszjzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963240006564384859",
+        "in_reply_to_user_id": "1887111976507277312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963081991106252932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sssssszjzj 我妈也是..不知道对泰国的偏见从哪里来的，虽然我也不喜欢泰国吧，但我是反感它们的王室和军方，我妈是总觉得去泰国会被噶腰子…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963081985687187456"
+          ]
+        },
+        "author_id": "1887111976507277312",
+        "conversation_id": "1963081991106252932",
+        "created_at": "2025-09-03T03:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T04:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963081991106252932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ccbJza4kuw",
+              "end": 69,
+              "expanded_url": "https://x.com/sssssszjzj/status/1963081991106252932/photo/1",
+              "media_key": "3_1963081985687187456",
+              "start": 46,
+              "url": "https://t.co/ccbJza4kuw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963081991106252932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8420,
+          "like_count": 50,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在与我妈的第六次battle后 似乎有点松口的迹象 值得纪念🎉 说不定未来再看这是个转折点 https://t.co/ccbJza4kuw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4556,
+          "following_count": 219,
+          "like_count": 22343,
+          "listed_count": 13,
+          "media_count": 1655,
+          "tweet_count": 20269
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T12:12:26.000Z",
+        "description": "可以叫我果子！读研中～记录美好生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sssszj",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sssszj",
+                "start": 0,
+                "url": "https://t.co/Evk5i0WJhy"
+              }
+            ]
+          }
+        },
+        "id": "1887111976507277312",
+        "name": "나무거리",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913124219606712320/kW44lrra_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3157,
+          "following_count": 169,
+          "like_count": 245,
+          "listed_count": 12,
+          "media_count": 324,
+          "tweet_count": 1066
+        },
+        "url": "https://t.co/Evk5i0WJhy",
+        "username": "sssssszjzj",
+        "verified": false
+      }
+    ]
+  }
+}

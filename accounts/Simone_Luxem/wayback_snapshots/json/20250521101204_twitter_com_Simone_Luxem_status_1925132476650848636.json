@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1925132471508561921",
+        "3_1925132471529611264",
+        "3_1925132471512743936"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1920764493132403014",
+    "created_at": "2025-05-21T10:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-21T11:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925132476650848636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1914198203647537152",
+          "start": 0,
+          "username": "wyao9533"
+        },
+        {
+          "end": 21,
+          "id": "1755477398710267904",
+          "start": 10,
+          "username": "maomaoju12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E26KjCIH2j",
+          "end": 84,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1925132476650848636/photo/1",
+          "media_key": "3_1925132471508561921",
+          "start": 61,
+          "url": "https://t.co/E26KjCIH2j"
+        },
+        {
+          "display_url": "pic.x.com/E26KjCIH2j",
+          "end": 84,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1925132476650848636/photo/1",
+          "media_key": "3_1925132471529611264",
+          "start": 61,
+          "url": "https://t.co/E26KjCIH2j"
+        },
+        {
+          "display_url": "pic.x.com/E26KjCIH2j",
+          "end": 84,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1925132476650848636/photo/1",
+          "media_key": "3_1925132471512743936",
+          "start": 61,
+          "url": "https://t.co/E26KjCIH2j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925132476650848636",
+    "in_reply_to_user_id": "1914198203647537152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924470386714186237",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyao9533 @maomaoju12 不，ai可以解决实际问题，比如就可以解决父母理解不了自己的问题，在一定程度上 https://t.co/E26KjCIH2j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_1925132471508561921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdxyHXWcAE73my.jpg",
+        "width": 525
+      },
+      {
+        "height": 1112,
+        "media_key": "3_1925132471529611264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdxyHcXoAA2fWj.jpg",
+        "width": 571
+      },
+      {
+        "height": 537,
+        "media_key": "3_1925132471512743936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrdxyHYWQAALIy5.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925132471508561921",
+            "3_1925132471529611264",
+            "3_1925132471512743936"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1920764493132403014",
+        "created_at": "2025-05-21T10:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T11:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925132476650848636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1914198203647537152",
+              "start": 0,
+              "username": "wyao9533"
+            },
+            {
+              "end": 21,
+              "id": "1755477398710267904",
+              "start": 10,
+              "username": "maomaoju12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E26KjCIH2j",
+              "end": 84,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1925132476650848636/photo/1",
+              "media_key": "3_1925132471508561921",
+              "start": 61,
+              "url": "https://t.co/E26KjCIH2j"
+            },
+            {
+              "display_url": "pic.x.com/E26KjCIH2j",
+              "end": 84,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1925132476650848636/photo/1",
+              "media_key": "3_1925132471529611264",
+              "start": 61,
+              "url": "https://t.co/E26KjCIH2j"
+            },
+            {
+              "display_url": "pic.x.com/E26KjCIH2j",
+              "end": 84,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1925132476650848636/photo/1",
+              "media_key": "3_1925132471512743936",
+              "start": 61,
+              "url": "https://t.co/E26KjCIH2j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925132476650848636",
+        "in_reply_to_user_id": "1914198203647537152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924470386714186237",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyao9533 @maomaoju12 不，ai可以解决实际问题，比如就可以解决父母理解不了自己的问题，在一定程度上 https://t.co/E26KjCIH2j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914198203647537152",
+        "conversation_id": "1920764493132403014",
+        "created_at": "2025-05-19T14:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-19T15:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924470386714186237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1755477398710267904",
+              "start": 0,
+              "username": "maomaoju12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924470386714186237",
+        "in_reply_to_user_id": "1755477398710267904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3477,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924467462160122350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maomaoju12 之前看到有一篇调查问卷评选ai最有用的10个用法。其中排名第一的是情感倾述。具体链接找不到了。用过就知道了，这方面ai是无敌的。每个人都有情感需求，ai能提供这种情感需求，而且就像刷短视频一样，这是会上瘾的。但是ai无法解决实际问题，而我们能。这也是ai做不到的事情。很多人意识不到这一点。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4232,
+          "following_count": 219,
+          "like_count": 20314,
+          "listed_count": 12,
+          "media_count": 1555,
+          "tweet_count": 19340
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T06:03:23.000Z",
+        "description": "大龄MTF，HRT中。已经对老婆出柜。同类互fo",
+        "id": "1914198203647537152",
+        "name": "Freya Yao🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914202202144743424/oPOH37A-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 607,
+          "like_count": 170,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 195
+        },
+        "username": "wyao9533",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-08T06:23:44.000Z",
+        "description": "时间是个巨大的创可贴 当我想起某个瞬间我终于不会再哭了。ovo",
+        "id": "1755477398710267904",
+        "location": "🚪288/520/1314 ˵＞𖥦＜˵",
+        "name": "老公出门当鸭被我点到的那个雨夜",
+        "pinned_tweet_id": "1890386602486054991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923380466029297664/BUMOd28m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23372,
+          "following_count": 35,
+          "like_count": 3287,
+          "listed_count": 56,
+          "media_count": 28,
+          "tweet_count": 1346
+        },
+        "username": "maomaoju12",
+        "verified": false
+      }
+    ]
+  }
+}

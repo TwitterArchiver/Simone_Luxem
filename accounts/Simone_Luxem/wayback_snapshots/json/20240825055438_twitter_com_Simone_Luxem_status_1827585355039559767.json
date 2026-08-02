@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1827585352799748355",
+    "created_at": "2024-08-25T05:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-25T06:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827585355039559767"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1827585355039559767",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827585352799748355",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "于是自己疯狂地在记忆中挖掘，疯狂地搜索着，吞下所有自己的别人的真实的虚假的记忆碎片，使得现在的自己的面目变得越来越狰狞越来越可憎，可是却从来没有找到过过去的自己…\n（2/4）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1827585352799748355",
+        "created_at": "2024-08-25T05:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T06:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827585355039559767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827585355039559767",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827585352799748355",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "于是自己疯狂地在记忆中挖掘，疯狂地搜索着，吞下所有自己的别人的真实的虚假的记忆碎片，使得现在的自己的面目变得越来越狰狞越来越可憎，可是却从来没有找到过过去的自己…\n（2/4）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1827585352799748355",
+        "created_at": "2024-08-25T05:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-25T06:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827585352799748355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1827585352799748355",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无数次，甚至可能自己所有的行为，都或多或少包含着“唤醒过去的自己”的影子：在记忆中，总有一个过去的自己，是勇敢的聪明的坚韧的强大的，可以完美地面对所有的问题，可以成为自己想要的样子…\n（1/4）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3653,
+          "following_count": 223,
+          "like_count": 16248,
+          "listed_count": 8,
+          "tweet_count": 16745
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

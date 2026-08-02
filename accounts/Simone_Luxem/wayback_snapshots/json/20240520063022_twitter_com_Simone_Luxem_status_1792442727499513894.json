@@ -1,0 +1,247 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1792442727499513894",
+    "created_at": "2024-05-20T06:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-20T07:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1792442727499513894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1683696495198089217",
+          "start": 0,
+          "username": "twitter"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/amazlngnature/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/amazlngnature/status/1792363186911342923",
+          "start": 9,
+          "url": "https://t.co/dFTvrnRjQ9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792442727499513894",
+    "in_reply_to_user_id": "1683696495198089217",
+    "lang": "qam",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792363186911342923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@twitter https://t.co/dFTvrnRjQ9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1792442727499513894",
+        "created_at": "2024-05-20T06:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T07:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792442727499513894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1683696495198089217",
+              "start": 0,
+              "username": "twitter"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/amazlngnature/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/amazlngnature/status/1792363186911342923",
+              "start": 9,
+              "url": "https://t.co/dFTvrnRjQ9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792442727499513894",
+        "in_reply_to_user_id": "1683696495198089217",
+        "lang": "qam",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792363186911342923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@twitter https://t.co/dFTvrnRjQ9"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1792363183618789376"
+          ]
+        },
+        "author_id": "2828212668",
+        "conversation_id": "1792363186911342923",
+        "created_at": "2024-05-20T01:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-20T02:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792363186911342923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/P3jtf0AbEQ",
+              "end": 50,
+              "expanded_url": "https://twitter.com/AMAZlNGNATURE/status/1792363186911342923/photo/1",
+              "media_key": "3_1792363183618789376",
+              "start": 27,
+              "url": "https://t.co/P3jtf0AbEQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792363186911342923",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 675,
+          "impression_count": 405703,
+          "like_count": 17148,
+          "quote_count": 153,
+          "reply_count": 201,
+          "retweet_count": 2241
+        },
+        "reply_settings": "everyone",
+        "text": "The blue bird of Happiness https://t.co/P3jtf0AbEQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3180,
+          "following_count": 217,
+          "like_count": 13540,
+          "listed_count": 11,
+          "tweet_count": 15180
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-25T04:31:50.000Z",
+        "description": "This account is no longer active. Follow @x for updates.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 41,
+                "username": "x"
+              }
+            ]
+          }
+        },
+        "id": "1683696495198089217",
+        "name": "Twitter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683698521600565248/_R1r5HsQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "tweet_count": 0
+        },
+        "username": "twitter",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-23T15:27:26.000Z",
+        "description": "Animals 🐿️ Nature 🦋 Discovery 🦖",
+        "id": "2828212668",
+        "location": "🌍",
+        "name": "Nature is Amazing ☘️",
+        "pinned_tweet_id": "1789592844790853705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/992795937574604802/FMGk7GZN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3483184,
+          "following_count": 32,
+          "like_count": 762,
+          "listed_count": 7880,
+          "tweet_count": 11874
+        },
+        "username": "AMAZlNGNATURE",
+        "verified": true
+      }
+    ]
+  }
+}

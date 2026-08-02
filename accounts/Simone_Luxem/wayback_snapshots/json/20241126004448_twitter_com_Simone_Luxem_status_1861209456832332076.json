@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1861209456832332076",
+    "created_at": "2024-11-26T00:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-26T01:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1861209456832332076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1851947802043011072",
+          "start": 3,
+          "username": "censored_face_s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1861209456832332076",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861046235483763158",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @censored_face_s: On the evening of 24 Nov, Censored Face(s) and the Chinese diaspora in the Netherlands stood in solidarity with the #U…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1861209456832332076",
+        "created_at": "2024-11-26T00:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T01:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861209456832332076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1851947802043011072",
+              "start": 3,
+              "username": "censored_face_s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861209456832332076",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861046235483763158",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @censored_face_s: On the evening of 24 Nov, Censored Face(s) and the Chinese diaspora in the Netherlands stood in solidarity with the #U…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1861046230094127104",
+            "3_1861046230102519808",
+            "3_1861046230098333696",
+            "3_1861046230098341888"
+          ]
+        },
+        "author_id": "1851947802043011072",
+        "conversation_id": "1861046235483763158",
+        "created_at": "2024-11-25T13:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-25T14:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1861046235483763158"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 123,
+              "start": 116,
+              "tag": "Uyghur"
+            },
+            {
+              "end": 184,
+              "start": 173,
+              "tag": "ÜrümqiFire"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5fIjoOrhK",
+              "end": 298,
+              "expanded_url": "https://x.com/censored_face_s/status/1861046235483763158/photo/1",
+              "media_key": "3_1861046230094127104",
+              "start": 275,
+              "url": "https://t.co/O5fIjoOrhK"
+            },
+            {
+              "display_url": "pic.x.com/O5fIjoOrhK",
+              "end": 298,
+              "expanded_url": "https://x.com/censored_face_s/status/1861046235483763158/photo/1",
+              "media_key": "3_1861046230102519808",
+              "start": 275,
+              "url": "https://t.co/O5fIjoOrhK"
+            },
+            {
+              "display_url": "pic.x.com/O5fIjoOrhK",
+              "end": 298,
+              "expanded_url": "https://x.com/censored_face_s/status/1861046235483763158/photo/1",
+              "media_key": "3_1861046230098333696",
+              "start": 275,
+              "url": "https://t.co/O5fIjoOrhK"
+            },
+            {
+              "display_url": "pic.x.com/O5fIjoOrhK",
+              "end": 298,
+              "expanded_url": "https://x.com/censored_face_s/status/1861046235483763158/photo/1",
+              "media_key": "3_1861046230098341888",
+              "start": 275,
+              "url": "https://t.co/O5fIjoOrhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1861046235483763158",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3540,
+          "like_count": 16,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "On the evening of 24 Nov, Censored Face(s) and the Chinese diaspora in the Netherlands stood in solidarity with the #Uyghur community here in remembrance of the tragic 2022 #ÜrümqiFire that took at least 44 Uyghur lives due to inhumane measures of China’s zero-COVID policy. https://t.co/O5fIjoOrhK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3890,
+          "following_count": 222,
+          "like_count": 18087,
+          "listed_count": 11,
+          "tweet_count": 17899
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T11:22:42.000Z",
+        "description": "Censored Face(s) is an artivism group focused on human rights in China, Hong Kong, East Turkestan and Tibet.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/censoredfaces.…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/censoredfaces.act/profilecard/",
+                "start": 0,
+                "url": "https://t.co/NREzLzXa9x"
+              }
+            ]
+          }
+        },
+        "id": "1851947802043011072",
+        "name": "Censored Face(s) | 人(们)",
+        "pinned_tweet_id": "1861046576300376378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851999405827612672/wayQuQZR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 71,
+          "like_count": 6,
+          "listed_count": 2,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/NREzLzXa9x",
+        "username": "censored_face_s",
+        "verified": false
+      }
+    ]
+  }
+}

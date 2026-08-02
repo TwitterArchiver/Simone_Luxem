@@ -1,0 +1,197 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1794838733310869541",
+    "created_at": "2024-05-26T21:11:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T22:11:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1794838733310869541"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yunaono_2001/s…",
+          "end": 103,
+          "expanded_url": "https://twitter.com/yunaono_2001/status/1794338558024839610",
+          "start": 80,
+          "url": "https://t.co/h8B4AeOwaH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794838733310869541",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794338558024839610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然你不知道爱是什么，但你却坚定地想要得到它；可能你对爱的感受器早就被毒害地坏掉了，甚至从来没有发育过，但你却依然执着地去试图感受它…\n…你也终于会得到它的… https://t.co/h8B4AeOwaH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1794838733310869541",
+        "created_at": "2024-05-26T21:11:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T22:11:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794838733310869541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yunaono_2001/s…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/yunaono_2001/status/1794338558024839610",
+              "start": 80,
+              "url": "https://t.co/h8B4AeOwaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794838733310869541",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794338558024839610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然你不知道爱是什么，但你却坚定地想要得到它；可能你对爱的感受器早就被毒害地坏掉了，甚至从来没有发育过，但你却依然执着地去试图感受它…\n…你也终于会得到它的… https://t.co/h8B4AeOwaH"
+      },
+      {
+        "attachments": {},
+        "author_id": "1730557130166738944",
+        "conversation_id": "1794338558024839610",
+        "created_at": "2024-05-25T12:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-25T13:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794338558024839610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1794338558024839610",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 65854,
+          "like_count": 575,
+          "quote_count": 21,
+          "reply_count": 30,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "因为原生家庭导致缺爱，于是你想逃脱的父母的掌控欲，但你却没想到你成为了别人满足性欲的工具"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3207,
+          "following_count": 218,
+          "like_count": 13635,
+          "listed_count": 11,
+          "tweet_count": 15279
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-01T11:59:14.000Z",
+        "description": "南无地藏王菩萨//占卜号@wohaocute👈🏻主业",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 12,
+                "username": "wohaocute"
+              }
+            ]
+          }
+        },
+        "id": "1730557130166738944",
+        "location": "🚪52/128/521/1314",
+        "name": "燃燃",
+        "pinned_tweet_id": "1794669550673498255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785158692775792640/eZXrMYe3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12186,
+          "following_count": 122,
+          "like_count": 1546,
+          "listed_count": 21,
+          "tweet_count": 1640
+        },
+        "username": "YunaOnO_2001",
+        "verified": false
+      }
+    ]
+  }
+}

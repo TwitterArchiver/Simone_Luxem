@@ -1,0 +1,177 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1813284920644534486",
+    "created_at": "2024-07-16T18:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-16T19:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1813285733139894383"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1813285733139894383",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1813284920644534486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请一定一定不要因为一时的满腔热血而冲动行事！我们的目的都是成事,如果不签可以更好地达成这个目的,那么就不要签,不要有任何内疚,我们以同样的程度感谢你的任何付出的..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1813284920644534486",
+        "created_at": "2024-07-16T18:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T19:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813285733139894383"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1813285733139894383",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813284920644534486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请一定一定不要因为一时的满腔热血而冲动行事！我们的目的都是成事,如果不签可以更好地达成这个目的,那么就不要签,不要有任何内疚,我们以同样的程度感谢你的任何付出的..."
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1813284916861218816"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1813284920644534486",
+        "created_at": "2024-07-16T18:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-16T19:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1813284920644534486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/eVbUjbaJr6",
+              "end": 172,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1813284920644534486/photo/1",
+              "media_key": "3_1813284916861218816",
+              "start": 149,
+              "url": "https://t.co/eVbUjbaJr6"
+            },
+            {
+              "display_url": "x.com/yaming00742313…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/yaming00742313/status/1813208355655328061",
+              "start": 173,
+              "url": "https://t.co/maPWvYjj4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1813284920644534486",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1813208355655328061",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "若必须要有人流血的话,那就从我开始吧...\n认真讲,建议如果有人要签这份东西,请确保1.自身并不会在接下来第三次亚明案中直接参与任何可能的“不那么合法”的行动,否则我感谢你的热忱,但请分清轻重缓急2.自己住址不在合肥,或自己是合肥市市委书记,否则条子可能上门会比较难办 ...\n由衷感谢诸位... https://t.co/eVbUjbaJr6 https://t.co/maPWvYjj4p"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3412,
+          "following_count": 221,
+          "like_count": 15265,
+          "listed_count": 8,
+          "tweet_count": 16068
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

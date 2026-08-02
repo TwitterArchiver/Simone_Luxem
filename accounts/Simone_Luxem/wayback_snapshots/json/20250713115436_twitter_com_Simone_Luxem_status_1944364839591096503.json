@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1944364839591096503",
+    "created_at": "2025-07-13T11:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T12:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1944364839591096503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hhjnjkoguyunmo…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/hhjnjkoguyunmo/status/1944201702976151704",
+          "start": 17,
+          "url": "https://t.co/sGDZUOjAW9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944364839591096503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 43,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944201702976151704",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "《网 暴》\n…真的咱读书不违法的 https://t.co/sGDZUOjAW9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1944364839591096503",
+        "created_at": "2025-07-13T11:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T12:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944364839591096503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hhjnjkoguyunmo…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/hhjnjkoguyunmo/status/1944201702976151704",
+              "start": 17,
+              "url": "https://t.co/sGDZUOjAW9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944364839591096503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944201702976151704",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "《网 暴》\n…真的咱读书不违法的 https://t.co/sGDZUOjAW9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882563916632666112",
+        "conversation_id": "1944201702976151704",
+        "created_at": "2025-07-13T01:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T02:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944201702976151704"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944201702976151704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1588,
+          "like_count": 40,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，前几天发的那个文章推，掀起了一个巨大的波澜，虽然在我的预料之内，我也遭受到了不少的网暴，虽然这些网暴对我的精神没有造成损伤，但是也让整个跨圈的内耗加重了，所以我决定删除之前的两个推，我没有预料到这个推对跨圈的危害这么严重，对不起。😞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4477,
+          "following_count": 219,
+          "like_count": 21289,
+          "listed_count": 13,
+          "media_count": 1634,
+          "tweet_count": 19923
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "大家好呀，我会尽量包容所有人的，请多多指教哦~🥰",
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 462,
+          "like_count": 160631,
+          "listed_count": 8,
+          "media_count": 109,
+          "tweet_count": 17281
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

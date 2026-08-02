@@ -1,0 +1,156 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1799770384080003566",
+    "created_at": "2024-06-09T12:16:07.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-09T13:16:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1799777494033469452"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1799777494033469452",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1799774285021724948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此外另说一下，实际上是否保守与个人生活方式是无关的——个人生活方式只是一种让自己在现有条件下可以“过得舒服”的方式，而并不代表其认同任何理念——禁欲的烟酒不沾的人，并不意味着要认为通货膨胀税收增加公共服务质量变差是因为其他人抽烟喝酒开淫啪所导致的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1799770384080003566",
+        "created_at": "2024-06-09T12:16:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T13:16:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799777494033469452"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799777494033469452",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799774285021724948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此外另说一下，实际上是否保守与个人生活方式是无关的——个人生活方式只是一种让自己在现有条件下可以“过得舒服”的方式，而并不代表其认同任何理念——禁欲的烟酒不沾的人，并不意味着要认为通货膨胀税收增加公共服务质量变差是因为其他人抽烟喝酒开淫啪所导致的"
+      },
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1799770384080003566",
+        "created_at": "2024-06-09T12:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-09T13:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1799774285021724948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1799774285021724948",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1799772989430395244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诚然，包括我自己在内，在精神状态不好的时候，在绝望在自责在难过的时候，也无数次幻想过是不是有什么的永恒不变的传统可以实现永久的田园牧歌，而自己只需要照着做就好了；没有关系的，在精神状态差的时候我们都有权利使用一切不伤害别人的方法来让自己舒服一些，但理智上也应清楚，未来不在过去之中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3195,
+          "following_count": 220,
+          "like_count": 13855,
+          "listed_count": 10,
+          "tweet_count": 15469
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

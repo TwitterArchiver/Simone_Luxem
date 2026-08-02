@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1929128489971511749",
+    "created_at": "2025-06-01T10:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-01T11:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1929128489971511749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/1928763362541818266",
+          "start": 56,
+          "url": "https://t.co/k4saWL6FsO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929128489971511749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928763362541818266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这玩意就像是所谓的“聚众淫乱罪”一样，对我而言是属于血仇的范围…\n早晚得让它们每一个都为此付出代价…连本带息… https://t.co/k4saWL6FsO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1204,
+        "media_key": "3_1928760539066310656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRVfcPWoAAjRuq.jpg",
+        "width": 644
+      },
+      {
+        "height": 1205,
+        "media_key": "3_1928760687859294208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRVoGiXYAAW24r.jpg",
+        "width": 506
+      },
+      {
+        "height": 840,
+        "media_key": "3_1928763129548132352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRX2OiWUAANJs1.png",
+        "width": 463
+      },
+      {
+        "height": 1198,
+        "media_key": "3_1928763287988047872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsRX_cxXkAALlQ-.jpg",
+        "width": 895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1929128489971511749",
+        "created_at": "2025-06-01T10:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-01T11:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929128489971511749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1928763362541818266",
+              "start": 56,
+              "url": "https://t.co/k4saWL6FsO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929128489971511749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928763362541818266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这玩意就像是所谓的“聚众淫乱罪”一样，对我而言是属于血仇的范围…\n早晚得让它们每一个都为此付出代价…连本带息… https://t.co/k4saWL6FsO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928760539066310656",
+            "3_1928760687859294208",
+            "3_1928763129548132352",
+            "3_1928763287988047872"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1928763362541818266",
+        "created_at": "2025-05-31T10:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T11:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928763362541818266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0rFH0X3PO",
+              "end": 86,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928763362541818266/photo/1",
+              "media_key": "3_1928760539066310656",
+              "start": 63,
+              "url": "https://t.co/A0rFH0X3PO"
+            },
+            {
+              "display_url": "pic.x.com/A0rFH0X3PO",
+              "end": 86,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928763362541818266/photo/1",
+              "media_key": "3_1928760687859294208",
+              "start": 63,
+              "url": "https://t.co/A0rFH0X3PO"
+            },
+            {
+              "display_url": "pic.x.com/A0rFH0X3PO",
+              "end": 86,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928763362541818266/photo/1",
+              "media_key": "3_1928763129548132352",
+              "start": 63,
+              "url": "https://t.co/A0rFH0X3PO"
+            },
+            {
+              "display_url": "pic.x.com/A0rFH0X3PO",
+              "end": 86,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1928763362541818266/photo/1",
+              "media_key": "3_1928763287988047872",
+              "start": 63,
+              "url": "https://t.co/A0rFH0X3PO"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1928122915293385071",
+              "start": 87,
+              "url": "https://t.co/1vJ2oXRbbA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928763362541818266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 868659,
+          "like_count": 651,
+          "quote_count": 24,
+          "reply_count": 77,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928122915293385071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "5月30日-31日，再有多名海棠作者发微博讲述被抓经历：\n据知情人称，这一波海棠作者大抓捕有大概两三百人，而且属于远洋捕捞。 https://t.co/A0rFH0X3PO https://t.co/1vJ2oXRbbA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4248,
+          "following_count": 219,
+          "like_count": 20447,
+          "listed_count": 12,
+          "media_count": 1569,
+          "tweet_count": 19437
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1918067909705838897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2001643,
+          "following_count": 949,
+          "like_count": 6628,
+          "listed_count": 8155,
+          "media_count": 29102,
+          "tweet_count": 35614
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025576931929055232"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "2025576939071885527",
+    "created_at": "2026-02-22T14:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025576939071885527"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aSe137ll1G",
+          "end": 161,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2025576939071885527/photo/1",
+          "media_key": "3_2025576931929055232",
+          "start": 138,
+          "url": "https://t.co/aSe137ll1G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025576939071885527",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "对事不对人，不是在指责或羞辱当事人，她是我的朋友\n只是感慨一下，没想到自己在公开场合直接批评它人言行的行为会这么招人恨吧，如果这确实是多数人的反应，那么按照自己的性格和一贯做法，确实应该有不少人讨厌自己的\n不过自己不觉得自己做的有错误就是了，自己仍旧会做该做的事情，就是这样 https://t.co/aSe137ll1G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 386,
+        "media_key": "3_2025576931929055232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxLfNTbYAAEG8j.jpg",
+        "width": 653
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025576931929055232"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "2025576939071885527",
+        "created_at": "2026-02-22T14:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025576939071885527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aSe137ll1G",
+              "end": 161,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2025576939071885527/photo/1",
+              "media_key": "3_2025576931929055232",
+              "start": 138,
+              "url": "https://t.co/aSe137ll1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025576939071885527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对事不对人，不是在指责或羞辱当事人，她是我的朋友\n只是感慨一下，没想到自己在公开场合直接批评它人言行的行为会这么招人恨吧，如果这确实是多数人的反应，那么按照自己的性格和一贯做法，确实应该有不少人讨厌自己的\n不过自己不觉得自己做的有错误就是了，自己仍旧会做该做的事情，就是这样 https://t.co/aSe137ll1G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6163,
+          "following_count": 219,
+          "like_count": 23845,
+          "listed_count": 17,
+          "media_count": 1747,
+          "tweet_count": 21327
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

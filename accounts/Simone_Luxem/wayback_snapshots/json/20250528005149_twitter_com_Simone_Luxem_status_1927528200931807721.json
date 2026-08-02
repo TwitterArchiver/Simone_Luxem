@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1927528200931807721",
+    "created_at": "2025-05-28T00:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T01:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927528200931807721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/6_metro_line/s…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/6_metro_line/status/1927350184230396302",
+          "start": 141,
+          "url": "https://t.co/pIRQAVZ6Ou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927528200931807721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927350184230396302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你看，就是这么恶劣，那么多敌人，那么多对我们有先觉性偏见的人，所以如果我们不取得胜利，就只有死路一条了\n不过反过来说，这也说明只要我们还活着，我们就还是胜利者呢，不是嘛\n而我还活着呢，作为跨性别，作为精神病，作为（生物）医学生，作为一大堆鬼知道叫什么名字的精神障碍的携带者，活着呢 https://t.co/pIRQAVZ6Ou"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1927528200931807721",
+        "created_at": "2025-05-28T00:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T01:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927528200931807721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/6_metro_line/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/6_metro_line/status/1927350184230396302",
+              "start": 141,
+              "url": "https://t.co/pIRQAVZ6Ou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927528200931807721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927350184230396302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你看，就是这么恶劣，那么多敌人，那么多对我们有先觉性偏见的人，所以如果我们不取得胜利，就只有死路一条了\n不过反过来说，这也说明只要我们还活着，我们就还是胜利者呢，不是嘛\n而我还活着呢，作为跨性别，作为精神病，作为（生物）医学生，作为一大堆鬼知道叫什么名字的精神障碍的携带者，活着呢 https://t.co/pIRQAVZ6Ou"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730923014471180288",
+        "conversation_id": "1927350184230396302",
+        "created_at": "2025-05-27T13:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T14:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927350184230396302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/subanxia1120/s…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/subanxia1120/status/1926250690034217289",
+              "start": 122,
+              "url": "https://t.co/Mk9GkYkIP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927350184230396302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2793,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926250690034217289",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "某些国外，可能证件都不会看，凭直觉（包括声音外貌发型）有一个对不上，直接就说你是“生理男性”然后给你下逐客令，你只能滚，哪怕证件上是F，甚至被逮捕。你拿F证出来没用，因为这些地方的法律用生产配子的潜力（精，卵）决定性别，也就是说只看指派性别。 https://t.co/Mk9GkYkIP4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4245,
+          "following_count": 219,
+          "like_count": 20377,
+          "listed_count": 12,
+          "media_count": 1561,
+          "tweet_count": 19386
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-02T12:13:15.000Z",
+        "description": "Demigirl/any pronouns/@Sydney_Uni and @UNSW alumni/不是顺直",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "Sydney_Uni"
+              },
+              {
+                "end": 43,
+                "start": 38,
+                "username": "UNSW"
+              }
+            ]
+          }
+        },
+        "id": "1730923014471180288",
+        "location": "Science Museum",
+        "name": "地铁六号线/Metro Line 6🏳️‍⚧️",
+        "pinned_tweet_id": "1927267567657255181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919359639818477568/If6l9MN6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 204,
+          "like_count": 267,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 2835
+        },
+        "username": "6_metro_line",
+        "verified": false
+      }
+    ]
+  }
+}

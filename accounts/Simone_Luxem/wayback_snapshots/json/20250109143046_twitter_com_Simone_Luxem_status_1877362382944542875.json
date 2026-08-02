@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1877359771394728169",
+    "created_at": "2025-01-09T14:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-09T15:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877362382944542875"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1877362382944542875",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877359771394728169",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自我感觉应该用某种拘束装置给控制住比较好，需要做什么就运输/牵引到指定地点，不需要就放在那里就好了…\n因为其实并不确定自己的身体有多大程度上还在被自己的脑子控制着，所以害怕，所以好讨厌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1877359771394728169",
+        "created_at": "2025-01-09T14:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T15:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877362382944542875"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877362382944542875",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877359771394728169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自我感觉应该用某种拘束装置给控制住比较好，需要做什么就运输/牵引到指定地点，不需要就放在那里就好了…\n因为其实并不确定自己的身体有多大程度上还在被自己的脑子控制着，所以害怕，所以好讨厌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1877359771394728169",
+        "created_at": "2025-01-09T14:20:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T15:20:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877359771394728169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1877359771394728169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道为什么，以前自己是每天上早课都没有问题的，现在自己却连续上三天早课第四天就起不来起不来就是起不来，起来了也脑子起不来除了想死以外什么都想不了也几乎什么都干不了的样子，好像平时最轻而易举的行为都会变成一个需要漫长的读条蓄力才能做出来的行为一样\n为什么啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3946,
+          "following_count": 221,
+          "like_count": 18649,
+          "listed_count": 10,
+          "media_count": 1463,
+          "tweet_count": 18301
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

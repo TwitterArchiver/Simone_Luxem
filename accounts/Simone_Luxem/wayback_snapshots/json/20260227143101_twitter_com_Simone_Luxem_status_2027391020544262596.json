@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027391013778759680",
+        "3_2027391013975994368"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027391020544262596",
+    "created_at": "2026-02-27T14:31:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T15:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027391020544262596"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/a6pJ6x6u7O",
+          "end": 44,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2027391020544262596/photo/1",
+          "media_key": "3_2027391013778759680",
+          "start": 21,
+          "url": "https://t.co/a6pJ6x6u7O"
+        },
+        {
+          "display_url": "pic.x.com/a6pJ6x6u7O",
+          "end": 44,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2027391020544262596/photo/1",
+          "media_key": "3_2027391013975994368",
+          "start": 21,
+          "url": "https://t.co/a6pJ6x6u7O"
+        },
+        {
+          "display_url": "x.com/cyanvtb/status…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/cyanvtb/status/2027228964142686574",
+          "start": 45,
+          "url": "https://t.co/kcxTVOHhGv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027391020544262596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027228964142686574",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "呜呜呜呜可是真的很喜欢被夸“好孩子”的… https://t.co/a6pJ6x6u7O https://t.co/kcxTVOHhGv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 416,
+        "media_key": "3_2027391013778759680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK9Yq0aIAATwfI.jpg",
+        "width": 1300
+      },
+      {
+        "height": 372,
+        "media_key": "3_2027391013975994368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCK9YrjbsAAXRcW.jpg",
+        "width": 1388
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027391013778759680",
+            "3_2027391013975994368"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027391020544262596",
+        "created_at": "2026-02-27T14:31:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T15:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027391020544262596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a6pJ6x6u7O",
+              "end": 44,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2027391020544262596/photo/1",
+              "media_key": "3_2027391013778759680",
+              "start": 21,
+              "url": "https://t.co/a6pJ6x6u7O"
+            },
+            {
+              "display_url": "pic.x.com/a6pJ6x6u7O",
+              "end": 44,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2027391020544262596/photo/1",
+              "media_key": "3_2027391013975994368",
+              "start": 21,
+              "url": "https://t.co/a6pJ6x6u7O"
+            },
+            {
+              "display_url": "x.com/cyanvtb/status…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/cyanvtb/status/2027228964142686574",
+              "start": 45,
+              "url": "https://t.co/kcxTVOHhGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027391020544262596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027228964142686574",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呜呜呜呜可是真的很喜欢被夸“好孩子”的… https://t.co/a6pJ6x6u7O https://t.co/kcxTVOHhGv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1466141467274010633",
+        "conversation_id": "2027228964142686574",
+        "created_at": "2026-02-27T03:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027228964142686574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/solyricon/stat…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/solyricon/status/2027054367673872583",
+              "start": 67,
+              "url": "https://t.co/gBq5X68Bzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027228964142686574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 31044,
+          "like_count": 567,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027054367673872583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "心理医生：当你已经撑不住了，却还逼自己继续撑，这种情况叫什么？\n\n我：……好孩子？\n\n心理医生：…！\n心理医生：（扶额）我的上帝啊… https://t.co/gBq5X68Bzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6185,
+          "following_count": 218,
+          "like_count": 23902,
+          "listed_count": 19,
+          "media_count": 1749,
+          "tweet_count": 21356
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-01T20:25:55.000Z",
+        "description": "✧ 在人间迷路的小小黑客猫娘 ✧ 好像是YouTube简中订阅第一VTuber ✧ 女孩子，百合已订婚 @lina_hoshino ✧ 前谷歌工程师，偶尔是画师/唱见 英语EN @cyannyan6 ʚ 永远不毕业 ɞ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "lina_hoshino"
+              },
+              {
+                "end": 99,
+                "start": 89,
+                "username": "cyannyan6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyan.yt/magic",
+                "end": 23,
+                "expanded_url": "http://cyan.yt/magic",
+                "start": 0,
+                "url": "https://t.co/KZ2gCJbRgO"
+              }
+            ]
+          }
+        },
+        "id": "1466141467274010633",
+        "location": "Tokyo-to, Japan",
+        "name": "星乃小盐Cyan🧂✨ / 百合婚礼准备中",
+        "pinned_tweet_id": "2026472191089627237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936417185808719872/PR6k56Hy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7550,
+          "following_count": 1040,
+          "like_count": 13675,
+          "listed_count": 31,
+          "media_count": 705,
+          "tweet_count": 6100
+        },
+        "url": "https://t.co/KZ2gCJbRgO",
+        "username": "cyanvtb",
+        "verified": true
+      }
+    ]
+  }
+}

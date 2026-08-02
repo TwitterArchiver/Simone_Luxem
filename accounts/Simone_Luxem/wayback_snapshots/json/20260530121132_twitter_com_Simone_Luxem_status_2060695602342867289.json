@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2060695602342867289",
+    "created_at": "2026-05-30T12:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060695602342867289"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/diamond_kokoro…",
+          "end": 141,
+          "expanded_url": "https://twitter.com/diamond_kokoro/status/2060595792667455897",
+          "start": 118,
+          "url": "https://t.co/OOP5mBGUwV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060695602342867289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060595792667455897",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己的一个恶趣味就是，在那些吹鼓三好跨的人面前，将那些它们捧上神坛的奉为珍宝，可对于自己来说却轻而易举就可以得到的标签弃之如敝履，更加讽刺的是，甚至这个行为往往并非出自自己的恶意，而是真的在不经意间就完成了…\n不得不说是一种莫大的嘲弄 https://t.co/OOP5mBGUwV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2060695602342867289",
+        "created_at": "2026-05-30T12:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060695602342867289"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/diamond_kokoro…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/diamond_kokoro/status/2060595792667455897",
+              "start": 118,
+              "url": "https://t.co/OOP5mBGUwV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060695602342867289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060595792667455897",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己的一个恶趣味就是，在那些吹鼓三好跨的人面前，将那些它们捧上神坛的奉为珍宝，可对于自己来说却轻而易举就可以得到的标签弃之如敝履，更加讽刺的是，甚至这个行为往往并非出自自己的恶意，而是真的在不经意间就完成了…\n不得不说是一种莫大的嘲弄 https://t.co/OOP5mBGUwV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2060595792667455897",
+        "created_at": "2026-05-30T05:34:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:34:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060595792667455897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060595792667455897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 279,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "這本質上是同一個問題：妳發自內心認同三好跨的形象去扮演無害的三好跨，順直就會更加騎在你頭上拉屎。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6220,
+          "following_count": 220,
+          "like_count": 24841,
+          "listed_count": 16,
+          "media_count": 1787,
+          "tweet_count": 21742
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "@irisdesombres 纏繞我臉上悲傷 祢一點點幫我卸妝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "name": "小羽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060371508426592256/Gx-SAITd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 144,
+          "like_count": 7503,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 5249
+        },
+        "username": "Diamond_Kokoro",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1823059678735331771",
+    "created_at": "2024-08-12T18:11:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T19:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823059684133077230"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1823059684133077230",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823059681243172950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一种先觉性的，非理性的，类似“被选中”的妄想，才是近20年来唯一连续不断的，支撑自己的…真好笑呢…\n那个学姐是很好的人，甚至是鼓励过我的人，并且也是有着相似经历的受害者，而我却会对其有着如此无法抑制的嫉妒…罢了，大概自己本性恶劣吧，只是这嫉妒酿成的苦酒，也只会由我自己独饮的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1823059678735331771",
+        "created_at": "2024-08-12T18:11:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T19:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823059684133077230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823059684133077230",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823059681243172950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一种先觉性的，非理性的，类似“被选中”的妄想，才是近20年来唯一连续不断的，支撑自己的…真好笑呢…\n那个学姐是很好的人，甚至是鼓励过我的人，并且也是有着相似经历的受害者，而我却会对其有着如此无法抑制的嫉妒…罢了，大概自己本性恶劣吧，只是这嫉妒酿成的苦酒，也只会由我自己独饮的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1823059678735331771",
+        "created_at": "2024-08-12T18:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T19:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823059681243172950"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823059681243172950",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823059678735331771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可是自己得到的似乎从来都是负面反馈：自己的成绩从来都不理想，自己也没有展现出过任何天赋，不是自己喜欢的老师所喜欢的学生，以及会被说“我觉得你不适合做科研”…甚至很大部分的自己都不相信自己，或者说一直相信自己的那一部分，实际上可能更是一种精神病的妄想吧：自己就是注定被用来走上这条路的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3525,
+          "following_count": 224,
+          "like_count": 15947,
+          "listed_count": 8,
+          "tweet_count": 16522
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

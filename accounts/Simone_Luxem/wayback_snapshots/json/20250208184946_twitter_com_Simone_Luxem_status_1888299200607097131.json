@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1888296262866214924",
+    "created_at": "2025-02-08T18:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-08T19:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888299200607097131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "835183658084384768",
+          "start": 0,
+          "username": "Shelly3400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888299200607097131",
+    "in_reply_to_user_id": "835183658084384768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888299032956592342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shelly3400 道理我知道啦，意思就是说只是我自己有些不喜欢我自己的声音罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1888296262866214924",
+        "created_at": "2025-02-08T18:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T19:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888299200607097131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "835183658084384768",
+              "start": 0,
+              "username": "Shelly3400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888299200607097131",
+        "in_reply_to_user_id": "835183658084384768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888299032956592342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shelly3400 道理我知道啦，意思就是说只是我自己有些不喜欢我自己的声音罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "835183658084384768",
+        "conversation_id": "1888296262866214924",
+        "created_at": "2025-02-08T18:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T19:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888299032956592342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888299032956592342",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888296262866214924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 女孩子怎麼會有這麼多門檻啊？不是自己想做就做了嗎？你是女孩子的話你的聲音就是女孩子的聲音，而不是用它去否定自己。遇到terf應該直接開打"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4009,
+          "following_count": 222,
+          "like_count": 19161,
+          "listed_count": 10,
+          "media_count": 1485,
+          "tweet_count": 18537
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-24T17:44:35.000Z",
+        "description": "Cat person, Workout for muscle, Thai-food n simply food. 🎮 Gamer, MBA Finance, ENFJ-T,LGBTQ+🌈 Date of rebirth 29th June 2022",
+        "id": "835183658084384768",
+        "location": "Wang Thonglang, Bangkok",
+        "name": "🐸Irene🏳️‍⚧️🌈",
+        "pinned_tweet_id": "1599331982026379265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505044115116855304/h_3mtgtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4082,
+          "following_count": 957,
+          "like_count": 12758,
+          "listed_count": 11,
+          "media_count": 475,
+          "tweet_count": 5904
+        },
+        "username": "Shelly3400",
+        "verified": false
+      }
+    ]
+  }
+}

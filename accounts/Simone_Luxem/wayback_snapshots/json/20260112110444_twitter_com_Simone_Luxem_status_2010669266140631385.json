@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Greta Thunberg",
+          "id": "1118130254759915520",
+          "name": "Greta Thunberg"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Greta Thunberg",
+          "id": "1118130254759915520",
+          "name": "Greta Thunberg"
+        }
+      }
+    ],
+    "conversation_id": "2010669266140631385",
+    "created_at": "2026-01-12T11:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T12:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010669266140631385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1416741039704985601",
+          "start": 3,
+          "username": "Ever_Imagine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010669266140631385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010603240933716178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ever_Imagine: 有没有可能中文圈有大于零个人注意到Greta Thunberg自从去年12月23号在伦敦参加集会被捕并保释之后就一直没有任何消息\n\n况且查人动态这又是什么别样的斗争形式，我暂且蒙在华语娱乐圈艺人转发为祖国母亲庆生微博情况统计表里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Greta Thunberg",
+              "id": "1118130254759915520",
+              "name": "Greta Thunberg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Greta Thunberg",
+              "id": "1118130254759915520",
+              "name": "Greta Thunberg"
+            }
+          }
+        ],
+        "conversation_id": "2010669266140631385",
+        "created_at": "2026-01-12T11:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T12:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010669266140631385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1416741039704985601",
+              "start": 3,
+              "username": "Ever_Imagine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010669266140631385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010603240933716178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ever_Imagine: 有没有可能中文圈有大于零个人注意到Greta Thunberg自从去年12月23号在伦敦参加集会被捕并保释之后就一直没有任何消息\n\n况且查人动态这又是什么别样的斗争形式，我暂且蒙在华语娱乐圈艺人转发为祖国母亲庆生微博情况统计表里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1416741039704985601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Greta Thunberg",
+              "id": "1118130254759915520",
+              "name": "Greta Thunberg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Greta Thunberg",
+              "id": "1118130254759915520",
+              "name": "Greta Thunberg"
+            }
+          }
+        ],
+        "conversation_id": "2010603240933716178",
+        "created_at": "2026-01-12T06:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T07:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010603240933716178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sugihara_tatuo…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/sugihara_tatuo/status/2010228579062477094",
+              "start": 115,
+              "url": "https://t.co/7Vz2pw6Vgf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010603240933716178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3302,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010228579062477094",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有没有可能中文圈有大于零个人注意到Greta Thunberg自从去年12月23号在伦敦参加集会被捕并保释之后就一直没有任何消息\n\n况且查人动态这又是什么别样的斗争形式，我暂且蒙在华语娱乐圈艺人转发为祖国母亲庆生微博情况统计表里 https://t.co/7Vz2pw6Vgf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6069,
+          "following_count": 215,
+          "like_count": 23512,
+          "listed_count": 18,
+          "media_count": 1732,
+          "tweet_count": 21115
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-18T13:19:54.000Z",
+        "description": "Socialist🌹",
+        "id": "1416741039704985601",
+        "name": "Phalanstere🌹",
+        "pinned_tweet_id": "1576042570396086272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787802267154051072/sOpAc_CX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4492,
+          "following_count": 422,
+          "like_count": 56459,
+          "listed_count": 24,
+          "media_count": 500,
+          "tweet_count": 4576
+        },
+        "username": "Ever_Imagine",
+        "verified": false
+      }
+    ]
+  }
+}

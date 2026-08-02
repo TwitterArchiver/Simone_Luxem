@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1981466130242805819",
+    "created_at": "2025-10-24T07:50:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T08:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981629367441670503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "895057561",
+          "start": 0,
+          "username": "Char1es4k"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981629367441670503",
+    "in_reply_to_user_id": "895057561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981466130242805819",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Char1es4k 德国国防军，巴伐利亚，交火\n懂了，Freie Regimenter和Bayerische Räterepublik又打起来了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1981466130242805819",
+        "created_at": "2025-10-24T07:50:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T08:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981629367441670503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "895057561",
+              "start": 0,
+              "username": "Char1es4k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981629367441670503",
+        "in_reply_to_user_id": "895057561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981466130242805819",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Char1es4k 德国国防军，巴伐利亚，交火\n懂了，Freie Regimenter和Bayerische Räterepublik又打起来了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "895057561",
+        "conversation_id": "1981466130242805819",
+        "created_at": "2025-10-23T21:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T21:56:47.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981464842763477443",
+          "1981466130242805819"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kranzschwinger…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/kranzschwinger/status/1981317231930687922",
+              "start": 59,
+              "url": "https://t.co/vbUL4oANte"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981466130242805819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 593,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981317231930687922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "草🤣\n前情提要：国防军有实弹演习但巴伐利亚州的警察并不知情，然后somehow就交火了，一个国防军年轻人被击中受伤… https://t.co/vbUL4oANte"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5570,
+          "following_count": 215,
+          "like_count": 22769,
+          "listed_count": 15,
+          "media_count": 1682,
+          "tweet_count": 20635
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-21T10:08:25.000Z",
+        "description": "Kommunistische Partei Chinas umstürzen! ☭⃠ | 🇺🇦🇮🇱🇭🇰🇹🇼🇩🇪 | anti-woke|沪语,EN,DE|键政&生活&学习shit post|Robot learning, Embedded System | Gastmitglied @CDU 🎗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 142,
+                "username": "CDU"
+              }
+            ]
+          }
+        },
+        "id": "895057561",
+        "location": "Hessen, Deutschland",
+        "name": "Char1es",
+        "pinned_tweet_id": "1675524485200445442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620068043421323266/p-I2utnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 992,
+          "like_count": 66499,
+          "listed_count": 3,
+          "media_count": 2029,
+          "tweet_count": 10997
+        },
+        "username": "Char1es4k",
+        "verified": false
+      }
+    ]
+  }
+}

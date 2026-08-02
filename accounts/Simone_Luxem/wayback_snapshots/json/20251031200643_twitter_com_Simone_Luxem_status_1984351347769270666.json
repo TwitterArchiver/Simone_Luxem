@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1984346690066030804",
+    "created_at": "2025-10-31T20:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T21:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984351347769270666"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1984351347769270666",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984346690066030804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己不是合格的fighting unit，自己会总是患得患失，会总想要既要又要，会投鼠忌器，会考虑不周，会过度计划，执行力不足，很没有耐心，容易退缩，总是逃避…\n但仍然希望自己可以有勇气…至少…试着做到一点点勇敢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1984346690066030804",
+        "created_at": "2025-10-31T20:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T21:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984351347769270666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984351347769270666",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984346690066030804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己不是合格的fighting unit，自己会总是患得患失，会总想要既要又要，会投鼠忌器，会考虑不周，会过度计划，执行力不足，很没有耐心，容易退缩，总是逃避…\n但仍然希望自己可以有勇气…至少…试着做到一点点勇敢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1984346690066030804",
+        "created_at": "2025-10-31T19:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T20:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984346690066030804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984346690066030804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "身为姐姐自认有义务为妹妹做出表率，因而若是希望妹妹是勇敢的，那自己也应做到勇敢\n可勇敢与鲁莽绝不等价，后者是因盲目而失足坠下悬崖，前者则是看清了前路理智思考后仍然跳下悬崖\n于是，大概是自己余生都无法摆脱的，一遍一遍重复着的来自自身的拷问，自己在那时，究竟是哪种…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5642,
+          "following_count": 215,
+          "like_count": 22836,
+          "listed_count": 18,
+          "media_count": 1684,
+          "tweet_count": 20699
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

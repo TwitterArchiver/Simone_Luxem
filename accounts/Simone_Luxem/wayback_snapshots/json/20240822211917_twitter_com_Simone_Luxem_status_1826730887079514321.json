@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Kamala Harris wants Communism in America.",
+          "id": "1826445146566631424",
+          "name": "#ComradeKamala"
+        }
+      }
+    ],
+    "conversation_id": "1826730887079514321",
+    "created_at": "2024-08-22T21:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-22T22:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1826730887079514321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/8964kevin_t/st…",
+          "end": 135,
+          "expanded_url": "https://twitter.com/8964kevin_t/status/1826707884648136944",
+          "start": 112,
+          "url": "https://t.co/cGWFtER05A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1826730887079514321",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1826707884648136944",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说实话我觉得左边好看，可能因为看起来和自己感觉长得有点像？脸型上面，圆圆的感觉比较可爱…\n右边反而有点让我感觉不太舒服，可能一方面是因为自己对“正式场合”本身就有一种厌恶，另一方面是颧骨有点过于突出感觉不符合自己的审美吧… https://t.co/cGWFtER05A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Kamala Harris wants Communism in America.",
+              "id": "1826445146566631424",
+              "name": "#ComradeKamala"
+            }
+          }
+        ],
+        "conversation_id": "1826730887079514321",
+        "created_at": "2024-08-22T21:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T22:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826730887079514321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/8964kevin_t/st…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/8964kevin_t/status/1826707884648136944",
+              "start": 112,
+              "url": "https://t.co/cGWFtER05A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826730887079514321",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826707884648136944",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说实话我觉得左边好看，可能因为看起来和自己感觉长得有点像？脸型上面，圆圆的感觉比较可爱…\n右边反而有点让我感觉不太舒服，可能一方面是因为自己对“正式场合”本身就有一种厌恶，另一方面是颧骨有点过于突出感觉不符合自己的审美吧… https://t.co/cGWFtER05A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "6005462",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Kamala Harris wants Communism in America.",
+              "id": "1826445146566631424",
+              "name": "#ComradeKamala"
+            }
+          }
+        ],
+        "conversation_id": "1826707884648136944",
+        "created_at": "2024-08-22T19:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-22T20:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1826707884648136944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caiziboshi/sta…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/caiziboshi/status/1826242063601709169",
+              "start": 139,
+              "url": "https://t.co/j6upyI5VUp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1826707884648136944",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1586,
+          "like_count": 37,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1826242063601709169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种话题真的超级无聊。左边的是街上普遍的年轻人打扮，平时逛商场买到的年轻人服装风格。而右边的是中年人正装，不是年轻人逛街的打扮。衣服只跟场合或者生活习惯有区别，跟政治有条撚关系啊。另外说说纹身，其实现在年轻人左派和右派的纹身都可多了，尤其那些玩枪的MAGA谁身上没几个纹身啊。 https://t.co/j6upyI5VUp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3646,
+          "following_count": 221,
+          "like_count": 16170,
+          "listed_count": 8,
+          "tweet_count": 16691
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2007-05-13T09:03:31.000Z",
+        "description": "ISTP",
+        "id": "6005462",
+        "location": "我在加州，不约。",
+        "name": "KT 64 长腿叔叔",
+        "pinned_tweet_id": "1572681753327996928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583719988124258304/j4pV7UPL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15112,
+          "following_count": 773,
+          "like_count": 107501,
+          "listed_count": 51,
+          "tweet_count": 89737
+        },
+        "username": "8964kevin_t",
+        "verified": true
+      }
+    ]
+  }
+}

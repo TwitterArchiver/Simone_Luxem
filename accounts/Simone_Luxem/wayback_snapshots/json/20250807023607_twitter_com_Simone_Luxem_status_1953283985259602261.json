@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1953276721278636297",
+    "created_at": "2025-08-07T02:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-07T03:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1953283985259602261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1524947194997903360",
+          "start": 0,
+          "username": "E2Blackhole"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1953283985259602261",
+    "in_reply_to_user_id": "1524947194997903360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1953276721278636297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@E2Blackhole 诶，你在武汉？要不要面基？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1483,
+        "media_key": "3_1953276707148038144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gxtu0PWagAAEtMD.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1953276721278636297",
+        "created_at": "2025-08-07T02:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T03:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1953283985259602261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1524947194997903360",
+              "start": 0,
+              "username": "E2Blackhole"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953283985259602261",
+        "in_reply_to_user_id": "1524947194997903360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1953276721278636297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@E2Blackhole 诶，你在武汉？要不要面基？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1953276707148038144"
+          ]
+        },
+        "author_id": "1524947194997903360",
+        "conversation_id": "1953276721278636297",
+        "created_at": "2025-08-07T02:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-07T03:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1953276721278636297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nVKq7YH0xi",
+              "end": 29,
+              "expanded_url": "https://x.com/E2Blackhole/status/1953276721278636297/photo/1",
+              "media_key": "3_1953276707148038144",
+              "start": 6,
+              "url": "https://t.co/nVKq7YH0xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1953276721278636297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 259,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "暑假旅行w https://t.co/nVKq7YH0xi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4531,
+          "following_count": 221,
+          "like_count": 21960,
+          "listed_count": 13,
+          "media_count": 1650,
+          "tweet_count": 20111
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-13T02:58:46.000Z",
+        "description": "Classical Lolita爱好者//过气JK//百合//本体是黑洞//名为黑洞的观测者//Cpa致Pituitary tumor//这里是我的墓碑，埋葬了我的过去//⭐️请像星星一样，再闪耀一次吧！⭐️",
+        "id": "1524947194997903360",
+        "location": "人马座 A*//Sagittarius A*//Sgr A*",
+        "name": "E2-BlackHole Prototype.A IV",
+        "pinned_tweet_id": "1711887310550364186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589991598921682945/mGlOFQDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31217,
+          "following_count": 668,
+          "like_count": 8751,
+          "listed_count": 29,
+          "media_count": 994,
+          "tweet_count": 6683
+        },
+        "username": "E2Blackhole",
+        "verified": false
+      }
+    ]
+  }
+}

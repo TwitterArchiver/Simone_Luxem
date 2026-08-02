@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1904291445185434070",
+    "created_at": "2025-03-24T21:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T22:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1904291445185434070"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hdhzmcdonald/s…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/hdhzmcdonald/status/1904145497230565428",
+          "start": 44,
+          "url": "https://t.co/DPok6q016V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904291445185434070",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904145497230565428",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不如改成资助10个学临床的xyn读完phd，然后这10个xyn就可以给别人做srs了（ https://t.co/DPok6q016V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 636,
+        "media_key": "3_1904145495674499072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmziPV5WsAAb87n.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1904291445185434070",
+        "created_at": "2025-03-24T21:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T22:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904291445185434070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hdhzmcdonald/s…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/hdhzmcdonald/status/1904145497230565428",
+              "start": 44,
+              "url": "https://t.co/DPok6q016V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904291445185434070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904145497230565428",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不如改成资助10个学临床的xyn读完phd，然后这10个xyn就可以给别人做srs了（ https://t.co/DPok6q016V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904145495674499072"
+          ]
+        },
+        "author_id": "1487336894522265601",
+        "conversation_id": "1904145497230565428",
+        "created_at": "2025-03-24T12:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T13:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904145497230565428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WbJVAOe2Bi",
+              "end": 32,
+              "expanded_url": "https://x.com/HDHZMcDonald/status/1904145497230565428/photo/1",
+              "media_key": "3_1904145495674499072",
+              "start": 9,
+              "url": "https://t.co/WbJVAOe2Bi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904145497230565428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14489,
+          "like_count": 91,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "先定一个小目标： https://t.co/WbJVAOe2Bi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4092,
+          "following_count": 220,
+          "like_count": 19781,
+          "listed_count": 11,
+          "media_count": 1509,
+          "tweet_count": 18911
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T08:09:04.000Z",
+        "description": "Retired OIer/Cis/LGBT+ friendly/Beijing→🇺🇸\nMidwest/ https://t.co/4bqoSGJ3jK /\nA small goal: save $100k to sponsor 10 surgeries (20/100)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HDHZMC",
+                "end": 75,
+                "expanded_url": "http://t.me/HDHZMC",
+                "start": 52,
+                "url": "https://t.co/4bqoSGJ3jK"
+              }
+            ]
+          }
+        },
+        "id": "1487336894522265601",
+        "location": "United States",
+        "name": "板烧小菜菜",
+        "pinned_tweet_id": "1811642636777783792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1487337829470699520/KCbKhMxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 4217,
+          "like_count": 52979,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 4497
+        },
+        "username": "HDHZMcDonald",
+        "verified": true
+      }
+    ]
+  }
+}

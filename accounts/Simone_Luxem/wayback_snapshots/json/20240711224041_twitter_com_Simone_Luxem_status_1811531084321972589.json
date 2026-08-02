@@ -1,0 +1,278 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1811531084321972589",
+    "created_at": "2024-07-11T22:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-11T23:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1811531084321972589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Simone_Luxem/s…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/Simone_Luxem/status/1811527894830891365",
+          "start": 148,
+          "url": "https://t.co/GKMVH2qkUU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1811531084321972589",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811527894830891365",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就像是,假如有不会游泳的小孩掉进水里了,我可以对自身没有安全风险地把它救上来,但是会损失一身衣服：在这种情况下我会去救它,但不认为具有去救它的“道德义务”,而相反是“被许可可以做的事情”----救它是因为一个陌生人的生命的价值对我而言远远大于一身衣服,所以我不是傻瓜当然会救,而不是什么道德义务 https://t.co/GKMVH2qkUU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1811531084321972589",
+        "created_at": "2024-07-11T22:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T23:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811531084321972589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Simone_Luxem/s…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/Simone_Luxem/status/1811527894830891365",
+              "start": 148,
+              "url": "https://t.co/GKMVH2qkUU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811531084321972589",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811527894830891365",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就像是,假如有不会游泳的小孩掉进水里了,我可以对自身没有安全风险地把它救上来,但是会损失一身衣服：在这种情况下我会去救它,但不认为具有去救它的“道德义务”,而相反是“被许可可以做的事情”----救它是因为一个陌生人的生命的价值对我而言远远大于一身衣服,所以我不是傻瓜当然会救,而不是什么道德义务 https://t.co/GKMVH2qkUU"
+      },
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1811527894830891365",
+        "created_at": "2024-07-11T22:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-11T23:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1811527894830891365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1811527894830891365",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然科学哲学与伦理被划分为一门课里了,但是对自己而言伦理的那部分明显比科学哲学那部分让自己头疼多了...\n可能最主要的原因就是自己实际上是没有伦理（moral nihlism）的吧,对自己而言那么一大堆各种人提出过的各种伦理上的假设自己从来就没有人可过,因为moral fact对自己根本就不存在..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3376,
+          "following_count": 220,
+          "like_count": 15087,
+          "listed_count": 9,
+          "tweet_count": 15980
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

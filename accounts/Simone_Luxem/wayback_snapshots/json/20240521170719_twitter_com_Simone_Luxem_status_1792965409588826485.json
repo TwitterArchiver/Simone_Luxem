@@ -1,0 +1,216 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1792963473384636548",
+    "created_at": "2024-05-21T17:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T18:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792965409588826485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1016992850184056833",
+          "start": 0,
+          "username": "christine_cpw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792965409588826485",
+    "in_reply_to_user_id": "1016992850184056833",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792964310920245443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@christine_cpw 好呀好呀！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1792963473384636548",
+        "created_at": "2024-05-21T17:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T18:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792965409588826485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1016992850184056833",
+              "start": 0,
+              "username": "christine_cpw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792965409588826485",
+        "in_reply_to_user_id": "1016992850184056833",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792964310920245443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@christine_cpw 好呀好呀！"
+      },
+      {
+        "attachments": {},
+        "author_id": "1016992850184056833",
+        "conversation_id": "1792963473384636548",
+        "created_at": "2024-05-21T17:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T18:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792964310920245443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792964310920245443",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792963473384636548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 🙋🏻‍♀️🙋🏻‍♀️🙋🏻‍♀️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3177,
+          "following_count": 217,
+          "like_count": 13568,
+          "listed_count": 11,
+          "tweet_count": 15198
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-11T10:29:25.000Z",
+        "description": "HKer in Amsterdam 🏳️‍🌈 Founder of Hong Kong Trans Law Database & Trans Rights China • LLM/PCLL/JD • she/her • Trans Advocate 🏳️‍⚧️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hktranslawdb.org",
+                "end": 23,
+                "expanded_url": "http://www.hktranslawdb.org",
+                "start": 0,
+                "url": "https://t.co/vJQSpyEdkV"
+              }
+            ]
+          }
+        },
+        "id": "1016992850184056833",
+        "location": "Amsterdam, The Netherlands",
+        "name": "Christine🏳️‍⚧️🏳️‍🌈🇭🇰🇳🇱",
+        "pinned_tweet_id": "1785640671002370101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752001098536095744/7r7hyx-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5271,
+          "following_count": 331,
+          "like_count": 15437,
+          "listed_count": 20,
+          "tweet_count": 6480
+        },
+        "url": "https://t.co/vJQSpyEdkV",
+        "username": "christine_cpw",
+        "verified": true
+      }
+    ]
+  }
+}

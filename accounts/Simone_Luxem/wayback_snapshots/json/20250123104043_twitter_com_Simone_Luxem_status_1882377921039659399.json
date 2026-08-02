@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1882377921039659399",
+    "created_at": "2025-01-23T10:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T11:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1882377921039659399"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/b_cat38324/sta…",
+          "end": 124,
+          "expanded_url": "https://twitter.com/b_cat38324/status/1882375656891351546",
+          "start": 101,
+          "url": "https://t.co/XSL3tA9C4p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882377921039659399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882375656891351546",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死，从小就有不吃饭的好习惯，别说六个小时了，十六个小时不吃饭也是可以的（\n倒不是闹脾气什么的，只是纯粹不想吃或者说“没有想去吃”…\n直接后果就是Emma刚捡到我的时候只有110斤…然后就被喂肥球了（ https://t.co/XSL3tA9C4p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1882377921039659399",
+        "created_at": "2025-01-23T10:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T11:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882377921039659399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 124,
+              "expanded_url": "https://twitter.com/b_cat38324/status/1882375656891351546",
+              "start": 101,
+              "url": "https://t.co/XSL3tA9C4p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882377921039659399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882375656891351546",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死，从小就有不吃饭的好习惯，别说六个小时了，十六个小时不吃饭也是可以的（\n倒不是闹脾气什么的，只是纯粹不想吃或者说“没有想去吃”…\n直接后果就是Emma刚捡到我的时候只有110斤…然后就被喂肥球了（ https://t.co/XSL3tA9C4p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1882375656891351546",
+        "created_at": "2025-01-23T10:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T11:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1882375656891351546"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1882375656891351546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "东亚小孩小的时候。\n\n「我要自己关起来写六个小时作业，我一口饭不吃，我要把自己饿死，你们到时候就哭吧。」\n\n家里的爸妈：0人在意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3976,
+          "following_count": 221,
+          "like_count": 18881,
+          "listed_count": 11,
+          "media_count": 1471,
+          "tweet_count": 18405
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "一支黑猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13166,
+          "following_count": 183,
+          "like_count": 422,
+          "listed_count": 41,
+          "media_count": 76,
+          "tweet_count": 13148
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

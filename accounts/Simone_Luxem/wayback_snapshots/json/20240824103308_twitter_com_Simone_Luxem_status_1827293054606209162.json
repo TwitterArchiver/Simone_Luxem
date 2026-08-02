@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1827209043393573022",
+    "created_at": "2024-08-24T10:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-24T11:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1827293054606209162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1807632761064505344",
+          "start": 0,
+          "username": "Axzegned"
+        },
+        {
+          "end": 25,
+          "id": "1605471434163113984",
+          "start": 10,
+          "username": "1226678972Roro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1827293054606209162",
+    "in_reply_to_user_id": "1807632761064505344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1827274330885243049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Axzegned @1226678972Roro 因为人类的智力分布是符合正态分布的，总会有一些胎教的漏网之鱼的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1827209043393573022",
+        "created_at": "2024-08-24T10:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T11:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827293054606209162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1807632761064505344",
+              "start": 0,
+              "username": "Axzegned"
+            },
+            {
+              "end": 25,
+              "id": "1605471434163113984",
+              "start": 10,
+              "username": "1226678972Roro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827293054606209162",
+        "in_reply_to_user_id": "1807632761064505344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827274330885243049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Axzegned @1226678972Roro 因为人类的智力分布是符合正态分布的，总会有一些胎教的漏网之鱼的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807632761064505344",
+        "conversation_id": "1827209043393573022",
+        "created_at": "2024-08-24T09:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-24T10:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1827274330885243049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1605471434163113984",
+              "start": 0,
+              "username": "1226678972Roro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1827274330885243049",
+        "in_reply_to_user_id": "1605471434163113984",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1827209043393573022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1226678972Roro 你知道為什麼有人會反跨嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3655,
+          "following_count": 223,
+          "like_count": 16218,
+          "listed_count": 8,
+          "tweet_count": 16718
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-01T04:30:26.000Z",
+        "description": "",
+        "id": "1807632761064505344",
+        "name": "三生不渝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807633023011344384/Gc3WrIjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 38,
+          "like_count": 404,
+          "listed_count": 0,
+          "tweet_count": 99
+        },
+        "username": "Axzegned",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-21T07:53:21.000Z",
+        "description": "⚧transfem | 🏳️‍🌈多性恋魅魔 | neverland（惨惨的碎花厨）| 我只用「牠/它/ it」作为仇女incel、反跨老保、种族主义者、社达主义者的代词 | 世界上最可爱的小男孩@Whit_kuromi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 97,
+                "username": "Whit_kuromi"
+              }
+            ]
+          }
+        },
+        "id": "1605471434163113984",
+        "location": "哥谭市阿卡姆精神病院",
+        "name": "8⃣️9⃣️爆浆流苏6⃣️4⃣️食人鱼Roro🏳️‍⚧️🦈🎀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780115381883150336/FBFpyg9m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 441,
+          "like_count": 9637,
+          "listed_count": 1,
+          "tweet_count": 2915
+        },
+        "username": "1226678972Roro",
+        "verified": false
+      }
+    ]
+  }
+}

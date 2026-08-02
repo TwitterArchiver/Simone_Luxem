@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1967373769451958470",
+    "created_at": "2025-09-15T08:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T09:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967498815734423899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789184782825615360",
+          "start": 0,
+          "username": "nonsweetsuger"
+        },
+        {
+          "end": 31,
+          "id": "1255407520409100291",
+          "start": 15,
+          "username": "SustainablSyrup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967498815734423899",
+    "in_reply_to_user_id": "1789184782825615360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967457826206618090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonsweetsuger @SustainablSyrup 如果认真的说的话，女性尿道更短宽度更大，男性尿道长且宽度小，那根据伯努利原理，确实排出的液体的流速不一样，并且因为角度不一样，所以打击在平面上确实会声音不一样\n但实践的话极大的个体差异和不同厕所便池的材质和形状的细微差别使得根本不可能以此区分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1967373769451958470",
+        "created_at": "2025-09-15T08:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T09:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967498815734423899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789184782825615360",
+              "start": 0,
+              "username": "nonsweetsuger"
+            },
+            {
+              "end": 31,
+              "id": "1255407520409100291",
+              "start": 15,
+              "username": "SustainablSyrup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967498815734423899",
+        "in_reply_to_user_id": "1789184782825615360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967457826206618090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonsweetsuger @SustainablSyrup 如果认真的说的话，女性尿道更短宽度更大，男性尿道长且宽度小，那根据伯努利原理，确实排出的液体的流速不一样，并且因为角度不一样，所以打击在平面上确实会声音不一样\n但实践的话极大的个体差异和不同厕所便池的材质和形状的细微差别使得根本不可能以此区分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789184782825615360",
+        "conversation_id": "1967373769451958470",
+        "created_at": "2025-09-15T05:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T06:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967457826206618090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1255407520409100291",
+              "start": 0,
+              "username": "SustainablSyrup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967457826206618090",
+        "in_reply_to_user_id": "1255407520409100291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 885,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967373769451958470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SustainablSyrup 是怎么分得出女性化和男性化？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4578,
+          "following_count": 220,
+          "like_count": 22442,
+          "listed_count": 13,
+          "media_count": 1657,
+          "tweet_count": 20360
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "非二元生理男/叫姐姐加好感（喂）/随时跑路准建筑师/设计 艺术 性（是dom）/泛性恋/开放式关系，有男友兼小狗/ cptsd疗愈中/比较喜欢照顾人/不要对我使诈我不是新手/会做一些自己喜欢的设计/擦边看心情（?/寻找朋友中",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 666,
+          "following_count": 636,
+          "like_count": 21107,
+          "listed_count": 1,
+          "media_count": 434,
+          "tweet_count": 9304
+        },
+        "username": "nonsweetsuger",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-29T08:04:23.000Z",
+        "description": "Fortification | Image| Endurance | Grocery Store | Coffee | Dream Consultant",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ruoxiwangsussyr.com",
+                "end": 23,
+                "expanded_url": "http://ruoxiwangsussyr.com",
+                "start": 0,
+                "url": "https://t.co/LiW8SKeMgI"
+              }
+            ]
+          }
+        },
+        "id": "1255407520409100291",
+        "location": "Los Angeles, CA",
+        "name": "SusSyrup",
+        "pinned_tweet_id": "1965659652844302354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963221766714925056/KXSX6hr4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 1313,
+          "like_count": 5602,
+          "listed_count": 6,
+          "media_count": 178,
+          "tweet_count": 4239
+        },
+        "url": "https://t.co/LiW8SKeMgI",
+        "username": "SustainablSyrup",
+        "verified": false
+      }
+    ]
+  }
+}

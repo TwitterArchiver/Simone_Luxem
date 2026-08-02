@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1842227356078911492",
+    "created_at": "2024-10-04T15:36:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-04T16:36:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1842227356078911492"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yingxue2074780…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/yingxue20747802/status/1842217764641214616",
+          "start": 86,
+          "url": "https://t.co/U1smdmBWSf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1842227356078911492",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1842217764641214616",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "认真的讲我一直有这个提议\n对于一些难以解开的宿怨，不如用仪式性决斗来解决，武器场地自己决定，不许用远程武器，找几个其它人见证，见血就停手，打完无论之前什么怨恨都一笔勾销… https://t.co/U1smdmBWSf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1842227356078911492",
+        "created_at": "2024-10-04T15:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T16:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842227356078911492"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yingxue2074780…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/yingxue20747802/status/1842217764641214616",
+              "start": 86,
+              "url": "https://t.co/U1smdmBWSf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842227356078911492",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1842217764641214616",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "认真的讲我一直有这个提议\n对于一些难以解开的宿怨，不如用仪式性决斗来解决，武器场地自己决定，不许用远程武器，找几个其它人见证，见血就停手，打完无论之前什么怨恨都一笔勾销… https://t.co/U1smdmBWSf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1842217761625473025"
+          ]
+        },
+        "author_id": "1652582280974708736",
+        "conversation_id": "1842217764641214616",
+        "created_at": "2024-10-04T14:58:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-04T15:58:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1842217764641214616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VWCetBqE5J",
+              "end": 86,
+              "expanded_url": "https://x.com/yingxue20747802/status/1842217764641214616/photo/1",
+              "media_key": "3_1842217761625473025",
+              "start": 63,
+              "url": "https://t.co/VWCetBqE5J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1842217764641214616",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 580,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然看大家吵架挺解压很快乐……但语言的批判始终不如武器的批判……所以，要不开直播打一架？告诉对方话语权出在拳头里（胡言乱语） https://t.co/VWCetBqE5J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3757,
+          "following_count": 223,
+          "like_count": 17299,
+          "listed_count": 9,
+          "tweet_count": 17292
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-30T07:55:02.000Z",
+        "description": "OvO？！这里是简介，我可以打广告吗？（广告位招租）←假嘟~就算你给我钱也不会打广告喔（除非你给的太多啦！）\n\nINFP-A🦋 │ 文学少女📖 │ les-ppl │ 退役魔法少女🪄（尊嘟）│ 美食生活岁静日常推 │ 聪明的笨蛋 │ 愿我，也愿你能一而再，再而三，三而不竭，千次万次毫不犹豫地救自己于这世间水火之中",
+        "id": "1652582280974708736",
+        "location": "君士坦丁堡",
+        "name": "樱雪（可是我好困） 🍜🍔🍱🍇🍰🍒🍓🍟🍧",
+        "pinned_tweet_id": "1825545392735600913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787758645188689920/M7T8Ew8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23463,
+          "following_count": 333,
+          "like_count": 56584,
+          "listed_count": 56,
+          "tweet_count": 9927
+        },
+        "username": "yingxue20747802",
+        "verified": true
+      }
+    ]
+  }
+}

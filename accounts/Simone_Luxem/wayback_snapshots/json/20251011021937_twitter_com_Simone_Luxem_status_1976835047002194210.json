@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1976835047002194210",
+    "created_at": "2025-10-11T02:19:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T03:19:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976835047002194210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wangyihannn/st…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/wangyihannn/status/1976694847848517681",
+          "start": 51,
+          "url": "https://t.co/L4hfhW050D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976835047002194210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976694847848517681",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇呜呜呜哇超级感动看到这个…\n假如有一天我有学生什么的…会不会也有值得“以毕生声誉担保”的学生呢…. https://t.co/L4hfhW050D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 907,
+        "media_key": "3_1976694844270821382",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G26hfOYbwAYhpdK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1976835047002194210",
+        "created_at": "2025-10-11T02:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T03:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976835047002194210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wangyihannn/st…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/wangyihannn/status/1976694847848517681",
+              "start": 51,
+              "url": "https://t.co/L4hfhW050D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976835047002194210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976694847848517681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇呜呜呜哇超级感动看到这个…\n假如有一天我有学生什么的…会不会也有值得“以毕生声誉担保”的学生呢…. https://t.co/L4hfhW050D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976694844270821382"
+          ]
+        },
+        "author_id": "1973748660975587328",
+        "conversation_id": "1976694847848517681",
+        "created_at": "2025-10-10T17:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T18:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976694847848517681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WEZEdvdIBo",
+              "end": 33,
+              "expanded_url": "https://x.com/WANGYIHANNN/status/1976694847848517681/photo/1",
+              "media_key": "3_1976694844270821382",
+              "start": 10,
+              "url": "https://t.co/WEZEdvdIBo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976694847848517681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 423,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "得遇良师，何其有幸 https://t.co/WEZEdvdIBo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4653,
+          "following_count": 219,
+          "like_count": 22589,
+          "listed_count": 13,
+          "media_count": 1671,
+          "tweet_count": 20517
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-02T13:55:36.000Z",
+        "description": "19yr 现居天津 重度双相 | 生活日常/银行卡/文学 | 书库https://t.co/6agESYwSsn | 把这份善意传递下去 我会帮助更多的人 | 願い:日本国籍を取得する",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Z_libry",
+                "end": 56,
+                "expanded_url": "https://t.me/Z_libry",
+                "start": 33,
+                "url": "https://t.co/6agESYwSsn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/nxpcNs5",
+                "end": 23,
+                "expanded_url": "https://b23.tv/nxpcNs5",
+                "start": 0,
+                "url": "https://t.co/4T3aEBOZuN"
+              }
+            ]
+          }
+        },
+        "id": "1973748660975587328",
+        "location": "Macau",
+        "name": "王艺菡💳",
+        "pinned_tweet_id": "1975445341970571687",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976695266083573760/5ebeXSwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 84,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 104
+        },
+        "url": "https://t.co/4T3aEBOZuN",
+        "username": "WANGYIHANNN",
+        "verified": false
+      }
+    ]
+  }
+}

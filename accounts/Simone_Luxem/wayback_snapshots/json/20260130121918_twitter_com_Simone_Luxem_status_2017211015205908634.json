@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2016782436651442664",
+    "created_at": "2026-01-30T12:19:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T13:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017211015205908634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "779799806",
+          "start": 0,
+          "username": "catmangox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017211015205908634",
+    "in_reply_to_user_id": "779799806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016782436651442664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@catmangox 神经病，头次见到开店别人给你送钱你不要的\n那只好祝你大卖了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2016782432855547904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_0M7_OaYAAOoWg.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2016782436651442664",
+        "created_at": "2026-01-30T12:19:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T13:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017211015205908634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "779799806",
+              "start": 0,
+              "username": "catmangox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017211015205908634",
+        "in_reply_to_user_id": "779799806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016782436651442664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@catmangox 神经病，头次见到开店别人给你送钱你不要的\n那只好祝你大卖了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016782432855547904"
+          ]
+        },
+        "author_id": "779799806",
+        "conversation_id": "2016782436651442664",
+        "created_at": "2026-01-29T07:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T08:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016782436651442664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bd3nr3jVH7",
+              "end": 104,
+              "expanded_url": "https://x.com/catmangox/status/2016782436651442664/photo/1",
+              "media_key": "3_2016782432855547904",
+              "start": 81,
+              "url": "https://t.co/Bd3nr3jVH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016782436651442664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 32834,
+          "like_count": 126,
+          "quote_count": 3,
+          "reply_count": 45,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Booking又在给我发政治正确营销了，要求我们的酒店接受LGBT同性恋住客。我对所有住客都是一视同仁的，LGBT付了钱就可以入住，但是要我给他们打折肯定不行。 https://t.co/Bd3nr3jVH7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6068,
+          "following_count": 216,
+          "like_count": 23601,
+          "listed_count": 18,
+          "media_count": 1739,
+          "tweet_count": 21177
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-25T07:31:56.000Z",
+        "description": "人在陆家嘴，已经肉身移民法国和日本。海带级金融从业人员，业余金融分析师，专业母猫配种。V2EX老成员，刚刚还完贷款，现在是大阪人！现已任职日本创意初创房企京阪住業株式会社CEO。物业购买请到：https://t.co/F3783PGYtc 或直接DM发信息。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "keihan.co",
+                "end": 119,
+                "expanded_url": "http://keihan.co",
+                "start": 96,
+                "url": "https://t.co/F3783PGYtc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catman.app",
+                "end": 23,
+                "expanded_url": "https://catman.app",
+                "start": 0,
+                "url": "https://t.co/8lnqIC4gYB"
+              }
+            ]
+          }
+        },
+        "id": "779799806",
+        "location": "Osaka, Japan",
+        "name": "猫总",
+        "pinned_tweet_id": "1986667315677856067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/999627195264847874/OIC20YSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183821,
+          "following_count": 1835,
+          "like_count": 50049,
+          "listed_count": 995,
+          "media_count": 6691,
+          "tweet_count": 61566
+        },
+        "url": "https://t.co/8lnqIC4gYB",
+        "username": "catmangox",
+        "verified": true
+      }
+    ]
+  }
+}

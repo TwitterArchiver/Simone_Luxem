@@ -1,0 +1,461 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "1992893298760126660",
+    "created_at": "2025-11-24T09:49:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T10:49:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1992893298760126660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/subanxia1120/s…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/subanxia1120/status/1992887119539556406",
+          "start": 130,
+          "url": "https://t.co/reWCsbbupA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992893298760126660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992887119539556406",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽这一串推我看着都犯ptsd了…\n真是从小到大我对医院所有的负面印象都来自其它人在医院的经历，或其它人转述的别人在医院的经历…\n但已经足以让我…就…哪天我面临住院的情况还是直接掐死我算了吧…或者我自己牙齿后面藏氰化物胶囊也行（\n就…这种…东西…怎么能存在… https://t.co/reWCsbbupA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1992893298760126660",
+        "created_at": "2025-11-24T09:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992893298760126660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/subanxia1120/s…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/subanxia1120/status/1992887119539556406",
+              "start": 130,
+              "url": "https://t.co/reWCsbbupA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992893298760126660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992887119539556406",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽这一串推我看着都犯ptsd了…\n真是从小到大我对医院所有的负面印象都来自其它人在医院的经历，或其它人转述的别人在医院的经历…\n但已经足以让我…就…哪天我面临住院的情况还是直接掐死我算了吧…或者我自己牙齿后面藏氰化物胶囊也行（\n就…这种…东西…怎么能存在… https://t.co/reWCsbbupA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "957544663275028481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "1992887119539556406",
+        "created_at": "2025-11-24T09:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T10:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992887119539556406"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1992887119539556406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经明确告知我要出院\n医生不允许我出院\n哪怕我想请假三个小时出门上网吧吃kfc\n我已经忍耐的咬牙切齿\n告诉我要出院\n无果。\n我已经发疯已经大喊大叫\n我他妈哭着住院的\n来看病的时候我就和医生说我不住院，\n我哭着说我不住院\n我忍耐五天了，无任何好转甚至变差\n我要求回家无果甚至要一两个月\n我无人权"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5796,
+          "following_count": 215,
+          "like_count": 22976,
+          "listed_count": 18,
+          "media_count": 1702,
+          "tweet_count": 20830
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-28T09:23:32.000Z",
+        "description": "我居然是苏半夏🦋丨“我觉得现在的人生，就很幸福了。”好友🚪50丨性转幻想频道：https://t.co/AGPNZuMX3L丨SRS手术分享https://t.co/HLSHXOnt8E要是我们能永远留在夏天里，就好了。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/MuranAG",
+                "end": 62,
+                "expanded_url": "https://t.me/MuranAG",
+                "start": 39,
+                "url": "https://t.co/AGPNZuMX3L"
+              },
+              {
+                "display_url": "t.me/muranSRSinpai",
+                "end": 93,
+                "expanded_url": "https://t.me/muranSRSinpai",
+                "start": 70,
+                "url": "https://t.co/HLSHXOnt8E"
+              }
+            ]
+          }
+        },
+        "id": "957544663275028481",
+        "location": "Hong Kong",
+        "name": "苒🦊木狐",
+        "pinned_tweet_id": "1924371810130518218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1433839553748430851/2UH9XRNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18245,
+          "following_count": 850,
+          "like_count": 6112,
+          "listed_count": 55,
+          "media_count": 698,
+          "tweet_count": 4462
+        },
+        "username": "SuBanXia1120",
+        "verified": true
+      }
+    ]
+  }
+}

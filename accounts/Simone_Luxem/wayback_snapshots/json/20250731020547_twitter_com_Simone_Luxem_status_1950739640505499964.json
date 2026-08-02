@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1950739640505499964",
+    "created_at": "2025-07-31T02:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T03:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1950739640505499964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cyansoul2/stat…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/cyansoul2/status/1950632301723087203",
+          "start": 20,
+          "url": "https://t.co/Xp4trNdtOK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950739640505499964",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950632301723087203",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我妈说我没有成为居里夫人是吃激素吃的… https://t.co/Xp4trNdtOK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1950739640505499964",
+        "created_at": "2025-07-31T02:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T03:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950739640505499964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cyansoul2/stat…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/cyansoul2/status/1950632301723087203",
+              "start": 20,
+              "url": "https://t.co/Xp4trNdtOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950739640505499964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950632301723087203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈说我没有成为居里夫人是吃激素吃的… https://t.co/Xp4trNdtOK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487626553009721355",
+        "conversation_id": "1950632301723087203",
+        "created_at": "2025-07-30T18:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T19:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950632301723087203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Billowblock/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Billowblock/status/1949958512450183647",
+              "start": 21,
+              "url": "https://t.co/D8Fbq6cZSp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950632301723087203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949958512450183647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我妈说我牙疼是骨质疏松，吃雌激素吃的。。 https://t.co/D8Fbq6cZSp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4532,
+          "following_count": 220,
+          "like_count": 21738,
+          "listed_count": 13,
+          "media_count": 1648,
+          "tweet_count": 20070
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T03:19:50.000Z",
+        "description": "置换/对象@GuiMengNya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "GuiMengNya"
+              }
+            ]
+          }
+        },
+        "id": "1487626553009721355",
+        "location": "泡泡",
+        "name": "cyansoul01号机",
+        "pinned_tweet_id": "1919595818790596849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941494643952103424/pSkbHRd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1080,
+          "following_count": 1125,
+          "like_count": 16556,
+          "listed_count": 2,
+          "media_count": 377,
+          "tweet_count": 4950
+        },
+        "username": "cyansoul2",
+        "verified": false
+      }
+    ]
+  }
+}

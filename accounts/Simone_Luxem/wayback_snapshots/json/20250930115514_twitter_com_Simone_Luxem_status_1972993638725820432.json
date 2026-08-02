@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1972993638725820432",
+    "created_at": "2025-09-30T11:55:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T12:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972993638725820432"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/skywt2003/stat…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/skywt2003/status/1971128766958379063",
+          "start": 43,
+          "url": "https://t.co/AcV32vRBSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972993638725820432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971128766958379063",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为你可以试试每个人征收固定税额，换句话说，人头税\n然后你就会发现你挣不到那一个亿了 https://t.co/AcV32vRBSB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1972993638725820432",
+        "created_at": "2025-09-30T11:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T12:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972993638725820432"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skywt2003/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/skywt2003/status/1971128766958379063",
+              "start": 43,
+              "url": "https://t.co/AcV32vRBSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972993638725820432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971128766958379063",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为你可以试试每个人征收固定税额，换句话说，人头税\n然后你就会发现你挣不到那一个亿了 https://t.co/AcV32vRBSB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "841275465348263936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1486271512655003652",
+              "name": "Web3"
+            }
+          }
+        ],
+        "conversation_id": "1971128766958379063",
+        "created_at": "2025-09-25T08:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T09:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971128766958379063"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/skywt2003/stat…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/skywt2003/status/1971011547024720131",
+              "start": 104,
+              "url": "https://t.co/GiXWNL4feK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971128766958379063",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 12413,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971011547024720131",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "书中一个有意思的观点：\n按比例征收所得税这些，真的很不合理呀。\n大家都享受差不多的公共服务，为什么我挣得多就要多交钱？\n\n如果我打一通电话谈下了一亿元的交易，电信公司难道能按照 1% 的标准收我一百万话费？ https://t.co/GiXWNL4feK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621,
+          "following_count": 219,
+          "like_count": 22502,
+          "listed_count": 12,
+          "media_count": 1663,
+          "tweet_count": 20447
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-13T13:11:15.000Z",
+        "description": "🧑‍💻 Software Engineer / 🔥 Hacker & Painter / 💼 FE Dev at @BytedanceTalk / 🎓 22 yo / ✨ INFJ / 🏳️‍🌈 he/him / 🌍 zh/en / ☕️ open to coffee chats / not by AI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "BytedanceTalk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skywt.cn",
+                "end": 23,
+                "expanded_url": "https://skywt.cn/",
+                "start": 0,
+                "url": "https://t.co/VgDWX345PG"
+              }
+            ]
+          }
+        },
+        "id": "841275465348263936",
+        "location": "Hangzhou",
+        "name": "SkyWT",
+        "pinned_tweet_id": "1968191640138588648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1414861771823738886/_hvY0heR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6036,
+          "following_count": 1291,
+          "like_count": 15457,
+          "listed_count": 33,
+          "media_count": 270,
+          "tweet_count": 1518
+        },
+        "url": "https://t.co/VgDWX345PG",
+        "username": "skywt2003",
+        "verified": true
+      }
+    ]
+  }
+}

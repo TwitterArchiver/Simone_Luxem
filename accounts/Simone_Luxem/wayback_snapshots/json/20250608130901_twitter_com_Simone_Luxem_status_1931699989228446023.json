@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1931699989228446023",
+    "created_at": "2025-06-08T13:09:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T14:09:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1931699989228446023"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1931699989228446023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“好想死”，想要如此说\n可自己实际上不会去死，也不想被人安慰\n即使不借助药物，疼痛超过了临界后，也会让人晕过去的，对不对，对不对，\n所以什么时候自己才可以永远沉睡于时间不再流动的胶囊之中啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1931699989228446023",
+        "created_at": "2025-06-08T13:09:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T14:09:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931699989228446023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1931699989228446023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“好想死”，想要如此说\n可自己实际上不会去死，也不想被人安慰\n即使不借助药物，疼痛超过了临界后，也会让人晕过去的，对不对，对不对，\n所以什么时候自己才可以永远沉睡于时间不再流动的胶囊之中啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4263,
+          "following_count": 220,
+          "like_count": 20491,
+          "listed_count": 12,
+          "media_count": 1577,
+          "tweet_count": 19521
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

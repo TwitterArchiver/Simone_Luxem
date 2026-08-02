@@ -1,0 +1,115 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1894163367733932422",
+    "created_at": "2025-02-24T23:11:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-25T00:11:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894163367733932422"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1894163367733932422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刚刚自己情绪有些崩，或者可能精神病犯了\n和妈妈聊了会，被她（以她的方式）安慰了下\n突然间就很有冲动，想要问她可不可以相信我，相信我没有做任何愧对我良知的事情，无论谁给我安插一个怎样的罪名，无论用多大的声音朝多少人言之凿凿地叫嚷多少遍，无论是要驱逐我监禁我吊死我，（1/2）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1894163367733932422",
+        "created_at": "2025-02-24T23:11:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-25T00:11:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894163367733932422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1894163367733932422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚刚自己情绪有些崩，或者可能精神病犯了\n和妈妈聊了会，被她（以她的方式）安慰了下\n突然间就很有冲动，想要问她可不可以相信我，相信我没有做任何愧对我良知的事情，无论谁给我安插一个怎样的罪名，无论用多大的声音朝多少人言之凿凿地叫嚷多少遍，无论是要驱逐我监禁我吊死我，（1/2）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4038,
+          "following_count": 222,
+          "like_count": 19398,
+          "listed_count": 12,
+          "media_count": 1489,
+          "tweet_count": 18654
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

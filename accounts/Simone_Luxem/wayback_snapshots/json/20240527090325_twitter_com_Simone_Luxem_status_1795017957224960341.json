@@ -1,0 +1,106 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1795017957224960341",
+    "created_at": "2024-05-27T09:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T10:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1795017957224960341"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1795017957224960341",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这次小组成员有一位对我总是“dude”，搞得自己有点讨厌\n后来发现其实是一个还很不错的人，而且似乎是对所有人都dude，所以大概不是在故意misgender我…\n有点烦…不知道要不要/要怎么跟它说明白其实有些人可能不喜欢被dude的…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1795017957224960341",
+        "created_at": "2024-05-27T09:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T10:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1795017957224960341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1795017957224960341",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次小组成员有一位对我总是“dude”，搞得自己有点讨厌\n后来发现其实是一个还很不错的人，而且似乎是对所有人都dude，所以大概不是在故意misgender我…\n有点烦…不知道要不要/要怎么跟它说明白其实有些人可能不喜欢被dude的…."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3195,
+          "following_count": 218,
+          "like_count": 13637,
+          "listed_count": 11,
+          "tweet_count": 15283
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

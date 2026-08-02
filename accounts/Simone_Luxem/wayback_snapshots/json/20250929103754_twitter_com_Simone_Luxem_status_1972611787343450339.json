@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1972611787343450339",
+    "created_at": "2025-09-29T10:37:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T11:37:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972611787343450339"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1972611787343450339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己对于被“非常细致地嘱咐每件事情的每个细节”是有很强的羞耻感的吧，特别是这个人是我妈的时候…\n一方面是因为过大的观念差异让自己刻意地不想要和它之间过于亲近，历史和逻辑都证明了拉远距离对双方都好；另一方面是自己好像在这种情况下反而会不由自主地去听从对方的话，而这是自己所害怕的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1972611787343450339",
+        "created_at": "2025-09-29T10:37:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T11:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972611787343450339"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972611787343450339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己对于被“非常细致地嘱咐每件事情的每个细节”是有很强的羞耻感的吧，特别是这个人是我妈的时候…\n一方面是因为过大的观念差异让自己刻意地不想要和它之间过于亲近，历史和逻辑都证明了拉远距离对双方都好；另一方面是自己好像在这种情况下反而会不由自主地去听从对方的话，而这是自己所害怕的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622,
+          "following_count": 220,
+          "like_count": 22497,
+          "listed_count": 12,
+          "media_count": 1663,
+          "tweet_count": 20440
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

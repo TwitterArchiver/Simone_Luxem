@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1981611562126459379",
+    "created_at": "2025-10-25T03:20:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T04:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981923809864413560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "837852476929781761",
+          "start": 0,
+          "username": "cn_LittleYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981923809864413560",
+    "in_reply_to_user_id": "837852476929781761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981611562126459379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cn_LittleYu 突然觉得在阿里实习应该起名“阿里不花”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1981611559508934656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4AZNt9WgAASrz9.jpg",
+        "width": 1489
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1981611562126459379",
+        "created_at": "2025-10-25T03:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T04:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981923809864413560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "837852476929781761",
+              "start": 0,
+              "username": "cn_LittleYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981923809864413560",
+        "in_reply_to_user_id": "837852476929781761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981611562126459379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cn_LittleYu 突然觉得在阿里实习应该起名“阿里不花”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981611559508934656"
+          ]
+        },
+        "author_id": "837852476929781761",
+        "conversation_id": "1981611562126459379",
+        "created_at": "2025-10-24T06:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T07:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981611562126459379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fXJH5cfjCj",
+              "end": 76,
+              "expanded_url": "https://x.com/cn_LittleYu/status/1981611562126459379/photo/1",
+              "media_key": "3_1981611559508934656",
+              "start": 53,
+              "url": "https://t.co/fXJH5cfjCj"
+            },
+            {
+              "display_url": "x.com/imwsl90/status…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/imwsl90/status/1981550142517104996",
+              "start": 77,
+              "url": "https://t.co/cyPAeamxyQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981611562126459379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18251,
+          "like_count": 91,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981550142517104996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "同学在阿里实习，花名起「马猴烧酒」的「马猴」两字被 HR 打回了。\n\n理由是「马猴」感觉是在暗示某位（笑 https://t.co/fXJH5cfjCj https://t.co/cyPAeamxyQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5579,
+          "following_count": 215,
+          "like_count": 22779,
+          "listed_count": 15,
+          "media_count": 1682,
+          "tweet_count": 20646
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-04T02:29:31.000Z",
+        "description": "只会端茶送水和电脑开关机的混子程序员 / 不肥不宅的二刺螈 / 买不起Supreme的popping dancer / 脱离高级趣味的现充 / おじさん構文 😁❗",
+        "id": "837852476929781761",
+        "location": "西安市雁塔区大雁塔701室",
+        "name": "poppinzhang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950633997794529280/i4dNa0Bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 187,
+          "like_count": 2698,
+          "listed_count": 13,
+          "media_count": 785,
+          "tweet_count": 3412
+        },
+        "username": "cn_LittleYu",
+        "verified": false
+      }
+    ]
+  }
+}

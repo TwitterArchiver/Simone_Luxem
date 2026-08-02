@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1839509266668880094",
+    "created_at": "2024-09-27T11:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-27T12:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1839624532904092097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1374034349700444161",
+          "start": 0,
+          "username": "pizyj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1839624532904092097",
+    "in_reply_to_user_id": "1374034349700444161",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1839509266668880094",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pizyj 我的经验是不会…至少我自己不会"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1839509266668880094",
+        "created_at": "2024-09-27T11:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T12:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1839624532904092097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1374034349700444161",
+              "start": 0,
+              "username": "pizyj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839624532904092097",
+        "in_reply_to_user_id": "1374034349700444161",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839509266668880094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pizyj 我的经验是不会…至少我自己不会"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374034349700444161",
+        "conversation_id": "1839509266668880094",
+        "created_at": "2024-09-27T03:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-27T04:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1839509266668880094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pizyj/status/1…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/pizyj/status/1839496326339604945",
+              "start": 34,
+              "url": "https://t.co/AdSnz4wG9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1839509266668880094",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 824,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1839496326339604945",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "背铐会头晕目眩，是正常的吗？\n平衡感变差\n还是因为没了眼镜看不清了 https://t.co/AdSnz4wG9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3751,
+          "following_count": 224,
+          "like_count": 17061,
+          "listed_count": 9,
+          "tweet_count": 17193
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T16:24:59.000Z",
+        "description": "⬅️⬆️不文明的物种，又丑又凶，打人，还抢东西，坏brat，不是abdl，内有恶🐱@NekomiyaKoharu ,请勿靠近😈😈😈III 个人梯子https://t.co/t8FCqn3tNZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 41,
+                "username": "NekomiyaKoharu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "usr.truda01.xyz/#/register?cod…",
+                "end": 96,
+                "expanded_url": "https://usr.truda01.xyz/#/register?code=Y11CHrB0",
+                "start": 73,
+                "url": "https://t.co/t8FCqn3tNZ"
+              }
+            ]
+          }
+        },
+        "id": "1374034349700444161",
+        "location": "猫罐头",
+        "name": "喵小白量子态核动力炉子",
+        "pinned_tweet_id": "1828235383861322117",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801534219031822337/VnO6zTX5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54346,
+          "following_count": 5100,
+          "like_count": 38986,
+          "listed_count": 97,
+          "tweet_count": 46180
+        },
+        "username": "pizyj",
+        "verified": false
+      }
+    ]
+  }
+}

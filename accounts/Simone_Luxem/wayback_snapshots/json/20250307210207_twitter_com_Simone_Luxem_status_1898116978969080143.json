@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1898116978969080143",
+    "created_at": "2025-03-07T21:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T22:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1898116978969080143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sauricat/statu…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/sauricat/status/1898111410535907566",
+          "start": 46,
+          "url": "https://t.co/Sw6LEsfz6A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898116978969080143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898111410535907566",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我其实虽然完全不知道这两个人是谁，但是总觉得自己符合这两个描述，所以觉得自己是双倍的糟糕… https://t.co/Sw6LEsfz6A"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1898116978969080143",
+        "created_at": "2025-03-07T21:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T22:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898116978969080143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sauricat/statu…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/sauricat/status/1898111410535907566",
+              "start": 46,
+              "url": "https://t.co/Sw6LEsfz6A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898116978969080143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898111410535907566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我其实虽然完全不知道这两个人是谁，但是总觉得自己符合这两个描述，所以觉得自己是双倍的糟糕… https://t.co/Sw6LEsfz6A"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1459453832",
+        "conversation_id": "1898111410535907566",
+        "created_at": "2025-03-07T20:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T21:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898111410535907566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/amber_toffee/status/1898079696866492453",
+              "start": 52,
+              "url": "https://t.co/2XpMYQxYHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898111410535907566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898079696866492453",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我其实在「虽然经常营造和谐的氛围，但从未走进过队友的内心，无法解决队友遭遇的问题」方面非常能代长崎素世 https://t.co/2XpMYQxYHK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4072,
+          "following_count": 222,
+          "like_count": 19515,
+          "listed_count": 12,
+          "media_count": 1499,
+          "tweet_count": 18747
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2013-05-26T11:46:49.000Z",
+        "description": "🏳️‍🌈 🏳️‍⚧️ (她/伊/ta, she/they) bluesky 同名/生而骄傲/主业是欧陆哲学研究生/One Among Us/跨性别社群服务联系 TG saurica417\n我相信所有逝去的终将回来。我相信所有离开都只是暂别。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sauri.ca",
+                "end": 23,
+                "expanded_url": "https://sauri.ca",
+                "start": 0,
+                "url": "https://t.co/Q8ag0EHWU5"
+              }
+            ]
+          }
+        },
+        "id": "1459453832",
+        "location": "Toronto",
+        "name": "北雁书 Shu",
+        "pinned_tweet_id": "1879406089600704784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870532559320350720/efFFCUG7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11035,
+          "following_count": 905,
+          "like_count": 34986,
+          "listed_count": 32,
+          "media_count": 574,
+          "tweet_count": 11380
+        },
+        "url": "https://t.co/Q8ag0EHWU5",
+        "username": "sauricat",
+        "verified": false
+      }
+    ]
+  }
+}

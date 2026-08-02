@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1984680131991126039",
+    "created_at": "2025-11-01T18:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T19:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984684297480258004"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1984684297480258004",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984680131991126039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可是自己真的没有把自己视为比其它人任何意义上“更高等”的，而只是真的认为其它人可能没有自己的幸运…\n…真的是这样吗…可自己又怎样保证自己对自己是诚实的呢？如果自己不先觉性选择相信自己的诚实，站在第三者的视角，那自己任何辩解都是苍白无力的…\n就像自己永远说服不了自己“自己努力了”一样…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1984680131991126039",
+        "created_at": "2025-11-01T18:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T19:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984684297480258004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984684297480258004",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984680131991126039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可是自己真的没有把自己视为比其它人任何意义上“更高等”的，而只是真的认为其它人可能没有自己的幸运…\n…真的是这样吗…可自己又怎样保证自己对自己是诚实的呢？如果自己不先觉性选择相信自己的诚实，站在第三者的视角，那自己任何辩解都是苍白无力的…\n就像自己永远说服不了自己“自己努力了”一样…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1984680131991126039",
+        "created_at": "2025-11-01T17:53:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T18:53:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984680131991126039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984680131991126039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自觉确实是很多方面挺privileged的吧，所以可能有时候，也活该挨骂吧\n但仍然不觉得自己所视为美好的重要的事物，或者说自己的价值观，仅是因为自身privilege才得以形成\n因此会一面对大部分人抱有比对自身更大的宽容，一面仍然会鄙视一些人\n或许这也是自己傲慢的体现吗…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5649,
+          "following_count": 215,
+          "like_count": 22849,
+          "listed_count": 18,
+          "media_count": 1685,
+          "tweet_count": 20710
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

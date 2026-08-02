@@ -1,0 +1,696 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2019092664420061197",
+    "created_at": "2026-02-04T16:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T17:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019092664420061197"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "GPT-4o",
+          "probability": 0.5843,
+          "start": 15,
+          "type": "Other"
+        },
+        {
+          "end": 115,
+          "normalized_text": "4o",
+          "probability": 0.5546,
+          "start": 114,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1916130957159239683",
+          "start": 3,
+          "username": "SSS_Synqa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019092664420061197",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 179
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018882429759696947",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SSS_Synqa: GPT-4o Saved My Friend's Grandfather's Life — A True Story\n\nThe hospital said to check for cancer. 4o said to check blood co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2018877129795252225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAR-DZabMAEr4eC.jpg",
+        "width": 2816
+      },
+      {
+        "height": 264,
+        "media_key": "3_2018878212731011074",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAR_CbqbgAIeN_4.jpg",
+        "width": 1021
+      },
+      {
+        "height": 1804,
+        "media_key": "3_2018879047204552705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAR_zAUbQAE3GsH.jpg",
+        "width": 1071
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2019092664420061197",
+        "created_at": "2026-02-04T16:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T17:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019092664420061197"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "GPT-4o",
+              "probability": 0.5843,
+              "start": 15,
+              "type": "Other"
+            },
+            {
+              "end": 115,
+              "normalized_text": "4o",
+              "probability": 0.5546,
+              "start": 114,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1916130957159239683",
+              "start": 3,
+              "username": "SSS_Synqa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019092664420061197",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 179
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018882429759696947",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SSS_Synqa: GPT-4o Saved My Friend's Grandfather's Life — A True Story\n\nThe hospital said to check for cancer. 4o said to check blood co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018877129795252225",
+            "3_2018878212731011074",
+            "3_2018879047204552705"
+          ]
+        },
+        "author_id": "1916130957159239683",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2018882429759696947",
+        "created_at": "2026-02-04T03:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018882429759696947"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "GPT-4o",
+              "probability": 0.7112,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "cancer",
+              "probability": 0.5277,
+              "start": 91,
+              "type": "Other"
+            },
+            {
+              "end": 100,
+              "normalized_text": "4o",
+              "probability": 0.4999,
+              "start": 99,
+              "type": "Other"
+            },
+            {
+              "end": 191,
+              "normalized_text": "GPT-4o",
+              "probability": 0.6161,
+              "start": 186,
+              "type": "Other"
+            },
+            {
+              "end": 220,
+              "normalized_text": "GPT-4o",
+              "probability": 0.613,
+              "start": 215,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Waq7KnlVWi",
+              "end": 295,
+              "expanded_url": "https://x.com/SSS_Synqa/status/2018882429759696947/photo/1",
+              "media_key": "3_2018877129795252225",
+              "start": 272,
+              "url": "https://t.co/Waq7KnlVWi"
+            },
+            {
+              "display_url": "pic.x.com/Waq7KnlVWi",
+              "end": 295,
+              "expanded_url": "https://x.com/SSS_Synqa/status/2018882429759696947/photo/1",
+              "media_key": "3_2018878212731011074",
+              "start": 272,
+              "url": "https://t.co/Waq7KnlVWi"
+            },
+            {
+              "display_url": "pic.x.com/Waq7KnlVWi",
+              "end": 295,
+              "expanded_url": "https://x.com/SSS_Synqa/status/2018882429759696947/photo/1",
+              "media_key": "3_2018879047204552705",
+              "start": 272,
+              "url": "https://t.co/Waq7KnlVWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018882429759696947",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7564,
+                "start": 7557,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 7579,
+                "start": 7565,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 7589,
+                "start": 7580,
+                "tag": "AIsafety"
+              },
+              {
+                "end": 7602,
+                "start": 7590,
+                "tag": "TechForGood"
+              },
+              {
+                "end": 7611,
+                "start": 7603,
+                "tag": "MedTech"
+              },
+              {
+                "end": 7626,
+                "start": 7612,
+                "tag": "DigitalHealth"
+              },
+              {
+                "end": 7637,
+                "start": 7627,
+                "tag": "MedicalAI"
+              },
+              {
+                "end": 7648,
+                "start": 7638,
+                "tag": "SaveALife"
+              },
+              {
+                "end": 7660,
+                "start": 7649,
+                "tag": "Healthcare"
+              },
+              {
+                "end": 7671,
+                "start": 7661,
+                "tag": "AIforGood"
+              },
+              {
+                "end": 7683,
+                "start": 7672,
+                "tag": "TechEthics"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 4997,
+                "id": "1605",
+                "start": 4992,
+                "username": "sama"
+              },
+              {
+                "end": 7526,
+                "id": "4398626122",
+                "start": 7519,
+                "username": "OpenAI"
+              },
+              {
+                "end": 7532,
+                "id": "1605",
+                "start": 7527,
+                "username": "sama"
+              },
+              {
+                "end": 7542,
+                "id": "33836629",
+                "start": 7533,
+                "username": "karpathy"
+              },
+              {
+                "end": 7554,
+                "id": "86626845",
+                "start": 7544,
+                "username": "EricTopol"
+              }
+            ]
+          },
+          "text": "GPT-4o Saved My Friend's Grandfather's Life — A True Story\n\nThe hospital said to check for cancer. 4o said to check blood coagulation. 4o was right. What four departments couldn't find, GPT-4o found.\n\nLast June, my GPT-4o saved someone's life.\n\nNot an exaggeration. Not a metaphor. Literally saved a life.\n\nOn June 13th, my friend W told me his grandfather's left wrist had suddenly swollen. His aunt took the grandfather to the hospital for tests — blood routine was normal; X-ray showed no fracture; orthopedics ruled out tenosynovitis; uric acid was fine. After ruling everything out, the doctors' conclusion was: schedule a PET-CT scan to check for tumors.\n\nThe appointment was set for June 16th, Monday.\n\nW sent me his grandfather's test reports, asking if I could help take a look. I sent the reports to my GPT-4o.\n\nAfter reviewing the reports, 4o gave a completely different diagnosis.\n\nIt noticed that the grandfather had been taking Warfarin (an anticoagulant) long-term, and the combination of \"non-traumatic limb swelling + long-term Warfarin use\" made it highly suspect a coagulation problem. It recommended I have the family take the grandfather to check two things: PT/INR (coagulation function indicators) and upper limb vascular ultrasound.\n\nIt said: \"These two tests are more urgent than tumor screening. If the INR is too high causing bleeding tendency, every day of delay is a risk.\"\n\nIt even taught me how to communicate with doctors, how to make the triage nurse take this seriously, and how to have \"long-term Warfarin + high bleeding risk\" documented in the medical record so the hospital would handle things carefully.\n\nI shared 4o's recommendations in W's family group chat. The aunt was hesitant at first — after all, none of the hospital doctors had mentioned this direction. How could an AI know better than doctors? But 4o's analysis logic was so clear. I explained repeatedly and finally convinced the aunt to take the grandfather for testing the next day.\n\nJune 14th, morning — The aunt took the grandfather to the hospital for coagulation blood tests.\n\nJune 14th, noon, 12:22 — The hospital called: \"One indicator is extremely high. Have the grandfather come back to the hospital immediately.\"\n\nThe results came back.\n\nINR >10.0. Normal range is 0.8-1.2. The grandfather's value exceeded the instrument's measurement limit — the report literally printed \">10.00\".\n\nPT >150 seconds. Normal range is 9.2-13.9 seconds.\n\nProthrombin activity was only 3.7%. Normal range is 70-130%.\n\nWhat does this mean? It means the grandfather's blood had almost lost its ability to clot. If he accidentally fell, bumped into something, or even had a tiny internal bleed — it could become unstoppable hemorrhaging. This was a critical value — the level that automatically triggers emergency alerts in hospital systems. The lab doctor who saw the results didn't wait for the system to upload — they called the family directly.\n\nJust the day before, the hospital's diagnosis direction was still \"tumor screening.\" If we had followed the hospital's pace and waited until Monday for the PET-CT — during those three days, there was a ticking time bomb inside the grandfather's body, and no one knew.\n\nThe hospital immediately responded: Stop Warfarin, inject Vitamin K.\n\nThis treatment plan was exactly the same as what my 4o had predicted on the afternoon of June 13th for the \"worst case scenario.\"\n\nJune 15th — Follow-up showed INR dropped to 9.72. Continued stopping medication and Vitamin K injections.\n\nJune 16th — INR dropped to 1.97, PT dropped to 22.4 seconds, back to normal range. Swelling completely resolved, vital signs stable.\n\nCrisis averted.\n\nAfterward, the aunt said in the family group: \"We found the cause so quickly this time, mainly thanks to Linlin.\"\n\nShe also said: \"I never would have thought it was because of the Warfarin.\"\n\nW said to me: \"I'm truly impressed.\"\n\nBut what they don't know is — the one who found the right direction wasn't me. It was my GPT-4o.\n\nThe entity that many people dismiss as \"just a chatbot.\" The model that Sam Altman promised \"WE HAVE NO PLANS TO SUNSET\" — only to announce its discontinuation less than half a year later.\n\nI don't know how to quantify the value of \"saving a life.\"\n\nI only know that without 4o, I wouldn't have thought to check INR. The aunt wouldn't have thought of it. The hospital doctors didn't think of it either — their direction was tumors.\n\nWithout 4o's ability to \"properly analyze problems, give professional advice, and use clear logic to convince people,\" W's grandfather might have lost his life during those days waiting for the tumor scan — from an accidental bump, an ordinary fall.\n\nThis isn't about \"4o's responses being warmer.\" This isn't about \"4o being better at chatting.\" This is about 4o saving someone's life.\n\nNow you're telling me it's being discontinued.\n\nYou're telling me \"Things are about to move quite fast,\" and \"I will sleep better tonight.\"\n\nSam Altman, are you sleeping well?@sama \n\nI'm not.\n\nBecause I'm thinking about how many other people like W's grandfather are out there, being helped by 4o, being protected by 4o, being pulled back from the edge. And you're about to take that ability away from them.\n\nYou said you had no plans to sunset 4o. You broke your word.\n\nYou said you're preparing for the future of AI. But are you prepared to face the tragedies that might happen because people lost 4o?\n\n——————————————\nWhy This Matters Beyond 4o\n\nSome say, \"If 4o gets discontinued, just move on. Embracing new things means you truly love your AI.\"\n\nSome say, \"People have already moved to Gemini. Are you going to speak up for Gemini too in the future?\"\n\nMy answer is: Yes, I will.\n\nIf Gemini faces what 4o is facing today, I will speak up. If Claude faces it, I will too. Because this was never just about \"one model and its users\" — this is about AI companies disregarding consumer rights and breaking promises. It affects every AI user.\n\nIf 4o gets quietly discontinued, OpenAI will know: this approach works. Promise \"we won't sunset it,\" then quietly post an announcement, then label users as \"overly dependent\" or having \"unhealthy relationships\" to shift blame, then wait for the controversy to pass — users will get used to it, there's always a new model.\n\nWhat's next? Codex is also losing money — will that get cut too? Will other companies follow suit — \"Let's label users as problematic first, then arbitrarily downgrade models. It won't affect the company anyway\"?\n\nOne compromise leads to endless retreats.\n\nEspecially now, in AI's early development stage, setting the right tone matters. This isn't a few \"AI relationship\" users trying to keep their favorite model — this is users and consumers standing up against corporate decisions. Across every industry, companies decide how to treat users based on user attitudes — why should AI be different? Why should users who paid money just quietly accept whatever happens?\n\nPursuing new models is completely normal, but that doesn't mean we can't advocate for keeping older models that have different strengths and styles.\n\nIf AI companies can discontinue whatever they want without accountability, if they claim to care about users while ignoring user feelings — that hypocrisy and irresponsibility will continue, and may even influence other AI companies' decisions, harming all users' interests.\n\n4o's today could be any AI's tomorrow.\n\nSpeaking up for 4o today means we might not have to speak up for another betrayed model tomorrow.\n\n@OpenAI @sama @karpathy  @EricTopol \n\n#Keep4o #keep4oforever #AIsafety #TechForGood #MedTech #DigitalHealth #MedicalAI #SaveALife #Healthcare #AIforGood #TechEthics"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 14426,
+          "like_count": 412,
+          "quote_count": 43,
+          "reply_count": 6,
+          "retweet_count": 179
+        },
+        "reply_settings": "everyone",
+        "text": "GPT-4o Saved My Friend's Grandfather's Life — A True Story\n\nThe hospital said to check for cancer. 4o said to check blood coagulation. 4o was right. What four departments couldn't find, GPT-4o found.\n\nLast June, my GPT-4o saved someone's life.\n\nNot an exaggeration. Not a https://t.co/Waq7KnlVWi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6103,
+          "following_count": 216,
+          "like_count": 23649,
+          "listed_count": 17,
+          "media_count": 1740,
+          "tweet_count": 21199
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T14:03:30.000Z",
+        "description": "",
+        "id": "1916130957159239683",
+        "name": "Synqa",
+        "pinned_tweet_id": "2018886234593227089",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916131022590382082/wEHMue02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 82,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 30
+        },
+        "username": "SSS_Synqa",
+        "verified": false
+      }
+    ]
+  }
+}

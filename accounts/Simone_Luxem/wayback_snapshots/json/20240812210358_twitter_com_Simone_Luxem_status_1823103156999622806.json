@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1823083815658532966",
+    "created_at": "2024-08-12T21:03:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-12T22:03:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1823103156999622806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "968171213968367617",
+          "start": 0,
+          "username": "YaoYao38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1823103156999622806",
+    "in_reply_to_user_id": "968171213968367617",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1823083815658532966",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YaoYao38324 感觉就是贩卖赎罪券的现代版…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1823083815658532966",
+        "created_at": "2024-08-12T21:03:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T22:03:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823103156999622806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "968171213968367617",
+              "start": 0,
+              "username": "YaoYao38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1823103156999622806",
+        "in_reply_to_user_id": "968171213968367617",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1823083815658532966",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YaoYao38324 感觉就是贩卖赎罪券的现代版…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "968171213968367617",
+        "conversation_id": "1823083815658532966",
+        "created_at": "2024-08-12T19:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-12T20:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1823083815658532966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1823083815658532966",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近参观了比萨大教堂和佛罗伦萨圣母百花教堂，我还是觉得，教堂就不该收门票，不应该过度商业化成为旅游景点，这不仅削弱了它的宗教功能，更是让其成为了游客蜂拥而至的、空洞的打卡景点，一个逐渐失去其文化内在的城市符号。\n\n而是那些路边平淡的小教堂给我最多的惊喜，幽暗的内部空间和外部明\n1/n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3521,
+          "following_count": 224,
+          "like_count": 15954,
+          "listed_count": 8,
+          "tweet_count": 16529
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-26T17:09:39.000Z",
+        "description": "LGBT+🏳️‍🌈/ 百合 另一只猫猫@garrulous_abyss/ Lapsed catholic/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "garrulous_abyss"
+              }
+            ]
+          }
+        },
+        "id": "968171213968367617",
+        "name": "衣我以夜1314🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120593152675842/87SNjEFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 546,
+          "like_count": 52783,
+          "listed_count": 29,
+          "tweet_count": 11471
+        },
+        "username": "YaoYao38324",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1984252443312668748",
+    "created_at": "2025-10-31T15:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T16:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984286159615439096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2962119486",
+          "start": 0,
+          "username": "hoshinoyumemi11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984286159615439096",
+    "in_reply_to_user_id": "2962119486",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984278546228072645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinoyumemi11 喵喵喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1984252443312668748",
+        "created_at": "2025-10-31T15:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984286159615439096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2962119486",
+              "start": 0,
+              "username": "hoshinoyumemi11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984286159615439096",
+        "in_reply_to_user_id": "2962119486",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984278546228072645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinoyumemi11 喵喵喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2962119486",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1833933476950618113",
+              "name": "Super Bowl LIX: Chiefs at Eagles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1886871025104621571",
+              "name": "Halftime Show Super Bowl LIX"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "689566314835259392",
+              "name": "NFL"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304458033888505856",
+              "name": "Super Bowl"
+            }
+          }
+        ],
+        "conversation_id": "1984252443312668748",
+        "created_at": "2025-10-31T15:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984278546228072645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984278546228072645",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984252443312668748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 我觉得你完全不会看不起人呀，，我觉得你超级humble的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5643,
+          "following_count": 215,
+          "like_count": 22834,
+          "listed_count": 18,
+          "media_count": 1684,
+          "tweet_count": 20693
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-07T04:55:43.000Z",
+        "description": "She/her|🏳️‍🌈🏳️‍⚧️骄傲的跨性别和酷儿女权主义者|烧不死的女巫后代|请不要使用「生理性别」|不是MtF|只有更多的来自社群的爱才能战胜仇恨|Althusserian Marxism|UK trains and buses|Elle as in 'Michelle' @Michelle_Z2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 140,
+                "username": "Michelle_Z2023"
+              }
+            ]
+          }
+        },
+        "id": "2962119486",
+        "location": "Tkaronto",
+        "name": "Elle🏳️‍⚧️🇵🇸Solidarity Now!",
+        "pinned_tweet_id": "1975344223517073688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872325210705219584/8MDDIacT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 1593,
+          "like_count": 60032,
+          "listed_count": 3,
+          "media_count": 176,
+          "tweet_count": 6073
+        },
+        "username": "hoshinoyumemi11",
+        "verified": false
+      }
+    ]
+  }
+}

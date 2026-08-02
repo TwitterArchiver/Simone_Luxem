@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1964476699032375694",
+    "created_at": "2025-09-07T06:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T07:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964577644768637379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1938210111992074240",
+          "start": 0,
+          "username": "FJUNNNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964577644768637379",
+    "in_reply_to_user_id": "1938210111992074240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964476699032375694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FJUNNNN 眼睛好大（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_1964476687053447168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0M5I31bYAA-hFg.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1964476687053443072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0M5I31bUAAh4qm.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964476687082770432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0M5I38a0AAd8p_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1964476699032375694",
+        "created_at": "2025-09-07T06:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964577644768637379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1938210111992074240",
+              "start": 0,
+              "username": "FJUNNNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964577644768637379",
+        "in_reply_to_user_id": "1938210111992074240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964476699032375694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FJUNNNN 眼睛好大（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964476687053447168",
+            "3_1964476687053443072",
+            "3_1964476687082770432"
+          ]
+        },
+        "author_id": "1938210111992074240",
+        "conversation_id": "1964476699032375694",
+        "created_at": "2025-09-06T23:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T00:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964476699032375694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l3dsUQusYb",
+              "end": 34,
+              "expanded_url": "https://x.com/FJUNNNN/status/1964476699032375694/photo/1",
+              "media_key": "3_1964476687053447168",
+              "start": 11,
+              "url": "https://t.co/l3dsUQusYb"
+            },
+            {
+              "display_url": "pic.x.com/l3dsUQusYb",
+              "end": 34,
+              "expanded_url": "https://x.com/FJUNNNN/status/1964476699032375694/photo/1",
+              "media_key": "3_1964476687053443072",
+              "start": 11,
+              "url": "https://t.co/l3dsUQusYb"
+            },
+            {
+              "display_url": "pic.x.com/l3dsUQusYb",
+              "end": 34,
+              "expanded_url": "https://x.com/FJUNNNN/status/1964476699032375694/photo/1",
+              "media_key": "3_1964476687082770432",
+              "start": 11,
+              "url": "https://t.co/l3dsUQusYb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964476699032375694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 970,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨旗，手环，我的脑子 https://t.co/l3dsUQusYb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4558,
+          "following_count": 219,
+          "like_count": 22367,
+          "listed_count": 13,
+          "media_count": 1655,
+          "tweet_count": 20296
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T12:18:21.000Z",
+        "description": "「这里是二号机，一号机炸了」大龄MTF，可以叫我米糊或者芙芙（fufu）哦，宝宝们快回来和我互fo吧~",
+        "id": "1938210111992074240",
+        "name": "F菌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938242264343744512/EocErPc4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 239,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 151
+        },
+        "username": "FJUNNNN",
+        "verified": false
+      }
+    ]
+  }
+}

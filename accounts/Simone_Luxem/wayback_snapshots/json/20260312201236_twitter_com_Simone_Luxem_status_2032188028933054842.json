@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2032187954043686912"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "2032188028933054842",
+    "created_at": "2026-03-12T20:12:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T21:12:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032188028933054842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gbHyMRCmO6",
+          "end": 44,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2032188028933054842/video/1",
+          "media_key": "13_2032187954043686912",
+          "start": 21,
+          "url": "https://t.co/gbHyMRCmO6"
+        },
+        {
+          "display_url": "x.com/printf_meme_/s…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/printf_meme_/status/2031917429232976378",
+          "start": 45,
+          "url": "https://t.co/ZDH6pqPGvw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032188028933054842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031917429232976378",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇啊啊刷到这个视频是真的被刺激到了吧…. https://t.co/gbHyMRCmO6 https://t.co/ZDH6pqPGvw"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20785,
+        "height": 1146,
+        "media_key": "13_2032187954043686912",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2032187954043686912/img/sTznv4V1pAniIomc.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032187954043686912/vid/avc1/320x508/1AGH5Fg_MsR9ShGt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032187954043686912/vid/avc1/480x764/VZEiMr7OACd24QTg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2032187954043686912/vid/avc1/720x1146/skS6_2w1Zvs9lzrd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2032187954043686912/pl/MkHqYtnCvwm4itmx.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 21292,
+        "height": 720,
+        "media_key": "7_2031917394286034947",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2031917394286034947/pu/img/CZGw5HL7p6k-PgxM.jpg",
+        "public_metrics": {
+          "view_count": 100780
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031917394286034947/pu/vid/avc1/320x320/HXXYDpqc-8EL-Sny.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031917394286034947/pu/vid/avc1/540x540/xCUTdLXFnW04nQ-P.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2031917394286034947/pu/vid/avc1/720x720/K7GGUpo8OyEX-MUy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2031917394286034947/pu/pl/xf9Qfibcmp-uV-vI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2032187954043686912"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "2032188028933054842",
+        "created_at": "2026-03-12T20:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T21:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032188028933054842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbHyMRCmO6",
+              "end": 44,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2032188028933054842/video/1",
+              "media_key": "13_2032187954043686912",
+              "start": 21,
+              "url": "https://t.co/gbHyMRCmO6"
+            },
+            {
+              "display_url": "x.com/printf_meme_/s…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/printf_meme_/status/2031917429232976378",
+              "start": 45,
+              "url": "https://t.co/ZDH6pqPGvw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032188028933054842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031917429232976378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇啊啊刷到这个视频是真的被刺激到了吧…. https://t.co/gbHyMRCmO6 https://t.co/ZDH6pqPGvw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2031917394286034947"
+          ]
+        },
+        "author_id": "1469913858324111361",
+        "conversation_id": "2031917429232976378",
+        "created_at": "2026-03-12T02:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T03:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031917429232976378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7clgfixeh",
+              "end": 23,
+              "expanded_url": "https://x.com/printf_meme_/status/2031917429232976378/video/1",
+              "media_key": "7_2031917394286034947",
+              "start": 0,
+              "url": "https://t.co/G7clgfixeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031917429232976378",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 830,
+          "impression_count": 155214,
+          "like_count": 6164,
+          "quote_count": 13,
+          "reply_count": 15,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/G7clgfixeh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6160,
+          "following_count": 217,
+          "like_count": 24075,
+          "listed_count": 19,
+          "media_count": 1756,
+          "tweet_count": 21422
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-12T06:15:58.000Z",
+        "description": "Memes/Parody",
+        "id": "1469913858324111361",
+        "location": "finding.. ",
+        "name": "विक्रम 𝘬ꪊꪑꪖ𝘳 🥑🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942236962154565632/Gv2xXo1S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5209,
+          "following_count": 778,
+          "like_count": 42559,
+          "listed_count": 12,
+          "media_count": 1406,
+          "tweet_count": 35225
+        },
+        "username": "printf_meme_",
+        "verified": true
+      }
+    ]
+  }
+}

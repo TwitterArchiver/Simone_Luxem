@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1822125187103355253",
+    "created_at": "2024-08-10T15:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T16:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822291435783156214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3319885484",
+          "start": 0,
+          "username": "LaWbda"
+        },
+        {
+          "end": 22,
+          "id": "1640335577986760704",
+          "start": 8,
+          "username": "beiyanqingyue"
+        },
+        {
+          "end": 33,
+          "id": "1633638115918352385",
+          "start": 23,
+          "username": "amsonia17"
+        },
+        {
+          "end": 46,
+          "id": "1695782626102247424",
+          "start": 34,
+          "username": "maid_kiruya"
+        },
+        {
+          "end": 58,
+          "id": "1596473224711151618",
+          "start": 47,
+          "username": "a823149315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822291435783156214",
+    "in_reply_to_user_id": "3319885484",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822291243428131320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LaWbda @beiyanqingyue @amsonia17 @maid_kiruya @a823149315 问题出在医院，面对这样的患者家属应该直接交给保安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1822125187103355253",
+        "created_at": "2024-08-10T15:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T16:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822291435783156214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3319885484",
+              "start": 0,
+              "username": "LaWbda"
+            },
+            {
+              "end": 22,
+              "id": "1640335577986760704",
+              "start": 8,
+              "username": "beiyanqingyue"
+            },
+            {
+              "end": 33,
+              "id": "1633638115918352385",
+              "start": 23,
+              "username": "amsonia17"
+            },
+            {
+              "end": 46,
+              "id": "1695782626102247424",
+              "start": 34,
+              "username": "maid_kiruya"
+            },
+            {
+              "end": 58,
+              "id": "1596473224711151618",
+              "start": 47,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822291435783156214",
+        "in_reply_to_user_id": "3319885484",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822291243428131320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LaWbda @beiyanqingyue @amsonia17 @maid_kiruya @a823149315 问题出在医院，面对这样的患者家属应该直接交给保安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3319885484",
+        "conversation_id": "1822125187103355253",
+        "created_at": "2024-08-10T15:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T16:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822291243428131320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            },
+            {
+              "end": 28,
+              "id": "1640335577986760704",
+              "start": 14,
+              "username": "beiyanqingyue"
+            },
+            {
+              "end": 39,
+              "id": "1633638115918352385",
+              "start": 29,
+              "username": "amsonia17"
+            },
+            {
+              "end": 52,
+              "id": "1695782626102247424",
+              "start": 40,
+              "username": "maid_kiruya"
+            },
+            {
+              "end": 64,
+              "id": "1596473224711151618",
+              "start": 53,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822291243428131320",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822261203986469032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem @beiyanqingyue @amsonia17 @maid_kiruya @a823149315 “你不能在把患者当成一个个鲜活的个体时候，用职业道德约束大夫。”\n一个例子，如果我爸的患者有BIID，要求截肢双腿。动完手术之后被患者家属无休止的医闹，医院息事宁人，以轻率诊断辞退了我爸，赔偿了家属。\n问题出在哪里呢，该如何解决呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3511,
+          "following_count": 223,
+          "like_count": 15885,
+          "listed_count": 8,
+          "tweet_count": 16475
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-19T10:16:12.000Z",
+        "description": "我有异姓症 | 🧀 | Programmer | Nekomancer. Wish all my friends live long and prosper. 笨蛋大猫: @Iceblue_Sakura, 天然呆妹妹:@qiyishi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 86,
+                "username": "Iceblue_Sakura"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "qiyishi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Sewens",
+                "end": 23,
+                "expanded_url": "https://github.com/Sewens",
+                "start": 0,
+                "url": "https://t.co/6yqgj7jetJ"
+              }
+            ]
+          }
+        },
+        "id": "3319885484",
+        "name": "半生",
+        "pinned_tweet_id": "1809946193080017312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770260761631227904/HldxKxkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2385,
+          "following_count": 2788,
+          "like_count": 32391,
+          "listed_count": 6,
+          "tweet_count": 14014
+        },
+        "url": "https://t.co/6yqgj7jetJ",
+        "username": "LaWbda",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-27T12:51:55.000Z",
+        "description": "晴月的爱人🥺@openAQiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "openAQiu"
+              }
+            ]
+          }
+        },
+        "id": "1640335577986760704",
+        "name": "晴月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644771161325162496/G1YiQUFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2180,
+          "following_count": 852,
+          "like_count": 35887,
+          "listed_count": 6,
+          "tweet_count": 5728
+        },
+        "username": "beiyanqingyue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T01:17:51.000Z",
+        "description": "PhD最后一年 | 追寻研究与生活的梦想 | 🏳️‍⚧️ | 工作忙的时候会时不时锁推",
+        "id": "1633638115918352385",
+        "location": "Boston",
+        "name": "Amsonia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636533856491667464/M8TCIerj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 489,
+          "like_count": 11868,
+          "listed_count": 0,
+          "tweet_count": 3121
+        },
+        "username": "amsonia17",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-27T12:57:45.000Z",
+        "description": "我是烟烟，缥缈又短暂。 我很喜欢女仆和鸟类🦜，当然包括企鹅🐧。 梦想是成为女仆，或者是企鹅，乌鸦也可以… 我正在进行道德修行，虽然看起来一直在做有道德的事，但实际上是一个坏心眼的人，我是INTJ。",
+        "id": "1695782626102247424",
+        "location": "東池袋1丁目",
+        "name": "知名魔法少女",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809857048542367744/sUnO69W9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 1114,
+          "like_count": 2693,
+          "listed_count": 1,
+          "tweet_count": 1520
+        },
+        "username": "maid_kiruya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后mtf/12年经验的百合推理作者/小说置顶可看/持证助理社工师/社工本科毕业/前机构司法社工项目主管/接心理咨询100一次请私信，先咨询，后付费。加急额外加300，阴间时间加班额外加100",
+        "id": "1596473224711151618",
+        "name": "王安黛",
+        "pinned_tweet_id": "1596477323611541504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811032857877557248/jofRXFun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17555,
+          "following_count": 156,
+          "like_count": 1503,
+          "listed_count": 52,
+          "tweet_count": 5131
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}

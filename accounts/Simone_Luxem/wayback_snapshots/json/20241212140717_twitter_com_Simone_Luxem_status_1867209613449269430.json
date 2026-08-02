@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1867209610807152975",
+    "created_at": "2024-12-12T14:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T15:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867209613449269430"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1867209613449269430",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867209610807152975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那么被自己已经很大程度上视为一体的被依靠者，一直以来维持着自己存活的爱人，自己又要怎样去爱去关照呢….\n所以呀，就形成了胳膊肘外拐，不会关心爱人的自己了…所以，只要不要对自己好就好了…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1867209610807152975",
+        "created_at": "2024-12-12T14:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T15:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867209613449269430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867209613449269430",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867209610807152975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那么被自己已经很大程度上视为一体的被依靠者，一直以来维持着自己存活的爱人，自己又要怎样去爱去关照呢….\n所以呀，就形成了胳膊肘外拐，不会关心爱人的自己了…所以，只要不要对自己好就好了…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1867209610807152975",
+        "created_at": "2024-12-12T14:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T15:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867209610807152975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867209610807152975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "人格不是完整，想要以人的形态活下去，就只能依靠其它人，而只有信任的人，只有爱的人才可以被依靠\n越是依靠，越是会在不知不觉中把对方当作自己的一部分，把自己当作对方意志的延伸，也意味着把对方与自己视为一体\n慢慢的，在有所依靠下，一点点学会了关照别人；可以不完整的人格，又怎会爱自己呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3906,
+          "following_count": 220,
+          "like_count": 18410,
+          "listed_count": 10,
+          "media_count": 1443,
+          "tweet_count": 18079
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

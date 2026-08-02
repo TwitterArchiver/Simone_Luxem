@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1936016591252078796",
+    "created_at": "2025-06-20T11:01:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T12:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1936016591252078796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/glory_and_drea…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/glory_and_dream/status/1935782004408156203",
+          "start": 47,
+          "url": "https://t.co/VTuKtlv6iK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936016591252078796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935782004408156203",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得伊朗现在可能更需要的是一场成功的女武神plus行动，因为所需要刺杀的对象可能不止一个… https://t.co/VTuKtlv6iK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1936016591252078796",
+        "created_at": "2025-06-20T11:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T12:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936016591252078796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/glory_and_drea…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/glory_and_dream/status/1935782004408156203",
+              "start": 47,
+              "url": "https://t.co/VTuKtlv6iK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936016591252078796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935782004408156203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得伊朗现在可能更需要的是一场成功的女武神plus行动，因为所需要刺杀的对象可能不止一个… https://t.co/VTuKtlv6iK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1105857295429177351",
+        "conversation_id": "1935782004408156203",
+        "created_at": "2025-06-19T19:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T20:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935782004408156203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kenntnis22/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/Kenntnis22/status/1935623075510243388",
+              "start": 141,
+              "url": "https://t.co/tcMQKpnG5Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935782004408156203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4546,
+          "like_count": 81,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935623075510243388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不知道伊朗人为什么要在国家受到入侵的威胁时造反？德黑兰的神棍政权的确如同一具腐烂的尸体，越早下葬越体面，但正在屠杀平民的特拉维夫政权难道就不是伊朗人心中的蛇虫鼠蚁？\n\n从伊拉克战争开始就该明白在外部武力干预更替政府不会有好结果，离心离德始乱终弃的外国代理人建立不了正常的新政府。 https://t.co/tcMQKpnG5Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4306,
+          "following_count": 221,
+          "like_count": 20566,
+          "listed_count": 12,
+          "media_count": 1601,
+          "tweet_count": 19656
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-13T15:44:59.000Z",
+        "description": "#precure fan / #yuri enjoyer / #MiaSanMia",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "precure"
+              },
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "yuri"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "tag": "MiaSanMia"
+              }
+            ]
+          }
+        },
+        "id": "1105857295429177351",
+        "name": "光荣与梦想",
+        "pinned_tweet_id": "1477190543293640707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933797651016822784/e__5dHhs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2908,
+          "following_count": 3175,
+          "like_count": 47045,
+          "listed_count": 19,
+          "media_count": 1175,
+          "tweet_count": 16597
+        },
+        "username": "Glory_and_Dream",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1978066853042716898",
+    "created_at": "2025-10-14T12:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T13:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978082552729534936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3084979089",
+          "start": 0,
+          "username": "deguoziganwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978082552729534936",
+    "in_reply_to_user_id": "3084979089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978066853042716898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@deguoziganwu 苏联人一从树林里钻出来就开始在拖拉维亚杀本地人和抗议纳粹德国的侵略矛盾吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1978066853042716898",
+        "created_at": "2025-10-14T12:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T13:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978082552729534936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3084979089",
+              "start": 0,
+              "username": "deguoziganwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978082552729534936",
+        "in_reply_to_user_id": "3084979089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978066853042716898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@deguoziganwu 苏联人一从树林里钻出来就开始在拖拉维亚杀本地人和抗议纳粹德国的侵略矛盾吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3084979089",
+        "conversation_id": "1978066853042716898",
+        "created_at": "2025-10-14T11:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T12:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978066853042716898"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1978066853042716898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6767,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家看到新闻了吗？\n哈马斯从地下爬出来就开始在加沙杀本地人\n\n没见过“巴雷斯坦支持者”抗议\n\n耐人寻味啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4677,
+          "following_count": 219,
+          "like_count": 22676,
+          "listed_count": 13,
+          "media_count": 1673,
+          "tweet_count": 20541
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-10T22:22:01.000Z",
+        "description": "哈喽，我司老雷 ✌🏼 ｜ 极左和极右都可以滚一边去，俺是 liberal wine mom🍷",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "laolei.bio.link",
+                "end": 23,
+                "expanded_url": "https://laolei.bio.link",
+                "start": 0,
+                "url": "https://t.co/XEX53BObxg"
+              }
+            ]
+          }
+        },
+        "id": "3084979089",
+        "location": "天安门广场",
+        "name": "老雷 🐈",
+        "pinned_tweet_id": "1976024616557789403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/587159643614539776/omi_3gSf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136419,
+          "following_count": 204,
+          "like_count": 11509,
+          "listed_count": 462,
+          "media_count": 2527,
+          "tweet_count": 14306
+        },
+        "url": "https://t.co/XEX53BObxg",
+        "username": "deguoziganwu",
+        "verified": false
+      }
+    ]
+  }
+}

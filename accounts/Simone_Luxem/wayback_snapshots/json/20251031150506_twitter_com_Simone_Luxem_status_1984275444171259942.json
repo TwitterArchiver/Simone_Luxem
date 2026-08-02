@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1984204684413091845",
+    "created_at": "2025-10-31T15:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T16:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984275444171259942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "994208371040337921",
+          "start": 0,
+          "username": "litztsong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984275444171259942",
+    "in_reply_to_user_id": "994208371040337921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984204684413091845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litztsong 摸摸，小孩子也挺好？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1984204684413091845",
+        "created_at": "2025-10-31T15:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T16:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984275444171259942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "994208371040337921",
+              "start": 0,
+              "username": "litztsong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984275444171259942",
+        "in_reply_to_user_id": "994208371040337921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984204684413091845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litztsong 摸摸，小孩子也挺好？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "994208371040337921",
+        "conversation_id": "1984204684413091845",
+        "created_at": "2025-10-31T10:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T11:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984204684413091845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984204684413091845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "唉唉\n怎么办\n好像被店经理看出来有精神问题了\n现在是看破不说破的状态\n今天下午早下班要去医院的时候（我没说要去哪个医院），店经理特地问我要去干嘛\n我说要去医院\n她说：我看你一直像个小孩子一样，你这种一个人在外面一定要注意安全\n为什么会被看破啊喂\n我明明尽力在伪装成年健全人了\n难道这在他人眼中只是一个极其拙劣的\n东施效颦似的模仿嘛\n为什么在哪里和人接触久了都会被人当作有些民事能力欠缺的小孩子"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1733,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉唉\n怎么办\n好像被店经理看出来有精神问题了\n现在是看破不说破的状态\n今天下午早下班要去医院的时候（我没说要去哪个医院），店经理特地问我要去干嘛\n我说要去医院\n她说：我看你一直像个小孩子一样，你这种一个人在外面一定要注意安全\n为什么会被看破啊喂\n我明明尽力在伪装成年健全人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5643,
+          "following_count": 215,
+          "like_count": 22832,
+          "listed_count": 18,
+          "media_count": 1684,
+          "tweet_count": 20692
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-09T13:32:01.000Z",
+        "description": "MtF(post surgery)/psychopath(schizo)/paliperidone&quetiapine user/ASD/local in Shanghai/anti-imperialism/约饭者招募中/对象 @misncandy 个人群 https://t.co/16lZFMyT6P",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "misncandy"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ylr-xPc8qAo4Y…",
+                "end": 153,
+                "expanded_url": "https://t.me/+ylr-xPc8qAo4YTA1",
+                "start": 130,
+                "url": "https://t.co/16lZFMyT6P"
+              }
+            ]
+          }
+        },
+        "id": "994208371040337921",
+        "location": "Shanghai, china",
+        "name": "litz tsong（利兹）🏳️‍🌈🏳‍⚧",
+        "pinned_tweet_id": "1967508127861112954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465633050566402056/PVc-1Z7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3040,
+          "following_count": 1959,
+          "like_count": 3541,
+          "listed_count": 16,
+          "media_count": 1517,
+          "tweet_count": 13337
+        },
+        "username": "litztsong",
+        "verified": false
+      }
+    ]
+  }
+}

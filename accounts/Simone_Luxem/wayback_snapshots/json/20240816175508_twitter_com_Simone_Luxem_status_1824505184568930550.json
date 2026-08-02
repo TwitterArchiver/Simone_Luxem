@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1824419553465573580",
+    "created_at": "2024-08-16T17:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-16T18:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1824505184568930550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "957935539293847552",
+          "start": 0,
+          "username": "yozakura_momij1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1824505184568930550",
+    "in_reply_to_user_id": "957935539293847552",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1824501970138177622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yozakura_momij1 它们觉得我在“闹事”就是不为它们考虑吧…\n..或者只是我成绩不好…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1824419553465573580",
+        "created_at": "2024-08-16T17:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T18:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824505184568930550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "957935539293847552",
+              "start": 0,
+              "username": "yozakura_momij1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824505184568930550",
+        "in_reply_to_user_id": "957935539293847552",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824501970138177622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yozakura_momij1 它们觉得我在“闹事”就是不为它们考虑吧…\n..或者只是我成绩不好…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "957935539293847552",
+        "conversation_id": "1824419553465573580",
+        "created_at": "2024-08-16T17:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-16T18:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1824501970138177622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1824501970138177622",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1824419553465573580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem ？明明是在关照父母对他们好啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3540,
+          "following_count": 224,
+          "like_count": 16058,
+          "listed_count": 8,
+          "tweet_count": 16593
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-29T11:16:44.000Z",
+        "description": "⭐淡退⭐22||173||50.15kg⭐曾用名：小喵子/猫条/枫⭐对象：白层层（是一只银渐层）⭐属性：含糖药娘，起始日22.7.3断断续续⭐特征：穷||持续性贫乳aa||地雷系爱好者⭐很坏的经历：自伤n次，od数次，自杀3次，住ICU2次，被押看守所1次，被绑住院1次⭐现状：缝缝补补，凑凑活活⭐不卖药不卖糖，纯聊天⭐",
+        "id": "957935539293847552",
+        "location": "某工资最低的（西北）新一线城市",
+        "name": "白条条（白层层的家养猫）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800713457723203584/752JEzrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14041,
+          "following_count": 1310,
+          "like_count": 47788,
+          "listed_count": 31,
+          "tweet_count": 22388
+        },
+        "username": "yozakura_momij1",
+        "verified": false
+      }
+    ]
+  }
+}

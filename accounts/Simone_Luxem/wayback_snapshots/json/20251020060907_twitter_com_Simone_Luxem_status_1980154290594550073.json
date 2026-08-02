@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1980154290594550073",
+    "created_at": "2025-10-20T06:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T07:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1980154290594550073"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qzuserx/status…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/qzuserx/status/1980151812394250442",
+          "start": 117,
+          "url": "https://t.co/EZyW3Ee5k7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980154290594550073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980151812394250442",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊对对对又给你懂完了，别人的行为是啥目的别人自己说了不算你说了算是吧，你姓尤里的啊？\n我发裸照，原因就是我想发；我找顺男（虽然我实际上没找过），原因就是我想找；我支持女权，原因就是我觉得这是相对正确的事情，就这么简单，你还理解不了？ https://t.co/EZyW3Ee5k7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1980151809122394112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3rplEAWYAAO0Fl.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1980154290594550073",
+        "created_at": "2025-10-20T06:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980154290594550073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qzuserx/status…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/qzuserx/status/1980151812394250442",
+              "start": 117,
+              "url": "https://t.co/EZyW3Ee5k7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980154290594550073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980151812394250442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊对对对又给你懂完了，别人的行为是啥目的别人自己说了不算你说了算是吧，你姓尤里的啊？\n我发裸照，原因就是我想发；我找顺男（虽然我实际上没找过），原因就是我想找；我支持女权，原因就是我觉得这是相对正确的事情，就这么简单，你还理解不了？ https://t.co/EZyW3Ee5k7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980151809122394112"
+          ]
+        },
+        "author_id": "1439042200940253185",
+        "conversation_id": "1980151812394250442",
+        "created_at": "2025-10-20T05:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T06:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980151812394250442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X33Wzoc4VY",
+              "end": 23,
+              "expanded_url": "https://x.com/QzuserX/status/1980151812394250442/photo/1",
+              "media_key": "3_1980151809122394112",
+              "start": 0,
+              "url": "https://t.co/X33Wzoc4VY"
+            },
+            {
+              "display_url": "x.com/mukdengise/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/mukdengise/status/1980143012585021514",
+              "start": 24,
+              "url": "https://t.co/n56INp8iX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980151812394250442",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980143012585021514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/X33Wzoc4VY https://t.co/n56INp8iX0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5462,
+          "following_count": 215,
+          "like_count": 22711,
+          "listed_count": 15,
+          "media_count": 1679,
+          "tweet_count": 20597
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-18T01:43:03.000Z",
+        "description": "Dem-Socialism&Pan-Asianism.     横幅是神奈川冲浪兔.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "QzuserX.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://QzuserX.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/jAJFNvN4Mr"
+              }
+            ]
+          }
+        },
+        "id": "1439042200940253185",
+        "location": "北落师门座",
+        "name": "𝑸𝒁𝑼𝑺𝑬𝑹",
+        "pinned_tweet_id": "1936926169737404747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977587933046865920/yvAJA0D5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 752,
+          "like_count": 134633,
+          "listed_count": 18,
+          "media_count": 2742,
+          "tweet_count": 23961
+        },
+        "url": "https://t.co/jAJFNvN4Mr",
+        "username": "QzuserX",
+        "verified": false
+      }
+    ]
+  }
+}

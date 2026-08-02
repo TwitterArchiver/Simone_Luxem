@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943619699914207232"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1943619706167947695",
+    "created_at": "2025-07-11T10:33:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T11:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1943619706167947695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EU9Kd5eexL",
+          "end": 49,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1943619706167947695/photo/1",
+          "media_key": "3_1943619699914207232",
+          "start": 26,
+          "url": "https://t.co/EU9Kd5eexL"
+        },
+        {
+          "display_url": "x.com/asdqwd358224/s…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/asdqwd358224/status/1943474523040575706",
+          "start": 50,
+          "url": "https://t.co/pKIBm0rlsF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943619706167947695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943474523040575706",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己…真的有过勇敢吗…真的有过努力吗…自己不知道… https://t.co/EU9Kd5eexL https://t.co/pKIBm0rlsF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1943619699914207232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvkf0b_WcAAtayU.jpg",
+        "width": 1214
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1943474514114797568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvibxgvWYAAa3Kv.jpg",
+        "width": 1214
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943619699914207232"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1943619706167947695",
+        "created_at": "2025-07-11T10:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T11:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943619706167947695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EU9Kd5eexL",
+              "end": 49,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1943619706167947695/photo/1",
+              "media_key": "3_1943619699914207232",
+              "start": 26,
+              "url": "https://t.co/EU9Kd5eexL"
+            },
+            {
+              "display_url": "x.com/asdqwd358224/s…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/asdqwd358224/status/1943474523040575706",
+              "start": 50,
+              "url": "https://t.co/pKIBm0rlsF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943619706167947695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943474523040575706",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己…真的有过勇敢吗…真的有过努力吗…自己不知道… https://t.co/EU9Kd5eexL https://t.co/pKIBm0rlsF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943474514114797568"
+          ]
+        },
+        "author_id": "1680247071608303616",
+        "conversation_id": "1943474523040575706",
+        "created_at": "2025-07-11T00:56:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T01:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943474523040575706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VppkqzQp5Q",
+              "end": 23,
+              "expanded_url": "https://x.com/AsdQWD358224/status/1943474523040575706/photo/1",
+              "media_key": "3_1943474514114797568",
+              "start": 0,
+              "url": "https://t.co/VppkqzQp5Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943474523040575706",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/VppkqzQp5Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4477,
+          "following_count": 219,
+          "like_count": 21218,
+          "listed_count": 13,
+          "media_count": 1631,
+          "tweet_count": 19899
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T16:05:09.000Z",
+        "description": "鲜虾鱼板面一生推/泛性恋/OSDD/人生三周目\n@morrrrrrrling  可爱小蛋糕\n@fe_ions    离子姐姐^ω^\n@Caroline_9870  最爱的宝宝\n@Zero_158_Kana 零酱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "morrrrrrrling"
+              },
+              {
+                "end": 54,
+                "start": 46,
+                "username": "fe_ions"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "Caroline_9870"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "Zero_158_Kana"
+              }
+            ]
+          }
+        },
+        "id": "1680247071608303616",
+        "location": "银河系 太阳系 地月系 中国空间站 距你1234KM",
+        "name": "鲜虾🍤鱼板🍥面🍜/夏至/秋分/谷雨（秋分代管.ver.）",
+        "pinned_tweet_id": "1928154514365833564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895344047616606208/V1mJrs3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2394,
+          "following_count": 3118,
+          "like_count": 95449,
+          "listed_count": 12,
+          "media_count": 1973,
+          "tweet_count": 15608
+        },
+        "username": "AsdQWD358224",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1943906466441904634",
+    "created_at": "2025-07-12T11:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T12:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944001791521161342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944001791521161342",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943906466441904634",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo 1: 你才二次元入脑，你全家二次元入脑\n2:信不信无论od还是割手你的次数都不可能少于我？\n3:同样按照你的理论，我这个从不鉴跨的amtf还得承担你这种瞎jb乱鉴的对我的名誉损害，我找你赔？还有“mtf天生会互相关爱”，那你自己是不是mtf？我咋只见你搁这害人呢？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1943906463082065920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvokoQCXsAAwsbY.png",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1943906466441904634",
+        "created_at": "2025-07-12T11:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T12:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944001791521161342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944001791521161342",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943906466441904634",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo 1: 你才二次元入脑，你全家二次元入脑\n2:信不信无论od还是割手你的次数都不可能少于我？\n3:同样按照你的理论，我这个从不鉴跨的amtf还得承担你这种瞎jb乱鉴的对我的名誉损害，我找你赔？还有“mtf天生会互相关爱”，那你自己是不是mtf？我咋只见你搁这害人呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943906463082065920"
+          ]
+        },
+        "author_id": "1882563916632666112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tea",
+              "id": "850450940213592064",
+              "name": "Tea"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1792595821940113408",
+              "name": "Matcha"
+            }
+          }
+        ],
+        "conversation_id": "1943906466441904634",
+        "created_at": "2025-07-12T05:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T06:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943906466441904634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PJhFIuVvKx",
+              "end": 69,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/1943906466441904634/photo/1",
+              "media_key": "3_1943906463082065920",
+              "start": 46,
+              "url": "https://t.co/PJhFIuVvKx"
+            },
+            {
+              "display_url": "x.com/hhjnjkoguyunmo…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/hhjnjkoguyunmo/status/1943656627846148561",
+              "start": 70,
+              "url": "https://t.co/Cnn41x2sB3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943906466441904634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1043,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943656627846148561",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "文章已经发出去快一天了，一些人对我的文章有一些疑惑，我想解答一下，也算是对之前的补充把🍵😋 https://t.co/PJhFIuVvKx https://t.co/Cnn41x2sB3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4478,
+          "following_count": 219,
+          "like_count": 21259,
+          "listed_count": 13,
+          "media_count": 1633,
+          "tweet_count": 19912
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "大家好呀，我会尽量包容所有人的，请多多指教哦~🥰",
+        "id": "1882563916632666112",
+        "name": "变成阿良河的顾云沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909435314600644608/kr_0pOtE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 459,
+          "like_count": 159168,
+          "listed_count": 8,
+          "media_count": 110,
+          "tweet_count": 17160
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

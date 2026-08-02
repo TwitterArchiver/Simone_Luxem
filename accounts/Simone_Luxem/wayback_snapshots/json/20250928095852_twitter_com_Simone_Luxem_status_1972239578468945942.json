@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1972239578468945942",
+    "created_at": "2025-09-28T09:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T10:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972239578468945942"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1972239578468945942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "自己还是太软弱了，完全没有一点抗压能力…\n有一种“越是了解自己就越会发现自己距离想象中的自己差得有多远”的绝望感..\n或者更糟，曾经的自己真的是几乎与自己想象中的一样的，是自己真的在随着时间推移在逐渐腐烂掉的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1972239578468945942",
+        "created_at": "2025-09-28T09:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T10:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972239578468945942"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972239578468945942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自己还是太软弱了，完全没有一点抗压能力…\n有一种“越是了解自己就越会发现自己距离想象中的自己差得有多远”的绝望感..\n或者更糟，曾经的自己真的是几乎与自己想象中的一样的，是自己真的在随着时间推移在逐渐腐烂掉的…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4623,
+          "following_count": 220,
+          "like_count": 22495,
+          "listed_count": 13,
+          "media_count": 1661,
+          "tweet_count": 20430
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1933817569678643364",
+    "created_at": "2025-06-14T12:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-14T13:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933867755796857142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1468416451208179712",
+          "start": 0,
+          "username": "shiina_makotsu"
+        },
+        {
+          "end": 28,
+          "id": "1340253206417272832",
+          "start": 16,
+          "username": "Shina_Kaede"
+        },
+        {
+          "end": 40,
+          "id": "2396906006",
+          "start": 29,
+          "username": "shizunyan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933867755796857142",
+    "in_reply_to_user_id": "1468416451208179712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933817569678643364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiina_makotsu @Shina_Kaede @shizunyan_ 祝99"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1933817569678643364",
+        "created_at": "2025-06-14T12:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T13:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933867755796857142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1468416451208179712",
+              "start": 0,
+              "username": "shiina_makotsu"
+            },
+            {
+              "end": 28,
+              "id": "1340253206417272832",
+              "start": 16,
+              "username": "Shina_Kaede"
+            },
+            {
+              "end": 40,
+              "id": "2396906006",
+              "start": 29,
+              "username": "shizunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933867755796857142",
+        "in_reply_to_user_id": "1468416451208179712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933817569678643364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiina_makotsu @Shina_Kaede @shizunyan_ 祝99"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468416451208179712",
+        "conversation_id": "1933817569678643364",
+        "created_at": "2025-06-14T09:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T10:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933817569678643364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1340253206417272832",
+              "start": 36,
+              "username": "Shina_Kaede"
+            },
+            {
+              "end": 68,
+              "id": "2396906006",
+              "start": 57,
+              "username": "shizunyan_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933817569678643364",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 655,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于最近自己的情况，稍微重新介绍一下吧。\n我是魔骨，现在和我的爱人椎名 @Shina_Kaede 以及我的新姐姐 @shizunyan_ 组成了三人小家。\nしず姐姐犯了很多错事，所以我和楓也得帮她一起纠正，总之，就是这样啦，也感谢大家的关心。\n只有有人提醒我紫风，我只能说，我一直没忘，她的遗物我一直随身携带。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4278,
+          "following_count": 221,
+          "like_count": 20532,
+          "listed_count": 12,
+          "media_count": 1591,
+          "tweet_count": 19584
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T03:05:47.000Z",
+        "description": "持证上岗//COC跑团人//路过的骑士厨//学生\n长毛象 https://t.co/P1XBuGxUJO\n糖果药店表https://t.co/d7W8od16Xd\n已逝爱人 @ANQNKNy\n爱人 @Shina_Kaede\n姐姐 @shizunyan_\n微信公众号 makotsu-transer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 87,
+                "username": "ANQNKNy"
+              },
+              {
+                "end": 111,
+                "start": 99,
+                "username": "Shina_Kaede"
+              },
+              {
+                "end": 126,
+                "start": 115,
+                "username": "shizunyan_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "mstdn.party/@makotsu",
+                "end": 52,
+                "expanded_url": "http://mstdn.party/@makotsu",
+                "start": 29,
+                "url": "https://t.co/P1XBuGxUJO"
+              },
+              {
+                "display_url": "netsusyou-makotsu.github.io/E2-docs",
+                "end": 81,
+                "expanded_url": "http://netsusyou-makotsu.github.io/E2-docs",
+                "start": 58,
+                "url": "https://t.co/d7W8od16Xd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "makotsu.xyz",
+                "end": 23,
+                "expanded_url": "https://makotsu.xyz/",
+                "start": 0,
+                "url": "https://t.co/FWQxuScjJA"
+              }
+            ]
+          }
+        },
+        "id": "1468416451208179712",
+        "location": "幻想乡 红魔馆",
+        "name": "紫楓·恒箫·魔骨",
+        "pinned_tweet_id": "1500615371094691842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509737319129100289/HaKWuuFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3864,
+          "following_count": 725,
+          "like_count": 4993,
+          "listed_count": 23,
+          "media_count": 696,
+          "tweet_count": 21257
+        },
+        "url": "https://t.co/FWQxuScjJA",
+        "username": "shiina_makotsu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T11:10:48.000Z",
+        "description": "随心而动🍁INFJ/🇯🇵/Les🏳️‍🌈/21♍️♎️/理系人文/認知神経心理学/心理言語学/臨床医学/中文/EN/日本語/元声優/通訳者/音ゲー/雀魂/FF14鸟区🎮/茶道/コーヒー/雑学/和楽器/吹奏楽/弓道/芳香疗法/紫陽花/白狐/オオルリ/愛と言う感情を知るため旅中✨文学少女育成中(^_ _^)♪",
+        "id": "1340253206417272832",
+        "location": "東京 文京区",
+        "name": "椎名かえで",
+        "pinned_tweet_id": "1464963304502312963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1508760383854718977/y9BOK3D4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1269,
+          "following_count": 3565,
+          "like_count": 16433,
+          "listed_count": 10,
+          "media_count": 564,
+          "tweet_count": 6522
+        },
+        "username": "Shina_Kaede",
+        "verified": true
+      },
+      {
+        "created_at": "2014-03-18T23:23:12.000Z",
+        "description": "shizu | 自傷 shtwt |",
+        "id": "2396906006",
+        "location": "void",
+        "name": "しず",
+        "pinned_tweet_id": "1868889445971472456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853737893241704448/tz8XbgoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2997,
+          "following_count": 428,
+          "like_count": 35046,
+          "listed_count": 3,
+          "media_count": 213,
+          "tweet_count": 3961
+        },
+        "username": "shizunyan_",
+        "verified": false
+      }
+    ]
+  }
+}

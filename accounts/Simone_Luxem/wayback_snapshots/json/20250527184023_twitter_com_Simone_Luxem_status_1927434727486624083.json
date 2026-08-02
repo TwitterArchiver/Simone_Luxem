@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1927434727486624083",
+    "created_at": "2025-05-27T18:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-27T19:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1927434727486624083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/simone_luxem/s…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/simone_luxem/status/1924927523785179198",
+          "start": 54,
+          "url": "https://t.co/KZNw9HgXAg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927434727486624083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1924927523785179198",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "坏消息，现在超出去两千多字了…\n更坏的消息，大概没法更多了因为电脑坏了\n更更坏的消息，ddl在三天后\n裂开 https://t.co/KZNw9HgXAg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1927434727486624083",
+        "created_at": "2025-05-27T18:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-27T19:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927434727486624083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/simone_luxem/status/1924927523785179198",
+              "start": 54,
+              "url": "https://t.co/KZNw9HgXAg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927434727486624083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1924927523785179198",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坏消息，现在超出去两千多字了…\n更坏的消息，大概没法更多了因为电脑坏了\n更更坏的消息，ddl在三天后\n裂开 https://t.co/KZNw9HgXAg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1924927523785179198",
+        "created_at": "2025-05-20T20:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T21:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924927523785179198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1924927523785179198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 469,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自从老师给我争取到了“论文不用管字数上限”的特权后，自己的论文已经超出去一千多字了….\n就时不时总觉得哪个地方可以说得更详细一点，觉得哪个地方可以稍微展开说下，就去填两句，然后加着加着就…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4250,
+          "following_count": 219,
+          "like_count": 20379,
+          "listed_count": 12,
+          "media_count": 1560,
+          "tweet_count": 19385
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

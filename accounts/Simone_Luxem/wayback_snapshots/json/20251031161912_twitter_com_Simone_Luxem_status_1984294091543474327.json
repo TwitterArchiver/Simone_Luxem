@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1984294091543474327",
+    "created_at": "2025-10-31T16:19:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T17:19:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984294091543474327"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hialloul/statu…",
+          "end": 168,
+          "expanded_url": "https://twitter.com/hialloul/status/1983261788725747828",
+          "start": 145,
+          "url": "https://t.co/5jIHjkRvOu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984294091543474327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983261788725747828",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看原po下面一群骂它的，以及搞不懂“拒服兵役”是为什么的\n这么说吧，抗日战争时期拒绝参军的日本人，甚至给中国游击队送弹药然后自杀的日本人，是为什么呢\n和我比较熟悉的人的话，我在荷兰的时候所做的事情，是为什么呢\n这就是原因\n总有些人仍然怀揣理想，或者说，良知不允许其成为系统性的恶的一部分的 https://t.co/5jIHjkRvOu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1984294091543474327",
+        "created_at": "2025-10-31T16:19:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T17:19:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984294091543474327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hialloul/statu…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/hialloul/status/1983261788725747828",
+              "start": 145,
+              "url": "https://t.co/5jIHjkRvOu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984294091543474327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983261788725747828",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看原po下面一群骂它的，以及搞不懂“拒服兵役”是为什么的\n这么说吧，抗日战争时期拒绝参军的日本人，甚至给中国游击队送弹药然后自杀的日本人，是为什么呢\n和我比较熟悉的人的话，我在荷兰的时候所做的事情，是为什么呢\n这就是原因\n总有些人仍然怀揣理想，或者说，良知不允许其成为系统性的恶的一部分的 https://t.co/5jIHjkRvOu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1048022597823164416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1983261788725747828",
+        "created_at": "2025-10-28T19:57:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T20:57:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983261788725747828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hialloul/statu…",
+              "end": 151,
+              "expanded_url": "https://twitter.com/hialloul/status/1983259827863536106",
+              "start": 128,
+              "url": "https://t.co/iRWzgDT81U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983261788725747828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 37237,
+          "like_count": 166,
+          "quote_count": 24,
+          "reply_count": 40,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983259827863536106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以色列跨儿因拒服兵役而入狱\n\n看了非常难受，我只是做不成手术都死去活来浑浑噩噩，ta们…都在经历什么啊\n19岁的她面带微笑，毫无惧色，坦然面对国家即将给她下达的邪恶命运\n人怎么能这么勇敢这么鲜活呢\n\n愿人性光辉解锁世间不自由\n愿世上强制义务的政权全数垮台 https://t.co/iRWzgDT81U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5643,
+          "following_count": 215,
+          "like_count": 22836,
+          "listed_count": 18,
+          "media_count": 1684,
+          "tweet_count": 20694
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-05T01:30:33.000Z",
+        "description": "🌈🏳️‍🌈🏳️‍⚧️ 🌱 📸 ☕ 💛🤍💜🖤",
+        "id": "1048022597823164416",
+        "location": "把不息的生机种在每一个旅人心里",
+        "name": "Hallo",
+        "pinned_tweet_id": "1963969849065164812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972658949611769856/_J0xXhpn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 1298,
+          "like_count": 17983,
+          "listed_count": 5,
+          "media_count": 885,
+          "tweet_count": 5090
+        },
+        "username": "HiallouL",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1976717887772696591",
+    "created_at": "2025-10-11T00:52:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T01:52:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976813205529018373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "406080012",
+          "start": 0,
+          "username": "ytiihyslqlabpow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976813205529018373",
+    "in_reply_to_user_id": "406080012",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976717887772696591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ytiihyslqlabpow 我差不多，是毕业了专业就（要在几年之内）没了…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_1976717885130113024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G262cYRXgAAG4y5.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1976717887772696591",
+        "created_at": "2025-10-11T00:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T01:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976813205529018373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "406080012",
+              "start": 0,
+              "username": "ytiihyslqlabpow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976813205529018373",
+        "in_reply_to_user_id": "406080012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976717887772696591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ytiihyslqlabpow 我差不多，是毕业了专业就（要在几年之内）没了…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976717885130113024"
+          ]
+        },
+        "author_id": "406080012",
+        "conversation_id": "1976717887772696591",
+        "created_at": "2025-10-10T18:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T19:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976717887772696591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYkdtgD5kE",
+              "end": 44,
+              "expanded_url": "https://x.com/ytiihyslqlabpow/status/1976717887772696591/photo/1",
+              "media_key": "3_1976717885130113024",
+              "start": 21,
+              "url": "https://t.co/oYkdtgD5kE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976717887772696591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 425,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "毕业了学院没了，I’m appalled https://t.co/oYkdtgD5kE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4655,
+          "following_count": 219,
+          "like_count": 22586,
+          "listed_count": 13,
+          "media_count": 1671,
+          "tweet_count": 20511
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2011-11-06T06:44:29.000Z",
+        "description": "女的// Trader Joe's 爱好者 // 🚪GRE 330+（两年内有效）// #推友的性别是推友 \n⬛⬛⬛⬛⬛⬛ \n🌫️🌫️🌫️🌫️🌫️🌫️ \n⬜⬜⬜⬜⬜⬜ \n🟪🟪🟪🟪🟪🟪",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 53,
+                "start": 44,
+                "tag": "推友的性别是推友"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "misstaco.bsky.social",
+                "end": 23,
+                "expanded_url": "https://misstaco.bsky.social/",
+                "start": 0,
+                "url": "https://t.co/nxt1zHSlka"
+              }
+            ]
+          }
+        },
+        "id": "406080012",
+        "location": "Wonderland",
+        "name": "蛋挞也是 Taco🎄",
+        "pinned_tweet_id": "1717588345973612909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707630937343774720/vhBzp-4U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5255,
+          "following_count": 1243,
+          "like_count": 13011,
+          "listed_count": 25,
+          "media_count": 3432,
+          "tweet_count": 17232
+        },
+        "url": "https://t.co/nxt1zHSlka",
+        "username": "ytiihyslqlabpow",
+        "verified": false
+      }
+    ]
+  }
+}

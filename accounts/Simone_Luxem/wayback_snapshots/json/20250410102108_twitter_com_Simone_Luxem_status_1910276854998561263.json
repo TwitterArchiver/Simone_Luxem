@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1909938951806443802",
+    "created_at": "2025-04-10T10:21:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-10T11:21:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910276854998561263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1564789812615598080",
+          "start": 0,
+          "username": "Billowblock"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910276854998561263",
+    "in_reply_to_user_id": "1564789812615598080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909938951806443802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Billowblock “关你鸟事”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1909938951806443802",
+        "created_at": "2025-04-10T10:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T11:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910276854998561263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1564789812615598080",
+              "start": 0,
+              "username": "Billowblock"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910276854998561263",
+        "in_reply_to_user_id": "1564789812615598080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909938951806443802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Billowblock “关你鸟事”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1564789812615598080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1909938951806443802",
+        "created_at": "2025-04-09T11:58:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-09T12:58:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909938951806443802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1909938951806443802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2665,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于我自己留长发的解释：\n是跨性别；\n好看，我自己留着高兴；\n是玩摇滚的；\n留长之后就捐出去；\n……\n欢迎各位补充。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4124,
+          "following_count": 219,
+          "like_count": 19954,
+          "listed_count": 11,
+          "media_count": 1519,
+          "tweet_count": 19004
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T01:39:07.000Z",
+        "description": "且视他人之疑目如盏盏鬼火，大胆地去走你的夜路。",
+        "id": "1564789812615598080",
+        "location": "大连/西安（学校）",
+        "name": "湛荏染",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907646702535979010/3hZudPp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 282,
+          "like_count": 3230,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 1099
+        },
+        "username": "Billowblock",
+        "verified": false
+      }
+    ]
+  }
+}

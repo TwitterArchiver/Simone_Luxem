@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1939079800318214254",
+    "created_at": "2025-06-28T21:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T22:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939079800318214254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1850772146177576960",
+          "start": 3,
+          "username": "Chunier520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939079800318214254",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939075113355563159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chunier520: 紧急情况：\n请您帮忙找一位能够现在报警的人\n有人吞了大量药物要自杀\n请转发扩散找人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1939079800318214254",
+        "created_at": "2025-06-28T21:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T22:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939079800318214254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1850772146177576960",
+              "start": 3,
+              "username": "Chunier520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939079800318214254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939075113355563159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chunier520: 紧急情况：\n请您帮忙找一位能够现在报警的人\n有人吞了大量药物要自杀\n请转发扩散找人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850772146177576960",
+        "conversation_id": "1939075113355563159",
+        "created_at": "2025-06-28T21:35:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T22:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939075113355563159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939075113355563159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "紧急情况：\n请您帮忙找一位能够现在报警的人\n有人吞了大量药物要自杀\n请转发扩散找人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4323,
+          "following_count": 220,
+          "like_count": 20806,
+          "listed_count": 12,
+          "media_count": 1608,
+          "tweet_count": 19757
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-28T05:30:47.000Z",
+        "description": "原「mtf拖鞋批发bot」。\n原运营者因个人身体状况急剧下降而不能再运营。作为其死前（?人还活着，说生前不太合适）好友，决定继续下去。",
+        "id": "1850772146177576960",
+        "name": "跨性别转发bot【目前由C运营】",
+        "pinned_tweet_id": "1914989620376535207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933913389648228352/YGS2k2WS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 4152
+        },
+        "username": "Chunier520",
+        "verified": false
+      }
+    ]
+  }
+}

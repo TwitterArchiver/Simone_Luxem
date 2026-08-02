@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051920598444711936"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "2051920606900388305",
+    "created_at": "2026-05-06T07:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T08:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051920606900388305"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lEOzBsroKv",
+          "end": 90,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2051920606900388305/photo/1",
+          "media_key": "3_2051920598444711936",
+          "start": 67,
+          "url": "https://t.co/lEOzBsroKv"
+        },
+        {
+          "display_url": "x.com/ted_yeet/statu…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/ted_yeet/status/2051660571624587467",
+          "start": 91,
+          "url": "https://t.co/XEPP3RL29v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051920606900388305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051660571624587467",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "与原po本人无关，但看到其内容突然想到了\n实践才知道，原来“被通模具”不仅仅只是口嗨，是真的可以实操的呀xxxx\n甚至是被后入（逃） https://t.co/lEOzBsroKv https://t.co/XEPP3RL29v"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2051920606900388305].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2051920606900388305",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2051920606900388305"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2051920598444711936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHni6amaoAANGzk.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1499442786453663745",
+        "conversation_id": "2051660571624587467",
+        "created_at": "2026-05-05T13:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051660571624587467"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051660571624587467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 10618,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "拆包后教怎么洗小猫了\n洗耳球前段整个塞进去之后我大脑就停转了\n示范一遍之后让我自己来结果清洗器末端自己捅半天进不去\n以前那么多年屁股上只有一个洞不可能进错（x\n现在倒好触觉错位，灯光昏暗，还不敢用力，以前以为模具捅屁股里是笑话现在我是真的怕自己会干出来😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6186,
+          "following_count": 220,
+          "like_count": 24539,
+          "listed_count": 19,
+          "media_count": 1777,
+          "tweet_count": 21639
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-03T17:53:30.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️姛/brat/整点𝕄𝕒𝕥𝕙/养毛绒玩具/偶尔拍点📸/超业余贝斯手/会说LaTeX的人形编译器/我的小猫@bubblepipe42",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "bubblepipe42"
+              }
+            ]
+          }
+        },
+        "id": "1499442786453663745",
+        "name": "Ted",
+        "pinned_tweet_id": "2049987271798235301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051881082434560000/5UKqd6bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5142,
+          "following_count": 1700,
+          "like_count": 49340,
+          "listed_count": 18,
+          "media_count": 493,
+          "tweet_count": 11351
+        },
+        "username": "Ted_yeet",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,493 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999754864554065920",
+        "3_1999754864549822464"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1999239249401401551",
+    "created_at": "2025-12-13T08:14:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T09:14:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999754877371842961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "863404092613304320",
+          "start": 0,
+          "username": "Michell73714722"
+        },
+        {
+          "end": 32,
+          "id": "1564251283984650241",
+          "start": 17,
+          "username": "Citricat_miaow"
+        },
+        {
+          "end": 46,
+          "id": "1828884565873614848",
+          "start": 33,
+          "username": "dennisottawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2nGdpNtSGY",
+          "end": 98,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1999754877371842961/photo/1",
+          "media_key": "3_1999754864554065920",
+          "start": 75,
+          "url": "https://t.co/2nGdpNtSGY"
+        },
+        {
+          "display_url": "pic.x.com/2nGdpNtSGY",
+          "end": 98,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1999754877371842961/photo/1",
+          "media_key": "3_1999754864549822464",
+          "start": 75,
+          "url": "https://t.co/2nGdpNtSGY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999754877371842961",
+    "in_reply_to_user_id": "863404092613304320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999610284483162419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Michell73714722 @Citricat_miaow @dennisottawa 评价为用《习近平谈治国理政》来论证习近平真的会治国理政 https://t.co/2nGdpNtSGY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_1999754864554065920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8COdEOawAAA6vM.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1999754864549822464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8COdENaAAAEk-E.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999754864554065920",
+            "3_1999754864549822464"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1999239249401401551",
+        "created_at": "2025-12-13T08:14:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T09:14:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999754877371842961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "863404092613304320",
+              "start": 0,
+              "username": "Michell73714722"
+            },
+            {
+              "end": 32,
+              "id": "1564251283984650241",
+              "start": 17,
+              "username": "Citricat_miaow"
+            },
+            {
+              "end": 46,
+              "id": "1828884565873614848",
+              "start": 33,
+              "username": "dennisottawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nGdpNtSGY",
+              "end": 98,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1999754877371842961/photo/1",
+              "media_key": "3_1999754864554065920",
+              "start": 75,
+              "url": "https://t.co/2nGdpNtSGY"
+            },
+            {
+              "display_url": "pic.x.com/2nGdpNtSGY",
+              "end": 98,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1999754877371842961/photo/1",
+              "media_key": "3_1999754864549822464",
+              "start": 75,
+              "url": "https://t.co/2nGdpNtSGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999754877371842961",
+        "in_reply_to_user_id": "863404092613304320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999610284483162419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Michell73714722 @Citricat_miaow @dennisottawa 评价为用《习近平谈治国理政》来论证习近平真的会治国理政 https://t.co/2nGdpNtSGY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "863404092613304320",
+        "conversation_id": "1999239249401401551",
+        "created_at": "2025-12-12T22:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T23:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999610284483162419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1564251283984650241",
+              "start": 0,
+              "username": "Citricat_miaow"
+            },
+            {
+              "end": 29,
+              "id": "1828884565873614848",
+              "start": 16,
+              "username": "dennisottawa"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Abeka 2023 学校目录中关于基督教立国内容的提取与总结 Abeka 课程目录（2023 版）强调基督教教育的核心，将圣经真理融入从学前班到高中的所有科目，旨在培养基督教世界观、品格发展，并突出美国的基督教遗产。该目录中多次提及“基督教立国”（Christian nation-building），包括美国建国基于基督教原则、上帝的眷顾（providence）、圣经对公民责任的指导，以及通过教育维护基督教价值观的社会与国家建设。以下是相关内容的结构化总结，按年级段组织，焦点放在历史、社会研究、圣经整合和爱国主义元素上。内容基于目录的哲学、历史和公民教育部分，包含直接引用和关键主题。 学前班–1 年级：基础基督教价值观与美国起源 课程从上帝的创造入手，引入美国作为基督教国家的起源，如清教徒（Pilgrims）和感恩节。 | 类别 | 关键内容与引用 | |------|---------------| | 圣经与世界观 | 圣经故事（如创世、诺亚方舟、耶稣生平）；教义训练（38 题，57 节经文）；祈祷为国家祈福。引用：“孩子们通过讨论上帝的创造发展语言技能”（p. 1-2）。 | | 品格与原则 | 强调仁慈、服从、诚实；健康教育：“上帝造我就健康的身体”（p. 7,15）。 | | 基督教立国与遗产 | 介绍清教徒、华盛顿、林肯；符号如国旗（“In God We Trust”）、自由钟、自由女神像。1 年级：自由（言论、宗教）、《独立宣言》、《宪法》、《权利法案》；爱国歌曲。引用：清教徒作为“信仰逃亡者”（p. 17-18, 25-26）。 | 1–3 年级：基督教自由与建国原则 历史部分强调上帝赋予的自由，以及基督教对美国宪政的影响。 | 类别 | 关键内容与引用 | |------|---------------| | 圣经与世界观 | 人物故事（如摩西、约书亚）；祈祷为国家与领袖。科学：“上帝作为设计大师”（Grade 2）。 | | 品格与原则 | 感恩、责任、勇气、爱国、诚信；音乐包括爱国歌曲（如《星条旗》）。 | | 基督教立国与遗产 | 2 年级：上帝赋予的自由（言论、宗教）；清教徒信仰逃亡、华盛顿独立、《独立宣言》（1776）。3 年级：《我们的美国遗产》——50 多位基督教影响人物传记（如哥伦布、富兰克林、林肯、胡迪尼、卡佛、里根）；地理（美",
+              "display_url": "x.com/i/grok/share/I…",
+              "end": 53,
+              "expanded_url": "https://x.com/i/grok/share/I8UU8YLwIcmRjcds4jUDFl0Sx",
+              "start": 30,
+              "status": 200,
+              "title": "https://static.abeka.com/Abeka/InteractivePDF/SchoolCatalog/Abeka%20BKLT%20Detailed%20CS%20SS%2023%20Interactive.pdf?utm_source=chatgpt.com 搜索基督教立国的内容",
+              "unwound_url": "https://x.com/i/grok/share/I8UU8YLwIcmRjcds4jUDFl0Sx",
+              "url": "https://t.co/PcjdeqpVee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999610284483162419",
+        "in_reply_to_user_id": "1564251283984650241",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1153,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999467916283248995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citricat_miaow @dennisottawa https://t.co/PcjdeqpVee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5975,
+          "following_count": 216,
+          "like_count": 23194,
+          "listed_count": 18,
+          "media_count": 1718,
+          "tweet_count": 20975
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-13T14:42:31.000Z",
+        "description": "God fearing conservative woman ✝️ Jesus is the way, the truth🇺🇸",
+        "id": "863404092613304320",
+        "location": "CA",
+        "name": "Michelle✝️🇺🇸 🇦🇺 ❤️",
+        "pinned_tweet_id": "1984286351945306230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968993673107877888/Q9gdE780_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 774,
+          "like_count": 9872,
+          "listed_count": 5,
+          "media_count": 300,
+          "tweet_count": 8912
+        },
+        "username": "Michell73714722",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-29T13:59:12.000Z",
+        "description": "Language: Chinese, English Neurondiverse",
+        "id": "1564251283984650241",
+        "location": "Mitochondria ",
+        "name": "Citric acid",
+        "pinned_tweet_id": "1941305177346277612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663411578467938305/ypoACmu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1097,
+          "following_count": 518,
+          "like_count": 10670,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 5038
+        },
+        "username": "Citricat_miaow",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T19:57:30.000Z",
+        "description": "永远给独裁者一只人字拖🩴，一双不够用就再准备一双。  蓝天账号：@ottawarecorder 推特曾被封号，防失联请一并关注。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "ottawarecorder"
+              }
+            ]
+          }
+        },
+        "id": "1828884565873614848",
+        "location": "Ottawa, Ontario",
+        "name": "枫叶留声机",
+        "pinned_tweet_id": "1987063667238514904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904406516007833600/lX1sS26U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3409,
+          "following_count": 472,
+          "like_count": 17166,
+          "listed_count": 25,
+          "media_count": 826,
+          "tweet_count": 13278
+        },
+        "username": "dennisottawa",
+        "verified": true
+      }
+    ]
+  }
+}

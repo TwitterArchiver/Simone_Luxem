@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1853138793932394770",
+    "created_at": "2024-11-03T18:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T19:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1853138793932394770"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1853138793932394770",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点觉得是不是自己体能有点过分地好了…\n大概步行半小时多的路，自己就当饭前遛弯了，但是自己妹妹已经累累了…\n上学的时候也是，基本上每次到学校妹妹都喘了…\n以前只有Emma的时候我还以为只是Emma腿短的原因，但妹妹和自己一样高的…\n嗯…可能以后需要走路的工作还是自己干比较好…？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1853138793932394770",
+        "created_at": "2024-11-03T18:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T19:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853138793932394770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1853138793932394770",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点觉得是不是自己体能有点过分地好了…\n大概步行半小时多的路，自己就当饭前遛弯了，但是自己妹妹已经累累了…\n上学的时候也是，基本上每次到学校妹妹都喘了…\n以前只有Emma的时候我还以为只是Emma腿短的原因，但妹妹和自己一样高的…\n嗯…可能以后需要走路的工作还是自己干比较好…？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3845,
+          "following_count": 224,
+          "like_count": 17811,
+          "listed_count": 10,
+          "tweet_count": 17655
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

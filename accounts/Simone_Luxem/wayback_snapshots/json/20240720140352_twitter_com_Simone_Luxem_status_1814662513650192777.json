@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1814660947018936778",
+    "created_at": "2024-07-20T14:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-20T15:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1814662513650192777"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1814662513650192777",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1814660947018936778",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起来劳资之前不久甚至现在都在因为相关基础研究缺乏而头疼呢...这玩意这么说话纯属找骂..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1814660947018936778",
+        "created_at": "2024-07-20T14:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T15:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814662513650192777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1814662513650192777",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814660947018936778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来劳资之前不久甚至现在都在因为相关基础研究缺乏而头疼呢...这玩意这么说话纯属找骂..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1814660947018936778",
+        "created_at": "2024-07-20T13:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-20T14:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1814660947018936778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/BXdI5eMbSB4895…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/BXdI5eMbSB48958/status/1814654471479165363",
+              "start": 138,
+              "url": "https://t.co/R00Dl5tKHA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1814660947018936778",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1814654471479165363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个冷知识,各国官方的医疗机构中,全部的跨性别用药,从来没有一种药是专门为跨性别研发的,跨性别的需求长期都是被忽视的,相关的基础研究长期处于严重滞后状态\n你的描述更符合男性壮阳药或是“保护男性性功能”的药物,包括对男性生殖系统的基础研究,用你的屁眼想想制药公司到底赚的谁的钱 https://t.co/R00Dl5tKHA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3411,
+          "following_count": 222,
+          "like_count": 15395,
+          "listed_count": 8,
+          "tweet_count": 16147
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1810407685575286927",
+    "created_at": "2024-07-08T20:19:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-08T21:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810408353174032868"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1810408353174032868",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1810407685575286927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "甚至可以更细地分割成更多的前者与后者,而甚至它们之间互相都无法感受到对方的痛苦,像是完全互相无法沟通一样...\n...好奇怪...为什么都...无相无法感受到呢..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1810407685575286927",
+        "created_at": "2024-07-08T20:19:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T21:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810408353174032868"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1810408353174032868",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1810407685575286927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甚至可以更细地分割成更多的前者与后者,而甚至它们之间互相都无法感受到对方的痛苦,像是完全互相无法沟通一样...\n...好奇怪...为什么都...无相无法感受到呢..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1810407685575286927",
+        "created_at": "2024-07-08T20:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-08T21:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810407685575286927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KURANAGA3/stat…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/KURANAGA3/status/1809957794973380884",
+              "start": 146,
+              "url": "https://t.co/AJAxjhRCLY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810407685575286927",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809957794973380884",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是我所感到害怕和不明白的\n确实,你可以说处于同一个体系中,前者在结构性地组成某种意义上压迫后者的一部分；但这种结构性的,很大程度上源于出身的压迫,很难说是当事人出于自由意志有意为之的,甚至当事人很有可能是想要摆脱的,而痛苦本身是不可以相比较的,为何发生在前者身上,就无法感同身受了呢..？ https://t.co/AJAxjhRCLY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3364,
+          "following_count": 221,
+          "like_count": 14938,
+          "listed_count": 9,
+          "tweet_count": 15898
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

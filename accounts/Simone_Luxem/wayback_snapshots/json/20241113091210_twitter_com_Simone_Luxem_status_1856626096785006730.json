@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1856626096785006730",
+    "created_at": "2024-11-13T09:12:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-13T10:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1856626096785006730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1487336894522265601",
+          "start": 0,
+          "username": "HDHZMcDonald"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/gudasuccubus/s…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/gudasuccubus/status/1856098370504241588",
+          "start": 37,
+          "url": "https://t.co/nat5FCjYyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856626096785006730",
+    "in_reply_to_user_id": "1487336894522265601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856098370504241588",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HDHZMcDonald \n诶等等我去这张图里那个人怎么那么像你？？？ https://t.co/nat5FCjYyu"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with referenced_tweets.id: [1856098370504241588].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1856098370504241588",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1856098370504241588"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1856626096785006730",
+        "created_at": "2024-11-13T09:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-13T10:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1856626096785006730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1487336894522265601",
+              "start": 0,
+              "username": "HDHZMcDonald"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/gudasuccubus/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/gudasuccubus/status/1856098370504241588",
+              "start": 37,
+              "url": "https://t.co/nat5FCjYyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856626096785006730",
+        "in_reply_to_user_id": "1487336894522265601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856098370504241588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HDHZMcDonald \n诶等等我去这张图里那个人怎么那么像你？？？ https://t.co/nat5FCjYyu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3850,
+          "following_count": 223,
+          "like_count": 17901,
+          "listed_count": 10,
+          "tweet_count": 17741
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T08:09:04.000Z",
+        "description": "Retired OIer/Cis/LGBT+ friendly/Beijing→🇺🇸\nMidwest/ https://t.co/4bqoSGJ3jK /@noaayoyaoaya @amber_toffee",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 77,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 104,
+                "start": 91,
+                "username": "amber_toffee"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HDHZMC",
+                "end": 75,
+                "expanded_url": "http://t.me/HDHZMC",
+                "start": 52,
+                "url": "https://t.co/4bqoSGJ3jK"
+              }
+            ]
+          }
+        },
+        "id": "1487336894522265601",
+        "location": "United States",
+        "name": "板烧小菜菜",
+        "pinned_tweet_id": "1811642636777783792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1487337829470699520/KCbKhMxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 945,
+          "following_count": 3797,
+          "like_count": 41069,
+          "listed_count": 1,
+          "tweet_count": 3253
+        },
+        "username": "HDHZMcDonald",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1790668658378719737",
+    "created_at": "2024-05-15T09:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-15T10:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790680463238922428"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1790680463238922428",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1790668658378719737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沦落到被迫出卖自己的劳动力和直接出卖肉体的程度，却仍然在试图让自己变得符合那套致使自己沦落至此的秩序，甚至不惜对同样在同一套秩序下被压迫被绞死的同类恶语相向，只为稍微得到一点点“自己还不是最糟糕的”的错觉…实在是…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1790668658378719737",
+        "created_at": "2024-05-15T09:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T10:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790680463238922428"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790680463238922428",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1790668658378719737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沦落到被迫出卖自己的劳动力和直接出卖肉体的程度，却仍然在试图让自己变得符合那套致使自己沦落至此的秩序，甚至不惜对同样在同一套秩序下被压迫被绞死的同类恶语相向，只为稍微得到一点点“自己还不是最糟糕的”的错觉…实在是…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1790668658378719737",
+        "created_at": "2024-05-15T09:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-15T10:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790668658378719737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1790668658378719737",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到有些很不喜欢的人，却对它们怨恨不起来，只是觉得可怜…\n如果不是自己额外的幸运，让自己很可能在最开始就得到了比它们更多的多的物质条件和精神上的支持，自己现在也会像它们那样，盲目地排斥任何与自己不同的事物而不去思考其背后的原因和体现的本质，狂热地拥护一套自己被灌输而未经思考的观念"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3144,
+          "following_count": 216,
+          "like_count": 13481,
+          "listed_count": 11,
+          "tweet_count": 15122
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

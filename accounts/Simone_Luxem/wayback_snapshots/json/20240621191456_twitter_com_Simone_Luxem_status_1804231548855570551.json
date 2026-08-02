@@ -1,0 +1,106 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1804231548855570551",
+    "created_at": "2024-06-21T19:14:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-21T20:14:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1804231548855570551"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1804231548855570551",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有点点感叹...在不久之前还天天在嚎没（有阴茎）的男人陪,在学校没有中国人组队会死的顺直人舍友,现在似乎成了我们很多人中最“适应荷兰社会”的了\n也可能因为我和Emma都是那种“注定无法得到安定生活”的人吧,甚至仅仅是靠近都会被卷入漩涡的那种,无论在哪个现有的社会,都是要去改变,而不是适应它的吧..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1804231548855570551",
+        "created_at": "2024-06-21T19:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-21T20:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804231548855570551"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1804231548855570551",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有点点感叹...在不久之前还天天在嚎没（有阴茎）的男人陪,在学校没有中国人组队会死的顺直人舍友,现在似乎成了我们很多人中最“适应荷兰社会”的了\n也可能因为我和Emma都是那种“注定无法得到安定生活”的人吧,甚至仅仅是靠近都会被卷入漩涡的那种,无论在哪个现有的社会,都是要去改变,而不是适应它的吧..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3331,
+          "following_count": 221,
+          "like_count": 14144,
+          "listed_count": 10,
+          "tweet_count": 15590
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

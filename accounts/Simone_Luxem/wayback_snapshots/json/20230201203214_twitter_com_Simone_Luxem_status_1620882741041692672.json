@@ -1,0 +1,93 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1620882741041692672",
+    "created_at": "2023-02-01T20:32:14.000Z",
+    "edit_controls": {
+      "editable_until": "2023-02-01T21:02:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1620882741041692672"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1620882741041692672",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果有尾巴就好了\n可以玩自己的尾巴\n也可以用自己的尾巴玩自己…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1620882741041692672",
+        "created_at": "2023-02-01T20:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2023-02-01T21:02:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1620882741041692672"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1620882741041692672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有尾巴就好了\n可以玩自己的尾巴\n也可以用自己的尾巴玩自己…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；ASD/ADHD；open relationship;贪婪的冒险者；失败主义军师；混乱善良第四天灾；想要闪闪发光呢；祝我们死得其所; lover & care giver @Emma20131621",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 111,
+                "username": "Emma20131621"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "simone🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610090054856187904/hfwL_46R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229,
+          "following_count": 180,
+          "listed_count": 3,
+          "tweet_count": 7512
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

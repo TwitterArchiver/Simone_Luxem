@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1524025357363425280",
+          "name": "John Lee Ka-chiu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1524025357363425280",
+          "name": "John Lee Ka-chiu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1524025357363425280",
+          "name": "John Lee Ka-chiu"
+        }
+      }
+    ],
+    "conversation_id": "1945048312517681662",
+    "created_at": "2025-07-15T09:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T10:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1945048312517681662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zaobaosg/statu…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/zaobaosg/status/1945045800662262221",
+          "start": 65,
+          "url": "https://t.co/s6A5URy5SM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945048312517681662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945045800662262221",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感受这个世界的荒谬…\n略有一种，希特勒表示要保护国内在集中营里认真干活的犹太人的生存权，但希姆莱和海因里希对此表示反对的即视感… https://t.co/s6A5URy5SM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          }
+        ],
+        "conversation_id": "1945048312517681662",
+        "created_at": "2025-07-15T09:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T10:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945048312517681662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zaobaosg/statu…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/zaobaosg/status/1945045800662262221",
+              "start": 65,
+              "url": "https://t.co/s6A5URy5SM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945048312517681662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945045800662262221",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感受这个世界的荒谬…\n略有一种，希特勒表示要保护国内在集中营里认真干活的犹太人的生存权，但希姆莱和海因里希对此表示反对的即视感… https://t.co/s6A5URy5SM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "39941478",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1524025357363425280",
+              "name": "John Lee Ka-chiu"
+            }
+          }
+        ],
+        "conversation_id": "1945045800662262221",
+        "created_at": "2025-07-15T09:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T10:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945045800662262221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "香港行政长官李家超星期二（7月15日）表明支持赋予同性伴侣有限权利的法案，并表示会协助立法会尽快完成审议。这项法案目前遭到多名建制派议员反对，面临被否决的可能。",
+              "display_url": "zaobao.com.sg/realtime/china…",
+              "end": 104,
+              "expanded_url": "https://www.zaobao.com.sg/realtime/china/story20250715-7146249?utm_medium=Social&utm_source=Twitter#Echobox=1752562379",
+              "images": [
+                {
+                  "height": 500,
+                  "url": "https://pbs.twimg.com/news_img/1945045805452111872/Xew1DYp4?format=jpg&name=orig",
+                  "width": 909
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1945045805452111872/Xew1DYp4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 81,
+              "status": 200,
+              "title": "李家超支持同性伴侣登记机制 协助尽快完成审议",
+              "unwound_url": "https://www.zaobao.com.sg/realtime/china/story20250715-7146249?utm_medium=Social&utm_source=Twitter#Echobox=1752562379",
+              "url": "https://t.co/rMDN4OYNxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945045800662262221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2914,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "香港行政长官李家超星期二（7月16日）表明支持赋予同性伴侣有限权利的法案，并表示会协助立法会尽快完成审议。这项法案目前遭到多名建制派议员反对，面临被否决的可能。 https://t.co/rMDN4OYNxx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4490,
+          "following_count": 219,
+          "like_count": 21380,
+          "listed_count": 13,
+          "media_count": 1634,
+          "tweet_count": 19938
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-14T06:18:48.000Z",
+        "description": "《联合早报》网站和应用是新报业媒体有限公司属下的中文新闻与资讯平台。以第三只眼看大中华，客观新闻和深度评析是众多亚太区读者的最爱。📲：https://t.co/kHH36EdQU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/zaobaosg",
+                "end": 90,
+                "expanded_url": "http://t.me/zaobaosg",
+                "start": 67,
+                "url": "https://t.co/kHH36EdQU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zaobao.sg",
+                "end": 23,
+                "expanded_url": "http://www.zaobao.sg",
+                "start": 0,
+                "url": "https://t.co/SFQSIIL8zo"
+              }
+            ]
+          }
+        },
+        "id": "39941478",
+        "location": "Singapore",
+        "name": "联合早报 Lianhe Zaobao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699090259018240000/QploqfS9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667735,
+          "following_count": 5,
+          "like_count": 22,
+          "listed_count": 5832,
+          "media_count": 5745,
+          "tweet_count": 156327
+        },
+        "url": "https://t.co/SFQSIIL8zo",
+        "username": "zaobaosg",
+        "verified": true
+      }
+    ]
+  }
+}

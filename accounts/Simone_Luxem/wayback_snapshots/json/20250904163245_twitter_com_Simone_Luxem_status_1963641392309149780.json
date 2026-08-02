@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1963641392309149780",
+    "created_at": "2025-09-04T16:32:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T17:32:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963641392309149780"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1963641392309149780",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有时候会忍不住觉得自己目前的生活似乎“也不错”的，吃穿不愁有地方住，身边就有亲密的人甚至每晚都睡在同一个被窝里，好像这样的生活如果继续下去也没什么问题…\n除了自己作为“自己”的那一部分好像在这样“不错”的生活中会慢慢消失掉的，生活或许可以继续，只是自己不再行了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1963641392309149780",
+        "created_at": "2025-09-04T16:32:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T17:32:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963641392309149780"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963641392309149780",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时候会忍不住觉得自己目前的生活似乎“也不错”的，吃穿不愁有地方住，身边就有亲密的人甚至每晚都睡在同一个被窝里，好像这样的生活如果继续下去也没什么问题…\n除了自己作为“自己”的那一部分好像在这样“不错”的生活中会慢慢消失掉的，生活或许可以继续，只是自己不再行了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4553,
+          "following_count": 218,
+          "like_count": 22349,
+          "listed_count": 13,
+          "media_count": 1655,
+          "tweet_count": 20283
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

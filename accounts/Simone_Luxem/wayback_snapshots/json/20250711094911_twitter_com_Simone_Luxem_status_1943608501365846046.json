@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1943271599219552754",
+    "created_at": "2025-07-11T09:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-11T10:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943608501365846046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1787439752016523264",
+          "start": 0,
+          "username": "SpaceMechanic01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943608501365846046",
+    "in_reply_to_user_id": "1787439752016523264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943271599219552754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpaceMechanic01 游泳者瞩目（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1943270809377636354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvfigVdXAAIxEnD.jpg",
+        "width": 1280
+      },
+      {
+        "height": 800,
+        "media_key": "3_1943270809385971713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvfigVfWMAE8Oks.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1943271599219552754",
+        "created_at": "2025-07-11T09:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T10:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943608501365846046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1787439752016523264",
+              "start": 0,
+              "username": "SpaceMechanic01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943608501365846046",
+        "in_reply_to_user_id": "1787439752016523264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943271599219552754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpaceMechanic01 游泳者瞩目（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943270809377636354",
+            "3_1943270809385971713"
+          ]
+        },
+        "author_id": "1787439752016523264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "1943271599219552754",
+        "created_at": "2025-07-10T11:30:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-10T12:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943271599219552754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8LlSB32b2T",
+              "end": 182,
+              "expanded_url": "https://x.com/SpaceMechanic01/status/1943271599219552754/photo/1",
+              "media_key": "3_1943270809377636354",
+              "start": 159,
+              "url": "https://t.co/8LlSB32b2T"
+            },
+            {
+              "display_url": "pic.x.com/8LlSB32b2T",
+              "end": 182,
+              "expanded_url": "https://x.com/SpaceMechanic01/status/1943271599219552754/photo/1",
+              "media_key": "3_1943270809385971713",
+              "start": 159,
+              "url": "https://t.co/8LlSB32b2T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943271599219552754",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 301,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "V3里面经常有这种抽象的幽默：毛泽东担任主席的中华人民共和国，但是法国傀儡(中国共产主义者以当法国傀儡为代价换取社会主义法国下场支持他们革命，才赢得内战胜利)\n\nBPM(Better politics mod)连马列毛主义这个意识形态都做出来了，这个mod确实不错，强烈推荐所有玩V3的人都下载RA和BPM两个mod https://t.co/8LlSB32b2T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4478,
+          "following_count": 219,
+          "like_count": 21216,
+          "listed_count": 0,
+          "media_count": 1630,
+          "tweet_count": 19898
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T11:10:34.000Z",
+        "description": "Communist，Feminist",
+        "id": "1787439752016523264",
+        "name": "🌨️☂️凝冻态❄️☃️",
+        "pinned_tweet_id": "1943486078666580017",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924504861019885568/-rwpSCF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1728,
+          "following_count": 576,
+          "like_count": 12859,
+          "listed_count": 8,
+          "media_count": 255,
+          "tweet_count": 4311
+        },
+        "username": "SpaceMechanic01",
+        "verified": false
+      }
+    ]
+  }
+}

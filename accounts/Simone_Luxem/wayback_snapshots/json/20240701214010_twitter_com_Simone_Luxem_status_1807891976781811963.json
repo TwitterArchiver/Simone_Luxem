@@ -1,0 +1,165 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1807891096162206178",
+    "created_at": "2024-07-01T21:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-01T22:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1807891976781811963"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1807891976781811963",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807891096162206178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以按照我所知道的,宗教的发展本身就很像程序员写程序吧,写出来的只保证在当时能跑,至于没有bug,那是不可能的,如果想要一直能跑就总得有人来debug,然后日积月累就成屎山了...作为现在的人我们既没法知道最早写这条程序的人想要表达的完整含义,并且这个原始完整含义本身也就是有一堆bug的..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1807891096162206178",
+        "created_at": "2024-07-01T21:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T22:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807891976781811963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807891976781811963",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807891096162206178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以按照我所知道的,宗教的发展本身就很像程序员写程序吧,写出来的只保证在当时能跑,至于没有bug,那是不可能的,如果想要一直能跑就总得有人来debug,然后日积月累就成屎山了...作为现在的人我们既没法知道最早写这条程序的人想要表达的完整含义,并且这个原始完整含义本身也就是有一堆bug的..."
+      },
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1807891096162206178",
+        "created_at": "2024-07-01T21:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-01T22:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1807891096162206178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kirisamelev/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/kirisamelev/status/1807695328126312458",
+              "start": 141,
+              "url": "https://t.co/daTiGl4xMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1807891096162206178",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807695328126312458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个问题,神是否是人可以用理性理解的呢？\n如果是,那么现如今的所有事情至少说明“全能”和“全善”之间有一个不成立了...\n如果不是,那么用人类可以理解的语言所写出来文字,无论是哪本经书,又怎么可能表达的是神原本的含义呢？如果表达的不是神原本的含义,那这些经书又有什么神圣性可言呢？ https://t.co/daTiGl4xMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3355,
+          "following_count": 221,
+          "like_count": 14676,
+          "listed_count": 10,
+          "tweet_count": 15750
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1940919682573520934",
+    "created_at": "2025-07-04T08:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T09:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941056451897946546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1507723638249713664",
+          "start": 0,
+          "username": "yuebanzhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941056451897946546",
+    "in_reply_to_user_id": "1507723638249713664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940919682573520934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuebanzhu 要是根本活不长那也花不了多少钱，你到底在说什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1940919682573520934",
+        "created_at": "2025-07-04T08:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T09:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941056451897946546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507723638249713664",
+              "start": 0,
+              "username": "yuebanzhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941056451897946546",
+        "in_reply_to_user_id": "1507723638249713664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940919682573520934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuebanzhu 要是根本活不长那也花不了多少钱，你到底在说什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507723638249713664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1376630920141172737",
+              "name": "Japan National Diet "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1376630920141172737",
+              "name": "Japan National Diet "
+            }
+          }
+        ],
+        "conversation_id": "1940919682573520934",
+        "created_at": "2025-07-03T23:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T00:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940919682573520934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/_vicwong/statu…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/_vicwong/status/1940766665634963882",
+              "start": 57,
+              "url": "https://t.co/p40vdtCHXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940919682573520934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9294,
+          "like_count": 46,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940766665634963882",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你来了日本就知道有多恶心了\n基本就是一个现役纳税人砸钱养活根本活不长的癌症老登的奇葩制度\n这不是社会主义是什么？ https://t.co/p40vdtCHXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4337,
+          "following_count": 219,
+          "like_count": 20972,
+          "listed_count": 12,
+          "media_count": 1616,
+          "tweet_count": 19822
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T14:18:40.000Z",
+        "description": "一直在日本。似乎是一名法律工作者。右翼，非典型自由主义。政治面貌境外势力汉奸叛徒反革命分子。荒川商学院🥱创始人。https://t.co/zwDurJQwha宫司🥳私信回复较慢（一般周三周六晚上回复）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "runjinja.jp",
+                "end": 79,
+                "expanded_url": "http://runjinja.jp",
+                "start": 56,
+                "url": "https://t.co/zwDurJQwha"
+              }
+            ]
+          }
+        },
+        "id": "1507723638249713664",
+        "location": "日本东京",
+        "name": "月半",
+        "pinned_tweet_id": "1912832481038127333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1529606141545545728/ufDWA7bY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13622,
+          "following_count": 4896,
+          "like_count": 269673,
+          "listed_count": 80,
+          "media_count": 3494,
+          "tweet_count": 43370
+        },
+        "username": "yuebanzhu",
+        "verified": true
+      }
+    ]
+  }
+}

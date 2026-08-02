@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047884875710287872"
+      ],
+      "media_source_tweet_id": [
+        "2047884886724481248"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "2047898435123311050",
+    "created_at": "2026-04-25T04:40:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:40:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047898435123311050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1581478431274983424",
+          "start": 3,
+          "username": "yoyobewild"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oi7otbH7gd",
+          "end": 54,
+          "expanded_url": "https://x.com/yoyobewild/status/2047884886724481248/photo/1",
+          "media_key": "3_2047884875710287872",
+          "start": 31,
+          "url": "https://t.co/oi7otbH7gd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047898435123311050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047884886724481248",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yoyobewild: 深圳警察衙门式的“配合调查” https://t.co/oi7otbH7gd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047884875710287872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuMcb2bUAAwhP6.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047884875710287872"
+          ],
+          "media_source_tweet_id": [
+            "2047884886724481248"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "2047898435123311050",
+        "created_at": "2026-04-25T04:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047898435123311050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1581478431274983424",
+              "start": 3,
+              "username": "yoyobewild"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oi7otbH7gd",
+              "end": 54,
+              "expanded_url": "https://x.com/yoyobewild/status/2047884886724481248/photo/1",
+              "media_key": "3_2047884875710287872",
+              "start": 31,
+              "url": "https://t.co/oi7otbH7gd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047898435123311050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047884886724481248",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yoyobewild: 深圳警察衙门式的“配合调查” https://t.co/oi7otbH7gd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047884875710287872"
+          ]
+        },
+        "author_id": "1581478431274983424",
+        "conversation_id": "2047884886724481248",
+        "created_at": "2026-04-25T03:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047884886724481248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oi7otbH7gd",
+              "end": 38,
+              "expanded_url": "https://x.com/yoyobewild/status/2047884886724481248/photo/1",
+              "media_key": "3_2047884875710287872",
+              "start": 15,
+              "url": "https://t.co/oi7otbH7gd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047884886724481248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 754,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "深圳警察衙门式的“配合调查” https://t.co/oi7otbH7gd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6063,
+          "following_count": 217,
+          "like_count": 24404,
+          "listed_count": 19,
+          "media_count": 1773,
+          "tweet_count": 21579
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4753,
+          "following_count": 191,
+          "like_count": 37256,
+          "listed_count": 18,
+          "media_count": 384,
+          "tweet_count": 8060
+        },
+        "username": "yoyobewild",
+        "verified": false
+      }
+    ]
+  }
+}

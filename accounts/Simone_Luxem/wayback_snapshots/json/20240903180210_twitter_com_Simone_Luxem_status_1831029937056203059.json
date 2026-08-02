@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1831029937056203059",
+    "created_at": "2024-09-03T18:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-03T19:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831029937056203059"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1831029937056203059",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来自妹妹的一段话，其实原本是她对Emma说的，但是给我说的…很想哭吧\n\n『说实话我不太明白，可能我是和“没办法住在一起”的人住太久了。有时候我还觉得她们挺可爱的，虽然她们有的人BPD，有的人DID，有的人阿斯伯格ADHD，有的人不懂得尊重人，有的人从来不会说谢谢，有的人因为一点小事把手割成烂席子，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1831029937056203059",
+        "created_at": "2024-09-03T18:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-03T19:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831029937056203059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1831029937056203059",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来自妹妹的一段话，其实原本是她对Emma说的，但是给我说的…很想哭吧\n\n『说实话我不太明白，可能我是和“没办法住在一起”的人住太久了。有时候我还觉得她们挺可爱的，虽然她们有的人BPD，有的人DID，有的人阿斯伯格ADHD，有的人不懂得尊重人，有的人从来不会说谢谢，有的人因为一点小事把手割成烂席子，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3666,
+          "following_count": 224,
+          "like_count": 16431,
+          "listed_count": 8,
+          "tweet_count": 16835
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

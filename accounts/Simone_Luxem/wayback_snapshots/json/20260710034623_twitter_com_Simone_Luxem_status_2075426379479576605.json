@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075400272705454080",
+        "3_2075400272709591040",
+        "3_2075400272709623808",
+        "3_2075400272713789440"
+      ],
+      "media_source_tweet_id": [
+        "2075400276933316917",
+        "2075400276933316917",
+        "2075400276933316917",
+        "2075400276933316917"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "2075426379479576605",
+    "created_at": "2026-07-10T03:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T04:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075426379479576605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2042068041694113793",
+          "start": 3,
+          "username": "ChineseRainbowN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8ouDESL7aO",
+          "end": 88,
+          "expanded_url": "https://x.com/ChineseRainbowN/status/2075400276933316917/photo/1",
+          "media_key": "3_2075400272705454080",
+          "start": 65,
+          "url": "https://t.co/8ouDESL7aO"
+        },
+        {
+          "display_url": "pic.x.com/8ouDESL7aO",
+          "end": 88,
+          "expanded_url": "https://x.com/ChineseRainbowN/status/2075400276933316917/photo/1",
+          "media_key": "3_2075400272709591040",
+          "start": 65,
+          "url": "https://t.co/8ouDESL7aO"
+        },
+        {
+          "display_url": "pic.x.com/8ouDESL7aO",
+          "end": 88,
+          "expanded_url": "https://x.com/ChineseRainbowN/status/2075400276933316917/photo/1",
+          "media_key": "3_2075400272709623808",
+          "start": 65,
+          "url": "https://t.co/8ouDESL7aO"
+        },
+        {
+          "display_url": "pic.x.com/8ouDESL7aO",
+          "end": 88,
+          "expanded_url": "https://x.com/ChineseRainbowN/status/2075400276933316917/photo/1",
+          "media_key": "3_2075400272713789440",
+          "start": 65,
+          "url": "https://t.co/8ouDESL7aO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075426379479576605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075400276933316917",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChineseRainbowN: 举报性取向矫正机构是目前我们可以拿起的有效武器！大家可以从拨打029-12345 开始 https://t.co/8ouDESL7aO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1402,
+        "media_key": "3_2075400272705454080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1NjVVbgAAniFL.jpg",
+        "width": 1122
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075400272709591040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1NjVWaoAA0wmD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1074,
+        "media_key": "3_2075400272709623808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1NjVWbIAAp6oJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1244,
+        "media_key": "3_2075400272713789440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1NjVXasAADC9C.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075400272705454080",
+            "3_2075400272709591040",
+            "3_2075400272709623808",
+            "3_2075400272713789440"
+          ],
+          "media_source_tweet_id": [
+            "2075400276933316917",
+            "2075400276933316917",
+            "2075400276933316917",
+            "2075400276933316917"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "2075426379479576605",
+        "created_at": "2026-07-10T03:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075426379479576605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2042068041694113793",
+              "start": 3,
+              "username": "ChineseRainbowN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ouDESL7aO",
+              "end": 88,
+              "expanded_url": "https://x.com/ChineseRainbowN/status/2075400276933316917/photo/1",
+              "media_key": "3_2075400272705454080",
+              "start": 65,
+              "url": "https://t.co/8ouDESL7aO"
+            },
+            {
+              "display_url": "pic.x.com/8ouDESL7aO",
+              "end": 88,
+              "expanded_url": "https://x.com/ChineseRainbowN/status/2075400276933316917/photo/1",
+              "media_key": "3_2075400272709591040",
+              "start": 65,
+              "url": "https://t.co/8ouDESL7aO"
+            },
+            {
+              "display_url": "pic.x.com/8ouDESL7aO",
+              "end": 88,
+              "expanded_url": "https://x.com/ChineseRainbowN/status/2075400276933316917/photo/1",
+              "media_key": "3_2075400272709623808",
+              "start": 65,
+              "url": "https://t.co/8ouDESL7aO"
+            },
+            {
+              "display_url": "pic.x.com/8ouDESL7aO",
+              "end": 88,
+              "expanded_url": "https://x.com/ChineseRainbowN/status/2075400276933316917/photo/1",
+              "media_key": "3_2075400272713789440",
+              "start": 65,
+              "url": "https://t.co/8ouDESL7aO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075426379479576605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075400276933316917",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChineseRainbowN: 举报性取向矫正机构是目前我们可以拿起的有效武器！大家可以从拨打029-12345 开始 https://t.co/8ouDESL7aO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075400272705454080",
+            "3_2075400272709591040",
+            "3_2075400272709623808",
+            "3_2075400272713789440"
+          ]
+        },
+        "author_id": "2042068041694113793",
+        "conversation_id": "2075400276933316917",
+        "created_at": "2026-07-10T02:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T03:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075400276933316917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8ouDESL7aO",
+              "end": 67,
+              "expanded_url": "https://x.com/ChineseRainbowN/status/2075400276933316917/photo/1",
+              "media_key": "3_2075400272705454080",
+              "start": 44,
+              "url": "https://t.co/8ouDESL7aO"
+            },
+            {
+              "display_url": "pic.x.com/8ouDESL7aO",
+              "end": 67,
+              "expanded_url": "https://x.com/ChineseRainbowN/status/2075400276933316917/photo/1",
+              "media_key": "3_2075400272709591040",
+              "start": 44,
+              "url": "https://t.co/8ouDESL7aO"
+            },
+            {
+              "display_url": "pic.x.com/8ouDESL7aO",
+              "end": 67,
+              "expanded_url": "https://x.com/ChineseRainbowN/status/2075400276933316917/photo/1",
+              "media_key": "3_2075400272709623808",
+              "start": 44,
+              "url": "https://t.co/8ouDESL7aO"
+            },
+            {
+              "display_url": "pic.x.com/8ouDESL7aO",
+              "end": 67,
+              "expanded_url": "https://x.com/ChineseRainbowN/status/2075400276933316917/photo/1",
+              "media_key": "3_2075400272713789440",
+              "start": 44,
+              "url": "https://t.co/8ouDESL7aO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075400276933316917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 475,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "举报性取向矫正机构是目前我们可以拿起的有效武器！大家可以从拨打029-12345 开始 https://t.co/8ouDESL7aO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6235,
+          "following_count": 220,
+          "like_count": 25038,
+          "listed_count": 16,
+          "media_count": 1793,
+          "tweet_count": 21813
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-09T02:34:32.000Z",
+        "description": "We are Chinese Rainbow Network. \nThe largest oversea Chinese LGBTQ+ community in the world. instagram @chineserainbownetwork",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 102,
+                "username": "chineserainbownetwor"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crn.ngo",
+                "end": 23,
+                "expanded_url": "http://crn.ngo",
+                "start": 0,
+                "url": "https://t.co/Nkar3BWvJ8"
+              }
+            ]
+          }
+        },
+        "id": "2042068041694113793",
+        "name": "Chinese Rainbow Network",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042069730715168769/vLkFF634_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 27,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/Nkar3BWvJ8",
+        "username": "ChineseRainbowN",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1968320565653217286",
+    "created_at": "2025-09-18T06:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T07:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968556085587112261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1454848929019797523",
+          "start": 0,
+          "username": "Mashiro_RinNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968556085587112261",
+    "in_reply_to_user_id": "1454848929019797523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968554151983673591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mashiro_RinNeko 自由言论的边界应该至少以不公开针对某种以人的固有属性为标准划分的群体进行攻击，侮辱，非人化，鼓动对其进行暴力或其它不公正对待为界限的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1968320565653217286",
+        "created_at": "2025-09-18T06:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T07:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968556085587112261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1454848929019797523",
+              "start": 0,
+              "username": "Mashiro_RinNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968556085587112261",
+        "in_reply_to_user_id": "1454848929019797523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968554151983673591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mashiro_RinNeko 自由言论的边界应该至少以不公开针对某种以人的固有属性为标准划分的群体进行攻击，侮辱，非人化，鼓动对其进行暴力或其它不公正对待为界限的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454848929019797523",
+        "conversation_id": "1968320565653217286",
+        "created_at": "2025-09-18T05:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T06:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968554151983673591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968554151983673591",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968320565653217286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 我倒覺得不至於，他也有表達自己觀點的權利，要是動不動就吊人那才是真正的獨裁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4610,
+          "following_count": 219,
+          "like_count": 22462,
+          "listed_count": 13,
+          "media_count": 1658,
+          "tweet_count": 20375
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-31T16:34:36.000Z",
+        "description": "我也會死的，但你不是嗎？能和@evomoarte姐姐死在一起就是我最大的願望啦～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 14,
+                "username": "evomoarte"
+              }
+            ]
+          }
+        },
+        "id": "1454848929019797523",
+        "location": "柯伊伯带 小行星9979",
+        "name": "苓☆ Einz",
+        "pinned_tweet_id": "1919422377500577811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583477614290694144/xjGmztpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 403,
+          "like_count": 3249,
+          "listed_count": 4,
+          "media_count": 191,
+          "tweet_count": 6742
+        },
+        "username": "Mashiro_RinNeko",
+        "verified": false
+      }
+    ]
+  }
+}

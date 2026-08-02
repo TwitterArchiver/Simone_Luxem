@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2047900010789191875",
+    "created_at": "2026-04-25T07:18:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T08:18:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047938379514585586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "835183658084384768",
+          "start": 0,
+          "username": "Shelly3400"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047938379514585586",
+    "in_reply_to_user_id": "835183658084384768",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047937598799421854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shelly3400 喵喵逃走（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2047900010789191875",
+        "created_at": "2026-04-25T07:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047938379514585586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "835183658084384768",
+              "start": 0,
+              "username": "Shelly3400"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047938379514585586",
+        "in_reply_to_user_id": "835183658084384768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047937598799421854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shelly3400 喵喵逃走（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "835183658084384768",
+        "conversation_id": "2047900010789191875",
+        "created_at": "2026-04-25T07:15:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T08:15:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047937598799421854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047937598799421854",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047900010789191875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 人不可以一邊發表進步言論一邊物化女性和反覆挑戰底線😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6071,
+          "following_count": 217,
+          "like_count": 24410,
+          "listed_count": 19,
+          "media_count": 1773,
+          "tweet_count": 21585
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-24T17:44:35.000Z",
+        "description": "Cat person, Workout for muscle, Thai-food n simply food. 🎮 Gamer, MBA Finance, ENFJ-T,LGBTQ+🌈 Date of rebirth 29th June 2022",
+        "id": "835183658084384768",
+        "location": "Wang Thonglang, Bangkok",
+        "name": "🐸Irene🏳️‍⚧️🌈",
+        "pinned_tweet_id": "1599331982026379265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505044115116855304/h_3mtgtf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4081,
+          "following_count": 929,
+          "like_count": 17414,
+          "listed_count": 14,
+          "media_count": 522,
+          "tweet_count": 6943
+        },
+        "username": "Shelly3400",
+        "verified": false
+      }
+    ]
+  }
+}

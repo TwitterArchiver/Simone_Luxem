@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1974730553200116116",
+    "created_at": "2025-10-05T06:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T07:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974730553200116116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1444716723978981380",
+          "start": 3,
+          "username": "EleanorAnatidae"
+        },
+        {
+          "end": 44,
+          "id": "1526938197951131648",
+          "start": 33,
+          "username": "xinxia_mtf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/F",
+          "end": 139,
+          "start": 125,
+          "url": "https://t.co/F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974730553200116116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974619572474089627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EleanorAnatidae: ❗️❗️求助帖❗️❗️\n@xinxia_mtf 其父亲是家暴党，曾在两年前被送进扭转机构。现在她正在被绑架前往葫芦岛建昌，车牌号豫ATE081，具体内容看图片。\n麻烦大家关注一下，可以的话帮帮忙，万分感谢！ https://t.co/F…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1974619562273558530",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2dCB6faUAIlSmo.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1974619562248376320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2dCB6ZaEAAcWFD.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1974730553200116116",
+        "created_at": "2025-10-05T06:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T07:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974730553200116116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1444716723978981380",
+              "start": 3,
+              "username": "EleanorAnatidae"
+            },
+            {
+              "end": 44,
+              "id": "1526938197951131648",
+              "start": 33,
+              "username": "xinxia_mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/F",
+              "end": 139,
+              "start": 125,
+              "url": "https://t.co/F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974730553200116116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974619572474089627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EleanorAnatidae: ❗️❗️求助帖❗️❗️\n@xinxia_mtf 其父亲是家暴党，曾在两年前被送进扭转机构。现在她正在被绑架前往葫芦岛建昌，车牌号豫ATE081，具体内容看图片。\n麻烦大家关注一下，可以的话帮帮忙，万分感谢！ https://t.co/F…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974619562273558530",
+            "3_1974619562248376320"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "conversation_id": "1974619572474089627",
+        "created_at": "2025-10-04T23:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T00:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974619572474089627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1526938197951131648",
+              "start": 12,
+              "username": "xinxia_mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FcOPrNlrLG",
+              "end": 127,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1974619572474089627/photo/1",
+              "media_key": "3_1974619562273558530",
+              "start": 104,
+              "url": "https://t.co/FcOPrNlrLG"
+            },
+            {
+              "display_url": "pic.x.com/FcOPrNlrLG",
+              "end": 127,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/1974619572474089627/photo/1",
+              "media_key": "3_1974619562248376320",
+              "start": 104,
+              "url": "https://t.co/FcOPrNlrLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974619572474089627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9382,
+          "like_count": 77,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "❗️❗️求助帖❗️❗️\n@xinxia_mtf 其父亲是家暴党，曾在两年前被送进扭转机构。现在她正在被绑架前往葫芦岛建昌，车牌号豫ATE081，具体内容看图片。\n麻烦大家关注一下，可以的话帮帮忙，万分感谢！ https://t.co/FcOPrNlrLG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4622,
+          "following_count": 220,
+          "like_count": 22506,
+          "listed_count": 12,
+          "media_count": 1666,
+          "tweet_count": 20471
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "mtf🏳️‍⚧️/👩‍❤️‍👩🦌@aliciathesika/🐇@Shirlene_girl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "name": "雪雁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772859713987960832/7mLglH_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2615,
+          "following_count": 1707,
+          "like_count": 20012,
+          "listed_count": 9,
+          "media_count": 117,
+          "tweet_count": 5215
+        },
+        "username": "EleanorAnatidae",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T14:50:21.000Z",
+        "description": "2007.8.18🐣/身高165😭/INFP/持证含糖mtf😺/第二次HRT：23.9.10/妈妈意外变成家长党😀/推文当日记发📝（一些和对象的日常）/想跟xyn互fo贴贴🥺（没回fo可能是没看见)/最好的姐姐兼恋人: @Starrynightwglf 🥰🥰🥰/🚪30",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 110,
+                "username": "Starrynightwglf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xinxia90268",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xinxia90268",
+                "start": 0,
+                "url": "https://t.co/vMsqLwqjNV"
+              }
+            ]
+          }
+        },
+        "id": "1526938197951131648",
+        "location": "小风怀里",
+        "name": "喵喵大王小夏🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974004254777147392/aotsUvY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6963,
+          "following_count": 1823,
+          "like_count": 8349,
+          "listed_count": 17,
+          "media_count": 344,
+          "tweet_count": 3214
+        },
+        "url": "https://t.co/vMsqLwqjNV",
+        "username": "xinxia_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

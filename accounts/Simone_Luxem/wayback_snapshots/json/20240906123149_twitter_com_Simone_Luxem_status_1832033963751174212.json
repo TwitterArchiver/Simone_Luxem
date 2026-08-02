@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1831780291972887009",
+    "created_at": "2024-09-06T12:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-06T13:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1832033963751174212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "60042536",
+          "start": 0,
+          "username": "keyemail"
+        },
+        {
+          "end": 19,
+          "id": "937897559355518976",
+          "start": 10,
+          "username": "_Eregion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1832033963751174212",
+    "in_reply_to_user_id": "60042536",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831793475563745766",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@keyemail @_Eregion 换成“即使…仍旧…”也好点啊orz…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1831780291972887009",
+        "created_at": "2024-09-06T12:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-06T13:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1832033963751174212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "60042536",
+              "start": 0,
+              "username": "keyemail"
+            },
+            {
+              "end": 19,
+              "id": "937897559355518976",
+              "start": 10,
+              "username": "_Eregion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1832033963751174212",
+        "in_reply_to_user_id": "60042536",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831793475563745766",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keyemail @_Eregion 换成“即使…仍旧…”也好点啊orz…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "60042536",
+        "conversation_id": "1831780291972887009",
+        "created_at": "2024-09-05T20:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-05T21:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831793475563745766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "937897559355518976",
+              "start": 0,
+              "username": "_Eregion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831793475563745766",
+        "in_reply_to_user_id": "937897559355518976",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 226,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831780291972887009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Eregion 虽然这个词是描述他的创伤体验严重性的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3680,
+          "following_count": 224,
+          "like_count": 16488,
+          "listed_count": 8,
+          "tweet_count": 16872
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-25T11:57:06.000Z",
+        "description": "我的观点正确与否并不重要。 重要的是我的思考推论过程是否存在盲区。讨论与思考的过程，都是一种对于大脑的练习。 每一种碰撞和疼痛都会慢慢丰富强健自己的思维能力。 努力做到述而不作。儒释爱好者。 环保（适合人类生存结构，以及永续生存的环境）自由（环境良好下的理性与自由）保守（社会变化基于个案）主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "liuxiaoer.substack.com/publish/settin…",
+                "end": 23,
+                "expanded_url": "https://liuxiaoer.substack.com/publish/settings",
+                "start": 0,
+                "url": "https://t.co/O0HC56xCzM"
+              }
+            ]
+          }
+        },
+        "id": "60042536",
+        "location": "China",
+        "name": "小二",
+        "pinned_tweet_id": "1829327579717022161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1811242230545580032/kCg5TIGO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3728,
+          "following_count": 441,
+          "like_count": 421,
+          "listed_count": 24,
+          "tweet_count": 2854
+        },
+        "url": "https://t.co/O0HC56xCzM",
+        "username": "keyemail",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-05T04:12:58.000Z",
+        "description": "ENBY⚧️🇨🇦｜我永远喜欢阿森纳",
+        "id": "937897559355518976",
+        "name": "Lil’Gloomy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1753997435653791744/YeKZ7_cd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 118,
+          "like_count": 1158,
+          "listed_count": 0,
+          "tweet_count": 251
+        },
+        "username": "_Eregion",
+        "verified": false
+      }
+    ]
+  }
+}

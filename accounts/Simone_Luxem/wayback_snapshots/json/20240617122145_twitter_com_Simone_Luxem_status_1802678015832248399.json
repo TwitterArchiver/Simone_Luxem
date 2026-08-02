@@ -1,0 +1,249 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1802678015832248399",
+    "created_at": "2024-06-17T12:21:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-17T13:21:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1802678015832248399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1738303196693426176",
+          "start": 3,
+          "username": "transinacademia"
+        }
+      ],
+      "urls": [
+        {
+          "description": "这里收录了我们翻译的关于巴勒斯坦的文章。",
+          "display_url": "lib.oau.edu.kg/docs/palestine/",
+          "end": 129,
+          "expanded_url": "https://lib.oau.edu.kg/docs/palestine/",
+          "start": 106,
+          "status": 200,
+          "title": "🇵🇸 巴勒斯坦",
+          "unwound_url": "https://lib.oau.edu.kg/docs/palestine/",
+          "url": "https://t.co/GEc6Gmr03y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1802678015832248399",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802675411622514851",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @transinacademia: 各位好。一个月前，TiA! 发布了「巴勒斯坦和跨儿解放」文献列表，旨在为更多人提供与巴勒斯坦解放相关的学术资源。现在，我们已经翻译了该文献列表中的部分文章，各位可以移步 https://t.co/GEc6Gmr03y 查看。不过，在发布…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1802678015832248399",
+        "created_at": "2024-06-17T12:21:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T13:21:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802678015832248399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1738303196693426176",
+              "start": 3,
+              "username": "transinacademia"
+            }
+          ],
+          "urls": [
+            {
+              "description": "这里收录了我们翻译的关于巴勒斯坦的文章。",
+              "display_url": "lib.oau.edu.kg/docs/palestine/",
+              "end": 129,
+              "expanded_url": "https://lib.oau.edu.kg/docs/palestine/",
+              "start": 106,
+              "status": 200,
+              "title": "🇵🇸 巴勒斯坦",
+              "unwound_url": "https://lib.oau.edu.kg/docs/palestine/",
+              "url": "https://t.co/GEc6Gmr03y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802678015832248399",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802675411622514851",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @transinacademia: 各位好。一个月前，TiA! 发布了「巴勒斯坦和跨儿解放」文献列表，旨在为更多人提供与巴勒斯坦解放相关的学术资源。现在，我们已经翻译了该文献列表中的部分文章，各位可以移步 https://t.co/GEc6Gmr03y 查看。不过，在发布…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1802668073083650048"
+          ]
+        },
+        "author_id": "1738303196693426176",
+        "conversation_id": "1802675411622514851",
+        "created_at": "2024-06-17T12:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-17T13:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802675411622514851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "这里收录了我们翻译的关于巴勒斯坦的文章。",
+              "display_url": "lib.oau.edu.kg/docs/palestine/",
+              "end": 108,
+              "expanded_url": "https://lib.oau.edu.kg/docs/palestine/",
+              "start": 85,
+              "status": 200,
+              "title": "🇵🇸 巴勒斯坦",
+              "unwound_url": "https://lib.oau.edu.kg/docs/palestine/",
+              "url": "https://t.co/GEc6Gmr03y"
+            },
+            {
+              "display_url": "pic.twitter.com/YaZ64tZtre",
+              "end": 161,
+              "expanded_url": "https://twitter.com/transinacademia/status/1802675411622514851/photo/1",
+              "media_key": "3_1802668073083650048",
+              "start": 138,
+              "url": "https://t.co/YaZ64tZtre"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802675411622514851",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "各位好。一个月前，TiA! 发布了「巴勒斯坦和跨儿解放」文献列表，旨在为更多人提供与巴勒斯坦解放相关的学术资源。现在，我们已经翻译了该文献列表中的部分文章，各位可以移步 https://t.co/GEc6Gmr03y 查看。不过，在发布这些翻译的同时，我们还有一些话想说。🧵 https://t.co/YaZ64tZtre"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3303,
+          "following_count": 221,
+          "like_count": 13926,
+          "listed_count": 10,
+          "tweet_count": 15541
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T21:00:25.000Z",
+        "description": "分享与跨儿相关的学术动态，记录跨儿自行构建的理论视角和实践知识，帮助跨儿求学、进修、工作，以跨儿的视角发声。 A community for Chinese/Sinophone trans and gender diverse people pursuing academic and career goals.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/transinacademia",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/transinacademia",
+                "start": 0,
+                "url": "https://t.co/jYTfZ5oNV1"
+              }
+            ]
+          }
+        },
+        "id": "1738303196693426176",
+        "name": "跨儿学术小组 Trans in Academia! 🏳️‍⚧️",
+        "pinned_tweet_id": "1802676657766928649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738304282204557312/ON1RCXO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 299,
+          "like_count": 513,
+          "listed_count": 3,
+          "tweet_count": 450
+        },
+        "url": "https://t.co/jYTfZ5oNV1",
+        "username": "transinacademia",
+        "verified": false
+      }
+    ]
+  }
+}

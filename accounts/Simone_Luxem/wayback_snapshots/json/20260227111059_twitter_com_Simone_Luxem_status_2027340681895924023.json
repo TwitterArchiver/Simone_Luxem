@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2027337228964577777",
+    "created_at": "2026-02-27T11:10:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:10:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027340681895924023"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2027340681895924023",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027337228964577777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯…自己就是特别敬佩勇敢的人吧..特别是在自己展现出懦弱的时候仍旧表现出勇气的人…令自己相形见绌…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2027337228964577777",
+        "created_at": "2026-02-27T11:10:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:10:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027340681895924023"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027340681895924023",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027337228964577777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯…自己就是特别敬佩勇敢的人吧..特别是在自己展现出懦弱的时候仍旧表现出勇气的人…令自己相形见绌…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2027337228964577777",
+        "created_at": "2026-02-27T10:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T11:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027337228964577777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snzhende2007/s…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/snzhende2007/status/2026751062775119972",
+              "start": 141,
+              "url": "https://t.co/Q4Rsdha3ep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027337228964577777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026751062775119972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高中军训的时候男女生同一个浴室轮流洗澡，有两个男生捡到了女生晾在浴室的内衣，随即拿来弹着玩还配以污言秽语\n正当自己在想该怎么办毕竟对面两个人目测自己一个人打不过的时候，自己身边的另一位男生大喝了一声，勒令那两人停下，就制止了那两个人…此后的高中时间里那个男生都是自己超级崇拜的对象 https://t.co/Q4Rsdha3ep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6184,
+          "following_count": 218,
+          "like_count": 23900,
+          "listed_count": 19,
+          "media_count": 1748,
+          "tweet_count": 21355
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

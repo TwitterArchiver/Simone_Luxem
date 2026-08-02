@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1966727632537719011",
+    "created_at": "2025-09-13T04:56:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T05:56:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966727632537719011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/h1nako_4ever/s…",
+          "end": 92,
+          "expanded_url": "https://twitter.com/h1nako_4ever/status/1966217452351869226",
+          "start": 69,
+          "url": "https://t.co/ZZLhX0dRLa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966727632537719011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966217452351869226",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶你真别说我父母好像在我小时候真干过类似的事情在我身上，不过是出于不同的一个什么理由我忘了\n而autism确实会被翻译成“自闭症”的吧… https://t.co/ZZLhX0dRLa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1966727632537719011",
+        "created_at": "2025-09-13T04:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T05:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966727632537719011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/h1nako_4ever/s…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/h1nako_4ever/status/1966217452351869226",
+              "start": 69,
+              "url": "https://t.co/ZZLhX0dRLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966727632537719011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966217452351869226",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶你真别说我父母好像在我小时候真干过类似的事情在我身上，不过是出于不同的一个什么理由我忘了\n而autism确实会被翻译成“自闭症”的吧… https://t.co/ZZLhX0dRLa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711887959610228736",
+        "conversation_id": "1966024142106619958",
+        "created_at": "2025-09-11T19:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T20:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966217452351869226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1842203626418409472",
+              "start": 0,
+              "username": "yyyzlz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966217452351869226",
+        "in_reply_to_user_id": "1842203626418409472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10348,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966024142106619958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyzlz3 干预小孩自闭症不是把小孩干成自闭症"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4572,
+          "following_count": 219,
+          "like_count": 22420,
+          "listed_count": 13,
+          "media_count": 1656,
+          "tweet_count": 20345
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T23:34:41.000Z",
+        "description": "",
+        "id": "1711887959610228736",
+        "name": "予雪神",
+        "pinned_tweet_id": "1941341043619922260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959839292085161984/qi0G88v8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1420,
+          "like_count": 4328,
+          "listed_count": 1,
+          "media_count": 389,
+          "tweet_count": 4441
+        },
+        "username": "H1nako_4ever",
+        "verified": false
+      }
+    ]
+  }
+}

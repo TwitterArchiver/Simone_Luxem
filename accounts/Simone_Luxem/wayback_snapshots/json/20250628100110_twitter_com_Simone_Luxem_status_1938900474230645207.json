@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1938759153180393901",
+    "created_at": "2025-06-28T10:01:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T11:01:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938900474230645207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1865831426303897600",
+          "start": 0,
+          "username": "Zero_158_Kana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938900474230645207",
+    "in_reply_to_user_id": "1865831426303897600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 11,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938759153180393901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zero_158_Kana 妹妻（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1938759153180393901",
+        "created_at": "2025-06-28T10:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938900474230645207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1865831426303897600",
+              "start": 0,
+              "username": "Zero_158_Kana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938900474230645207",
+        "in_reply_to_user_id": "1865831426303897600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938759153180393901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zero_158_Kana 妹妻（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865831426303897600",
+        "conversation_id": "1938759153180393901",
+        "created_at": "2025-06-28T00:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T01:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938759153180393901"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938759153180393901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以 大家对我（们）的印象是怎么样的呢…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4322,
+          "following_count": 220,
+          "like_count": 20781,
+          "listed_count": 12,
+          "media_count": 1607,
+          "tweet_count": 19747
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T18:51:06.000Z",
+        "description": "你们好！现在是零酱/云梦（？可能会处于median状态）主导 其他成员有可奈 樱舞花 七碎 icy Cecilia \n/无证hrt2025.1.10\n/里推：@DreamlandSysSub\n/Lover：@calsym456 @AsdQWD358224 @Caroline_9870",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 79,
+                "username": "DreamlandSysSub"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "calsym456"
+              },
+              {
+                "end": 127,
+                "start": 114,
+                "username": "AsdQWD358224"
+              },
+              {
+                "end": 142,
+                "start": 128,
+                "username": "Caroline_9870"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zero_158gjzr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zero_158gjzr",
+                "start": 0,
+                "url": "https://t.co/ZxXMCZ2ANC"
+              }
+            ]
+          }
+        },
+        "id": "1865831426303897600",
+        "location": "梦之彼岸",
+        "name": "北雁梦 - ドリームランド システム",
+        "pinned_tweet_id": "1919773070249632215",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938016150950203392/zNYqGnzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1105,
+          "following_count": 796,
+          "like_count": 9177,
+          "listed_count": 8,
+          "media_count": 293,
+          "tweet_count": 5163
+        },
+        "url": "https://t.co/ZxXMCZ2ANC",
+        "username": "Zero_158_Kana",
+        "verified": false
+      }
+    ]
+  }
+}

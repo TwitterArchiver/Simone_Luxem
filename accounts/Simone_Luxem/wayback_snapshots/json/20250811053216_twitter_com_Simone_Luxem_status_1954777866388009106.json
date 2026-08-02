@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1954754445189009776",
+    "created_at": "2025-08-11T05:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-11T06:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954777866388009106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1219174778050924546",
+          "start": 0,
+          "username": "Kotori42156659"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954777866388009106",
+    "in_reply_to_user_id": "1219174778050924546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954754445189009776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kotori42156659 可能因为太容易吃醋，或者吃起醋来醋意太强了吧…（小声）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1954754445189009776",
+        "created_at": "2025-08-11T05:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T06:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954777866388009106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1219174778050924546",
+              "start": 0,
+              "username": "Kotori42156659"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954777866388009106",
+        "in_reply_to_user_id": "1219174778050924546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954754445189009776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kotori42156659 可能因为太容易吃醋，或者吃起醋来醋意太强了吧…（小声）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1219174778050924546",
+        "conversation_id": "1954754445189009776",
+        "created_at": "2025-08-11T03:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T04:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954754445189009776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1954754445189009776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "变得很难理解单侣人的思维了阿巴阿巴。情感锚定是很好，但……为什么一定要一对一……理解不能了。\n不管啦，我只是一只笨猫。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4526,
+          "following_count": 221,
+          "like_count": 22020,
+          "listed_count": 13,
+          "media_count": 1651,
+          "tweet_count": 20127
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-20T08:28:34.000Z",
+        "description": "Switch，和谐的多意识体系统。日常是意识体『七色』执政。ADHD。因为都有翅膀又都很能摸所以称呼『咕咕们』就行。She/They。关注/取关请随意。祝你每天开心快乐，愿世界以善对你、温暖对你。",
+        "id": "1219174778050924546",
+        "location": "里世界",
+        "name": "星尘系统🐱🐰🐦",
+        "pinned_tweet_id": "1949000288326619625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854151640183676928/VypFd7_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4488,
+          "following_count": 887,
+          "like_count": 45070,
+          "listed_count": 10,
+          "media_count": 797,
+          "tweet_count": 9158
+        },
+        "username": "Kotori42156659",
+        "verified": false
+      }
+    ]
+  }
+}

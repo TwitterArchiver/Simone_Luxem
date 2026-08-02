@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2007636637912838213",
+    "created_at": "2026-01-05T01:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T02:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007984040096473102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1789184782825615360",
+          "start": 0,
+          "username": "nonsweetsuger"
+        },
+        {
+          "end": 30,
+          "id": "1058609497088782336",
+          "start": 15,
+          "username": "Signalman_Free"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007984040096473102",
+    "in_reply_to_user_id": "1789184782825615360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007967889664721097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nonsweetsuger @Signalman_Free 印尼还真有石油，而且产量还不小…."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2007636637912838213",
+        "created_at": "2026-01-05T01:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T02:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007984040096473102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1789184782825615360",
+              "start": 0,
+              "username": "nonsweetsuger"
+            },
+            {
+              "end": 30,
+              "id": "1058609497088782336",
+              "start": 15,
+              "username": "Signalman_Free"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007984040096473102",
+        "in_reply_to_user_id": "1789184782825615360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007967889664721097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nonsweetsuger @Signalman_Free 印尼还真有石油，而且产量还不小…."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1789184782825615360",
+        "conversation_id": "2007636637912838213",
+        "created_at": "2026-01-05T00:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T01:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007967889664721097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1058609497088782336",
+              "start": 0,
+              "username": "Signalman_Free"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007967889664721097",
+        "in_reply_to_user_id": "1058609497088782336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007636637912838213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Signalman_Free 印尼又没有石油，怕什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6035,
+          "following_count": 216,
+          "like_count": 23449,
+          "listed_count": 18,
+          "media_count": 1729,
+          "tweet_count": 21091
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T06:44:59.000Z",
+        "description": "悲伤的设计狗/非二元有男友",
+        "id": "1789184782825615360",
+        "name": "不甜的某糖 nonsweetsuger 🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1820497848582201477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790064536709730304/6xzaU-q8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 694,
+          "like_count": 21955,
+          "listed_count": 2,
+          "media_count": 459,
+          "tweet_count": 9840
+        },
+        "username": "nonsweetsuger",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-03T06:39:06.000Z",
+        "description": "这个形态下的信号侠只能永远都是中国人哩，今から遅くない、栄光ある吾らの習近平陛下万歳、万歳、万歳。",
+        "id": "1058609497088782336",
+        "location": "信号星",
+        "name": "信号侠-失败送中形态",
+        "pinned_tweet_id": "2006398226384273891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000601755449802752/ggjTHBYl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 145,
+          "like_count": 23419,
+          "listed_count": 16,
+          "media_count": 513,
+          "tweet_count": 17679
+        },
+        "username": "Signalman_Free",
+        "verified": false
+      }
+    ]
+  }
+}

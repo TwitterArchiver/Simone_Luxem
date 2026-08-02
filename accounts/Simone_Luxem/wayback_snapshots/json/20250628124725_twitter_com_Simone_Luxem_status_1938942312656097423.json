@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "1938942312656097423",
+    "created_at": "2025-06-28T12:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T13:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938942312656097423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hanlianyi331/s…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/hanlianyi331/status/1938911602692247840",
+          "start": 66,
+          "url": "https://t.co/hHV3S8BjfB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938942312656097423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 56,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938911602692247840",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "自己确实是成事不足败事有余的…基本上从最开始，就没有让一件事情在自己的掌控之内…为此自己也愿意承担一切责任和指责…如果自己能的话… https://t.co/hHV3S8BjfB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1938942312656097423",
+        "created_at": "2025-06-28T12:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T13:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938942312656097423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanlianyi331/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/hanlianyi331/status/1938911602692247840",
+              "start": 66,
+              "url": "https://t.co/hHV3S8BjfB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938942312656097423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938911602692247840",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "自己确实是成事不足败事有余的…基本上从最开始，就没有让一件事情在自己的掌控之内…为此自己也愿意承担一切责任和指责…如果自己能的话… https://t.co/hHV3S8BjfB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1938911602692247840",
+        "created_at": "2025-06-28T10:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T11:44:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938911387595538677",
+          "1938911602692247840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/HANLIANYI331/s…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/HANLIANYI331/status/1697426786441957643",
+              "start": 99,
+              "url": "https://t.co/b8c6JfaDg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938911602692247840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "她后来在入学时办理了“保留入学资格”，然后为了追随另一个在荷兰的亲密关系，去了荷兰留学一年，再加上外借给别人的大额资金被对方用光未归还。阴差阳错下耗光了生父去世后留下的大几十万遗产，最终身无分文。\n回国后在庇护所另一位人员的帮助下找到了一个计算机的工作岗位，但是该岗位限制要求“在校学生”，如果没有学籍，她可能会在三个月后失去该工作岗位。而她荷兰的学籍已经退学（因需要退出剩余学费导致在她荷兰的朋友的主张要求下没有申请休学。）\n与此同时，她在2023年时被武汉中南民族大学录取以后，当时虽然办理了保留入学资格，且保留入学资格理论最长时间为2年。但是如今中南民族大学极有可能在2024年时就取消了她的入学资格。导致如今她可能武汉和荷兰两个学校的学籍都没有。\n因此如今，相比起两年前，她作为人大附中毕业的高材生。很可能会工作岗位，学业以及生父去世后留下的遗产全部失去。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3043,
+          "like_count": 58,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1697426786441957643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "她后来在入学时办理了“保留入学资格”，然后为了追随另一个在荷兰的亲密关系，去了荷兰留学一年，再加上外借给别人的大额资金被对方用光未归还。阴差阳错下耗光了生父去世后留下的大几十万遗产，最终身无分文。 https://t.co/b8c6JfaDg4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4320,
+          "following_count": 220,
+          "like_count": 20786,
+          "listed_count": 12,
+          "media_count": 1608,
+          "tweet_count": 19751
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔哩哔哩名称 少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCokcD1｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 102,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 79,
+                "url": "https://t.co/DPmfCokcD1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsOjLp"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38342,
+          "following_count": 3630,
+          "like_count": 799,
+          "listed_count": 65,
+          "media_count": 332,
+          "tweet_count": 2431
+        },
+        "url": "https://t.co/LbtcvsOjLp",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

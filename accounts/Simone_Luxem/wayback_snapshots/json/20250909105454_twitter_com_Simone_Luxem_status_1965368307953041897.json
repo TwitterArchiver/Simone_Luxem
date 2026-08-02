@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1965364678542156199",
+    "created_at": "2025-09-09T10:54:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T11:54:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965368307953041897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1897717048685608963",
+          "start": 0,
+          "username": "Stjarnskadare_L"
+        },
+        {
+          "end": 33,
+          "id": "4752010152",
+          "start": 17,
+          "username": "garrulous_abyss"
+        },
+        {
+          "end": 42,
+          "id": "1573906833781456896",
+          "start": 34,
+          "username": "AIKOMTX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965368307953041897",
+    "in_reply_to_user_id": "1897717048685608963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965366809668059457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stjarnskadare_L @garrulous_abyss @AIKOMTX 而且目前相当于对方提出了一个相对可信的证据，即对方没有使用过tg，并出示了截图，在这种情况下你只有一个两件事情上在时间上具有重合性的论据的话，那你所说的这个现象更合理的解释只能是巧合罢了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1965364678542156199",
+        "created_at": "2025-09-09T10:54:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:54:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965368307953041897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1897717048685608963",
+              "start": 0,
+              "username": "Stjarnskadare_L"
+            },
+            {
+              "end": 33,
+              "id": "4752010152",
+              "start": 17,
+              "username": "garrulous_abyss"
+            },
+            {
+              "end": 42,
+              "id": "1573906833781456896",
+              "start": 34,
+              "username": "AIKOMTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965368307953041897",
+        "in_reply_to_user_id": "1897717048685608963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965366809668059457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stjarnskadare_L @garrulous_abyss @AIKOMTX 而且目前相当于对方提出了一个相对可信的证据，即对方没有使用过tg，并出示了截图，在这种情况下你只有一个两件事情上在时间上具有重合性的论据的话，那你所说的这个现象更合理的解释只能是巧合罢了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897717048685608963",
+        "conversation_id": "1965364678542156199",
+        "created_at": "2025-09-09T10:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T11:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965366809668059457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            },
+            {
+              "end": 25,
+              "id": "1573906833781456896",
+              "start": 17,
+              "username": "AIKOMTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965366809668059457",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965366396742996171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss @AIKOMTX 那为什么b我\n以及b的时间和投稿的时间出奇的一致\n我也不想找证据，我只想这位解释这一点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4567,
+          "following_count": 219,
+          "like_count": 22391,
+          "listed_count": 13,
+          "media_count": 1655,
+          "tweet_count": 20311
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T18:33:09.000Z",
+        "description": "Stjärnresenären.",
+        "id": "1897717048685608963",
+        "location": "Älithoria, Lynnäre",
+        "name": "星澜Lily✨🇸🇪💙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906264135484211200/Ziqq66LS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 332,
+          "like_count": 20552,
+          "listed_count": 4,
+          "media_count": 247,
+          "tweet_count": 5762
+        },
+        "username": "Stjarnskadare_L",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//伪全栈工程师//伪科研人员//伪web3研究人员//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑\n\n欢迎预约占卜测事 https://t.co/KZBQuE9x4R",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 138,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 115,
+                "url": "https://t.co/KZBQuE9x4R"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "location": "Paris, France",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29623,
+          "following_count": 3611,
+          "like_count": 159944,
+          "listed_count": 103,
+          "media_count": 3548,
+          "tweet_count": 59230
+        },
+        "username": "garrulous_abyss",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-25T05:27:44.000Z",
+        "description": "喵星人MTX｜东京在住｜自由主义｜嗜睡｜已嘎蛋 胸很大｜ASD\\HSP\\PTSD❤️‍🩹",
+        "id": "1573906833781456896",
+        "location": "日本 東京",
+        "name": "野良猫🍥",
+        "pinned_tweet_id": "1944083889431228459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933019554055442432/-iRfERzb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1370,
+          "following_count": 599,
+          "like_count": 19791,
+          "listed_count": 4,
+          "media_count": 1491,
+          "tweet_count": 7068
+        },
+        "username": "AIKOMTX",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1834319018729373937",
+    "created_at": "2024-09-12T19:57:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-12T20:57:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834320445325148663"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1834320445325148663",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834319018729373937",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对于自己来说，食物能够维持正常生理机能就够了，衣物能够避寒遮蔽身体就够了；真正重要的，可以引起自己情感的，值得让自己追求的那些事物，才是真的评价一个人是否“体面”的要素吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1834319018729373937",
+        "created_at": "2024-09-12T19:57:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T20:57:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834320445325148663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834320445325148663",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834319018729373937",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于自己来说，食物能够维持正常生理机能就够了，衣物能够避寒遮蔽身体就够了；真正重要的，可以引起自己情感的，值得让自己追求的那些事物，才是真的评价一个人是否“体面”的要素吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1834319018729373937",
+        "created_at": "2024-09-12T19:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T20:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834319018729373937"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834319018729373937",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天遇到一个同类，聊了会天\n才发现对方很惊讶于我和四月饮食和衣着上如此“低要求”，特别是我们会捡别人搬家不要的旧物，似乎特别不可思议\n而我也惊讶于居然还真有人在意“中产留学生的体面”这种东西：我从来既没有把自己当作中产也没当作留学生吧；我是一艘船，在这个港口修补，仅此而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3694,
+          "following_count": 223,
+          "like_count": 16637,
+          "listed_count": 8,
+          "tweet_count": 16963
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

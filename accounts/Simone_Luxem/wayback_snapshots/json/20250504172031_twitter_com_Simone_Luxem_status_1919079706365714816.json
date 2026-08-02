@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1919079706365714816",
+    "created_at": "2025-05-04T17:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T18:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1919079706365714816"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/quitee123/stat…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/quitee123/status/1913166299095769427",
+          "start": 7,
+          "url": "https://t.co/fyYWlXWetG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919079706365714816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913166299095769427",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嗯？嗯嗯？？ https://t.co/fyYWlXWetG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1919079706365714816",
+        "created_at": "2025-05-04T17:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T18:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1919079706365714816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/quitee123/stat…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/quitee123/status/1913166299095769427",
+              "start": 7,
+              "url": "https://t.co/fyYWlXWetG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919079706365714816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913166299095769427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嗯？嗯嗯？？ https://t.co/fyYWlXWetG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1479696561302999042",
+        "conversation_id": "1913166299095769427",
+        "created_at": "2025-04-18T09:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T10:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913166299095769427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913166299095769427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近听到的不太好的消息，\n\n北京市好像在2025年年初下发红头文件，不让市内的医院进行性别鉴定，比如北医三院就不再接受外院手术性别鉴定。\n\n猜测可能是出于政治问题。\n\n考虑到最近英国逆天法案，以及今年年初411的“暂停”，可能国内未来对于跨性别的权益保护会越来越差，极端情况下不排除禁止术后改证的可能性😢😢。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 50995,
+          "like_count": 251,
+          "quote_count": 10,
+          "reply_count": 24,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "最近听到的不太好的消息，\n\n北京市好像在2025年年初下发红头文件，不让市内的医院进行性别鉴定，比如北医三院就不再接受外院手术性别鉴定。\n\n猜测可能是出于政治问题。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 141,
+                "start": 131,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4205,
+          "following_count": 220,
+          "like_count": 20048,
+          "listed_count": 12,
+          "media_count": 1539,
+          "tweet_count": 19218
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T06:09:08.000Z",
+        "description": "永远17岁的小傻瓜 /XYN forever! /三坑少女/可爱橘喵 互fo喵 小宠物猫 @Shion_Glad @A5Tr41 @dominnicchina tg：@hajvmi SRS记录：https://t.co/jVttn2YeBF",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "Shion_Glad"
+              },
+              {
+                "end": 64,
+                "start": 57,
+                "username": "A5Tr41"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "dominnicchina"
+              },
+              {
+                "end": 90,
+                "start": 83,
+                "username": "hajvmi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/miaomiao202503…",
+                "end": 120,
+                "expanded_url": "https://t.me/miaomiao202503010",
+                "start": 97,
+                "url": "https://t.co/jVttn2YeBF"
+              }
+            ]
+          }
+        },
+        "id": "1479696561302999042",
+        "location": "你的心里",
+        "name": "🐱🍊静静🍊🐱（泰补190一盒清仓版）",
+        "pinned_tweet_id": "1910999755334832267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903862743012380672/H6rYb4Zo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8141,
+          "following_count": 2570,
+          "like_count": 26017,
+          "listed_count": 18,
+          "media_count": 621,
+          "tweet_count": 12049
+        },
+        "username": "quitee123",
+        "verified": true
+      }
+    ]
+  }
+}

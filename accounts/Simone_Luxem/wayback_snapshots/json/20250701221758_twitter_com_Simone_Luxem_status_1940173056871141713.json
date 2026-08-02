@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1940172924331098112",
+        "3_1940172924276576257"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "1940172482771923382",
+    "created_at": "2025-07-01T22:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T23:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940173056871141713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RA4kUbHMyW",
+          "end": 35,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1940173056871141713/video/1",
+          "media_key": "13_1940172924331098112",
+          "start": 12,
+          "url": "https://t.co/RA4kUbHMyW"
+        },
+        {
+          "display_url": "pic.x.com/RA4kUbHMyW",
+          "end": 35,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1940173056871141713/video/1",
+          "media_key": "3_1940172924276576257",
+          "start": 12,
+          "url": "https://t.co/RA4kUbHMyW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940173056871141713",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940172482771923382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以及随后，白猫猫舔自己 https://t.co/RA4kUbHMyW"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 36633,
+        "height": 720,
+        "media_key": "13_1940172924331098112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940172924331098112/img/HIaqaAS4ySTDDGpw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940172924331098112/vid/avc1/480x270/6GghvnC6jSsmHfQK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940172924331098112/vid/avc1/640x360/h-7Lh8yXgzKfCAYD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940172924331098112/vid/avc1/1280x720/Daf8p6HHGy0WoW9U.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940172924331098112/pl/mwN-OC3TneyVkk38.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1940172924276576257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guzg_sJWEAEjfPO.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 90608,
+        "height": 720,
+        "media_key": "13_1940172246997217281",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1940172246997217281/img/C1eypnDImkttJ2vC.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940172246997217281/vid/avc1/480x270/oVkXXkp65u8HJSFQ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940172246997217281/vid/avc1/640x360/puzrpVpUkfBUepHU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1940172246997217281/vid/avc1/1280x720/EqRVqh08zRKRp_sc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1940172246997217281/pl/RoICPFotlxfO7ohT.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1940172246988865536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuzgYRDXwAADPc6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940172924331098112",
+            "3_1940172924276576257"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1940172482771923382",
+        "created_at": "2025-07-01T22:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T23:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940173056871141713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RA4kUbHMyW",
+              "end": 35,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1940173056871141713/video/1",
+              "media_key": "13_1940172924331098112",
+              "start": 12,
+              "url": "https://t.co/RA4kUbHMyW"
+            },
+            {
+              "display_url": "pic.x.com/RA4kUbHMyW",
+              "end": 35,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1940173056871141713/video/1",
+              "media_key": "3_1940172924276576257",
+              "start": 12,
+              "url": "https://t.co/RA4kUbHMyW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940173056871141713",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940172482771923382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以及随后，白猫猫舔自己 https://t.co/RA4kUbHMyW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1940172246997217281",
+            "3_1940172246988865536"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "1940172482771923382",
+        "created_at": "2025-07-01T22:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T23:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940172482771923382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZ7LvzE3pz",
+              "end": 68,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1940172482771923382/video/1",
+              "media_key": "13_1940172246997217281",
+              "start": 45,
+              "url": "https://t.co/fZ7LvzE3pz"
+            },
+            {
+              "display_url": "pic.x.com/fZ7LvzE3pz",
+              "end": 68,
+              "expanded_url": "https://x.com/Simone_Luxem/status/1940172482771923382/video/1",
+              "media_key": "3_1940172246988865536",
+              "start": 45,
+              "url": "https://t.co/fZ7LvzE3pz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940172482771923382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深夜rua大白猫\n入夜之后终于凉快一些了，也有了些风，自己跑到阳台看书，白猫猫也跟了出来 https://t.co/fZ7LvzE3pz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324,
+          "following_count": 219,
+          "like_count": 20885,
+          "listed_count": 12,
+          "media_count": 1612,
+          "tweet_count": 19795
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

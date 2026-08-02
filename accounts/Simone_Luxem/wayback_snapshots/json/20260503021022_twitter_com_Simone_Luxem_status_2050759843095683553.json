@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2050759843095683553",
+    "created_at": "2026-05-03T02:10:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T03:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050759843095683553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/willa_citrus/s…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/willa_citrus/status/2050222311018725625",
+          "start": 94,
+          "url": "https://t.co/VDoBxSD3Hf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050759843095683553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050222311018725625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说得很好，我也是类似的想法\n唯一的问题就是，我并不觉得“下海”是任何道德上的瑕疵，在高度资本化的社会中，出卖身体的方式多种多样，或者说，绝大多数人都在被迫以各自的方式出卖身体换取苟延残喘 https://t.co/VDoBxSD3Hf"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2050759843095683553",
+        "created_at": "2026-05-03T02:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050759843095683553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/willa_citrus/s…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/willa_citrus/status/2050222311018725625",
+              "start": 94,
+              "url": "https://t.co/VDoBxSD3Hf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050759843095683553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050222311018725625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说得很好，我也是类似的想法\n唯一的问题就是，我并不觉得“下海”是任何道德上的瑕疵，在高度资本化的社会中，出卖身体的方式多种多样，或者说，绝大多数人都在被迫以各自的方式出卖身体换取苟延残喘 https://t.co/VDoBxSD3Hf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767161673566359552",
+        "conversation_id": "2050101139107131851",
+        "created_at": "2026-05-01T14:34:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:34:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050222311018725625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1233287775144693760",
+              "start": 0,
+              "username": "Yagi_Yui_Yo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050222311018725625",
+        "in_reply_to_user_id": "1233287775144693760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4809,
+          "like_count": 37,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050155163063919063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yagi_Yui_Yo 至于别的小男娘会不会效仿 我觉得分两方面\n一方面回跟着下海的人 本身也就已经向往大海了 amber不下 看到amcer amder下了也自然会下 都是有思考能力的大人了 他们能够为自己的行为负责的\n另一方面 如果要带着那些摇摆着的孩子们走一个道德上更圆满的路的话 最好的方法是我们自己去做灯塔把路指出来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6177,
+          "following_count": 219,
+          "like_count": 24486,
+          "listed_count": 19,
+          "media_count": 1776,
+          "tweet_count": 21626
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-11T12:12:39.000Z",
+        "description": "试图照见自己 / 杭州三本工科PhD在读 / 怪猎&魂 / 光明果派漫宿研习者 / 彻夜飞旋，直至甜美的生诞 / 家人们动动发财的小手点个赞/ 如果空下来一定要做个播客 / 甜甜同居快六年 @rat_miyari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "rat_miyari"
+              }
+            ]
+          }
+        },
+        "id": "1767161673566359552",
+        "location": "杭州",
+        "name": "王小檬𝖂𝖎𝖑𝖑𝖆🍋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978691032192782336/2rH_jGCj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11993,
+          "following_count": 219,
+          "like_count": 7243,
+          "listed_count": 36,
+          "media_count": 335,
+          "tweet_count": 8304
+        },
+        "username": "willa_citrus",
+        "verified": false
+      }
+    ]
+  }
+}

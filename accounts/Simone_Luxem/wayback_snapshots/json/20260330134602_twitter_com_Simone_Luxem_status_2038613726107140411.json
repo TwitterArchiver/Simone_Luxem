@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2038613726107140411",
+    "created_at": "2026-03-30T13:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038613726107140411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/amber_toffee/status/2038610666584477813",
+          "start": 49,
+          "url": "https://t.co/0UM5fpWxKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038613726107140411",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038610666584477813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么要“满足这样的需求”…难道，有人要吃人，我们就应该先给它一些人吃来防止其“无序地吃人”吗… https://t.co/0UM5fpWxKc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1476,
+        "media_key": "3_2038610662541193216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEqZmLgXcAAVdkC.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2038613726107140411",
+        "created_at": "2026-03-30T13:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038613726107140411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2038610666584477813",
+              "start": 49,
+              "url": "https://t.co/0UM5fpWxKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038613726107140411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038610666584477813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么要“满足这样的需求”…难道，有人要吃人，我们就应该先给它一些人吃来防止其“无序地吃人”吗… https://t.co/0UM5fpWxKc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038610662541193216"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2038610666584477813",
+        "created_at": "2026-03-30T13:33:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:33:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038610666584477813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "zhuanlan.zhihu.com/p/86085223",
+              "end": 89,
+              "expanded_url": "https://zhuanlan.zhihu.com/p/86085223",
+              "start": 66,
+              "unwound_url": "https://zhuanlan.zhihu.com/p/86085223",
+              "url": "https://t.co/0UKXmt7L6L"
+            },
+            {
+              "display_url": "pic.x.com/XYYrREvXi2",
+              "end": 113,
+              "expanded_url": "https://x.com/amber_toffee/status/2038610666584477813/photo/1",
+              "media_key": "3_2038610662541193216",
+              "start": 90,
+              "url": "https://t.co/XYYrREvXi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038610666584477813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 257,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我有的时候真的很疑惑，这位「温柔」是真的反对扭转/网瘾学校吗？怎么他在自己写的文章里，更像是在说机构应统一改成国家运营的儿童监狱呢\nhttps://t.co/0UKXmt7L6L https://t.co/XYYrREvXi2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6140,
+          "following_count": 217,
+          "like_count": 24243,
+          "listed_count": 19,
+          "media_count": 1764,
+          "tweet_count": 21493
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "ᴀʟᴛ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "🏳️‍⚧️ ⚢ ☭ ",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2018441471012004247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24130,
+          "following_count": 2702,
+          "like_count": 39053,
+          "listed_count": 7,
+          "media_count": 536,
+          "tweet_count": 20908
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

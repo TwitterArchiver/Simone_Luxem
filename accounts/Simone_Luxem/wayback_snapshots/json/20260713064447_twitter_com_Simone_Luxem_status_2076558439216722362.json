@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076558427292327936"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "2076558439216722362",
+    "created_at": "2026-07-13T06:44:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:44:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076558439216722362"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SLUvoNnRFz",
+          "end": 84,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2076558439216722362/photo/1",
+          "media_key": "3_2076558427292327936",
+          "start": 61,
+          "url": "https://t.co/SLUvoNnRFz"
+        },
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 108,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2076431976211374420",
+          "start": 85,
+          "url": "https://t.co/AUlknZ9fu7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076558439216722362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076431976211374420",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看起来少，实际上最重要的原因是自己学校的校规里也没有不允许谈恋爱点外卖带电子设备之类的呀…既然没有，那自己就没有违纪呀… https://t.co/SLUvoNnRFz https://t.co/AUlknZ9fu7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1192,
+        "media_key": "3_2076558427292327936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFq4zYaYAAsVG6.jpg",
+        "width": 1076
+      },
+      {
+        "height": 1182,
+        "media_key": "3_2076431972621074432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HND34LBXwAA7-MA.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076558427292327936"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "2076558439216722362",
+        "created_at": "2026-07-13T06:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076558439216722362"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SLUvoNnRFz",
+              "end": 84,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2076558439216722362/photo/1",
+              "media_key": "3_2076558427292327936",
+              "start": 61,
+              "url": "https://t.co/SLUvoNnRFz"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2076431976211374420",
+              "start": 85,
+              "url": "https://t.co/AUlknZ9fu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076558439216722362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076431976211374420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看起来少，实际上最重要的原因是自己学校的校规里也没有不允许谈恋爱点外卖带电子设备之类的呀…既然没有，那自己就没有违纪呀… https://t.co/SLUvoNnRFz https://t.co/AUlknZ9fu7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076431972621074432"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2076431976211374420",
+        "created_at": "2026-07-12T22:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T23:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076431976211374420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lutdc2E458",
+              "end": 36,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2076431976211374420/photo/1",
+              "media_key": "3_2076431972621074432",
+              "start": 13,
+              "url": "https://t.co/Lutdc2E458"
+            },
+            {
+              "display_url": "x.com/chiangcching/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/chiangcching/status/2076431006366941690",
+              "start": 37,
+              "url": "https://t.co/l7DdVkgvzj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076431976211374420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1682,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076431006366941690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我相比之下可能算比较乖的 https://t.co/Lutdc2E458 https://t.co/l7DdVkgvzj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6231,
+          "following_count": 220,
+          "like_count": 25033,
+          "listed_count": 16,
+          "media_count": 1794,
+          "tweet_count": 21827
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🏳️‍⚧️☭ she/her \n💖@amber_digit\n❤️@noaayoyaoaya\n💎https://t.co/lvpg0loEUe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "amber_digit"
+              },
+              {
+                "end": 45,
+                "start": 32,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 70,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 47,
+                "url": "https://t.co/lvpg0loEUe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2059619426949820924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6500,
+          "following_count": 1067,
+          "like_count": 6090,
+          "listed_count": 11,
+          "media_count": 293,
+          "tweet_count": 3469
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

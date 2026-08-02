@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1981628422393823561",
+    "created_at": "2025-10-24T07:46:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T08:46:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1981628422393823561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/poo191213poo/s…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/poo191213poo/status/1981351464426488256",
+          "start": 103,
+          "url": "https://t.co/SStJbbQENW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981628422393823561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981351464426488256",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "暴风哭泣…\n但恰恰是这个隐藏条件，是不可能完成的呀…\n无论怎么做，做什么，所做的都只是在延缓那个无法停止的倒计时罢了的…自己会竭尽所能地去拉住时针，直到最后一刻，可自己不可能让其停下，更不可能让其逆转啊… https://t.co/SStJbbQENW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1981628422393823561",
+        "created_at": "2025-10-24T07:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T08:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981628422393823561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/poo191213poo/s…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/poo191213poo/status/1981351464426488256",
+              "start": 103,
+              "url": "https://t.co/SStJbbQENW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981628422393823561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981351464426488256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "暴风哭泣…\n但恰恰是这个隐藏条件，是不可能完成的呀…\n无论怎么做，做什么，所做的都只是在延缓那个无法停止的倒计时罢了的…自己会竭尽所能地去拉住时针，直到最后一刻，可自己不可能让其停下，更不可能让其逆转啊… https://t.co/SStJbbQENW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1205290629078507521",
+        "conversation_id": "1981351464426488256",
+        "created_at": "2025-10-23T13:26:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T14:26:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981351464426488256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dw_chinese/sta…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/dw_chinese/status/1981268101434888270",
+              "start": 72,
+              "url": "https://t.co/0DuKRjavLk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981351464426488256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 874,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981268101434888270",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好喜歡的故事。\n睿恬說：雖然家人的愛是無條件的，但家人的愛有一個隱藏條件，你要好好活下去。\n因為跨性別真的很難，也希望他們能從故事裡看到希望。 https://t.co/0DuKRjavLk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5570,
+          "following_count": 215,
+          "like_count": 22769,
+          "listed_count": 15,
+          "media_count": 1682,
+          "tweet_count": 20634
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-13T00:57:54.000Z",
+        "description": "亲密革命劳动党党员 Kdo si počká, ten se dočká.一個庸俗的男同（Gay）",
+        "id": "1205290629078507521",
+        "location": "England, United Kingdom",
+        "name": "TonyPoop191213🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859067872456437761/dUtMNacY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 688,
+          "like_count": 28630,
+          "listed_count": 3,
+          "media_count": 19,
+          "tweet_count": 6453
+        },
+        "username": "Poo191213Poo",
+        "verified": false
+      }
+    ]
+  }
+}

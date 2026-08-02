@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "1983378337843294657",
+    "created_at": "2025-10-29T03:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T04:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983378337843294657"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hanlianyi331/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/hanlianyi331/status/1983352622104072384",
+          "start": 31,
+          "url": "https://t.co/ITXKus7F8d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983378337843294657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983352622104072384",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好，等哪天我路过专门把补佳乐磨成粉来门口来个鼻吸，也来打个卡 https://t.co/ITXKus7F8d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1983378337843294657",
+        "created_at": "2025-10-29T03:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T04:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983378337843294657"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hanlianyi331/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hanlianyi331/status/1983352622104072384",
+              "start": 31,
+              "url": "https://t.co/ITXKus7F8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983378337843294657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983352622104072384",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好，等哪天我路过专门把补佳乐磨成粉来门口来个鼻吸，也来打个卡 https://t.co/ITXKus7F8d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1300828282061877249",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1983352622104072384",
+        "created_at": "2025-10-29T01:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T02:48:32.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983350203693576566",
+          "1983352339340886417",
+          "1983352622104072384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "zhuanlan.zhihu.com/p/655895746?sh…",
+              "end": 67,
+              "expanded_url": "https://zhuanlan.zhihu.com/p/655895746?share_code=AgCXhy559xZ3&utm_psn=1966799599890069293",
+              "start": 44,
+              "unwound_url": "https://zhuanlan.zhihu.com/p/655895746?share_code=AgCXhy559xZ3&utm_psn=1966799599890069293",
+              "url": "https://t.co/ovZ5o5gmag"
+            },
+            {
+              "display_url": "x.com/MizukiWorkshop…",
+              "end": 178,
+              "expanded_url": "https://twitter.com/MizukiWorkshop/status/1983079408022733066",
+              "start": 155,
+              "url": "https://t.co/LTwjh9e281"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983352622104072384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "zhuanlan.zhihu.com/p/655895746?sh…",
+                "end": 67,
+                "expanded_url": "https://zhuanlan.zhihu.com/p/655895746?share_code=AgCXhy559xZ3&utm_psn=1966799599890069293",
+                "start": 44,
+                "url": "https://t.co/IPI9B4r5Ao"
+              }
+            ]
+          },
+          "text": "关于夏欧妮娅和雾雨咖啡店的事情的全程经过，我在2年前已经完整的整理在这篇知乎文章当中\n\nhttps://t.co/IPI9B4r5Ao\n\n现代社会强调个人自主权，公开注射可以促进社会对残疾、医疗和健康问题的包容，帮助减少污名化。例如，世界卫生组织大力倡导残疾包容、健康公平和减少特定领域（如心理健康）的污名。 \r\r美国糖尿病协会（ADA）和dStigmatize致力于结束糖尿病污名，强调胰岛素使用不是“失败”。 \r一些公益倡导团体认为，公开注射这有助于教育公众，认识到医疗需求不是“隐藏的事”。\n\n关于“拿着日雌在雾雨咖啡店门口打卡”的行为，均为打卡当事人针对夏欧妮娅事件的不满或纪念的一种表现形式。\n\n实际上，这种行为已经非常温和，尽管双方行为都存在诸多问题，但是当事人双方已经私下和解。只是店方当年为了尽快避开风头，减少麻烦，在误会解除后，优先选择了自保。\n\n这种行为无可厚非，但2年前当事人因自杀进入ICU已成事实。\n\n那也无可怪乎有人来此“打卡”了——事实上，这已经是所有矛盾争端中最温和的表现形式，并不会有人造成任何实质上的损失。\n\n但如果恰好有人觉得心理不舒服，感觉到自己被“跳脸”。那就不妨想想，一个15岁的女孩，仅因为做了一个既符合道德，又符合法律，还被多个世界性公益组织鼓励的“公开医药注射”行为，就遭到了空前绝后的网络暴力最终致其自杀。\n\n而她的失误仅类似于：“半夜在一个治安不好的国家的大街上穿着性感暴露的衣服，遭致强奸”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 903,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983079408022733066",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于夏欧妮娅和雾雨咖啡店的事情的全程经过，我在2年前已经完整的整理在这篇知乎文章当中\n\nhttps://t.co/ovZ5o5gmag\n\n现代社会强调个人自主权，公开注射可以促进社会对残疾、医疗和健康问题的包容，帮助减少污名化。例如，世界卫生组织大力倡导残疾包容、健康公平和减少特定领域（如心理健康）的污名。 https://t.co/LTwjh9e281"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5610,
+          "following_count": 216,
+          "like_count": 22809,
+          "listed_count": 16,
+          "media_count": 1683,
+          "tweet_count": 20670
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-01T16:10:13.000Z",
+        "description": "阿斯伯格｜ADHD｜哔站名称 美少女寒涟漪｜知乎名称 寒涟漪｜如有危机干预信息请私信X账号@lianyiganyu｜如需联系我本人请私信telegram账号https://t.co/DPmfCojENt｜咨询问题可通过知乎向我进行付费文字咨询｜语音咨询需向我通过telegram私信预约｜我们活着就是对恶意最大的反抗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "lianyiganyu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HANLIANYI331",
+                "end": 101,
+                "expanded_url": "http://t.me/HANLIANYI331",
+                "start": 78,
+                "url": "https://t.co/DPmfCojENt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/audio/au3631341",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/audio/au3631341",
+                "start": 0,
+                "url": "https://t.co/LbtcvsNLVR"
+              }
+            ]
+          }
+        },
+        "id": "1300828282061877249",
+        "location": "涟漪危机干预小组",
+        "name": "寒涟漪",
+        "pinned_tweet_id": "1883074968147431756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701586146395127808/nXiZPlAl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40053,
+          "following_count": 3671,
+          "like_count": 1282,
+          "listed_count": 69,
+          "media_count": 355,
+          "tweet_count": 2575
+        },
+        "url": "https://t.co/LbtcvsNLVR",
+        "username": "HANLIANYI331",
+        "verified": true
+      }
+    ]
+  }
+}

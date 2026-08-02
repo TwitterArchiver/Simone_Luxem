@@ -1,0 +1,213 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1808059847709004098",
+    "created_at": "2024-07-02T08:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-02T09:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1808059847709004098"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Beiyan_Yunyi/s…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/Beiyan_Yunyi/status/1807986611042635822",
+          "start": 43,
+          "url": "https://t.co/TWTsHC7dON"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1808059847709004098",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1807986611042635822",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我和我妹妹也都是贫乳...夏天都不用穿胸罩那种...\n嗯...同款护奶裙预订了... https://t.co/TWTsHC7dON"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1808059847709004098",
+        "created_at": "2024-07-02T08:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T09:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1808059847709004098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Beiyan_Yunyi/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Beiyan_Yunyi/status/1807986611042635822",
+              "start": 43,
+              "url": "https://t.co/TWTsHC7dON"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1808059847709004098",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1807986611042635822",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我和我妹妹也都是贫乳...夏天都不用穿胸罩那种...\n嗯...同款护奶裙预订了... https://t.co/TWTsHC7dON"
+      },
+      {
+        "attachments": {},
+        "author_id": "535028358",
+        "conversation_id": "1807986611042635822",
+        "created_at": "2024-07-02T03:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-02T04:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1807986611042635822"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1807986611042635822",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3067,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "贫乳怎么你了😡贫乳怎么你了😡贫乳控的xp也是xp😡\n哦二次元贫乳在三次元起码是B杯啊，那没事了\n想要胸😭但是女性直系亲属都贫，没救了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3365,
+          "following_count": 221,
+          "like_count": 14693,
+          "listed_count": 10,
+          "tweet_count": 15757
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-24T03:02:07.000Z",
+        "description": "MtRF，吃雌二醇的网左\nMothers: @usagiByTheShore & @sauricat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "sauricat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yunyi.beiyan.us",
+                "end": 23,
+                "expanded_url": "https://blog.yunyi.beiyan.us",
+                "start": 0,
+                "url": "https://t.co/0dCxoXrP6h"
+              }
+            ]
+          }
+        },
+        "id": "535028358",
+        "name": "北雁云依 - 21018365486@o3o.ca",
+        "pinned_tweet_id": "1759060692202836126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668117844700332033/Um3u3YZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2507,
+          "following_count": 199,
+          "like_count": 5338,
+          "listed_count": 16,
+          "tweet_count": 1365
+        },
+        "url": "https://t.co/0dCxoXrP6h",
+        "username": "Beiyan_Yunyi",
+        "verified": false
+      }
+    ]
+  }
+}

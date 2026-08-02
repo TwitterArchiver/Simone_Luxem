@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2045746727572124080",
+    "created_at": "2026-04-19T06:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T07:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045746727572124080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_toffee/s…",
+          "end": 142,
+          "expanded_url": "https://twitter.com/amber_toffee/status/2045733443896496499",
+          "start": 119,
+          "url": "https://t.co/r8wjAFttLO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045746727572124080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045733443896496499",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "暴风哭泣…\n虽然情景不完全相同，但是自己对他们的某种根植于内心深处的执念（怨恨？）就是“自己为什么是他们的孩子”，或者说“为什么他们的孩子是自己”吧…\n也是因此在自己之前草拟的给他们留的遗书中会有“如果有来生，希望不要相见”之类的话吧… https://t.co/r8wjAFttLO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045733440033583104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGPnuZZW8AAi0L5.jpg",
+        "width": 1042
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2045746727572124080",
+        "created_at": "2026-04-19T06:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045746727572124080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2045733443896496499",
+              "start": 119,
+              "url": "https://t.co/r8wjAFttLO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045746727572124080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045733443896496499",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "暴风哭泣…\n虽然情景不完全相同，但是自己对他们的某种根植于内心深处的执念（怨恨？）就是“自己为什么是他们的孩子”，或者说“为什么他们的孩子是自己”吧…\n也是因此在自己之前草拟的给他们留的遗书中会有“如果有来生，希望不要相见”之类的话吧… https://t.co/r8wjAFttLO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045733440033583104"
+          ]
+        },
+        "author_id": "1424779836938022913",
+        "conversation_id": "2045733443896496499",
+        "created_at": "2026-04-19T05:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T06:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045733443896496499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RYxssLYfi2",
+              "end": 55,
+              "expanded_url": "https://x.com/amber_toffee/status/2045733443896496499/photo/1",
+              "media_key": "3_2045733440033583104",
+              "start": 32,
+              "url": "https://t.co/RYxssLYfi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045733443896496499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 752,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉不应该这样搬运 但真的好意难平这个故事 所以想让更多人看到 https://t.co/RYxssLYfi2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6039,
+          "following_count": 215,
+          "like_count": 24345,
+          "listed_count": 19,
+          "media_count": 1767,
+          "tweet_count": 21541
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T17:09:33.000Z",
+        "description": "☭ 🏳️‍⚧️ ⚢ / ᴢʜ, ᴇɴ / ❤︎ @noaayoyaoaya / ✦ @amber_medusozoa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "amber_medusozoa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amberjellyfish",
+                "end": 23,
+                "expanded_url": "http://ngl.link/amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/P9msNZnPLs"
+              }
+            ]
+          }
+        },
+        "id": "1424779836938022913",
+        "location": "Toronto, Ontario",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2040939467280674867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018048535690723328/rYaERCPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25846,
+          "following_count": 2773,
+          "like_count": 41218,
+          "listed_count": 14,
+          "media_count": 628,
+          "tweet_count": 21953
+        },
+        "url": "https://t.co/P9msNZnPLs",
+        "username": "amber_toffee",
+        "verified": true
+      }
+    ]
+  }
+}

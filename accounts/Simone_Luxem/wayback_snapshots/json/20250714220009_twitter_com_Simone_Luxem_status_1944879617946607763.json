@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1944877898793468071",
+    "created_at": "2025-07-14T22:00:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T23:00:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944879617946607763"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1944879617946607763",
+    "in_reply_to_user_id": "1429365180618706945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 107,
+      "like_count": 2,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944877898793468071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "无数次，自己希望自己能够在某个方面“习惯于优秀”，能够通过取得自己想要的成果来一劳永逸地解决自己心态上的问题，但从来没有成功过，反而因为累积的“过往失败”导致所需求的可以永远解决问题的成果越来越大，换言之，自己所需要的就越来越多，自己所有的问题也越来越大.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1944877898793468071",
+        "created_at": "2025-07-14T22:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T23:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944879617946607763"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944879617946607763",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944877898793468071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无数次，自己希望自己能够在某个方面“习惯于优秀”，能够通过取得自己想要的成果来一劳永逸地解决自己心态上的问题，但从来没有成功过，反而因为累积的“过往失败”导致所需求的可以永远解决问题的成果越来越大，换言之，自己所需要的就越来越多，自己所有的问题也越来越大.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1944877898793468071",
+        "created_at": "2025-07-14T21:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T22:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944877898793468071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1944877898793468071",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 239,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事实证明“经历挫折”什么的完全不能让人拥有面对同类事件的更强抗压能力，甚至只会恶化\n比如自己，从小到大就没有擅长考试过，并且胜负心还很强，因此大概没有哪次考试算考好过，所以每次都算经历次挫折，结果直到如今24岁了，仍然是每次面临考试都会焦虑地要死压力大得要死，甚至会有对应的躯体反应…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486,
+          "following_count": 219,
+          "like_count": 21350,
+          "listed_count": 13,
+          "media_count": 1634,
+          "tweet_count": 19930
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      }
+    ]
+  }
+}

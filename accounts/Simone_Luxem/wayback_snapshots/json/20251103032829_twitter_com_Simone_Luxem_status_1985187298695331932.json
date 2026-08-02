@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985187289438527488",
+        "3_1985187289446916096"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357430100367605760",
+          "name": "UX design"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1985187298695331932",
+    "created_at": "2025-11-03T03:28:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T04:28:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985187298695331932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JZ6QEAADF4",
+          "end": 54,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1985187298695331932/photo/1",
+          "media_key": "3_1985187289438527488",
+          "start": 31,
+          "url": "https://t.co/JZ6QEAADF4"
+        },
+        {
+          "display_url": "pic.x.com/JZ6QEAADF4",
+          "end": 54,
+          "expanded_url": "https://x.com/Simone_Luxem/status/1985187298695331932/photo/1",
+          "media_key": "3_1985187289446916096",
+          "start": 31,
+          "url": "https://t.co/JZ6QEAADF4"
+        },
+        {
+          "display_url": "x.com/graniteindigo/…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/graniteindigo/status/1964578754476536190",
+          "start": 55,
+          "url": "https://t.co/51HR6DTH7G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985187298695331932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964578754476536190",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看起来十分广谱，实际上十分挑食，因为这不是可选项，而是必选项 https://t.co/JZ6QEAADF4 https://t.co/51HR6DTH7G"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1985187298695331932].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1985187298695331932",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1985187298695331932"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985187289438527488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zNUl-aoAAorc8.jpg",
+        "width": 1250
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1985187289446916096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4zNUmAaoAAoU6p.jpg",
+        "width": 1182
+      },
+      {
+        "height": 2041,
+        "media_key": "3_1964578750109990912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0OV9uWWQAAtz4J.jpg",
+        "width": 1148
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964578750109990912"
+          ]
+        },
+        "author_id": "1518187976916094976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357430100367605760",
+              "name": "UX design"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1964578754476536190",
+        "created_at": "2025-09-07T06:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T07:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964578754476536190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 58,
+              "id": "3365276211",
+              "start": 45,
+              "username": "mangobellini"
+            },
+            {
+              "end": 75,
+              "id": "1413867982275682306",
+              "start": 65,
+              "username": "chengmo66"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U1IxrkfO1x",
+              "end": 114,
+              "expanded_url": "https://x.com/GraniteIndigo/status/1964578754476536190/photo/1",
+              "media_key": "3_1964578750109990912",
+              "start": 91,
+              "url": "https://t.co/U1IxrkfO1x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964578754476536190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 233681,
+          "like_count": 440,
+          "quote_count": 28,
+          "reply_count": 72,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "🦀小圈贝贝专属SP量表上线🦀\n\n深度解析喜欢sp，真实的自己\n\n制作团队：\nui/ux设计@mangobellini \n文案/策划@chengmo66 \n程序-我\n\n网址在评论区👇 https://t.co/U1IxrkfO1x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5659,
+          "following_count": 215,
+          "like_count": 22859,
+          "listed_count": 18,
+          "media_count": 1686,
+          "tweet_count": 20719
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T11:20:10.000Z",
+        "description": "‹ location › Toronto ‹ / location › ‹ role › 😈主 ‹ /role › ‹ stats › 185/160 ‹ /stats › ‹ 圈龄 › 8 ‹ /圈龄 › ‹ ! - - 和有趣的人做不乏味的事🤘 - -› ‹ ! - - 偶尔搞点圈内app🧑‍💻 - -›",
+        "id": "1518187976916094976",
+        "location": "Toronto, Ontario",
+        "name": "Granite.",
+        "pinned_tweet_id": "1868549932371824699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765984158101237760/HutqLBbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9152,
+          "following_count": 218,
+          "like_count": 499,
+          "listed_count": 9,
+          "media_count": 27,
+          "tweet_count": 483
+        },
+        "username": "GraniteIndigo",
+        "verified": false
+      }
+    ]
+  }
+}

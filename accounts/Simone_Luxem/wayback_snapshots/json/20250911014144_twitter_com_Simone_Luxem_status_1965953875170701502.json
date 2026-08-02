@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1965768664977994013",
+    "created_at": "2025-09-11T01:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T02:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965953875170701502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1893148438239522816",
+          "start": 0,
+          "username": "Ave_Nagasaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965953875170701502",
+    "in_reply_to_user_id": "1893148438239522816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965951654467076445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ave_Nagasaki 确实有，我adhd还比较严重的\n寒涟漪也有adhd，并且是比我更严重的，所以这种事情即使是真的对它而言没有察觉实在是正常的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1965768664977994013",
+        "created_at": "2025-09-11T01:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T02:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965953875170701502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1893148438239522816",
+              "start": 0,
+              "username": "Ave_Nagasaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965953875170701502",
+        "in_reply_to_user_id": "1893148438239522816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965951654467076445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ave_Nagasaki 确实有，我adhd还比较严重的\n寒涟漪也有adhd，并且是比我更严重的，所以这种事情即使是真的对它而言没有察觉实在是正常的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893148438239522816",
+        "conversation_id": "1965768664977994013",
+        "created_at": "2025-09-11T01:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T02:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965951654467076445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965951654467076445",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965945069485404374",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 无意冒犯但是你可能确实有神经障碍。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4571,
+          "following_count": 219,
+          "like_count": 22400,
+          "listed_count": 13,
+          "media_count": 1655,
+          "tweet_count": 20329
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T03:59:03.000Z",
+        "description": "兴趣使然\nlove @lamte15072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "lamte15072"
+              }
+            ]
+          }
+        },
+        "id": "1893148438239522816",
+        "location": "大遊戯場歌舞伎町",
+        "name": "賣笑エクスタシー",
+        "pinned_tweet_id": "1934670312270123485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958859588478148610/4SE0mZUk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 177,
+          "like_count": 5182,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 2755
+        },
+        "username": "Ave_Nagasaki",
+        "verified": false
+      }
+    ]
+  }
+}

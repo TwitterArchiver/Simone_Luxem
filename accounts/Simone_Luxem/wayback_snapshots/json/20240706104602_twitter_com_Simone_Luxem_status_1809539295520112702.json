@@ -1,0 +1,201 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1809539295520112702",
+    "created_at": "2024-07-06T10:46:02.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-06T11:46:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1809539295520112702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Anthony2021111…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/Anthony20211117/status/1809013630878572714",
+          "start": 29,
+          "url": "https://t.co/lpmNBjntMj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809539295520112702",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809013630878572714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "猪猪明明也是很可爱的...\n还是说选拜登也不要选川普吧（ https://t.co/lpmNBjntMj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1809539295520112702",
+        "created_at": "2024-07-06T10:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-06T11:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809539295520112702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Anthony2021111…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Anthony20211117/status/1809013630878572714",
+              "start": 29,
+              "url": "https://t.co/lpmNBjntMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809539295520112702",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809013630878572714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "猪猪明明也是很可爱的...\n还是说选拜登也不要选川普吧（ https://t.co/lpmNBjntMj"
+      },
+      {
+        "attachments": {},
+        "author_id": "1277822903808032770",
+        "conversation_id": "1809013630878572714",
+        "created_at": "2024-07-04T23:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T00:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809013630878572714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anthony2021111…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/anthony20211117/status/1808372850304442570",
+              "start": 30,
+              "url": "https://t.co/LfEy45PAvJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809013630878572714",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 32357,
+          "like_count": 191,
+          "quote_count": 6,
+          "reply_count": 62,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1808372850304442570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "道歉，这句话伤害了很多猫猫狗狗，应该是选头猪也不要选川普。 https://t.co/LfEy45PAvJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3368,
+          "following_count": 220,
+          "like_count": 14865,
+          "listed_count": 9,
+          "tweet_count": 15848
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T04:36:14.000Z",
+        "description": "尼尼大主教",
+        "id": "1277822903808032770",
+        "location": "Anywhere",
+        "name": "Anthony",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796813707328229376/pBs8PrHq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39160,
+          "following_count": 1639,
+          "like_count": 38393,
+          "listed_count": 91,
+          "tweet_count": 2778
+        },
+        "username": "Anthony20211117",
+        "verified": false
+      }
+    ]
+  }
+}

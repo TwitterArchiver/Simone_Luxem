@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2032540349114040725",
+    "created_at": "2026-03-13T20:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T21:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032549921577185468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "281045155",
+          "start": 0,
+          "username": "_vicwong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032549921577185468",
+    "in_reply_to_user_id": "281045155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032540349114040725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_vicwong 这不就是中国的所谓“戒网瘾机构”吗啊…这能没有影响就有大头鬼了啊…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2032540349114040725",
+        "created_at": "2026-03-13T20:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T21:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032549921577185468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "281045155",
+              "start": 0,
+              "username": "_vicwong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032549921577185468",
+        "in_reply_to_user_id": "281045155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032540349114040725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_vicwong 这不就是中国的所谓“戒网瘾机构”吗啊…这能没有影响就有大头鬼了啊…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "281045155",
+        "conversation_id": "2032540349114040725",
+        "created_at": "2026-03-13T19:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T20:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032540349114040725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/caiziboshi/sta…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/caiziboshi/status/2032436579801678177",
+              "start": 130,
+              "url": "https://t.co/h2759fChqe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032540349114040725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "nyma.org",
+                "end": 324,
+                "expanded_url": "https://www.nyma.org",
+                "start": 301,
+                "url": "https://t.co/e0j4Thi4ew"
+              }
+            ]
+          },
+          "text": "理论上那是一家“问题少年”学校。\n\n川普的父母当年送他去的原因很简单：不爱学习、纪律很差、叛逆心强等等。\n\n因为加拿大有一家类似的学校，我曾帮朋友的孩子办理入学，对此有比较全面的了解。\n\n这所学校位于尼亚加拉瀑布附近：Robert Land Academy。\n\n以军事化为借口，强化纪律为主，很多老师有军人背景，学生和部分老师都会穿军服。\n\n多年后那孩子告诉我，里面也有体罚：关禁闭、挖战壕 …… 甚至动手动脚地“管教”。\n\n我经常担心，这些毕业生在以后的人生里，是否会留下心理阴影？\n\n纽约周边好的私校多得很，川普和他的粉丝们，怎么会想到拿这个学校来吹嘘。\n\n链接：该校(现已被华人收购)目前的网站 https://t.co/e0j4Thi4ew 以前从来不愿意提川普(现在不知道)，难道培养一个美国总统那么丢脸不成？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032436579801678177",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "理论上那是一家“问题少年”学校。\n\n川普的父母当年送他去的原因很简单：不爱学习、纪律很差、叛逆心强等等。\n\n因为加拿大有一家类似的学校，我曾帮朋友的孩子办理入学，对此有比较全面的了解。\n\n这所学校位于尼亚加拉瀑布附近：Robert Land Academy。 https://t.co/h2759fChqe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6161,
+          "following_count": 217,
+          "like_count": 24102,
+          "listed_count": 19,
+          "media_count": 1757,
+          "tweet_count": 21429
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2011-04-12T14:27:54.000Z",
+        "description": "加拿大多伦多人；移民二十九年，非信徒；崇尚“赛先生”和“德先生”； 享受退休生活，喜欢房车音乐。 上推的目的：用以往生活工作经验，帮推友借助科技学习英语，了解西方社会，享受现代生活。 欢迎任何评论，提出你的论点，不接受任何脏话，没时间私信通讯，感谢推友关注。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vicwong.com",
+                "end": 23,
+                "expanded_url": "http://www.vicwong.com",
+                "start": 0,
+                "url": "https://t.co/k96TOcRpuE"
+              }
+            ]
+          }
+        },
+        "id": "281045155",
+        "location": "Toronto, Ontario",
+        "name": "Vic Wong 黄维克",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562231842530549760/gakJS4XE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57545,
+          "following_count": 409,
+          "like_count": 66204,
+          "listed_count": 236,
+          "media_count": 10560,
+          "tweet_count": 63350
+        },
+        "url": "https://t.co/k96TOcRpuE",
+        "username": "_vicwong",
+        "verified": true
+      }
+    ]
+  }
+}

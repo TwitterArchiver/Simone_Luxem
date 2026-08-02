@@ -1,0 +1,213 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1791632242974106066",
+    "created_at": "2024-05-18T08:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-18T09:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1791747227183882301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2989618511",
+          "start": 0,
+          "username": "Kristall_Wang_"
+        },
+        {
+          "end": 27,
+          "id": "1546578617966006272",
+          "start": 16,
+          "username": "nnnkss_uua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1791747227183882301",
+    "in_reply_to_user_id": "2989618511",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1791713664052986010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kristall_Wang_ @nnnkss_uua 某种意义上也算是“大逃杀式公平”了…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1791713664052986010].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1791713664052986010",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1791713664052986010"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1791632242974106066",
+        "created_at": "2024-05-18T08:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-18T09:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1791747227183882301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2989618511",
+              "start": 0,
+              "username": "Kristall_Wang_"
+            },
+            {
+              "end": 27,
+              "id": "1546578617966006272",
+              "start": 16,
+              "username": "nnnkss_uua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1791747227183882301",
+        "in_reply_to_user_id": "2989618511",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1791713664052986010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kristall_Wang_ @nnnkss_uua 某种意义上也算是“大逃杀式公平”了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 216,
+          "like_count": 13508,
+          "listed_count": 11,
+          "tweet_count": 15156
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-21T11:33:34.000Z",
+        "description": "Astrophysics&Biochemistry/MtF/IEEE+ACS+APS studentmember/English talking okay/无产阶级万岁！/Lolita/168/87/66/88/70D/锁推的fo前请私信/闷声大发财，我什么也不说，这是坠吼的",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kristall-wang.lgbt",
+                "end": 23,
+                "expanded_url": "http://kristall-wang.lgbt",
+                "start": 0,
+                "url": "https://t.co/xB7XCAbKWH"
+              }
+            ]
+          }
+        },
+        "id": "2989618511",
+        "name": "Kristall Wang（接受所有回fo）#StopWar（一起忽悠别人，是个反射弧很长的家伙）",
+        "pinned_tweet_id": "1610098333770547201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567704879350648834/eExiJ1sW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4996,
+          "following_count": 5337,
+          "like_count": 101166,
+          "listed_count": 31,
+          "tweet_count": 24890
+        },
+        "url": "https://t.co/xB7XCAbKWH",
+        "username": "Kristall_Wang_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-11T19:34:30.000Z",
+        "description": "jää ellu ja jutusta lugu",
+        "id": "1546578617966006272",
+        "location": "Helsingin Satama",
+        "name": "külmöö",
+        "pinned_tweet_id": "1764280251352600985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546587291690250241/dBQUczXZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1274,
+          "following_count": 183,
+          "like_count": 14537,
+          "listed_count": 4,
+          "tweet_count": 5994
+        },
+        "username": "nnnkss_uua",
+        "verified": false
+      }
+    ]
+  }
+}

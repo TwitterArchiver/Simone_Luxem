@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1828163505263902808",
+    "created_at": "2024-08-26T20:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-26T21:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828163505263902808"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/valeriaeulabei…",
+          "end": 171,
+          "expanded_url": "https://twitter.com/valeriaeulabeia/status/1828087647258243570",
+          "start": 148,
+          "url": "https://t.co/7GkL3GWZx7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1828163505263902808",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828087647258243570",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "向大家道歉\n我和Emma与小二的合作仅限于亚明案本身，并且在亚明暂时安全之后就没有再联系了…\n对于小二可能由于精神压力，编造“林书-阿依帕夏集团”，无端语言攻击其它人，开盒并公开其它人的行为，我向所有受害者道歉，其个人行为并非我可以控制的，并且也不代表我或Emma的任何观点…\n再次向大家道歉… https://t.co/7GkL3GWZx7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1828163505263902808",
+        "created_at": "2024-08-26T20:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T21:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828163505263902808"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/valeriaeulabei…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/valeriaeulabeia/status/1828087647258243570",
+              "start": 148,
+              "url": "https://t.co/7GkL3GWZx7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828163505263902808",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828087647258243570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "向大家道歉\n我和Emma与小二的合作仅限于亚明案本身，并且在亚明暂时安全之后就没有再联系了…\n对于小二可能由于精神压力，编造“林书-阿依帕夏集团”，无端语言攻击其它人，开盒并公开其它人的行为，我向所有受害者道歉，其个人行为并非我可以控制的，并且也不代表我或Emma的任何观点…\n再次向大家道歉… https://t.co/7GkL3GWZx7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1828087640052359168",
+            "3_1828087644808720385"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "conversation_id": "1828087647258243570",
+        "created_at": "2024-08-26T15:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-26T16:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828087647258243570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1430936966066020353",
+              "start": 16,
+              "username": "Emma20131621"
+            },
+            {
+              "end": 43,
+              "id": "1429365180618706945",
+              "start": 30,
+              "username": "Simone_Luxem"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/advjmcgxyq",
+              "end": 88,
+              "expanded_url": "https://twitter.com/ValeriaEulabeia/status/1828087647258243570/photo/1",
+              "media_key": "3_1828087640052359168",
+              "start": 65,
+              "url": "https://t.co/aDVJMCgXYq"
+            },
+            {
+              "display_url": "pic.x.com/advjmcgxyq",
+              "end": 88,
+              "expanded_url": "https://twitter.com/ValeriaEulabeia/status/1828087647258243570/photo/1",
+              "media_key": "3_1828087644808720385",
+              "start": 65,
+              "url": "https://t.co/aDVJMCgXYq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1828087647258243570",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2700,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "现在小二已经疯狂到搞开盒威胁了\n@Emma20131621 @Simone_Luxem \n你们准备让这条狗到处咬人咬到什么时候？ https://t.co/aDVJMCgXYq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；lover & care giver @Emma20131621 自家雪兔@usagiByTheShore亲生妹妹@apr_simone",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Emma20131621"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "usagiByTheShore"
+              },
+              {
+                "end": 142,
+                "start": 131,
+                "username": "apr_simone"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3653,
+          "following_count": 223,
+          "like_count": 16292,
+          "listed_count": 8,
+          "tweet_count": 16756
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Unluckily...got a boy's body at birth. MtF🏳️‍⚧️ | HRT🍥 started at: 2021.12.6 |  International Communication Study |  Borderline Personality Disorder",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "feijiyun38.xyz/auth/register?…",
+                "end": 23,
+                "expanded_url": "https://feijiyun38.xyz/auth/register?code=ECn1",
+                "start": 0,
+                "url": "https://t.co/JRYrTUtOwa"
+              }
+            ]
+          }
+        },
+        "id": "1313383273079345152",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "1827900534600409218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746515536283140096/-tyRLvuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5682,
+          "following_count": 2914,
+          "like_count": 106082,
+          "listed_count": 13,
+          "tweet_count": 14770
+        },
+        "url": "https://t.co/JRYrTUtOwa",
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

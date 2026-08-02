@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "1964281418596368670",
+    "created_at": "2025-09-06T17:43:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T18:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964384082273718405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573096874852098050",
+          "start": 0,
+          "username": "xunlu49164527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964384082273718405",
+    "in_reply_to_user_id": "1573096874852098050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964281418596368670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xunlu49164527 可这不正是说明这就是性别歧视，就是不对的吗？那么如果顺应这种逻辑，使其在自己身上再多奏效一次，难道不是在某种意义上助长其吗？就像每一次使用百度的搜索引擎或者其它产品是在实际上助长其一样…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1964281418596368670",
+        "created_at": "2025-09-06T17:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T18:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964384082273718405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573096874852098050",
+              "start": 0,
+              "username": "xunlu49164527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964384082273718405",
+        "in_reply_to_user_id": "1573096874852098050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964281418596368670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunlu49164527 可这不正是说明这就是性别歧视，就是不对的吗？那么如果顺应这种逻辑，使其在自己身上再多奏效一次，难道不是在某种意义上助长其吗？就像每一次使用百度的搜索引擎或者其它产品是在实际上助长其一样…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573096874852098050",
+        "conversation_id": "1964281418596368670",
+        "created_at": "2025-09-06T10:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T11:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964281418596368670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964281418596368670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 6229,
+          "like_count": 62,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我要提醒大家的是，千万在找工作之前好好想清楚改不改身份证，女生的身份证真的很难找到好的工作（大概率事件），hr很清楚的和我说，如果我的身份证是女生，都不会有面试，所以，真的要想清楚再改，而且我觉得不会工作到退休的，你可以不工作了之后再改也可以呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4558,
+          "following_count": 218,
+          "like_count": 22366,
+          "listed_count": 13,
+          "media_count": 1655,
+          "tweet_count": 20293
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-22T23:48:42.000Z",
+        "description": "🏳️‍⚧️生活在小瓶子的可爱灵灵呀，谢谢喜欢哦，两年内手术的女孩纸，谢谢尊重",
+        "id": "1573096874852098050",
+        "name": "瓶子（梦灵）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888108040144240640/XaZj2ERI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 211,
+          "like_count": 1075,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 875
+        },
+        "username": "xunlu49164527",
+        "verified": false
+      }
+    ]
+  }
+}

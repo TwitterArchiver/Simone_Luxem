@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1931706271893463405",
+    "created_at": "2025-06-08T14:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T15:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931712950634484094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1126154089216262145",
+          "start": 0,
+          "username": "ArtsSuraimu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931712950634484094",
+    "in_reply_to_user_id": "1126154089216262145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 28,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931706271893463405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArtsSuraimu 猪吃的，湿垃圾\n猪不吃的，干垃圾\n猪吃了会死的，有害垃圾\n可以卖钱买猪的，可回收垃圾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1931706259348316160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs7Mm7ba4AAtEuS.jpg",
+        "width": 3658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1931706271893463405",
+        "created_at": "2025-06-08T14:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T15:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931712950634484094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1126154089216262145",
+              "start": 0,
+              "username": "ArtsSuraimu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931712950634484094",
+        "in_reply_to_user_id": "1126154089216262145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931706271893463405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArtsSuraimu 猪吃的，湿垃圾\n猪不吃的，干垃圾\n猪吃了会死的，有害垃圾\n可以卖钱买猪的，可回收垃圾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931706259348316160"
+          ]
+        },
+        "author_id": "1126154089216262145",
+        "conversation_id": "1931706271893463405",
+        "created_at": "2025-06-08T13:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T14:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931706271893463405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cYOcGKGDA3",
+              "end": 41,
+              "expanded_url": "https://x.com/ArtsSuraimu/status/1931706271893463405/photo/1",
+              "media_key": "3_1931706259348316160",
+              "start": 18,
+              "url": "https://t.co/cYOcGKGDA3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931706271893463405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 200,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2025年了 我还是不懂什么干垃圾 https://t.co/cYOcGKGDA3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsym456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsym456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727293883699118080/pjNetg0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4263,
+          "following_count": 220,
+          "like_count": 20491,
+          "listed_count": 12,
+          "media_count": 1577,
+          "tweet_count": 19522
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-08T15:57:12.000Z",
+        "description": "The Slime-Type vTuber. Traveller. Opinions are own. 属性鼠鹿，性别男，找不到对象，政治属性不明，喜欢喷人，长得有碍观瞻，人在中国外但是喜欢对中国内指指点点 日本語を少しい話せできます Deutsch kann ich auch ein bissl",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rimuroslime",
+                "end": 23,
+                "expanded_url": "https://t.me/rimuroslime",
+                "start": 0,
+                "url": "https://t.co/Xo0VOQVwy0"
+              }
+            ]
+          }
+        },
+        "id": "1126154089216262145",
+        "location": "Jura Tempest Federation",
+        "name": "Schleim Slime Suraimu Pro Max Ultra Plus スライム 鼠莱姆",
+        "pinned_tweet_id": "1920399419259736374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915766741453647872/s1uhIg95_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10671,
+          "following_count": 2209,
+          "like_count": 90126,
+          "listed_count": 48,
+          "media_count": 243,
+          "tweet_count": 2876
+        },
+        "url": "https://t.co/Xo0VOQVwy0",
+        "username": "ArtsSuraimu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2059334379823132925",
+    "created_at": "2026-05-26T18:02:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T19:02:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059334379823132925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1729996152676786176",
+          "start": 3,
+          "username": "immortal_00994"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059334379823132925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059242508706607443",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @immortal_00994: 教皇这第一部通谕明确谴责了”以劳动/生产力赋予人价值”的观点——但同时强烈肯定劳动本身的尊严。这两者并不矛盾，是经典天主教社会训导的一个精微区分。\n\n1. 最直接的”谴责”出现在第51号\n\n教宗在论述”人人尊严平等”时直接点名一种意识形态…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2059334379823132925",
+        "created_at": "2026-05-26T18:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059334379823132925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1729996152676786176",
+              "start": 3,
+              "username": "immortal_00994"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059334379823132925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059242508706607443",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @immortal_00994: 教皇这第一部通谕明确谴责了”以劳动/生产力赋予人价值”的观点——但同时强烈肯定劳动本身的尊严。这两者并不矛盾，是经典天主教社会训导的一个精微区分。\n\n1. 最直接的”谴责”出现在第51号\n\n教宗在论述”人人尊严平等”时直接点名一种意识形态…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729996152676786176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2059242508706607443",
+        "created_at": "2026-05-26T11:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T12:51:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059241065924682081",
+          "2059242508706607443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pontifex/statu…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/pontifex/status/2058888313029685400",
+              "start": 130,
+              "url": "https://t.co/HcAqapmXTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059242508706607443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "教皇这第一部通谕明确谴责了”以劳动/生产力赋予人价值”的观点——但同时强烈肯定劳动本身的尊严。这两者并不矛盾，是经典天主教社会训导的一个精微区分。\n\n1. 最直接的”谴责”出现在第51号\n\n教宗在论述”人人尊严平等”时直接点名一种意识形态，称其”特别阴险”：\n\n在这些意识形态中，我认为最为阴险的，是那种主张每个人必须挣得或证明自己价值的观点，乃至于将更高的价值归于那些更高效、更有成效的人。在这种视角下，人最终被简化为达成结果的手段、被使用和剥削的资源，而不再被视为本身即是目的、绝不可被工具化的存在。然而，人的价值并不取决于他们成就了什么或生产了什么 。\n\n紧接着第53号给出正面表述：“每个人的根本尊严既非获得、亦非赚取，也无需被证明” 。\n\n第52号还作了关键区分：尊严有道德尊严、社会尊严、存在尊严之分，这些可以被增进或减损；但更深、更重要的是”本体性尊严”——这种尊严仅仅因人之存在而属于他，因为他被天主所愿、所造、所爱 。\n\n第112号（在AI语境下重申同一观点）：教宗警告”当效率成为价值的终极尺度时，人就会把自己当作一个’有待优化的项目’，而不是被召唤进入关系与共融的位格”。\n\n2. 但通谕同时强烈肯定”劳动的尊严”\n\n教宗专门引述若望保禄二世的《劳动通谕》(Laborem Exercens)：劳动不只是”待处理的问题”或”谋生手段”，而是”人的根本善、经济活动的原则、整个社会问题的关键”。人通过劳动展开自由、创造力与合作能力，参与社会的文化与道德提升 。第四章更整整一节题为”数字转型时代劳动的尊严”。\n\n3. 二者的逻辑关系\n\n通谕主张的方向是：尊严 → 劳动，而不是 劳动 → 尊严。\n∙人因受造于天主而拥有不可让渡的本体尊严；\n∙因为人有尊严，所以他从事的劳动也有尊严，且劳动应当配得起这份既有的尊严（公正薪酬、不被异化、不被机器奴役等）；\n∙反过来用产出、效率、生产力来”裁决”一个人是否值得被尊重，就是把次序颠倒了——这恰恰是教宗指为”阴险”的意识形态。\n\n这一立场也正面回应了 AI 时代的具体焦虑：若工作被机器取代，人是否就失去了价值？通谕的回答是——失业者、病人、老人、残障者、弱者本体尊严丝毫无损，社会和经济结构反倒必须按这份不可减损的尊严去重新组织。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 4169,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058888313029685400",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "教皇这第一部通谕明确谴责了”以劳动/生产力赋予人价值”的观点——但同时强烈肯定劳动本身的尊严。这两者并不矛盾，是经典天主教社会训导的一个精微区分。\n\n1. 最直接的”谴责”出现在第51号\n\n教宗在论述”人人尊严平等”时直接点名一种意识形态，称其”特别阴险”： https://t.co/HcAqapmXTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6210,
+          "following_count": 220,
+          "like_count": 24783,
+          "listed_count": 17,
+          "media_count": 1787,
+          "tweet_count": 21732
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T22:50:10.000Z",
+        "description": "INTP INTJ / Studying in 🇩🇪 / Master of Maths / Leftist / Maths & Physics / CS & AI / History / Polyglot 🇨🇳 🇬🇧 🇩🇪 🇫🇷 🇰🇷",
+        "id": "1729996152676786176",
+        "location": "Germany",
+        "name": "Karl e/acc",
+        "pinned_tweet_id": "2056495747462570417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886419073992429569/Jid6M3Ni_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3164,
+          "following_count": 7495,
+          "like_count": 69739,
+          "listed_count": 16,
+          "media_count": 115,
+          "tweet_count": 4969
+        },
+        "username": "immortal_00994",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "1981251101715529950",
+    "created_at": "2025-10-24T09:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-24T10:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981653525051674855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1902902431190499328",
+          "start": 0,
+          "username": "Blujack283685"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981653525051674855",
+    "in_reply_to_user_id": "1902902431190499328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981251101715529950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blujack283685 卧槽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1157,
+        "media_key": "3_1981250870403645440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G37RK2VXwAAXBD9.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "1981251101715529950",
+        "created_at": "2025-10-24T09:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T10:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981653525051674855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1902902431190499328",
+              "start": 0,
+              "username": "Blujack283685"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981653525051674855",
+        "in_reply_to_user_id": "1902902431190499328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981251101715529950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blujack283685 卧槽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981250870403645440"
+          ]
+        },
+        "author_id": "1902902431190499328",
+        "conversation_id": "1981251101715529950",
+        "created_at": "2025-10-23T06:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T07:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981251101715529950"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/McmlHa1QQr",
+              "end": 33,
+              "expanded_url": "https://x.com/Blujack283685/status/1981251101715529950/photo/1",
+              "media_key": "3_1981250870403645440",
+              "start": 10,
+              "url": "https://t.co/McmlHa1QQr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981251101715529950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 629184,
+          "like_count": 1317,
+          "quote_count": 60,
+          "reply_count": 2206,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "糟糕用方言怎么说？ https://t.co/McmlHa1QQr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1605486965079408640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931766655366860801/dCerP2xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5569,
+          "following_count": 215,
+          "like_count": 22771,
+          "listed_count": 15,
+          "media_count": 1682,
+          "tweet_count": 20639
+        },
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:58:19.000Z",
+        "description": "🇨🇳正义必胜\n🇨🇳和平必胜\n🇨🇳人民必胜\n小号：@dameizhongguo3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 24,
+                "username": "dameizhongguo3"
+              }
+            ]
+          }
+        },
+        "id": "1902902431190499328",
+        "name": "千百度❤",
+        "pinned_tweet_id": "1978598671173480881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902902804433473539/w9rg7B4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10655,
+          "following_count": 4975,
+          "like_count": 24724,
+          "listed_count": 20,
+          "media_count": 381,
+          "tweet_count": 16984
+        },
+        "username": "Blujack283685",
+        "verified": false
+      }
+    ]
+  }
+}
