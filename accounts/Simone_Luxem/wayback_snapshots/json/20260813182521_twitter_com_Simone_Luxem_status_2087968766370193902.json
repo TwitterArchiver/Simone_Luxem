@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2087968766370193902",
+    "created_at": "2026-08-13T18:25:21.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087968766370193902"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/simone_luxem/s…",
+          "end": 154,
+          "expanded_url": "https://twitter.com/simone_luxem/status/2087879088648380682",
+          "start": 131,
+          "url": "https://t.co/2qbqtkdwGK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087968766370193902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087879088648380682",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总结一下自己的观点吧，自己仅认为，出于自卫需求，在公共场合隐蔽或公开携带防御性的武器这一行为是合理的\n至于这次的捅人事件本身，因为自己并没有了解到足够让自己下判断的信息，因此并不发表看法；对于可能存在的假想防卫的问题，倘若存在，自己也并不认为其在情理上是正确的 https://t.co/2qbqtkdwGK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2087968766370193902",
+        "created_at": "2026-08-13T18:25:21.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087968766370193902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/simone_luxem/s…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/simone_luxem/status/2087879088648380682",
+              "start": 131,
+              "url": "https://t.co/2qbqtkdwGK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087968766370193902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087879088648380682",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总结一下自己的观点吧，自己仅认为，出于自卫需求，在公共场合隐蔽或公开携带防御性的武器这一行为是合理的\n至于这次的捅人事件本身，因为自己并没有了解到足够让自己下判断的信息，因此并不发表看法；对于可能存在的假想防卫的问题，倘若存在，自己也并不认为其在情理上是正确的 https://t.co/2qbqtkdwGK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2087860087347884073",
+        "created_at": "2026-08-13T12:29:00.000Z",
+        "display_text_range": [
+          29,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087879088648380682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            },
+            {
+              "end": 28,
+              "id": "745607352355721217",
+              "start": 12,
+              "username": "WilliamPAIvanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087879088648380682",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087860439208325619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots @WilliamPAIvanov 我出门就有随身带着防身武器的习惯…\n君不见武汉天街的血迹还没干呢，万一真的遇到掏出武器想要伤害啊自己的人，手上有点什么总比手无寸铁要好吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2087968766370193902",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6242,
+          "following_count": 217,
+          "like_count": 24964,
+          "listed_count": 16,
+          "media_count": 1798,
+          "tweet_count": 21868
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

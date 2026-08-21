@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2087860087347884073",
+    "created_at": "2026-08-13T18:06:50.000Z",
+    "display_text_range": [
+      49,
+      299
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T19:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087964108041900411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "4768803912",
+          "start": 0,
+          "username": "Al1saAl1ce"
+        },
+        {
+          "end": 28,
+          "id": "745607352355721217",
+          "start": 12,
+          "username": "WilliamPAIvanov"
+        },
+        {
+          "end": 36,
+          "id": "1995056779433275392",
+          "start": 29,
+          "username": "Na3PO2"
+        },
+        {
+          "end": 48,
+          "id": "1753293214826848256",
+          "start": 37,
+          "username": "tatanakots"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087964108041900411",
+    "in_reply_to_user_id": "4768803912",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087963404916920366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Al1saAl1ce @WilliamPAIvanov @Na3PO2 @tatanakots Self-ownership, also known as sovereignty of the individual or individual sovereignty…Self-ownership is a central idea in several political philosophies that emphasize individualism, such as libertarianism, liberalism, and anarchism.\nsource：wikipedia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2087860087347884073",
+        "created_at": "2026-08-13T18:06:50.000Z",
+        "display_text_range": [
+          49,
+          299
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087964108041900411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4768803912",
+              "start": 0,
+              "username": "Al1saAl1ce"
+            },
+            {
+              "end": 28,
+              "id": "745607352355721217",
+              "start": 12,
+              "username": "WilliamPAIvanov"
+            },
+            {
+              "end": 36,
+              "id": "1995056779433275392",
+              "start": 29,
+              "username": "Na3PO2"
+            },
+            {
+              "end": 48,
+              "id": "1753293214826848256",
+              "start": 37,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087964108041900411",
+        "in_reply_to_user_id": "4768803912",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087963404916920366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Al1saAl1ce @WilliamPAIvanov @Na3PO2 @tatanakots Self-ownership, also known as sovereignty of the individual or individual sovereignty…Self-ownership is a central idea in several political philosophies that emphasize individualism, such as libertarianism, liberalism, and anarchism.\nsource：wikipedia"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4768803912",
+        "conversation_id": "2087860087347884073",
+        "created_at": "2026-08-13T18:04:02.000Z",
+        "display_text_range": [
+          51,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T19:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087963404916920366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            },
+            {
+              "end": 30,
+              "id": "745607352355721217",
+              "start": 14,
+              "username": "WilliamPAIvanov"
+            },
+            {
+              "end": 38,
+              "id": "1995056779433275392",
+              "start": 31,
+              "username": "Na3PO2"
+            },
+            {
+              "end": 50,
+              "id": "1753293214826848256",
+              "start": 39,
+              "username": "tatanakots"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087963404916920366",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087963115191488600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem @WilliamPAIvanov @Na3PO2 @tatanakots 安人当成sovereign citizen真是有了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2087964108041900411",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6242,
+          "following_count": 217,
+          "like_count": 24964,
+          "listed_count": 16,
+          "media_count": 1798,
+          "tweet_count": 21867
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-16T14:53:30.000Z",
+        "description": "她/She，🏳️‍⚧️🇨🇦| 中文 en_CA | 是兔子，欢迎食用 | BPD/cPTSD｜have complex relationship with high mileage BMWs, incl. bikes | 舟批 | 邦邦人 | War Thunder |\nin memory of: Elihuso",
+        "id": "4768803912",
+        "is_identity_verified": false,
+        "location": "Toronto, Ontario",
+        "most_recent_tweet_id": "2087963404916920366",
+        "name": "AL1ce♥️💙#",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4768803912/1650823251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1374945196480331776/MKlZhZgT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 1826,
+          "like_count": 90954,
+          "listed_count": 12,
+          "media_count": 2176,
+          "tweet_count": 62620
+        },
+        "url": "",
+        "username": "Al1saAl1ce",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-06-22T13:20:20.000Z",
+        "description": "国民大会主要整活师｜国家一级退堂鼓表演艺术家｜著名抬杠运动员｜世界划水锦标赛冠军｜历届摸鱼大赛种子选手｜四字一等恩封躺平不起公世袭罔替｜吃光阁内大臣｜私聊🚪€2999的私人精神导师｜向日葵听完都不发光的过气负能量老干部｜满洲特务头子｜只为权贵说真话不给牛马唱赞歌｜习近平最敬最爱的亲阿玛",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "afdian.net/a/GurunPartae",
+                "end": 23,
+                "expanded_url": "https://afdian.net/a/GurunPartae",
+                "start": 0,
+                "url": "https://t.co/aCvhudEwTA"
+              }
+            ]
+          }
+        },
+        "id": "745607352355721217",
+        "is_identity_verified": false,
+        "location": "Italy",
+        "most_recent_tweet_id": "2087963948691718324",
+        "name": "William P. A. da H. Ivanenko （原Ivanov，已纠正）🟦⬜️⬛️",
+        "pinned_tweet_id": "2087610702257160502",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/745607352355721217/1732664661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796731073038090241/qB450jx2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2270,
+          "following_count": 2210,
+          "like_count": 275771,
+          "listed_count": 15,
+          "media_count": 379,
+          "tweet_count": 42196
+        },
+        "url": "https://t.co/aCvhudEwTA",
+        "username": "WilliamPAIvanov",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-30T09:06:41.000Z",
+        "description": "此処は、何処へも繋がる、そうだ。/这裏，可以通往任何地方，是的吧。",
+        "id": "1995056779433275392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087963777799188895",
+        "name": "Na₃PO₂☮",
+        "pinned_tweet_id": "2071643834459853093",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1995056779433275392/1765815793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053737565543641089/yBxl01o4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 248,
+          "like_count": 34387,
+          "listed_count": 0,
+          "media_count": 246,
+          "tweet_count": 3614
+        },
+        "url": "",
+        "username": "Na3PO2",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2087962279186944015",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4020,
+          "following_count": 488,
+          "like_count": 34091,
+          "listed_count": 7,
+          "media_count": 1915,
+          "tweet_count": 15013
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

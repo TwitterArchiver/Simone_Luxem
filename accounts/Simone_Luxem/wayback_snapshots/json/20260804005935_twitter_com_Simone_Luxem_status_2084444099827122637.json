@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2084444099827122637",
+    "created_at": "2026-08-04T00:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T01:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084444099827122637"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hu_qin_/status…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/hu_qin_/status/2084339024093642804",
+          "start": 140,
+          "url": "https://t.co/15ZMPYLyWn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084444099827122637",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084339024093642804",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "关于性少数被断供的恐惧，自己确实深以为然吧，在自己尚未出柜时一点小风波就曾引发自己对爆柜及其糟糕结果的恐惧，在那段时间里自己一度真的认为会被断供，并让自己做出了一系列试图自救的应急措施，（并得到了很多很让自己感动的帮助）；虽然事后证明是虚惊一场，但应该说这确实是一大现实问题吧… https://t.co/15ZMPYLyWn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2084444099827122637",
+        "created_at": "2026-08-04T00:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084444099827122637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hu_qin_/status…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/hu_qin_/status/2084339024093642804",
+              "start": 140,
+              "url": "https://t.co/15ZMPYLyWn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084444099827122637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084339024093642804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "关于性少数被断供的恐惧，自己确实深以为然吧，在自己尚未出柜时一点小风波就曾引发自己对爆柜及其糟糕结果的恐惧，在那段时间里自己一度真的认为会被断供，并让自己做出了一系列试图自救的应急措施，（并得到了很多很让自己感动的帮助）；虽然事后证明是虚惊一场，但应该说这确实是一大现实问题吧… https://t.co/15ZMPYLyWn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "918593759121690625",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2084339024093642804",
+        "created_at": "2026-08-03T18:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084339024093642804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084339024093642804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "实际上出国留学的生活真的很孤单，有很多特定的困难，而且完全不意味着你就能过上一种有钱的生活。我身边有好多一起留学的朋友都实际上过得很贫困，一边做着剥削克扣的兼职工作，一边交完房租就没钱吃饭只能整天去蹭免费的公益餐。至少在我身边的中国留学生当中这其实是很普遍很普遍的情况。\n\n是的，家里可能供你学费，而且能够供得起这笔学费当然是一种特权的处境，但这不代表他们就会愿意拿这笔钱（甚至是其中一小部分的钱）出来给你个人自由支配。拜托，这是中国家庭！在很多很多、甚至我觉得是多数的中产／高收入中国家庭里，家长的控制欲都高到了一种匪夷所思的地步。他们可能确实愿意花上百万供你读书，但是你真的就算省吃俭用也没钱吃饭没钱交租了，他们也不一定愿意多给你一些生活费。\n\n特别如果你是性少数，你跟家里本来就有矛盾，那随时就是威胁要给你断供。然后你怎么办？这时候你已经读了两三年书，你要退学吗？然后怎么样，回国重读一个普高重新高考？或者初中学历（很多国际学校都没有高中文凭）回国就业，告诉别人你是一个出国留学肄业的海归？当然也真的有这样的，那结果就是过得很惨，落差很大，什么也没了。\n\n在更多时候，这种情况下是家长自己的面子上会过不去，这时候他就会跟你说，继续给你学费，但是不给你生活费了，让你自己赚。但你作为一个全日制的大学生，不管是在法律上还是在精力上你都做不了几个工时，作为没有文凭的外国人也只能找到那种最烂的兼职。那你就只能过一种很贫困的生活，而且进退维谷。这当然不是世界上最差的处境，至少还有一个学上，还有学历说不定可以拿，但这也不是什么好生活，也很难称得上是一种个人自主的自由财务选择。\n\n读硕士出国也会遇到类似的情况。我也有朋友出国读了一年硕，快毕业的时候家里炸柜了，然后被断供，家里人要求他赶紧回国不要在外面被洗脑了。当时他还遇到了特别不负责任的导师，最后虽然还是顺利毕业，但是完全没有钱去交签证费，所以也没能留下继续打工，回国之后现在也还被家里人身控制着。我还有另外的朋友遇到了一样的情况，然后是成功留下了，那结果就是需要同时打两三份兼职、然后凡是兼职没能排上班的时候就出去接单，这样才能过下去，而且也都是因为她此前本来有积蓄加上已经毕业了没有工时和课业的限制才能这样。\n\n所以我真的希望大家可以不要再觉得留学生就过着很优越的生活了，特别是对于性少数的留学生来说。当然也很特权的人，但真的也有很多人不是。而且这当中涉及的很多很多选择都根本不是当事人真的能够自由决定的，更多时候是跟家长的选择和家庭情况有关系。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1708,
+          "like_count": 28,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "实际上出国留学的生活真的很孤单，有很多特定的困难，而且完全不意味着你就能过上一种有钱的生活。我身边有好多一起留学的朋友都实际上过得很贫困，一边做着剥削克扣的兼职工作，一边交完房租就没钱吃饭只能整天去蹭免费的公益餐。至少在我身边的中国留学生当中这其实是很普遍很普遍的情况。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "location": "Sol-3",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "1996885793097580664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6236,
+          "following_count": 217,
+          "like_count": 24929,
+          "listed_count": 16,
+          "media_count": 1796,
+          "tweet_count": 21834
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-12T21:46:33.000Z",
+        "description": "Left, queer, feminist. 反对资本、国家、婚姻、家庭、殖民秩序等一切压迫性的现代制度。没有人比别人更劣等，也没有地方比别地更劣等。 Transphobes are anti-feminists. 反跨的政治是一种厌女的仇恨政治，是反女权的保守势力对女性及酷儿解放斗争的恶意挪用。",
+        "id": "918593759121690625",
+        "location": "PRC／UK／nonbinary transfem🏳️‍⚧",
+        "name": "胡琴",
+        "pinned_tweet_id": "2058665016270655497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1291948610540711936/EjkiBmto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 1840,
+          "like_count": 22479,
+          "listed_count": 4,
+          "media_count": 279,
+          "tweet_count": 5670
+        },
+        "url": "",
+        "username": "hu_qin_",
+        "verified": true
+      }
+    ]
+  }
+}
