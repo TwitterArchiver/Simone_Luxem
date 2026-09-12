@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2094790055621443620",
+    "created_at": "2026-09-01T14:10:43.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T15:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094790055621443620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "822715997081583618",
+          "start": 3,
+          "username": "yinchao_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094790055621443620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094701762179637633",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yinchao_qaq: 出售商标使用权≠停产谢谢\n大型制药公司出售成熟药物经营权乃至剥离相关业务进行重组是他们的基操\n跟拜耳出售补佳乐经营权类似的有阿斯利康（思瑞康/喹硫平）、罗氏（罗氏芬/头孢曲松钠、安定/地西泮）…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2094790055621443620",
+        "created_at": "2026-09-01T14:10:43.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094790055621443620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "822715997081583618",
+              "start": 3,
+              "username": "yinchao_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094790055621443620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094701762179637633",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yinchao_qaq: 出售商标使用权≠停产谢谢\n大型制药公司出售成熟药物经营权乃至剥离相关业务进行重组是他们的基操\n跟拜耳出售补佳乐经营权类似的有阿斯利康（思瑞康/喹硫平）、罗氏（罗氏芬/头孢曲松钠、安定/地西泮）…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "822715997081583618",
+        "conversation_id": "2094701762179637633",
+        "created_at": "2026-09-01T08:19:52.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094701762179637633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tttypezhi/stat…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/tttypezhi/status/2094493259896934660",
+              "start": 97,
+              "url": "https://t.co/aVYE7UmIkr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094701762179637633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "出售商标使用权≠停产谢谢\n大型制药公司出售成熟药物经营权乃至剥离相关业务进行重组是他们的基操\n跟拜耳出售补佳乐经营权类似的有阿斯利康（思瑞康/喹硫平）、罗氏（罗氏芬/头孢曲松钠、安定/地西泮）\n业务剥离重组有gsk剥离消费健康业务（舒适达、芬必得、扶他林），辉瑞重组晖致（西乐葆/塞来昔布、立普妥/阿托伐他汀钙、万艾可/伟哥/西地那非），默沙东、强生、诺华也都干了\n你能说这些全停产么😅"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1303,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094493259896934660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出售商标使用权≠停产谢谢\n大型制药公司出售成熟药物经营权乃至剥离相关业务进行重组是他们的基操\n跟拜耳出售补佳乐经营权类似的有阿斯利康（思瑞康/喹硫平）、罗氏（罗氏芬/头孢曲松钠、安定/地西泮） https://t.co/aVYE7UmIkr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2094790055621443620",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6239,
+          "following_count": 219,
+          "like_count": 25022,
+          "listed_count": 16,
+          "media_count": 1801,
+          "tweet_count": 21931
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-01-21T08:02:33.000Z",
+        "description": "杭州/不要键政/she/her/残忍变性女巫｜⚠️不是男娘伪娘CD⚠️讨厌露阴癖⚠️谁跟你是同好了？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ychqaq",
+                "end": 23,
+                "expanded_url": "https://t.me/ychqaq",
+                "start": 0,
+                "url": "https://t.co/PJk4FY9AJx"
+              }
+            ]
+          }
+        },
+        "id": "822715997081583618",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094702367585513472",
+        "name": "隐潮🏳️‍🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/822715997081583618/1675528023",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000589626520768512/XofHS_Xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4840,
+          "following_count": 1224,
+          "like_count": 10839,
+          "listed_count": 9,
+          "media_count": 1103,
+          "tweet_count": 8024
+        },
+        "url": "https://t.co/PJk4FY9AJx",
+        "username": "yinchao_qaq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

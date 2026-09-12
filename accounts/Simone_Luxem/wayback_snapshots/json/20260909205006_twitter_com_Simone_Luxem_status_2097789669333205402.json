@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2097267666280952289",
+    "created_at": "2026-09-09T20:50:06.000Z",
+    "display_text_range": [
+      11,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T21:50:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097789669333205402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733679513563791360",
+          "start": 0,
+          "username": "MiauChann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097789669333205402",
+    "in_reply_to_user_id": "1733679513563791360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097786405317394539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiauChann 女同性恋们正在大声地说清楚，我们想要或不想要阴茎，都不关你的事，你也没有权利代表别人，而你作为一个出生长有脑子却拒绝使用它的人，你以及你懂的同伙，都深得特朗普真传"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2097267666280952289",
+        "created_at": "2026-09-09T20:50:06.000Z",
+        "display_text_range": [
+          11,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T21:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097789669333205402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733679513563791360",
+              "start": 0,
+              "username": "MiauChann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097789669333205402",
+        "in_reply_to_user_id": "1733679513563791360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097786405317394539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiauChann 女同性恋们正在大声地说清楚，我们想要或不想要阴茎，都不关你的事，你也没有权利代表别人，而你作为一个出生长有脑子却拒绝使用它的人，你以及你懂的同伙，都深得特朗普真传"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733679513563791360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2097267666280952289",
+        "created_at": "2026-09-09T20:37:08.000Z",
+        "display_text_range": [
+          14,
+          198
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T21:37:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097786405317394539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097786405317394539",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097732172744368516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem Las lesbianas estan diciendo fuerte y claro que no queremos penes y tu una persona nacida hombre insistes en que las lesbianas quieren pene, eres el unico con el cerebro de trump aquí."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2097789669333205402",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6280,
+          "following_count": 218,
+          "like_count": 25047,
+          "listed_count": 16,
+          "media_count": 1801,
+          "tweet_count": 21957
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T02:46:40.000Z",
+        "description": "I'll never die.\naroace🪄  femme, misandrica radical\nDNI + BLOCK ⛔ Zionists, Zionist sympathizers & anyone who associates with them.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miauchann.straw.page",
+                "end": 23,
+                "expanded_url": "https://miauchann.straw.page",
+                "start": 0,
+                "url": "https://t.co/ShZd0bmWjo"
+              }
+            ]
+          }
+        },
+        "id": "1733679513563791360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097786405317394539",
+        "name": "♱ 𝖂𝖍𝖎𝖙𝖊 𝕷𝖎𝖊𝖘 ♱",
+        "pinned_tweet_id": "2095610177911247033",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733679513563791360/1703617310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097764389285695490/LcwLQuG8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 99,
+          "like_count": 1205,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 1571
+        },
+        "url": "https://t.co/ShZd0bmWjo",
+        "username": "MiauChann",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

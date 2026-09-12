@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2097267666280952289",
+    "created_at": "2026-09-08T22:22:29.000Z",
+    "display_text_range": [
+      14,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T23:22:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097450529966194699"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1895436651263922176",
+          "start": 0,
+          "username": "IReallyDontX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097450529966194699",
+    "in_reply_to_user_id": "1895436651263922176",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097389389701664794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IReallyDontX This is my tweet and you are the one that need to fuck off"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2097267666280952289",
+        "created_at": "2026-09-08T22:22:29.000Z",
+        "display_text_range": [
+          14,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T23:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097450529966194699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1895436651263922176",
+              "start": 0,
+              "username": "IReallyDontX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097450529966194699",
+        "in_reply_to_user_id": "1895436651263922176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097389389701664794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IReallyDontX This is my tweet and you are the one that need to fuck off"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1895436651263922176",
+        "conversation_id": "2097267666280952289",
+        "created_at": "2026-09-08T18:19:32.000Z",
+        "display_text_range": [
+          14,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T19:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097389389701664794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097389389701664794",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097267666280952289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem Take your attempt to erase the realities of same-sex love and attraction, and sod off"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2097450529966194699",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6266,
+          "following_count": 218,
+          "like_count": 25042,
+          "listed_count": 16,
+          "media_count": 1801,
+          "tweet_count": 21953
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-28T11:31:45.000Z",
+        "description": "Evil Old Gay Bastard",
+        "id": "1895436651263922176",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097390059846529449",
+        "name": "No I Really Don't",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1895436651263922176/1740743273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895440409716785152/ZbxWmReK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 194,
+          "like_count": 2828,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 4266
+        },
+        "url": "",
+        "username": "IReallyDontX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

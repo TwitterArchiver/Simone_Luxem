@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2093682628725747976",
+    "created_at": "2026-08-29T12:50:12.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T13:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093682628725747976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1358556254411452417",
+          "start": 3,
+          "username": "DemEnthusiast2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093682628725747976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093576478634254711",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DemEnthusiast2: 【支聯會案｜鄒幸彤反對充公國殤之柱   律政司：每逢六四利用洗擦雕塑來犯案應充公】\n\n法庭今（28日）早處理支聯會案求情，被告之一鄒幸彤關注案中被充公的證物在結案後的處理，包括支聯會書籍和「國殤之柱」。律政司指支聯會每年六四「以洗擦雕塑來…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2093576473307463680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ3gtdGbQAARPZ3.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2093682628725747976",
+        "created_at": "2026-08-29T12:50:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T13:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093682628725747976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1358556254411452417",
+              "start": 3,
+              "username": "DemEnthusiast2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093682628725747976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093576478634254711",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DemEnthusiast2: 【支聯會案｜鄒幸彤反對充公國殤之柱   律政司：每逢六四利用洗擦雕塑來犯案應充公】\n\n法庭今（28日）早處理支聯會案求情，被告之一鄒幸彤關注案中被充公的證物在結案後的處理，包括支聯會書籍和「國殤之柱」。律政司指支聯會每年六四「以洗擦雕塑來…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093576473307463680"
+          ]
+        },
+        "author_id": "1358556254411452417",
+        "conversation_id": "2093576478634254711",
+        "created_at": "2026-08-29T05:48:23.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T06:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093576478634254711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PBbz3g3K5",
+              "end": 154,
+              "expanded_url": "https://x.com/DemEnthusiast2/status/2093576478634254711/photo/1",
+              "media_key": "3_2093576473307463680",
+              "start": 131,
+              "url": "https://t.co/8PBbz3g3K5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093576478634254711",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093576473307463680"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 874,
+                "start": 869,
+                "tag": "國殤之柱"
+              },
+              {
+                "end": 879,
+                "start": 875,
+                "tag": "高志活"
+              },
+              {
+                "end": 884,
+                "start": 880,
+                "tag": "支聯會"
+              },
+              {
+                "end": 888,
+                "start": 885,
+                "tag": "六四"
+              },
+              {
+                "end": 894,
+                "start": 889,
+                "tag": "香港大學"
+              }
+            ]
+          },
+          "text": "【支聯會案｜鄒幸彤反對充公國殤之柱   律政司：每逢六四利用洗擦雕塑來犯案應充公】\n\n法庭今（28日）早處理支聯會案求情，被告之一鄒幸彤關注案中被充公的證物在結案後的處理，包括支聯會書籍和「國殤之柱」。律政司指支聯會每年六四「以洗擦雕塑來犯案」，認為應該充公。\n\n鄒幸彤在庭上關注被充公證物，在審訊後的去向。李卓人及何俊仁代表大律師沈士文表示，警方於2021年12月按香港大學要求檢取「國殤之柱」，當時雕塑的創作者高志活曾聯絡港史要求取回，沈士文指出若法庭同意「國殤之柱」與本案無關，應將其歸還給高志活。\n\n但律政司反駁，「國殤之柱」由高志活捐贈給支聯會，而支聯會每年於六四前夕「以洗擦方式犯案」，認為應該充公。法官則指證物一般會歸還物主，或其被檢取時的港大，又指「或者港大想取回」，法官其後指示辯方與港大聯絡，並指會跟刑期一併裁決。\n\n｜豎立四份一個世紀 港大2021年偷偷拆除 高志活冀取回\n\n翻查資料，「國殤之柱」在1997年運到香港，正值香港主權移交前夕，到港後先放置在香港維多利亞公園，當時支聯會向市政局申請永久場地不果，於是在6月4日晚把「國殤之柱」從維園運往香港大學擺放，期間一度遭港大校方及警方阻撓。\n\n之後一年，「國殤之柱」巡迴香港七所大專院校展覽，至翌年港大學生會全民投票，正式通過在港大校園永久擺放「國殤之柱」。之後的四份一個世紀，每年5月支聯會都會在港學洗擦 「國殤之柱」，成為港人每年悼念六四的重要活動之一。\n\n2021年10月，香港大學要求支聯會移走「國殤之柱」，創作者丹麥雕塑家高志活（Jens Galschiøt）則發聲明表示希望能夠有序、絲毫無損下將雕塑運出香港，「國殤之柱」在港大校已展出24年。\n\n同年12月23日清晨港大自行拆除「國殤之柱」，雕塑被放入貨櫃車，並送往港大嘉道理中心存放，港大當時發聲明指「根據外部為大學最佳利益所做的法律建議和風險評估」作出移除的決定。高志活則痛批港大手法尤如「黑手黨」，「國殤之柱是我的私人財產，只是在港大展覽」，他要求校方賠償，並表示會爭取拿回雕塑運往丹麥。\n\n#國殤之柱 #高志活 #支聯會 #六四 #香港大學"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "【支聯會案｜鄒幸彤反對充公國殤之柱   律政司：每逢六四利用洗擦雕塑來犯案應充公】\n\n法庭今（28日）早處理支聯會案求情，被告之一鄒幸彤關注案中被充公的證物在結案後的處理，包括支聯會書籍和「國殤之柱」。律政司指支聯會每年六四「以洗擦雕塑來犯案」，認為應該充公。 https://t.co/8PBbz3g3K5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2093682628725747976",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6235,
+          "following_count": 218,
+          "like_count": 25014,
+          "listed_count": 16,
+          "media_count": 1800,
+          "tweet_count": 21923
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-07T23:21:04.000Z",
+        "description": "Xiaoju Zhang | \nHong Kong Affairs Observer |\nChina Democratization Advocate |\nGeopolitics Analyst |\nHuman Rights Defender |\nDPC Member |\nCDEF Volunteer |",
+        "id": "1358556254411452417",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093647107383345578",
+        "name": "Z佐羅Xiaoju(原推陣亡)🇭🇰🇹🇼🇺🇸🇺🇦",
+        "pinned_tweet_id": "1801292939072872902",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358556254411452417/1721669433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910128177613262848/JND1yfP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3053,
+          "following_count": 1330,
+          "like_count": 16768,
+          "listed_count": 22,
+          "media_count": 4122,
+          "tweet_count": 12572
+        },
+        "url": "",
+        "username": "DemEnthusiast2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2091116299556725241",
+    "created_at": "2026-08-22T10:52:31.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091116299556725241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/snarier798/sta…",
+          "end": 167,
+          "expanded_url": "https://twitter.com/snarier798/status/2091109208028529152",
+          "start": 144,
+          "url": "https://t.co/P8gwNr5BYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091116299556725241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091109208028529152",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "借此引入一个基本概念，叫做“交叉性”\n其含义是，一个人的具体处境是有多方面复杂因素引起的，因此不可以因为一个人综合表现出某症状，就得出结论其在所有维度上都是某个方向的\n具体来说，就是如果你作为“普通家庭的男孩”和amber相比“缺乏特权”，那是因为你家庭普通的缘故，而不是性别（1/2） https://t.co/P8gwNr5BYc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2091116299556725241",
+        "created_at": "2026-08-22T10:52:31.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091116299556725241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/snarier798/sta…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/snarier798/status/2091109208028529152",
+              "start": 144,
+              "url": "https://t.co/P8gwNr5BYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091116299556725241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091109208028529152",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "借此引入一个基本概念，叫做“交叉性”\n其含义是，一个人的具体处境是有多方面复杂因素引起的，因此不可以因为一个人综合表现出某症状，就得出结论其在所有维度上都是某个方向的\n具体来说，就是如果你作为“普通家庭的男孩”和amber相比“缺乏特权”，那是因为你家庭普通的缘故，而不是性别（1/2） https://t.co/P8gwNr5BYc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1223402351295254528",
+        "conversation_id": "2091055960504909998",
+        "created_at": "2026-08-22T10:24:20.000Z",
+        "display_text_range": [
+          14,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091109208028529152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091109208028529152",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091055960504909998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 问题是amber的特权来自于他原来的家庭，如果他家破产之前他是女的，那么抖音小红书上“京圈大小姐”就是他的标准人生，再加上学习好照样有特权。就问一点，普通家庭的男孩缺失的特权他能给补？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2091116299556725241",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6238,
+          "following_count": 217,
+          "like_count": 24986,
+          "listed_count": 16,
+          "media_count": 1800,
+          "tweet_count": 21900
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-01T00:27:23.000Z",
+        "description": "Just a video gamer, listening to music occasionally. I am also a Protestant",
+        "id": "1223402351295254528",
+        "is_identity_verified": false,
+        "location": "Liberty City",
+        "most_recent_tweet_id": "2091111407165059099",
+        "name": "snarierorganization🇨🇳🇺🇦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1223402351295254528/1655140483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062824788394172416/L6BrQ-pd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 140,
+          "like_count": 6033,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1050
+        },
+        "url": "",
+        "username": "Snarier798",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

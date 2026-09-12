@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090738456242909184"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090738465176768897",
+    "created_at": "2026-08-21T09:51:08.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:51:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090738465176768897"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r1TGn0ccs1",
+          "end": 161,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2090738465176768897/photo/1",
+          "media_key": "3_2090738456242909184",
+          "start": 138,
+          "url": "https://t.co/r1TGn0ccs1"
+        },
+        {
+          "display_url": "x.com/8964tou1234567…",
+          "end": 185,
+          "expanded_url": "https://twitter.com/8964tou12345678/status/2090676200234525031",
+          "start": 162,
+          "url": "https://t.co/pJnL8UNwhz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090738465176768897",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090738456242909184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090676200234525031",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已b此人\n此人是我所见过的最令人作呕的，区别于一般意义上的坏人和蠢人，其装腔作势地以所谓的信仰和传统来合理化自身的狭隘于残忍，阴毒至极\n自己有信天主教的朋友，也认识不少相当不错的信天主教的人，然而你却假借同一个神的名号为你的虚伪行为辩护，实在不知道你在信什么东西\n你改悔罢！ https://t.co/r1TGn0ccs1 https://t.co/pJnL8UNwhz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1334,
+        "media_key": "3_2090738456242909184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPLjHqbcAA2H9O.jpg",
+        "width": 750
+      },
+      {
+        "height": 1154,
+        "media_key": "3_2090676193129324544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQOS67fW4AAXJyS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090738456242909184"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090738465176768897",
+        "created_at": "2026-08-21T09:51:08.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090738465176768897"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r1TGn0ccs1",
+              "end": 161,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2090738465176768897/photo/1",
+              "media_key": "3_2090738456242909184",
+              "start": 138,
+              "url": "https://t.co/r1TGn0ccs1"
+            },
+            {
+              "display_url": "x.com/8964tou1234567…",
+              "end": 185,
+              "expanded_url": "https://twitter.com/8964tou12345678/status/2090676200234525031",
+              "start": 162,
+              "url": "https://t.co/pJnL8UNwhz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090738465176768897",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090738456242909184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090676200234525031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已b此人\n此人是我所见过的最令人作呕的，区别于一般意义上的坏人和蠢人，其装腔作势地以所谓的信仰和传统来合理化自身的狭隘于残忍，阴毒至极\n自己有信天主教的朋友，也认识不少相当不错的信天主教的人，然而你却假借同一个神的名号为你的虚伪行为辩护，实在不知道你在信什么东西\n你改悔罢！ https://t.co/r1TGn0ccs1 https://t.co/pJnL8UNwhz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090676193129324544"
+          ]
+        },
+        "author_id": "1395658814402162689",
+        "conversation_id": "2090676200234525031",
+        "created_at": "2026-08-21T05:43:43.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T06:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090676200234525031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/27nIMzCtdY",
+              "end": 173,
+              "expanded_url": "https://x.com/8964tou12345678/status/2090676200234525031/photo/1",
+              "media_key": "3_2090676193129324544",
+              "start": 150,
+              "url": "https://t.co/27nIMzCtdY"
+            },
+            {
+              "display_url": "x.com/youarealwaysa1…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/youarealwaysa1/status/2090253046827864195",
+              "start": 174,
+              "url": "https://t.co/OgMzqubkTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090676200234525031",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090676193129324544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3993,
+          "like_count": 105,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090253046827864195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "传统社会：警告你们，我瓦解之前遵守男女互惠秩序\n女权：去他妈的秩序\n\n瓦解后，资源博弈陷入零和\n非受益男性：去他妈的秩序\n女权：请遵守性别互惠秩序\n\n世上任何强弱的相互博弈，本质都在两条边界之间拉锯，几乎规律\n1.  秩序允许弱势方“撒娇”，让着他们才是文明\n2. 零和，弱势方败下阵来重新强调秩序 https://t.co/27nIMzCtdY https://t.co/OgMzqubkTm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2090738465176768897",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6235,
+          "following_count": 217,
+          "like_count": 24983,
+          "listed_count": 16,
+          "media_count": 1800,
+          "tweet_count": 21894
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-21T08:32:55.000Z",
+        "description": "是圣彼得，是朱斯蒂娜，是你的幻想朋友/moratorium/我开始积极的撒谎/这世界已不是我的地头，就当我在宇宙漂流/曾经是🇹🇭🇵🇭🇮🇩华人，最近🇨🇿华人属于是/不喜欢浪费时间吵架，因此你觉得如果我没有反驳你，可以当作你赢了，庆祝去吧",
+        "id": "1395658814402162689",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090734686347640890",
+        "name": "✝️Wayne✝️",
+        "pinned_tweet_id": "1675532843366088706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395658814402162689/1686382233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653431411918114816/I99EdSEN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10510,
+          "following_count": 11184,
+          "like_count": 342262,
+          "listed_count": 65,
+          "media_count": 2440,
+          "tweet_count": 55375
+        },
+        "url": "",
+        "username": "8964tou12345678",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

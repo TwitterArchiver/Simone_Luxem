@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2097267666280952289",
+    "created_at": "2026-09-09T17:01:38.000Z",
+    "display_text_range": [
+      11,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T18:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097732172744368516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1733679513563791360",
+          "start": 0,
+          "username": "MiauChann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097732172744368516",
+    "in_reply_to_user_id": "1733679513563791360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097509586785685813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiauChann 不明白，你说同性恋怎样运作同性恋就怎样运作，你算个什么东西？任何一个人都有权利与另一个人建立浪漫/性关系，其唯一的条件就是双方皆是自愿的，没有其它任何人有权利对此说三道四\n如果你连这都想不明白，你就是蠢货特朗普"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2097267666280952289",
+        "created_at": "2026-09-09T17:01:38.000Z",
+        "display_text_range": [
+          11,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097732172744368516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1733679513563791360",
+              "start": 0,
+              "username": "MiauChann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097732172744368516",
+        "in_reply_to_user_id": "1733679513563791360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097509586785685813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiauChann 不明白，你说同性恋怎样运作同性恋就怎样运作，你算个什么东西？任何一个人都有权利与另一个人建立浪漫/性关系，其唯一的条件就是双方皆是自愿的，没有其它任何人有权利对此说三道四\n如果你连这都想不明白，你就是蠢货特朗普"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733679513563791360",
+        "conversation_id": "2097267666280952289",
+        "created_at": "2026-09-09T02:17:09.000Z",
+        "display_text_range": [
+          14,
+          294
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T03:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097509586785685813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097509586785685813",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097267666280952289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem Entiende que la homosexualidad no funciona como ustedes esperan, cualquier intento de buscar una relacion romantica/sexual con una persona homosexual del sexo opuesto es homofobico y abuso sexual, sin importar tu identidad de género. \n\nSi no puedes respetar eso, eres basura incel"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2097732172744368516",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6280,
+          "following_count": 218,
+          "like_count": 25046,
+          "listed_count": 16,
+          "media_count": 1801,
+          "tweet_count": 21957
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T02:46:40.000Z",
+        "description": "I'll never die.\naroace🪄  femme, misandrica radical\nDNI + BLOCK ⛔ Zionists, Zionist sympathizers & anyone who associates with them.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miauchann.straw.page",
+                "end": 23,
+                "expanded_url": "https://miauchann.straw.page",
+                "start": 0,
+                "url": "https://t.co/ShZd0bmWjo"
+              }
+            ]
+          }
+        },
+        "id": "1733679513563791360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097730932878819758",
+        "name": "♱ 𝖂𝖍𝖎𝖙𝖊 𝕷𝖎𝖊𝖘 ♱",
+        "pinned_tweet_id": "2095610177911247033",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733679513563791360/1703617310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095416269876887553/tDQX3rqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 99,
+          "like_count": 1194,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1552
+        },
+        "url": "https://t.co/ShZd0bmWjo",
+        "username": "MiauChann",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

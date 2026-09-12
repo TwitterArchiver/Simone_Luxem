@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2091504762546221535",
+    "created_at": "2026-08-23T12:36:08.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T13:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091504762546221535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1150753335881826305",
+          "start": 3,
+          "username": "acacia038"
+        },
+        {
+          "end": 54,
+          "id": "2802205783",
+          "start": 42,
+          "username": "trans_shojo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091504762546221535",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091453722358337984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acacia038: 在征得原作者同意之后，我翻译了来自日本的とら少 老师 @trans_shojo 的作品《颓废的跨儿少女》。作为跨性别女性漫画家，她一直在创作以跨性别者为主角的漫画，这一篇摘自去年众筹出版的她的第一本漫画集『となりのとらんす少女ちゃん』\n由于能力有限…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1544,
+        "media_key": "3_2091453537414733824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZV6UnW4AAZ4Cj.png",
+        "width": 1089
+      },
+      {
+        "height": 1544,
+        "media_key": "3_2091453537435738112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZV6UsXYAAtmPW.jpg",
+        "width": 1089
+      },
+      {
+        "height": 1534,
+        "media_key": "3_2091453576270823424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZV8lXXwAA-itW.jpg",
+        "width": 1089
+      },
+      {
+        "height": 1534,
+        "media_key": "3_2091453576329457665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZV8llWcAEiSKC.jpg",
+        "width": 1089
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2091504762546221535",
+        "created_at": "2026-08-23T12:36:08.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091504762546221535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1150753335881826305",
+              "start": 3,
+              "username": "acacia038"
+            },
+            {
+              "end": 54,
+              "id": "2802205783",
+              "start": 42,
+              "username": "trans_shojo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091504762546221535",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091453722358337984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acacia038: 在征得原作者同意之后，我翻译了来自日本的とら少 老师 @trans_shojo 的作品《颓废的跨儿少女》。作为跨性别女性漫画家，她一直在创作以跨性别者为主角的漫画，这一篇摘自去年众筹出版的她的第一本漫画集『となりのとらんす少女ちゃん』\n由于能力有限…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091453537414733824",
+            "3_2091453537435738112",
+            "3_2091453576270823424",
+            "3_2091453576329457665"
+          ]
+        },
+        "author_id": "1150753335881826305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2091453722358337984",
+        "created_at": "2026-08-23T09:13:19.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T10:13:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091453722358337984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 39,
+              "id": "2802205783",
+              "start": 27,
+              "username": "trans_shojo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XQuL1Hm3Z7",
+              "end": 169,
+              "expanded_url": "https://x.com/acacia038/status/2091453722358337984/photo/1",
+              "media_key": "3_2091453537414733824",
+              "start": 146,
+              "url": "https://t.co/XQuL1Hm3Z7"
+            },
+            {
+              "display_url": "pic.x.com/XQuL1Hm3Z7",
+              "end": 169,
+              "expanded_url": "https://x.com/acacia038/status/2091453722358337984/photo/1",
+              "media_key": "3_2091453537435738112",
+              "start": 146,
+              "url": "https://t.co/XQuL1Hm3Z7"
+            },
+            {
+              "display_url": "pic.x.com/XQuL1Hm3Z7",
+              "end": 169,
+              "expanded_url": "https://x.com/acacia038/status/2091453722358337984/photo/1",
+              "media_key": "3_2091453576270823424",
+              "start": 146,
+              "url": "https://t.co/XQuL1Hm3Z7"
+            },
+            {
+              "display_url": "pic.x.com/XQuL1Hm3Z7",
+              "end": 169,
+              "expanded_url": "https://x.com/acacia038/status/2091453722358337984/photo/1",
+              "media_key": "3_2091453576329457665",
+              "start": 146,
+              "url": "https://t.co/XQuL1Hm3Z7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091453722358337984",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091453537414733824"
+          },
+          {
+            "media_key": "3_2091453537435738112"
+          },
+          {
+            "media_key": "3_2091453576270823424"
+          },
+          {
+            "media_key": "3_2091453576329457665"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 2045,
+          "like_count": 58,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "在征得原作者同意之后，我翻译了来自日本的とら少 老师 @trans_shojo 的作品《颓废的跨儿少女》。作为跨性别女性漫画家，她一直在创作以跨性别者为主角的漫画，这一篇摘自去年众筹出版的她的第一本漫画集『となりのとらんす少女ちゃん』\n由于能力有限，翻译可能存在错误，若发现欢迎联系我改正！ https://t.co/XQuL1Hm3Z7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2091504762546221535",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6241,
+          "following_count": 217,
+          "like_count": 24991,
+          "listed_count": 16,
+          "media_count": 1800,
+          "tweet_count": 21910
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "飼い殺してくれますか",
+        "id": "1150753335881826305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091500107149484441",
+        "name": "Charlotte",
+        "pinned_tweet_id": "2084147417440547047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150753335881826305/1784478996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077063532315619328/MwXmHmj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 712,
+          "following_count": 331,
+          "like_count": 4948,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 2214
+        },
+        "url": "",
+        "username": "acacia038",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-09-10T17:35:41.000Z",
+        "description": "イラストや漫画描きます。創作垢→@trans_shoj\n漫画『となりのとらんす少女ちゃん』絶賛発売中！https://t.co/BVdFMX32En\n無断転載やめてください",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 16,
+                "username": "trans_shoj"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amazon.co.jp/exec/obidos/AS…",
+                "end": 74,
+                "expanded_url": "https://www.amazon.co.jp/exec/obidos/ASIN/4991392004",
+                "start": 51,
+                "url": "https://t.co/BVdFMX32En"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=12258441",
+                "start": 0,
+                "url": "https://t.co/KPXZ0FDg6x"
+              }
+            ]
+          }
+        },
+        "id": "2802205783",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091498967507120315",
+        "name": "とら少@映画秋公開🌟",
+        "pinned_tweet_id": "2072856232344596734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2802205783/1454521663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072634647146844160/mhUw8Zpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4280,
+          "following_count": 1040,
+          "like_count": 6599,
+          "listed_count": 65,
+          "media_count": 1135,
+          "tweet_count": 20418
+        },
+        "url": "https://t.co/KPXZ0FDg6x",
+        "username": "trans_shojo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

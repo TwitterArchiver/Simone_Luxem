@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2091726086036193753",
+    "created_at": "2026-08-24T03:15:35.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T04:15:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091726086036193753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1115304322454044681",
+          "start": 3,
+          "username": "nagoribird"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091726086036193753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091611415974981704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nagoribird: 请转发并共同防范： Astrioia (Wireless Lover 吴嗣康) 在多个 Telegram 群聊里传播曾与之上床对象的不雅照片。请注意规避与其互动。\n此人曾陷入多起所谓「盗摄」纠纷。\n请勿在本消息前后发表关于被传播不雅照片当事人的任…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 770,
+        "media_key": "3_2091611213033619456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQblUQEXwAArZtB.png",
+        "width": 512
+      },
+      {
+        "height": 833,
+        "media_key": "3_2091611237704429569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQblVr-WcAEWY_q.png",
+        "width": 376
+      },
+      {
+        "height": 760,
+        "media_key": "3_2091611269916766209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQblXj-XsAEQWT0.png",
+        "width": 430
+      },
+      {
+        "height": 209,
+        "media_key": "3_2091611286480035841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQblYhrXIAE0tLr.png",
+        "width": 598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2091726086036193753",
+        "created_at": "2026-08-24T03:15:35.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T04:15:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091726086036193753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1115304322454044681",
+              "start": 3,
+              "username": "nagoribird"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091726086036193753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091611415974981704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nagoribird: 请转发并共同防范： Astrioia (Wireless Lover 吴嗣康) 在多个 Telegram 群聊里传播曾与之上床对象的不雅照片。请注意规避与其互动。\n此人曾陷入多起所谓「盗摄」纠纷。\n请勿在本消息前后发表关于被传播不雅照片当事人的任…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091611213033619456",
+            "3_2091611237704429569",
+            "3_2091611269916766209",
+            "3_2091611286480035841"
+          ]
+        },
+        "author_id": "1115304322454044681",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091611415974981704",
+        "created_at": "2026-08-23T19:39:56.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T20:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091611415974981704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lGaANfQUtX",
+              "end": 153,
+              "expanded_url": "https://x.com/nagoribird/status/2091611415974981704/photo/1",
+              "media_key": "3_2091611213033619456",
+              "start": 130,
+              "url": "https://t.co/lGaANfQUtX"
+            },
+            {
+              "display_url": "pic.x.com/lGaANfQUtX",
+              "end": 153,
+              "expanded_url": "https://x.com/nagoribird/status/2091611415974981704/photo/1",
+              "media_key": "3_2091611237704429569",
+              "start": 130,
+              "url": "https://t.co/lGaANfQUtX"
+            },
+            {
+              "display_url": "pic.x.com/lGaANfQUtX",
+              "end": 153,
+              "expanded_url": "https://x.com/nagoribird/status/2091611415974981704/photo/1",
+              "media_key": "3_2091611269916766209",
+              "start": 130,
+              "url": "https://t.co/lGaANfQUtX"
+            },
+            {
+              "display_url": "pic.x.com/lGaANfQUtX",
+              "end": 153,
+              "expanded_url": "https://x.com/nagoribird/status/2091611415974981704/photo/1",
+              "media_key": "3_2091611286480035841",
+              "start": 130,
+              "url": "https://t.co/lGaANfQUtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091611415974981704",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091611213033619456"
+          },
+          {
+            "media_key": "3_2091611237704429569"
+          },
+          {
+            "media_key": "3_2091611269916766209"
+          },
+          {
+            "media_key": "3_2091611286480035841"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2120,
+          "like_count": 18,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "请转发并共同防范： Astrioia (Wireless Lover 吴嗣康) 在多个 Telegram 群聊里传播曾与之上床对象的不雅照片。请注意规避与其互动。\n此人曾陷入多起所谓「盗摄」纠纷。\n请勿在本消息前后发表关于被传播不雅照片当事人的任何个人信息。 https://t.co/lGaANfQUtX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2091726086036193753",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6242,
+          "following_count": 217,
+          "like_count": 24992,
+          "listed_count": 16,
+          "media_count": 1800,
+          "tweet_count": 21913
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-08T17:24:06.000Z",
+        "description": "🏳️‍⚧️ she/they·zh/en/ja·视觉小说爱好者·百合控·摩托车驾驶员·竞技麻将裁判员",
+        "id": "1115304322454044681",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091648218366898252",
+        "name": "名残鳥",
+        "pinned_tweet_id": "2091611415974981704",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083089914439036928/yORtPdeB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 165,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 284
+        },
+        "url": "",
+        "username": "nagoribird",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

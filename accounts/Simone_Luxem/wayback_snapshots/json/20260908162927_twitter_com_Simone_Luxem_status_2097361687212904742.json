@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2097267666280952289",
+    "created_at": "2026-09-08T16:29:27.000Z",
+    "display_text_range": [
+      16,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:29:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097361687212904742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1873435432404279296",
+          "start": 0,
+          "username": "Alicia__Angela"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097361687212904742",
+    "in_reply_to_user_id": "1873435432404279296",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097333880822899075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alicia__Angela That may be a sad truth that I wish not to admit…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2097267666280952289",
+        "created_at": "2026-09-08T16:29:27.000Z",
+        "display_text_range": [
+          16,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097361687212904742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1873435432404279296",
+              "start": 0,
+              "username": "Alicia__Angela"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097361687212904742",
+        "in_reply_to_user_id": "1873435432404279296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097333880822899075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alicia__Angela That may be a sad truth that I wish not to admit…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873435432404279296",
+        "conversation_id": "2097267666280952289",
+        "created_at": "2026-09-08T14:38:58.000Z",
+        "display_text_range": [
+          14,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:38:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097333880822899075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097333880822899075",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097267666280952289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem Pretty much how it works\nWe always need to asume everyone wants us dead"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2097361687212904742",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6259,
+          "following_count": 218,
+          "like_count": 25042,
+          "listed_count": 16,
+          "media_count": 1801,
+          "tweet_count": 21950
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-29T18:27:15.000Z",
+        "description": "soy una chica trans con autismo por mech eng, tissue eng y bio eng. Lesb. Modo Cynthia activado. I experiment on puppygirls (my GF). 19 yo",
+        "id": "1873435432404279296",
+        "is_identity_verified": false,
+        "location": "nowhere",
+        "most_recent_tweet_id": "2097361698495897611",
+        "name": "Diana🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1873435432404279296/1787537540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090820786432978944/bdJaVPUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 485,
+          "like_count": 295572,
+          "listed_count": 2,
+          "media_count": 998,
+          "tweet_count": 55249
+        },
+        "url": "",
+        "username": "Alicia__Angela",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2091116299556725241",
+    "created_at": "2026-08-22T11:54:38.000Z",
+    "display_text_range": [
+      31,
+      177
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T12:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091131931857674375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1489468526826082312",
+          "start": 0,
+          "username": "Diamond_Kokoro"
+        },
+        {
+          "end": 30,
+          "id": "2022253175345143809",
+          "start": 16,
+          "username": "irisdesombres"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091131931857674375",
+    "in_reply_to_user_id": "1489468526826082312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091129958446112861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Diamond_Kokoro @irisdesombres 不是的，社会规范下的女性，不被认为是与男性具有同样能力的人，被视为“赔钱货”，即使成绩好也会被认为“只会死读书”“女孩子后劲差”，“女生学历那么高以后没人要”，在职场上被先觉性地认为不如男性，被无论什么情况都“关心”“如何平衡家庭与事业”…相比于男性，女性被期待“嫁个好人”而不是自己有钱有权"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2091116299556725241",
+        "created_at": "2026-08-22T11:54:38.000Z",
+        "display_text_range": [
+          31,
+          177
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091131931857674375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1489468526826082312",
+              "start": 0,
+              "username": "Diamond_Kokoro"
+            },
+            {
+              "end": 30,
+              "id": "2022253175345143809",
+              "start": 16,
+              "username": "irisdesombres"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091131931857674375",
+        "in_reply_to_user_id": "1489468526826082312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091129958446112861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Diamond_Kokoro @irisdesombres 不是的，社会规范下的女性，不被认为是与男性具有同样能力的人，被视为“赔钱货”，即使成绩好也会被认为“只会死读书”“女孩子后劲差”，“女生学历那么高以后没人要”，在职场上被先觉性地认为不如男性，被无论什么情况都“关心”“如何平衡家庭与事业”…相比于男性，女性被期待“嫁个好人”而不是自己有钱有权"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1489468526826082312",
+        "conversation_id": "2091116299556725241",
+        "created_at": "2026-08-22T11:46:48.000Z",
+        "display_text_range": [
+          29,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T12:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091129958446112861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            },
+            {
+              "end": 28,
+              "id": "2022253175345143809",
+              "start": 14,
+              "username": "irisdesombres"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091129958446112861",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091127836782522617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem @irisdesombres 對人的有錢有權這個要求不會隨著性別分工的消失而消失的⋯"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2091131931857674375",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6238,
+          "following_count": 217,
+          "like_count": 24987,
+          "listed_count": 16,
+          "media_count": 1800,
+          "tweet_count": 21906
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "浪漫和性傾向都是鴉尾鳶@irisdesombres\nI love you to the (dark side of the) moon and back.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091129958446112861",
+        "name": "鴉尾羽",
+        "pinned_tweet_id": "2088400789022892420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489468526826082312/1787065081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089954687135182848/j2pvXMO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 813,
+          "following_count": 204,
+          "like_count": 16913,
+          "listed_count": 3,
+          "media_count": 491,
+          "tweet_count": 12001
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-13T10:15:18.000Z",
+        "description": "伴侶、知己、藏品和奴隸@Diamond_Kokoro",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "Diamond_Kokoro"
+              }
+            ]
+          }
+        },
+        "id": "2022253175345143809",
+        "is_identity_verified": false,
+        "location": "agender",
+        "most_recent_tweet_id": "2084626239864586599",
+        "name": "鴉尾鳶",
+        "pinned_tweet_id": "2034978855153234418",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2022253175345143809/1775154875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024275236531695616/xar82bpz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 219,
+          "like_count": 19097,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 8547
+        },
+        "url": "",
+        "username": "irisdesombres",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
