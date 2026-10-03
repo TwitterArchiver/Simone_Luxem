@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2098377111429902413",
+    "created_at": "2026-09-11T11:44:23.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T12:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098377111429902413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nvjishi/status…",
+          "end": 129,
+          "expanded_url": "https://twitter.com/nvjishi/status/2097670320367059020",
+          "start": 106,
+          "url": "https://t.co/E3Qc5T0syp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098377111429902413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097670320367059020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所有的“坏孩子”本就是成年人的社会制造出来的\n你们在它们没有选择的情况下将它们制造成了那种样子，随后又将其冠上坏孩子的名号，冠冕堂皇地歧视，既不解决其困境，又不真的解决被其所伤害的其他孩子的困境\n此是何等的无耻 https://t.co/E3Qc5T0syp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2098377111429902413",
+        "created_at": "2026-09-11T11:44:23.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T12:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098377111429902413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nvjishi/status…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/nvjishi/status/2097670320367059020",
+              "start": 106,
+              "url": "https://t.co/E3Qc5T0syp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098377111429902413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097670320367059020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所有的“坏孩子”本就是成年人的社会制造出来的\n你们在它们没有选择的情况下将它们制造成了那种样子，随后又将其冠上坏孩子的名号，冠冕堂皇地歧视，既不解决其困境，又不真的解决被其所伤害的其他孩子的困境\n此是何等的无耻 https://t.co/E3Qc5T0syp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1305718816413020160",
+        "conversation_id": "2097670320367059020",
+        "created_at": "2026-09-09T12:55:51.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097670320367059020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097670320367059020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 379861,
+          "like_count": 3731,
+          "quote_count": 12,
+          "reply_count": 442,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "大部分初中生是未成年群体里面最坏的那一批。\n\n中考分流真的是一个非常伟大的发明，到了高中你就会发现，大部分的黄毛、绿毛、校霸、大姐大都被净化掉了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2098377111429902413",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6286,
+          "following_count": 218,
+          "like_count": 25049,
+          "listed_count": 17,
+          "media_count": 1801,
+          "tweet_count": 21962
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-15T04:03:29.000Z",
+        "description": "👉番号搜索工具https://t.co/cFxYQXGojZ\n\n吃喝男模都是亏，唯有web3有来回",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/jisou?start=a_…",
+                "end": 30,
+                "expanded_url": "https://t.me/jisou?start=a_1384383866",
+                "start": 7,
+                "url": "https://t.co/cFxYQXGojZ"
+              }
+            ]
+          }
+        },
+        "id": "1305718816413020160",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098371447685312562",
+        "name": "女技师",
+        "pinned_tweet_id": "1698221614960460281",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1305718816413020160/1685884040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1665701944495833088/pAi0XCij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62082,
+          "following_count": 12968,
+          "like_count": 22790,
+          "listed_count": 103,
+          "media_count": 703,
+          "tweet_count": 24410
+        },
+        "url": "",
+        "username": "nvjishi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

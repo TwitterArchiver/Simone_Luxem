@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2105279105562247433",
+    "created_at": "2026-09-30T12:50:27.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T13:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105279105562247433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/shizukiminori/…",
+          "end": 133,
+          "expanded_url": "https://twitter.com/shizukiminori/status/2105133038258823245",
+          "start": 110,
+          "url": "https://t.co/Megq5RoDG9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105279105562247433",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105133038258823245",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "A famous rabbinic teaching asks the question. Who is wise. And the answer is: One who learns from all people. https://t.co/Megq5RoDG9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2105279105562247433",
+        "created_at": "2026-09-30T12:50:27.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T13:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105279105562247433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shizukiminori/…",
+              "end": 133,
+              "expanded_url": "https://twitter.com/shizukiminori/status/2105133038258823245",
+              "start": 110,
+              "url": "https://t.co/Megq5RoDG9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105279105562247433",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105133038258823245",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "A famous rabbinic teaching asks the question. Who is wise. And the answer is: One who learns from all people. https://t.co/Megq5RoDG9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087657375257944064",
+        "conversation_id": "2105133038258823245",
+        "created_at": "2026-09-30T03:10:02.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T04:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105133038258823245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105133038258823245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 392,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "能将灰度分割成黑白分明，前提是人要能看得见灰度。如果每次看到灰色地带就不假思索地说“不，这是黑的”或者“对，这是白的”，然后沉浸在自恋的世界观中，那就永远没法把黑白分开。这种认识论从出发点和动机上是一种 acedia. 我每次祷告念主祷文，求祂救我脱离的凶恶，就包括这种放弃思考和关注的惰性。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2105279105562247433",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6334,
+          "following_count": 219,
+          "like_count": 25122,
+          "listed_count": 17,
+          "media_count": 1812,
+          "tweet_count": 22076
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-22T10:25:00.000Z",
+        "description": "「人よ、幸福たれ！」\n| #eb695d\n| lenient and saucy “优雅而愉悦”\n| 谏言者人格：@zoya_genrikh\n| 生活在树上是妳的避难所、也是我的避难所",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 13,
+                "tag": "eb695d"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "start": 57,
+                "username": "zoya_genrikh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "labmikazu.dscf.one",
+                "end": 23,
+                "expanded_url": "http://labmikazu.dscf.one",
+                "start": 0,
+                "url": "https://t.co/j443RDrPzv"
+              }
+            ]
+          }
+        },
+        "id": "1087657375257944064",
+        "is_identity_verified": false,
+        "location": "opengl106.oikawa.moe",
+        "most_recent_tweet_id": "2105229157533954338",
+        "name": "梓月 Z. Λ. Shizuki",
+        "pinned_tweet_id": "1735317515297816948",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087657375257944064/1747811767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925088190991593472/GtVAoOWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4087,
+          "following_count": 1568,
+          "like_count": 82576,
+          "listed_count": 22,
+          "media_count": 692,
+          "tweet_count": 5828
+        },
+        "url": "https://t.co/j443RDrPzv",
+        "username": "ShizukiMinori",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2104493351022240222",
+    "created_at": "2026-09-28T08:48:09.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T09:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104493351022240222"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 33,
+          "id": "535028358",
+          "start": 20,
+          "username": "Beiyan_Yunyi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2104431570085990568",
+          "start": 109,
+          "url": "https://t.co/RvuFUaW2XL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104493351022240222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104431570085990568",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "411不就是这样的吗，参考北雁云依的经历@Beiyan_Yunyi ，因为看起来“像会整活的”而被不喜欢进而多次试图被排除掉\n所谓的父母同意也是相同的逻辑。这套系统不在乎跨儿们真正的福祉，而只是为了系统本身的自我维续 https://t.co/RvuFUaW2XL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2104493351022240222",
+        "created_at": "2026-09-28T08:48:09.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T09:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104493351022240222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "535028358",
+              "start": 20,
+              "username": "Beiyan_Yunyi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2104431570085990568",
+              "start": 109,
+              "url": "https://t.co/RvuFUaW2XL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104493351022240222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104431570085990568",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "411不就是这样的吗，参考北雁云依的经历@Beiyan_Yunyi ，因为看起来“像会整活的”而被不喜欢进而多次试图被排除掉\n所谓的父母同意也是相同的逻辑。这套系统不在乎跨儿们真正的福祉，而只是为了系统本身的自我维续 https://t.co/RvuFUaW2XL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2104431570085990568",
+        "created_at": "2026-09-28T04:42:39.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104431570085990568"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/b_cat38324/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/b_cat38324/status/2104426554025746695",
+              "start": 30,
+              "url": "https://t.co/Q6HprXcnSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104431570085990568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1403,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104426554025746695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实甚至不是筛掉覆盖之外的人，而是筛掉不够听话不够安全的人 https://t.co/Q6HprXcnSR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2104493351022240222",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6333,
+          "following_count": 219,
+          "like_count": 25102,
+          "listed_count": 17,
+          "media_count": 1811,
+          "tweet_count": 22056
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2104468523284103441",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11492,
+          "following_count": 1389,
+          "like_count": 11261,
+          "listed_count": 19,
+          "media_count": 526,
+          "tweet_count": 6930
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-03-24T03:02:07.000Z",
+        "description": "MtRF，吃雌二醇的网左，杯水主义仙人\nMothers: @artefaritaUsagi & @sauricat",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 29,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "sauricat"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yunyi.beiyan.us",
+                "end": 23,
+                "expanded_url": "https://blog.yunyi.beiyan.us",
+                "start": 0,
+                "url": "https://t.co/0dCxoXrhgJ"
+              }
+            ]
+          }
+        },
+        "id": "535028358",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102998796867445004",
+        "name": "北雁云依 - 21018365482@o3o.ca",
+        "pinned_tweet_id": "1848540476166885623",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/535028358/1680371234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984845724023181312/BiHKeo6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3847,
+          "following_count": 222,
+          "like_count": 7625,
+          "listed_count": 17,
+          "media_count": 217,
+          "tweet_count": 2101
+        },
+        "url": "https://t.co/0dCxoXrhgJ",
+        "username": "Beiyan_Yunyi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

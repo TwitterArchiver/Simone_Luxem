@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2101272255338524695",
+    "created_at": "2026-09-19T11:28:40.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T12:28:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101272255338524695"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nohomework0/st…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/nohomework0/status/2100631249404751893",
+          "start": 32,
+          "url": "https://t.co/0kquOay4ao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101272255338524695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100631249404751893",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "讽刺的是，如果说的是中国的父母对子女的话，其实倒也未必是错的… https://t.co/0kquOay4ao"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2101272255338524695",
+        "created_at": "2026-09-19T11:28:40.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T12:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101272255338524695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nohomework0/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/nohomework0/status/2100631249404751893",
+              "start": 32,
+              "url": "https://t.co/0kquOay4ao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101272255338524695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100631249404751893",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讽刺的是，如果说的是中国的父母对子女的话，其实倒也未必是错的… https://t.co/0kquOay4ao"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4677053179",
+        "conversation_id": "2100631249404751893",
+        "created_at": "2026-09-17T17:01:32.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T18:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100631249404751893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wujizhuzhu/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/wujizhuzhu/status/2100475289310801978",
+              "start": 47,
+              "url": "https://t.co/gdpj05BSIY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100631249404751893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4656,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100475289310801978",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“大部分导师对待学生，都如对待自己的子女一样关爱。”\n\n我只能说没读过研究生，眼神都是清澈的 https://t.co/gdpj05BSIY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2101272255338524695",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6300,
+          "following_count": 219,
+          "like_count": 25072,
+          "listed_count": 17,
+          "media_count": 1806,
+          "tweet_count": 22001
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-30T07:53:28.000Z",
+        "description": "万年单身但也不要和你在一起/告诉你不为人知的故事/不线下游玩/不加vx/我一点也不可爱/喜欢看樱桃小丸子/只狼，怪猎玩家/独立游戏爱好者/键政人远离，否则block/年糕精灵/推特最尊重学历的人",
+        "id": "4677053179",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101272267842109626",
+        "name": "双层牛肉汉堡",
+        "pinned_tweet_id": "1277715332564545536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4677053179/1593285822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263655317541236736/CJJovtRL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5379,
+          "following_count": 3650,
+          "like_count": 15015,
+          "listed_count": 32,
+          "media_count": 2169,
+          "tweet_count": 30206
+        },
+        "url": "",
+        "username": "Nohomework0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

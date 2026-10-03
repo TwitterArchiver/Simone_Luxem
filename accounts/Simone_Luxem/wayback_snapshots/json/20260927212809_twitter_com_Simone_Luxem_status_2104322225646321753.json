@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2104180703047074031",
+    "created_at": "2026-09-27T21:28:09.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T22:28:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104322225646321753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1089538486653181952",
+          "start": 0,
+          "username": "jasei_22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104322225646321753",
+    "in_reply_to_user_id": "1089538486653181952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104180703047074031",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jasei_22 画的好棒…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2104180502332833792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTONBLjaAAAUIJP.jpg",
+        "width": 2909
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2104180520330641408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTONCOmawAAnSzJ.jpg",
+        "width": 2909
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2104180703047074031",
+        "created_at": "2026-09-27T21:28:09.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T22:28:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104322225646321753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1089538486653181952",
+              "start": 0,
+              "username": "jasei_22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104322225646321753",
+        "in_reply_to_user_id": "1089538486653181952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104180703047074031",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jasei_22 画的好棒…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104180502332833792",
+            "3_2104180520330641408"
+          ]
+        },
+        "author_id": "1089538486653181952",
+        "conversation_id": "2104180703047074031",
+        "created_at": "2026-09-27T12:05:48.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T13:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104180703047074031"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "まのさばネタバレ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCPYesLWsu",
+              "end": 79,
+              "expanded_url": "https://x.com/jasei_22/status/2104180703047074031/photo/1",
+              "media_key": "3_2104180502332833792",
+              "start": 56,
+              "url": "https://t.co/CCPYesLWsu"
+            },
+            {
+              "display_url": "pic.x.com/CCPYesLWsu",
+              "end": 79,
+              "expanded_url": "https://x.com/jasei_22/status/2104180703047074031/photo/1",
+              "media_key": "3_2104180520330641408",
+              "start": 56,
+              "url": "https://t.co/CCPYesLWsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104180703047074031",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104180502332833792"
+          },
+          {
+            "media_key": "3_2104180520330641408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 37499,
+          "like_count": 1076,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "……だから、私は君を許すんだ。無関係だからこそ、君を受け入れる。友人として君を支えよう。\n\n#まのさばネタバレ https://t.co/CCPYesLWsu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2104322225646321753",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6333,
+          "following_count": 219,
+          "like_count": 25097,
+          "listed_count": 17,
+          "media_count": 1811,
+          "tweet_count": 22053
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-27T14:59:52.000Z",
+        "description": "絵を描きます。 変な独り言多いです。 \n\n進捗やら落書き：@janoura__\nホヨバ/まのさば/アークナイツ/まちカドまぞく",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "janoura__"
+              }
+            ]
+          }
+        },
+        "id": "1089538486653181952",
+        "is_identity_verified": false,
+        "location": "懲罰房(愛媛)",
+        "most_recent_tweet_id": "2104239930042204323",
+        "name": "じゃせ🌱",
+        "pinned_tweet_id": "2099778631862268111",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1089538486653181952/1784302846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975804127495266304/vtrkrosC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2454,
+          "following_count": 300,
+          "like_count": 12052,
+          "listed_count": 14,
+          "media_count": 1153,
+          "tweet_count": 10990
+        },
+        "url": "",
+        "username": "jasei_22",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

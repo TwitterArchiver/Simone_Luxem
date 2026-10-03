@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2099909738553078188",
+    "created_at": "2026-09-16T12:48:09.000Z",
+    "display_text_range": [
+      45,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T13:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100205096600588380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445400963632750596",
+          "start": 0,
+          "username": "Im_Just__Girl"
+        },
+        {
+          "end": 31,
+          "id": "2035882965671215104",
+          "start": 15,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 44,
+          "id": "1245664697937887237",
+          "start": 32,
+          "username": "RoachNyaNya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100205096600588380",
+    "in_reply_to_user_id": "1445400963632750596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100063310762934609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Just__Girl @amber_medusozoa @RoachNyaNya 你是男的还是女的？你是受益者还是受害者？你是不是高等阶层？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2099909738553078188",
+        "created_at": "2026-09-16T12:48:09.000Z",
+        "display_text_range": [
+          45,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100205096600588380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445400963632750596",
+              "start": 0,
+              "username": "Im_Just__Girl"
+            },
+            {
+              "end": 31,
+              "id": "2035882965671215104",
+              "start": 15,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 44,
+              "id": "1245664697937887237",
+              "start": 32,
+              "username": "RoachNyaNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100205096600588380",
+        "in_reply_to_user_id": "1445400963632750596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100063310762934609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Just__Girl @amber_medusozoa @RoachNyaNya 你是男的还是女的？你是受益者还是受害者？你是不是高等阶层？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2099909738553078188",
+        "created_at": "2026-09-16T03:24:45.000Z",
+        "display_text_range": [
+          30,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100063310762934609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 29,
+              "id": "1245664697937887237",
+              "start": 17,
+              "username": "RoachNyaNya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100063310762934609",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 463,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100059999414210926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @RoachNyaNya 所以你承认吧，大部分老老实实的男性就是受害者。大部分老老实实的女性都是受益者。1%的男性和99%的女性都是高等阶层"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2100205096600588380",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6283,
+          "following_count": 219,
+          "like_count": 25067,
+          "listed_count": 17,
+          "media_count": 1804,
+          "tweet_count": 21986
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "可怜的有机小女孩，脾气也很坏，说不定哪天就死了|I'm a Good girl. Please don't hurt me.👧04|🌈|OD雌二醇|反生育主义，繁殖狂拉黑|terf暴毙",
+        "id": "1445400963632750596",
+        "is_identity_verified": false,
+        "location": "Girls Home",
+        "most_recent_tweet_id": "2100171280628789259",
+        "name": "Danielle",
+        "pinned_tweet_id": "2098719357451018476",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1445400963632750596/1756384462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024462232961372162/WYgmAow1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1127,
+          "following_count": 991,
+          "like_count": 14768,
+          "listed_count": 5,
+          "media_count": 168,
+          "tweet_count": 7916
+        },
+        "url": "",
+        "username": "Im_Just__Girl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2100204606013813052",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2087096982267432968",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10966,
+          "following_count": 1333,
+          "like_count": 10233,
+          "listed_count": 15,
+          "media_count": 480,
+          "tweet_count": 6138
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-02T10:49:50.000Z",
+        "description": "无知，无理，无趣。tg: jansonjohn",
+        "id": "1245664697937887237",
+        "is_identity_verified": false,
+        "location": "Ottawa, Ontario",
+        "most_recent_tweet_id": "2100202854266835384",
+        "name": "偏指",
+        "pinned_tweet_id": "1313456171248832513",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1245664697937887237/1633535026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1828881554442960896/7uxM1l87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7848,
+          "following_count": 1593,
+          "like_count": 85672,
+          "listed_count": 29,
+          "media_count": 2563,
+          "tweet_count": 45851
+        },
+        "url": "",
+        "username": "RoachNyaNya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

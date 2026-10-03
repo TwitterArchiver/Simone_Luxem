@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author",
+          "id": "1136984326640287744",
+          "name": "Charlie Kirk"
+        }
+      }
+    ],
+    "conversation_id": "2098515266204221757",
+    "created_at": "2026-09-11T20:53:22.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T21:53:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098515266204221757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/verylittlered/…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/verylittlered/status/2098163663009980538",
+          "start": 39,
+          "url": "https://t.co/2H2NuOmxHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098515266204221757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098163663009980538",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看来，批判的武器或武器的批判，二者之中总有一种可以使得哪怕最险恶的敌人悔过的 https://t.co/2H2NuOmxHH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "2098515266204221757",
+        "created_at": "2026-09-11T20:53:22.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T21:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098515266204221757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/verylittlered/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/verylittlered/status/2098163663009980538",
+              "start": 39,
+              "url": "https://t.co/2H2NuOmxHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098515266204221757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098163663009980538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看来，批判的武器或武器的批判，二者之中总有一种可以使得哪怕最险恶的敌人悔过的 https://t.co/2H2NuOmxHH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "517219638",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author",
+              "id": "1136984326640287744",
+              "name": "Charlie Kirk"
+            }
+          }
+        ],
+        "conversation_id": "2098163663009980538",
+        "created_at": "2026-09-10T21:36:13.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T22:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098163663009980538"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098163663009980538",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 41856,
+          "like_count": 6128,
+          "quote_count": 12,
+          "reply_count": 40,
+          "retweet_count": 637
+        },
+        "reply_settings": "everyone",
+        "text": "Hoy se cumple un año de que Charlie Kirk no hace comentarios racistas, clasistas, homofobicos, machistas y supremacistas. ✨"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2098515266204221757",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6288,
+          "following_count": 218,
+          "like_count": 25052,
+          "listed_count": 17,
+          "media_count": 1802,
+          "tweet_count": 21966
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-03-07T04:48:00.000Z",
+        "description": "Tuya, del café y de la causa socialista. ❤️‍🔥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/verylittlered_/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/verylittlered_/",
+                "start": 0,
+                "url": "https://t.co/eX42jKZJ2F"
+              }
+            ]
+          }
+        },
+        "id": "517219638",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098497808303030301",
+        "name": "Dra. Marxiana Roja ☭",
+        "pinned_tweet_id": "1928218163956830664",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/517219638/1694926313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062973079286956032/0yR3uWPZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10247,
+          "following_count": 512,
+          "like_count": 30364,
+          "listed_count": 83,
+          "media_count": 1312,
+          "tweet_count": 22602
+        },
+        "url": "https://t.co/eX42jKZJ2F",
+        "username": "VeryLittleRed",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,492 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2103395764793729269",
+    "created_at": "2026-09-25T08:06:44.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T09:06:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103395764793729269"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/13witch_trials…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/13witch_trials/status/2103078333064085923",
+          "start": 74,
+          "url": "https://t.co/02LA10efUI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103395764793729269",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103078333064085923",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇哇哇这个真的很棒，个人感觉仅次于奈叶香的那个mv，甚至或许排除自己本身主要是奈叶香厨的滤镜因素的话，这个mv本身或许更好…\n总之就是…很棒的吧… https://t.co/02LA10efUI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31958,
+        "height": 480,
+        "media_key": "7_2103078285777530880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2103078285777530880/pu/img/r2C5scl45p3-rK0J.jpg",
+        "public_metrics": {
+          "view_count": 119549
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2103078285777530880/pu/vid/avc1/480x270/l7Oop-nZZ9Z-yHBT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2103078285777530880/pu/vid/avc1/640x360/MmyFq-a70QqnRIUm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2103078285777530880/pu/vid/avc1/854x480/ve3ePbqQEtLilHjD.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2103078285777530880/pu/pl/6WeWDaBUL92ybyDP.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 854
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2103395764793729269",
+        "created_at": "2026-09-25T08:06:44.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T09:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103395764793729269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/13witch_trials…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/13witch_trials/status/2103078333064085923",
+              "start": 74,
+              "url": "https://t.co/02LA10efUI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103395764793729269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103078333064085923",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇哇哇这个真的很棒，个人感觉仅次于奈叶香的那个mv，甚至或许排除自己本身主要是奈叶香厨的滤镜因素的话，这个mv本身或许更好…\n总之就是…很棒的吧… https://t.co/02LA10efUI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2103078285777530880"
+          ]
+        },
+        "author_id": "1761599169066893312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2103078333064085923",
+        "created_at": "2026-09-24T11:05:22.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103078333064085923"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 125,
+              "start": 120,
+              "tag": "まのさば"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 84,
+              "id": "1950846062903898112",
+              "start": 72,
+              "username": "kanon_alise"
+            }
+          ],
+          "urls": [
+            {
+              "description": "魔法少女ノ魔女裁判 ココロノクライ Episode Ⅲ　紫藤アリサ大丈夫。大丈夫。大丈夫。大丈夫。大丈夫。大丈夫。大丈夫。大丈夫。...",
+              "display_url": "youtu.be/5iwlwsVDIzg?si…",
+              "end": 118,
+              "expanded_url": "https://youtu.be/5iwlwsVDIzg?si=KpYVKE4GXFne9fs0",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2102712507064528896/7F2PbW2E?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102712507064528896/7F2PbW2E?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "アシェンプテル 【ココロノクライ Episode Ⅲ　紫藤アリサ】",
+              "unwound_url": "https://www.youtube.com/watch?si=KpYVKE4GXFne9fs0&v=5iwlwsVDIzg&feature=youtu.be",
+              "url": "https://t.co/IvIuxItZTT"
+            },
+            {
+              "display_url": "pic.x.com/Q6it6tJoX0",
+              "end": 149,
+              "expanded_url": "https://x.com/13witch_Trials/status/2103078333064085923/video/1",
+              "media_key": "7_2103078285777530880",
+              "start": 126,
+              "url": "https://t.co/Q6it6tJoX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103078333064085923",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "7_2103078285777530880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 733,
+          "impression_count": 500714,
+          "like_count": 8505,
+          "quote_count": 346,
+          "reply_count": 7,
+          "retweet_count": 3216
+        },
+        "reply_settings": "everyone",
+        "text": "◆『魔法少女ノ魔女裁判』MVプロジェクト◆\n\n『ココロノクライ』Episode Ⅲ\n紫藤アリサ\n\n「アシェンプテル」\nVocal：有世華望  （@kanon_alise ） \n\n▼URL▼\nhttps://t.co/IvIuxItZTT\n\n#まのさば https://t.co/Q6it6tJoX0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2103395764793729269",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6300,
+          "following_count": 219,
+          "like_count": 25082,
+          "listed_count": 17,
+          "media_count": 1810,
+          "tweet_count": 22032
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-25T03:49:14.000Z",
+        "description": "「Acacia」がお届けする魔法議論ミステリゲーム「魔法少女ノ魔女裁判」公式です。Steam/Switch版発売中。#まのさば\n\nYoutube：https://t.co/2vD4itw83M\nShop：https://t.co/3ZvBm16ybz\nLink：https://t.co/Nj5V4ScWW9\n運営：@Acacia_offical_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "まのさば"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 174,
+                "start": 158,
+                "username": "Acacia_offical_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/uAqSn",
+                "end": 96,
+                "expanded_url": "https://x.gd/uAqSn",
+                "start": 73,
+                "url": "https://t.co/2vD4itw83M"
+              },
+              {
+                "display_url": "x.gd/XHFVjQ",
+                "end": 125,
+                "expanded_url": "https://x.gd/XHFVjQ",
+                "start": 102,
+                "url": "https://t.co/3ZvBm16ybz"
+              },
+              {
+                "display_url": "x.gd/T4Vle",
+                "end": 154,
+                "expanded_url": "https://x.gd/T4Vle",
+                "start": 131,
+                "url": "https://t.co/Nj5V4ScWW9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manosaba.com",
+                "end": 23,
+                "expanded_url": "https://manosaba.com",
+                "start": 0,
+                "url": "https://t.co/3ri3J0EKXa"
+              }
+            ]
+          }
+        },
+        "id": "1761599169066893312",
+        "is_identity_verified": true,
+        "location": "シナリオ制作会社Re,AER",
+        "most_recent_tweet_id": "2103111675520188696",
+        "name": "魔法少女ノ魔女裁判 公式",
+        "pinned_tweet_id": "2074871445977715074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761599169066893312/1712021988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774974247125106688/8mB9zMiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281199,
+          "following_count": 56,
+          "like_count": 3560,
+          "listed_count": 442,
+          "media_count": 825,
+          "tweet_count": 1522
+        },
+        "url": "https://t.co/3ri3J0EKXa",
+        "username": "13witch_Trials",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

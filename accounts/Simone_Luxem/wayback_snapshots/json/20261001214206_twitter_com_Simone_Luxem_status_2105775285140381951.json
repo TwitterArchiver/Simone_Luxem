@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2105603840527548496",
+    "created_at": "2026-10-01T21:42:06.000Z",
+    "display_text_range": [
+      10,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T22:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105775285140381951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2842225148",
+          "start": 0,
+          "username": "mimememz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105775285140381951",
+    "in_reply_to_user_id": "2842225148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105609951309910411",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mimememz 如果一个人的性别认同真的是“武装直升机”，那我尊重其性别认同并支持，我不认为其有什么问题\n而现实是很显然绝大部分这样说的人都根本并不把这当作自身的性别认同，而是仅仅当作一个用来刺激人的话柄，而我正是对此巨魔行径厌恶，而非其性别认同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2105603840527548496",
+        "created_at": "2026-10-01T21:42:06.000Z",
+        "display_text_range": [
+          10,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T22:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105775285140381951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2842225148",
+              "start": 0,
+              "username": "mimememz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105775285140381951",
+        "in_reply_to_user_id": "2842225148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105609951309910411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mimememz 如果一个人的性别认同真的是“武装直升机”，那我尊重其性别认同并支持，我不认为其有什么问题\n而现实是很显然绝大部分这样说的人都根本并不把这当作自身的性别认同，而是仅仅当作一个用来刺激人的话柄，而我正是对此巨魔行径厌恶，而非其性别认同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2842225148",
+        "conversation_id": "2105603840527548496",
+        "created_at": "2026-10-01T10:45:07.000Z",
+        "display_text_range": [
+          14,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T11:45:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105609951309910411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105609951309910411",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105603840527548496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 我不信有哪个跨性别见到“我的性别是武装直升机”的人出来心里会没有一丝反感，把这些人当成跨性别同伴\n如果你没有，那请你告诉我这些串子顶着跨性别的名义做坏事时，你是怎么干的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2105775285140381951",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6338,
+          "following_count": 220,
+          "like_count": 25132,
+          "listed_count": 17,
+          "media_count": 1812,
+          "tweet_count": 22086
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-06T10:29:06.000Z",
+        "description": "",
+        "id": "2842225148",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105648397562810634",
+        "name": "mi",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1278765130231119872/vau7Trvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 31,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "mimememz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

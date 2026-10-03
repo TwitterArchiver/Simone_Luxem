@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2103245050843119907",
+    "created_at": "2026-09-24T22:07:51.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T23:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103245050843119907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720665183188922368",
+          "start": 4,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/jane_s_eye/sta…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/jane_s_eye/status/2103185275941966228",
+          "start": 109,
+          "url": "https://t.co/IEGTr4HfCm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103245050843119907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103185275941966228",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘿  \n@grok\n\n• 我最左翼的观点是什么？  \n• 我最右翼的观点是什么？  \n• 我最威权主义的观点是什么？  \n• 我最自由主义的观点是什么？  \n• 我最“觉醒”的观点是什么？  \n\n请为每个观点解释原因 https://t.co/IEGTr4HfCm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2103245050843119907",
+        "created_at": "2026-09-24T22:07:51.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T23:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103245050843119907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720665183188922368",
+              "start": 4,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/jane_s_eye/sta…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/jane_s_eye/status/2103185275941966228",
+              "start": 109,
+              "url": "https://t.co/IEGTr4HfCm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103245050843119907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103185275941966228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿  \n@grok\n\n• 我最左翼的观点是什么？  \n• 我最右翼的观点是什么？  \n• 我最威权主义的观点是什么？  \n• 我最自由主义的观点是什么？  \n• 我最“觉醒”的观点是什么？  \n\n请为每个观点解释原因 https://t.co/IEGTr4HfCm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462419807173677059",
+        "conversation_id": "2103185275941966228",
+        "created_at": "2026-09-24T18:10:19.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T19:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103185275941966228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720665183188922368",
+              "start": 4,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/conmeenism/sta…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/conmeenism/status/2103184068154360256",
+              "start": 109,
+              "url": "https://t.co/NFd0BBkgT7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103185275941966228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 321,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103184068154360256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘿  \n@grok\n\n• 我最左翼的观点是什么？  \n• 我最右翼的观点是什么？  \n• 我最威权主义的观点是什么？  \n• 我最自由主义的观点是什么？  \n• 我最“觉醒”的观点是什么？  \n\n请为每个观点解释原因 https://t.co/NFd0BBkgT7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2103245050843119907",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6302,
+          "following_count": 219,
+          "like_count": 25083,
+          "listed_count": 17,
+          "media_count": 1810,
+          "tweet_count": 22031
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-21T13:58:25.000Z",
+        "description": "Transgender women，Citizen，Love story addicted",
+        "id": "1462419807173677059",
+        "is_identity_verified": false,
+        "location": "she/her",
+        "most_recent_tweet_id": "2103190185139941861",
+        "name": "Muriel🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462419807173677059/1785775396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075187599917113344/NtN1QB3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11140,
+          "following_count": 3167,
+          "like_count": 13884,
+          "listed_count": 19,
+          "media_count": 480,
+          "tweet_count": 8836
+        },
+        "url": "",
+        "username": "Jane_S_Eye",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103245066068271139",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9098058,
+          "following_count": 4,
+          "like_count": 141,
+          "listed_count": 7675,
+          "media_count": 3956978,
+          "tweet_count": 136921331
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2103884425918578971",
+    "created_at": "2026-09-27T11:53:56.000Z",
+    "display_text_range": [
+      10,
+      145
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104177720280420457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559445629004300290",
+          "start": 0,
+          "username": "nomi9724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104177720280420457",
+    "in_reply_to_user_id": "1559445629004300290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103884425918578971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomi9724 这很浪漫，不是吗，个体的人总会停滞的，总会陷于过去和已知的，但作为群体的人和社会不能也不应该如此，而是需要不断前进的；那么对于每一个革命者而言，倘若活得足够久，私以为最大的荣耀就是在现有的革命成功后的某一天成为了新的需要被打倒的对象，作为好人被一把好枪用一颗好的子弹枪毙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2103884425918578971",
+        "created_at": "2026-09-27T11:53:56.000Z",
+        "display_text_range": [
+          10,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104177720280420457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559445629004300290",
+              "start": 0,
+              "username": "nomi9724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104177720280420457",
+        "in_reply_to_user_id": "1559445629004300290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103884425918578971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomi9724 这很浪漫，不是吗，个体的人总会停滞的，总会陷于过去和已知的，但作为群体的人和社会不能也不应该如此，而是需要不断前进的；那么对于每一个革命者而言，倘若活得足够久，私以为最大的荣耀就是在现有的革命成功后的某一天成为了新的需要被打倒的对象，作为好人被一把好枪用一颗好的子弹枪毙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1559445629004300290",
+        "conversation_id": "2103884425918578971",
+        "created_at": "2026-09-26T16:28:30.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T17:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103884425918578971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103884425918578971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 478,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好久没做过梦了，但我仍然反复记起之前的一个梦\n\n某种革命胜利了，要审判枪决坏人。我想跟革命者站在一起，但我站在坏人堆里……我想向革命者求饶或者伸冤，喊“我有……”，但再也说不出一个字……我被定为坏人、枪决、行刑……我醒了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2104177720280420457",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6331,
+          "following_count": 219,
+          "like_count": 25096,
+          "listed_count": 17,
+          "media_count": 1811,
+          "tweet_count": 22052
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-16T07:43:26.000Z",
+        "description": "05年生 / 任意代词 / 功能健全 / 希望自己是MTF / 立志做中文跨圈第一repper / 疑似AuDHD / INFJ / 倒错主体 / 不墙内不线下 / 碎片化n手哲学受众 / 坚持一致的不一致 / 前进！/\n\n天堂必须是倒置的\n\n匿名信箱：https://t.co/sjR6C4qPyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nomi9742",
+                "end": 150,
+                "expanded_url": "https://ngl.link/nomi9742",
+                "start": 127,
+                "url": "https://t.co/sjR6C4qPyb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/wrSlQRG6DK"
+              }
+            ]
+          }
+        },
+        "id": "1559445629004300290",
+        "is_identity_verified": false,
+        "location": "墙内",
+        "most_recent_tweet_id": "2104159774619386236",
+        "name": "Nomi9724🏳️",
+        "pinned_tweet_id": "2103975763552964765",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100686683297771520/EtUHwGp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 879,
+          "like_count": 4155,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/wrSlQRG6DK",
+        "username": "nomi9724",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

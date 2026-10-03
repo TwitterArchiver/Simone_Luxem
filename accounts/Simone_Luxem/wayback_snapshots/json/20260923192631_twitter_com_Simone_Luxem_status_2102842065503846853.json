@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2102786424781320586",
+    "created_at": "2026-09-23T19:26:31.000Z",
+    "display_text_range": [
+      17,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T20:26:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102842065503846853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "4752010152",
+          "start": 0,
+          "username": "garrulous_abyss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102842065503846853",
+    "in_reply_to_user_id": "4752010152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102786424781320586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@garrulous_abyss 啊啊啊啊啊啊？啊啊啊啊啊？？….还见过呢…."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1999,
+        "media_key": "3_2102786416296013824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6ZGsXXMAAL2rB.jpg",
+        "width": 1006
+      },
+      {
+        "height": 1985,
+        "media_key": "3_2102786416316944384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6ZGscWkAAj6Ds.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2102786424781320586",
+        "created_at": "2026-09-23T19:26:31.000Z",
+        "display_text_range": [
+          17,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T20:26:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102842065503846853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "4752010152",
+              "start": 0,
+              "username": "garrulous_abyss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102842065503846853",
+        "in_reply_to_user_id": "4752010152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102786424781320586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@garrulous_abyss 啊啊啊啊啊啊？啊啊啊啊啊？？….还见过呢…."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102786416296013824",
+            "3_2102786416316944384"
+          ]
+        },
+        "author_id": "4752010152",
+        "conversation_id": "2102786424781320586",
+        "created_at": "2026-09-23T15:45:26.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102786424781320586"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YlfYcj2PMN",
+              "end": 161,
+              "expanded_url": "https://x.com/garrulous_abyss/status/2102786424781320586/photo/1",
+              "media_key": "3_2102786416296013824",
+              "start": 138,
+              "url": "https://t.co/YlfYcj2PMN"
+            },
+            {
+              "display_url": "pic.x.com/YlfYcj2PMN",
+              "end": 161,
+              "expanded_url": "https://x.com/garrulous_abyss/status/2102786424781320586/photo/1",
+              "media_key": "3_2102786416316944384",
+              "start": 138,
+              "url": "https://t.co/YlfYcj2PMN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102786424781320586",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102786416296013824"
+          },
+          {
+            "media_key": "3_2102786416316944384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2115,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "记阿瓜\n\n今天下午，收到瓜爸的消息，说阿瓜(aqua）去世了。\n\n一时半会当然非常难以接受就是了……但听说阿瓜可能，并非完全因为意外……好像觉得又稍微释然了一些……\n\n虽然我会不断下意识的，告诉自己说，如果是她自己选择的，或许应该理解和祝福。\n\n但还是会难受就是了(1/n) https://t.co/YlfYcj2PMN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2102842065503846853",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6299,
+          "following_count": 218,
+          "like_count": 25079,
+          "listed_count": 17,
+          "media_count": 1810,
+          "tweet_count": 22023
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-13T07:43:45.000Z",
+        "description": "LGBTQIA一生推//女朋友是@Yaoyao38324// 程序员//科研人员//PhD//真·法语学习博主//ADHD确诊//见到Incel、terf、小粉红、魔怔人立刻拉黑//\n\n欢迎预约占卜测事 https://t.co/KZBQuEa4Up",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "Yaoyao38324"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/garrulous_abyss",
+                "end": 125,
+                "expanded_url": "https://buymeacoffee.com/garrulous_abyss",
+                "start": 102,
+                "url": "https://t.co/KZBQuEa4Up"
+              }
+            ]
+          }
+        },
+        "id": "4752010152",
+        "is_identity_verified": false,
+        "location": "Paris, France",
+        "most_recent_tweet_id": "2102838004502905136",
+        "name": "garrulous abyss🌈",
+        "pinned_tweet_id": "1573706756357750786",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4752010152/1667913861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1765120357042622464/Mkgehayb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32656,
+          "following_count": 3675,
+          "like_count": 198723,
+          "listed_count": 109,
+          "media_count": 4127,
+          "tweet_count": 72988
+        },
+        "url": "",
+        "username": "garrulous_abyss",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

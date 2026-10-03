@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2098921617506046285",
+    "created_at": "2026-09-14T12:48:42.000Z",
+    "display_text_range": [
+      17,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T13:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099480457641410629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1675878602930524163",
+          "start": 0,
+          "username": "indigo_skynight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099480457641410629",
+    "in_reply_to_user_id": "1675878602930524163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099240561051861376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@indigo_skynight 就，对于某一些事情的极度敏感的同时对另一些事情极度钝感？并且极度敏感的事情往往是其它人并不敏感的而钝感的事情是其它人敏感的…就会表现为比如因为某事自己对人动手会被说“就因为这事？”而对另一些事则是“这你都看不出来吗”…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2098921617506046285",
+        "created_at": "2026-09-14T12:48:42.000Z",
+        "display_text_range": [
+          17,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T13:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099480457641410629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1675878602930524163",
+              "start": 0,
+              "username": "indigo_skynight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099480457641410629",
+        "in_reply_to_user_id": "1675878602930524163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099240561051861376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@indigo_skynight 就，对于某一些事情的极度敏感的同时对另一些事情极度钝感？并且极度敏感的事情往往是其它人并不敏感的而钝感的事情是其它人敏感的…就会表现为比如因为某事自己对人动手会被说“就因为这事？”而对另一些事则是“这你都看不出来吗”…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1675878602930524163",
+        "conversation_id": "2098921617506046285",
+        "created_at": "2026-09-13T20:55:26.000Z",
+        "display_text_range": [
+          14,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T21:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099240561051861376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099240561051861376",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098921617506046285",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 好奇和大多数人非常不一样具体点是什么样子诶，我经常有这种感觉，但很难找到词来命名，也不想都用asd述情障碍一概而论了🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2099480457641410629",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6284,
+          "following_count": 219,
+          "like_count": 25058,
+          "listed_count": 17,
+          "media_count": 1804,
+          "tweet_count": 21976
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-03T14:46:38.000Z",
+        "description": "不想当人补药用性别框我、always stand by your side🏳️‍🌈、asexual💜｜Chinese、English｜AS｜我希望人类的人道主义是一种底线而非仰望｜因为as所以看上去很人机｜不太可爱但并不爱吵架",
+        "id": "1675878602930524163",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099242725572813192",
+        "name": "雾雨💫 🏳️‍🌈",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965452179474710533/tHIk_H43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 217,
+          "like_count": 1245,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "indigo_skynight",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

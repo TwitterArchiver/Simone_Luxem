@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2105249673992929313",
+    "created_at": "2026-10-01T21:32:13.000Z",
+    "display_text_range": [
+      11,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T22:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105772798685966553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "233804919",
+          "start": 0,
+          "username": "Lanszhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105772798685966553",
+    "in_reply_to_user_id": "233804919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105719909367857283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lanszhang 那我就是你讨厌的那种人，甚至我对自己的爱情幻想的投射，都是悲剧式的\n那只能说人和人的差别确实蛮大的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2105249673992929313",
+        "created_at": "2026-10-01T21:32:13.000Z",
+        "display_text_range": [
+          11,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T22:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105772798685966553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "233804919",
+              "start": 0,
+              "username": "Lanszhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105772798685966553",
+        "in_reply_to_user_id": "233804919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105719909367857283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanszhang 那我就是你讨厌的那种人，甚至我对自己的爱情幻想的投射，都是悲剧式的\n那只能说人和人的差别确实蛮大的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "233804919",
+        "conversation_id": "2105249673992929313",
+        "created_at": "2026-10-01T18:02:03.000Z",
+        "display_text_range": [
+          14,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105719909367857283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1429365180618706945",
+              "start": 0,
+              "username": "Simone_Luxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105719909367857283",
+        "in_reply_to_user_id": "1429365180618706945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105250382825844797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Simone_Luxem 我讀書很愛恨分明而且也讀很多\n簡愛可能不是我唯一一本討厭的\n但其他討厭的書我看前兩章就扔垃圾桶了\n\n關於為什麼討厭，單純就是我討厭看這樣無聊的愛情戲劇\n我小學最喜歡的是巴爾扎克\n我不明白為什麼女性的愛情第一視角幻想要被當作超越時間的永恆痛苦\n這可能是我基本都瞧不起整天講愛情的人的原因"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2105772798685966553",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6337,
+          "following_count": 219,
+          "like_count": 25132,
+          "listed_count": 17,
+          "media_count": 1812,
+          "tweet_count": 22085
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-01-04T04:20:45.000Z",
+        "description": "主語言：🇨🇳🇯🇵🇺🇸\n副語言：🇩🇪\n在学：🇰🇷🇮🇹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "smoggy-trade-1af.notion.site/From-A-Railway…",
+                "end": 23,
+                "expanded_url": "https://smoggy-trade-1af.notion.site/From-A-Railway-Carriage-739dab4bd0d146d996a8d28ee87b0039?pvs=74",
+                "start": 0,
+                "url": "https://t.co/Qsnbz0pF72"
+              }
+            ]
+          }
+        },
+        "id": "233804919",
+        "is_identity_verified": false,
+        "location": "Germany",
+        "most_recent_tweet_id": "2105719909367857283",
+        "name": "lans",
+        "pinned_tweet_id": "2098460991520452856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233804919/1784040527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078103246216781824/KjJ7cSay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7668,
+          "following_count": 1346,
+          "like_count": 76106,
+          "listed_count": 83,
+          "media_count": 5151,
+          "tweet_count": 73018
+        },
+        "url": "https://t.co/Qsnbz0pF72",
+        "username": "Lanszhang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

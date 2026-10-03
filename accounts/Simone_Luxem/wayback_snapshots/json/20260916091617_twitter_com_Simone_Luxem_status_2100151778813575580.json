@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2100151778813575580",
+    "created_at": "2026-09-16T09:16:17.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100151778813575580"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/435hz/status/2…",
+          "end": 130,
+          "expanded_url": "https://twitter.com/435hz/status/2100139374474387743",
+          "start": 107,
+          "url": "https://t.co/DBCuI3aez0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100151778813575580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100139374474387743",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为至少对自己来说，做一些事情是具有“道德义务”的，因此自己不接受收钱，或者说凭借此牟利吧\n或者也可以理解为，“做好这件事”本身就是自己所图谋的，就是自己想要达成的目的，这不仅是为了对方，也是其本身就是为了自己的 https://t.co/DBCuI3aez0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2100151778813575580",
+        "created_at": "2026-09-16T09:16:17.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100151778813575580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/435hz/status/2…",
+              "end": 130,
+              "expanded_url": "https://twitter.com/435hz/status/2100139374474387743",
+              "start": 107,
+              "url": "https://t.co/DBCuI3aez0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100151778813575580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100139374474387743",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为至少对自己来说，做一些事情是具有“道德义务”的，因此自己不接受收钱，或者说凭借此牟利吧\n或者也可以理解为，“做好这件事”本身就是自己所图谋的，就是自己想要达成的目的，这不仅是为了对方，也是其本身就是为了自己的 https://t.co/DBCuI3aez0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588829429333037056",
+        "conversation_id": "2100139374474387743",
+        "created_at": "2026-09-16T08:27:00.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T09:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100139374474387743"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100139374474387743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1339,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给人做事一定要收钱。\n不收钱，你怎么说服自己，怎么说服亲人，怎么说服被你服务的人，让他们相信，自己是正在被服务？\n你亏钱也干，那一定是别有所图。如果不是别有所图，那就应该按照市场价收钱。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2100151778813575580",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6283,
+          "following_count": 219,
+          "like_count": 25067,
+          "listed_count": 17,
+          "media_count": 1804,
+          "tweet_count": 21985
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-05T09:44:16.000Z",
+        "description": "三角眼观天下，覆船口吞乾坤。\n天纵英才，献忠回来。\n仅在X有账号，其它平台不是本人。",
+        "id": "1588829429333037056",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100139374474387743",
+        "name": "章工",
+        "pinned_tweet_id": "2098605769059135652",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591818969236717569/q95i8uvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124288,
+          "following_count": 89,
+          "like_count": 6862,
+          "listed_count": 730,
+          "media_count": 2359,
+          "tweet_count": 20380
+        },
+        "url": "",
+        "username": "435hz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

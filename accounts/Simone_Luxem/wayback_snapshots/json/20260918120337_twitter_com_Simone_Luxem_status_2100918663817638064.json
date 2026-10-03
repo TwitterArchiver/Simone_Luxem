@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2100526236221276574",
+    "created_at": "2026-09-18T12:03:37.000Z",
+    "display_text_range": [
+      11,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T13:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100918663817638064"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2078002065629224960",
+          "start": 0,
+          "username": "chisazero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100918663817638064",
+    "in_reply_to_user_id": "2078002065629224960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100526236221276574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chisazero 给发了pdf版，不知道看没看\n从结果上说自己是家长党，但不觉得和这本书有因果或强相关性…充其量是用来自证自己是已经下定决心了的吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2100526229959122944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSaReiIaoAAwH0k.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2100526236221276574",
+        "created_at": "2026-09-18T12:03:37.000Z",
+        "display_text_range": [
+          11,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T13:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100918663817638064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2078002065629224960",
+              "start": 0,
+              "username": "chisazero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100918663817638064",
+        "in_reply_to_user_id": "2078002065629224960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100526236221276574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chisazero 给发了pdf版，不知道看没看\n从结果上说自己是家长党，但不觉得和这本书有因果或强相关性…充其量是用来自证自己是已经下定决心了的吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100526229959122944"
+          ]
+        },
+        "author_id": "2078002065629224960",
+        "conversation_id": "2100526236221276574",
+        "created_at": "2026-09-17T10:04:15.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100526236221276574"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NePjVLb1jP",
+              "end": 44,
+              "expanded_url": "https://x.com/chisazero/status/2100526236221276574/photo/1",
+              "media_key": "3_2100526229959122944",
+              "start": 21,
+              "url": "https://t.co/NePjVLb1jP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100526236221276574",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100526229959122944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2883,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人真的给家人看过？\n会不会有点长？ https://t.co/NePjVLb1jP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2100918663817638064",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6296,
+          "following_count": 219,
+          "like_count": 25070,
+          "listed_count": 17,
+          "media_count": 1806,
+          "tweet_count": 21997
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-17T06:23:32.000Z",
+        "description": "🏳️‍⚧️ MTF/非单身\n🍥 2025.5.25 由那天开始 我就是千纱 \n她每天在成长",
+        "id": "2078002065629224960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100805142626865483",
+        "name": "chisa🍥 千纱",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083029520391778306/mUdcduv0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 65,
+          "like_count": 229,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "chisazero",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

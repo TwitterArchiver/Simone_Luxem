@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101952160002867200"
+      ]
+    },
+    "author_id": "1429365180618706945",
+    "conversation_id": "2101952165635887378",
+    "created_at": "2026-09-21T08:30:23.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T09:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101952165635887378"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fVVjzEDRFD",
+          "end": 29,
+          "expanded_url": "https://x.com/Simone_Luxem/status/2101952165635887378/photo/1",
+          "media_key": "3_2101952160002867200",
+          "start": 6,
+          "url": "https://t.co/fVVjzEDRFD"
+        },
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2101924658366808371",
+          "start": 30,
+          "url": "https://t.co/kuSqML3kFn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101952165635887378",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101952160002867200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101924658366808371",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吼吼吼吼！ https://t.co/fVVjzEDRFD https://t.co/kuSqML3kFn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1107,
+        "media_key": "3_2101952160002867200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuiWlfWAAATlrX.jpg",
+        "width": 1421
+      },
+      {
+        "height": 1415,
+        "media_key": "3_2101924654415826944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSuJVjMXUAACuFM.jpg",
+        "width": 1111
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101952160002867200"
+          ]
+        },
+        "author_id": "1429365180618706945",
+        "conversation_id": "2101952165635887378",
+        "created_at": "2026-09-21T08:30:23.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101952165635887378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fVVjzEDRFD",
+              "end": 29,
+              "expanded_url": "https://x.com/Simone_Luxem/status/2101952165635887378/photo/1",
+              "media_key": "3_2101952160002867200",
+              "start": 6,
+              "url": "https://t.co/fVVjzEDRFD"
+            },
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2101924658366808371",
+              "start": 30,
+              "url": "https://t.co/kuSqML3kFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101952165635887378",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101952160002867200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101924658366808371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吼吼吼吼！ https://t.co/fVVjzEDRFD https://t.co/kuSqML3kFn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101924654415826944"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2101924658366808371",
+        "created_at": "2026-09-21T06:41:05.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T07:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101924658366808371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bOA7czocg",
+              "end": 25,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2101924658366808371/photo/1",
+              "media_key": "3_2101924654415826944",
+              "start": 2,
+              "url": "https://t.co/2bOA7czocg"
+            },
+            {
+              "display_url": "x.com/penny777/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/penny777/status/2101596477911134378",
+              "start": 26,
+              "url": "https://t.co/y5GlVPdxYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101924658366808371",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101924654415826944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2098,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101596477911134378",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇 https://t.co/2bOA7czocg https://t.co/y5GlVPdxYQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2101952165635887378",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6298,
+          "following_count": 219,
+          "like_count": 25074,
+          "listed_count": 17,
+          "media_count": 1809,
+          "tweet_count": 22017
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️⚢☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2101951720800604207",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11320,
+          "following_count": 1369,
+          "like_count": 10684,
+          "listed_count": 18,
+          "media_count": 512,
+          "tweet_count": 6540
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

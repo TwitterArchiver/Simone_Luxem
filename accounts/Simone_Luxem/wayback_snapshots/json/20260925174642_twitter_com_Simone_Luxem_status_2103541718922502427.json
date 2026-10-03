@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2103513368351105042",
+    "created_at": "2026-09-25T17:46:42.000Z",
+    "display_text_range": [
+      10,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T18:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103541718922502427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1559445629004300290",
+          "start": 0,
+          "username": "nomi9724"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103541718922502427",
+    "in_reply_to_user_id": "1559445629004300290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103513368351105042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nomi9724 我父母在一定程度上也是这样的\n但没关系呀，我自己不是这样觉得的，并且既然它们教导我要“有自己的主见”，那么，我自然也应当有自己的主见，替它们把这一部分决定做了就好了…\n至于具体怎么做，那，就具体情况具体分析好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1018,
+        "media_key": "3_2103513356103766016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEuQKLa0AA3dSB.jpg",
+        "width": 984
+      },
+      {
+        "height": 1002,
+        "media_key": "3_2103513356376424448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEuQLMbQAAUd3B.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2103513368351105042",
+        "created_at": "2026-09-25T17:46:42.000Z",
+        "display_text_range": [
+          10,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103541718922502427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1559445629004300290",
+              "start": 0,
+              "username": "nomi9724"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103541718922502427",
+        "in_reply_to_user_id": "1559445629004300290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103513368351105042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nomi9724 我父母在一定程度上也是这样的\n但没关系呀，我自己不是这样觉得的，并且既然它们教导我要“有自己的主见”，那么，我自然也应当有自己的主见，替它们把这一部分决定做了就好了…\n至于具体怎么做，那，就具体情况具体分析好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103513356103766016",
+            "3_2103513356376424448"
+          ]
+        },
+        "author_id": "1559445629004300290",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103513368351105042",
+        "created_at": "2026-09-25T15:54:03.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:54:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103513368351105042"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ilr7Ilbpin",
+              "end": 92,
+              "expanded_url": "https://x.com/nomi9724/status/2103513368351105042/photo/1",
+              "media_key": "3_2103513356103766016",
+              "start": 69,
+              "url": "https://t.co/Ilr7Ilbpin"
+            },
+            {
+              "display_url": "pic.x.com/Ilr7Ilbpin",
+              "end": 92,
+              "expanded_url": "https://x.com/nomi9724/status/2103513368351105042/photo/1",
+              "media_key": "3_2103513356376424448",
+              "start": 69,
+              "url": "https://t.co/Ilr7Ilbpin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103513368351105042",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103513356103766016"
+          },
+          {
+            "media_key": "3_2103513356376424448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的父母是自私自利（？）、愤世嫉俗（？）的人（？）\n\n他们肯定不希望我把钱送人的\n\n他们希望我买一些让自己高兴的或对未来有帮助的东西…… https://t.co/Ilr7Ilbpin"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2103541718922502427",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6310,
+          "following_count": 218,
+          "like_count": 25085,
+          "listed_count": 17,
+          "media_count": 1810,
+          "tweet_count": 22037
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-16T07:43:26.000Z",
+        "description": "05年生/任意代词/功能健全/希望自己是MTF/立志成为中文跨圈第一repper/疑似AuDHD/INFJ/不墙内不线下/碎片化n手哲学受众/擅长妥协拖延和逃避/坚持一致的不一致/前进！/\n\n天堂必须是倒置的\n夹缝之中，有资格和机会获得幸福与位置\n\n匿名信箱：https://t.co/sjR6C4qPyb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nomi9742",
+                "end": 153,
+                "expanded_url": "https://ngl.link/nomi9742",
+                "start": 130,
+                "url": "https://t.co/sjR6C4qPyb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/wrSlQRG6DK"
+              }
+            ]
+          }
+        },
+        "id": "1559445629004300290",
+        "is_identity_verified": false,
+        "location": "墙内",
+        "most_recent_tweet_id": "2103536115085119899",
+        "name": "Nomi9724🏳️",
+        "pinned_tweet_id": "2102778878318231682",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100686683297771520/EtUHwGp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 818,
+          "like_count": 3737,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/wrSlQRG6DK",
+        "username": "nomi9724",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

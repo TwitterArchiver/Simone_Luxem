@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2105249673992929313",
+    "created_at": "2026-09-30T10:53:30.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T11:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105249673992929313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lanszhang/stat…",
+          "end": 163,
+          "expanded_url": "https://twitter.com/lanszhang/status/2104898439360196807",
+          "start": 140,
+          "url": "https://t.co/70WTyzWVip"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105249673992929313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104898439360196807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“我的心也和你一样完整！要是上帝赐予我一点美貌和大量财富，我也会让你难以离开我，就像我现在难以离开你一样。我现在不是通过习俗、惯例，甚至不是通过凡人的肉体在和你说话；而是我的灵魂在向你的灵魂诉说；就好像我们都已经穿过坟墓，站在上帝的脚下，彼此平等，——正如我们现在本就平等一样” https://t.co/70WTyzWVip"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2105249673992929313",
+        "created_at": "2026-09-30T10:53:30.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T11:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105249673992929313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanszhang/stat…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/lanszhang/status/2104898439360196807",
+              "start": 140,
+              "url": "https://t.co/70WTyzWVip"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105249673992929313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104898439360196807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“我的心也和你一样完整！要是上帝赐予我一点美貌和大量财富，我也会让你难以离开我，就像我现在难以离开你一样。我现在不是通过习俗、惯例，甚至不是通过凡人的肉体在和你说话；而是我的灵魂在向你的灵魂诉说；就好像我们都已经穿过坟墓，站在上帝的脚下，彼此平等，——正如我们现在本就平等一样” https://t.co/70WTyzWVip"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "233804919",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2104898439360196807",
+        "created_at": "2026-09-29T11:37:49.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:37:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104898439360196807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nytchinese/sta…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/nytchinese/status/2104873827138162903",
+              "start": 113,
+              "url": "https://t.co/cONYcpBOEf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104898439360196807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1789,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104873827138162903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小學就被逼著讀簡愛，生平最恨的書就因此是簡愛\n一方面我是真的瞧不起這個故事（對我小學就瞧不起這個女主了\n另一方面是總被逼著寫讀後感不下五篇\n\n雖然當年還沒開始讀輕小說但我想的是這麼垃圾的劇情還愛不愛的煩死了勞資要看異世界轉生 https://t.co/cONYcpBOEf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2105249673992929313",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6334,
+          "following_count": 219,
+          "like_count": 25119,
+          "listed_count": 17,
+          "media_count": 1812,
+          "tweet_count": 22072
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-01-04T04:20:45.000Z",
+        "description": "主語言：🇨🇳🇯🇵🇺🇸\n副語言：🇩🇪\n在学：🇰🇷🇮🇹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "smoggy-trade-1af.notion.site/From-A-Railway…",
+                "end": 23,
+                "expanded_url": "https://smoggy-trade-1af.notion.site/From-A-Railway-Carriage-739dab4bd0d146d996a8d28ee87b0039?pvs=74",
+                "start": 0,
+                "url": "https://t.co/Qsnbz0pF72"
+              }
+            ]
+          }
+        },
+        "id": "233804919",
+        "is_identity_verified": false,
+        "location": "Germany",
+        "most_recent_tweet_id": "2105232505960018161",
+        "name": "lans",
+        "pinned_tweet_id": "2098460991520452856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/233804919/1784040527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078103246216781824/KjJ7cSay_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7670,
+          "following_count": 1346,
+          "like_count": 76074,
+          "listed_count": 83,
+          "media_count": 5150,
+          "tweet_count": 72999
+        },
+        "url": "https://t.co/Qsnbz0pF72",
+        "username": "Lanszhang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

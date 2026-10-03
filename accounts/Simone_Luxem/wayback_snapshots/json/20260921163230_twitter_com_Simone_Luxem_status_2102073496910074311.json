@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1429365180618706945",
+    "conversation_id": "2102041643746730295",
+    "created_at": "2026-09-21T16:32:30.000Z",
+    "display_text_range": [
+      16,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T17:32:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102073496910074311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2079399533856079872",
+          "start": 0,
+          "username": "princess_01011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102073496910074311",
+    "in_reply_to_user_id": "2079399533856079872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102041643746730295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@princess_01011 没什么特别的顾虑，除了本人不分性别的社恐和对社交对象一定程度上的精神洁癖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1429365180618706945",
+        "conversation_id": "2102041643746730295",
+        "created_at": "2026-09-21T16:32:30.000Z",
+        "display_text_range": [
+          16,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T17:32:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102073496910074311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2079399533856079872",
+              "start": 0,
+              "username": "princess_01011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102073496910074311",
+        "in_reply_to_user_id": "2079399533856079872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102041643746730295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@princess_01011 没什么特别的顾虑，除了本人不分性别的社恐和对社交对象一定程度上的精神洁癖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079399533856079872",
+        "conversation_id": "2102041643746730295",
+        "created_at": "2026-09-21T14:25:56.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102041643746730295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102041643746730295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4227,
+          "like_count": 25,
+          "quote_count": 7,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想知道跨女们会想和顺女建立友谊和亲密关系吗？感觉跨女还是和同类以及顺男玩得比较多，比较少见有个顺女闺蜜🤔跨女在和顺女的交际中存在着哪些困难和阻碍呢？跨女对于和顺女交往这件事会有顾虑吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-08-22T08:49:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "FR",
+              "full_name": "Saint-Malo-des-Trois-Fontaines, Brittany, France",
+              "geo": {
+                "coordinates": [
+                  -2.47276,
+                  48.01391
+                ],
+                "type": "Point"
+              },
+              "locality": "Saint-Malo-des-Trois-Fontaines",
+              "region": "Brittany",
+              "sub_region": "Département du Morbihan"
+            }
+          ]
+        },
+        "description": "MTF；pansexual；兔咕喵/bupiat；腐烂的僵尸新娘；ASD/ADHD;open relationship;似乎过期了;祝我们死得其所；自家雪兔@artefaritaUsagi亲生妹妹@calsys456",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 78,
+                "username": "artefaritaUsagi"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "calsys456"
+              }
+            ]
+          }
+        },
+        "id": "1429365180618706945",
+        "is_identity_verified": false,
+        "location": "Sol-3",
+        "most_recent_tweet_id": "2102073496910074311",
+        "name": "北雁冬翼（simone luxem）🏳️‍⚧️🏳️‍🌈🔬",
+        "pinned_tweet_id": "2089346480448676238",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1429365180618706945/1692470137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010738957181665280/hHkVH3mR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6298,
+          "following_count": 219,
+          "like_count": 25073,
+          "listed_count": 17,
+          "media_count": 1809,
+          "tweet_count": 22019
+        },
+        "url": "",
+        "username": "Simone_Luxem",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-21T03:03:57.000Z",
+        "description": "她/她们/囡囡   🏳️‍🌈女同 友跨顺女  希望可以捂热你…",
+        "id": "2079399533856079872",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102070956747526648",
+        "name": "公主病",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079876512510304256/HnQnVay-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 441,
+          "like_count": 4374,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "princess_01011",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
